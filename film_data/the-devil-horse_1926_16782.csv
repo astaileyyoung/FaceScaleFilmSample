@@ -1,118 +1,118 @@
-,img_height,img_width,face_num,x1,x2,y1,y2,area,pct_of_frame,frame_num,video_src
-0,360,480,0,203,260,96,153,3249,0.0188,840,/home/amos/server/media/movies/The Devil Horse (1926)/The Devil Horse (1926).mp4
-1,360,480,0,151,208,73,130,3249,0.0188,4620,/home/amos/server/media/movies/The Devil Horse (1926)/The Devil Horse (1926).mp4
-2,360,480,0,205,244,73,113,1560,0.009,5390,/home/amos/server/media/movies/The Devil Horse (1926)/The Devil Horse (1926).mp4
-3,360,480,0,345,384,57,97,1560,0.009,5460,/home/amos/server/media/movies/The Devil Horse (1926)/The Devil Horse (1926).mp4
-4,360,480,0,155,202,110,158,2256,0.0131,5670,/home/amos/server/media/movies/The Devil Horse (1926)/The Devil Horse (1926).mp4
-5,360,480,0,251,298,38,86,2256,0.0131,6440,/home/amos/server/media/movies/The Devil Horse (1926)/The Devil Horse (1926).mp4
-6,360,480,0,233,272,85,125,1560,0.009,7420,/home/amos/server/media/movies/The Devil Horse (1926)/The Devil Horse (1926).mp4
-7,360,480,0,163,220,85,142,3249,0.0188,7630,/home/amos/server/media/movies/The Devil Horse (1926)/The Devil Horse (1926).mp4
-8,360,480,0,161,230,69,138,4761,0.0276,7700,/home/amos/server/media/movies/The Devil Horse (1926)/The Devil Horse (1926).mp4
-9,360,480,0,157,214,85,142,3249,0.0188,7770,/home/amos/server/media/movies/The Devil Horse (1926)/The Devil Horse (1926).mp4
-10,360,480,0,403,471,90,158,4624,0.0268,10360,/home/amos/server/media/movies/The Devil Horse (1926)/The Devil Horse (1926).mp4
-11,360,480,1,30,87,96,153,3249,0.0188,10360,/home/amos/server/media/movies/The Devil Horse (1926)/The Devil Horse (1926).mp4
-12,360,480,0,163,220,45,101,3192,0.0185,14350,/home/amos/server/media/movies/The Devil Horse (1926)/The Devil Horse (1926).mp4
-13,360,480,0,206,323,82,200,13806,0.0799,19320,/home/amos/server/media/movies/The Devil Horse (1926)/The Devil Horse (1926).mp4
-14,360,480,0,194,312,82,200,13924,0.0806,19390,/home/amos/server/media/movies/The Devil Horse (1926)/The Devil Horse (1926).mp4
-15,360,480,0,193,335,59,201,20164,0.1167,19600,/home/amos/server/media/movies/The Devil Horse (1926)/The Devil Horse (1926).mp4
-16,360,480,0,205,244,37,77,1560,0.009,19740,/home/amos/server/media/movies/The Devil Horse (1926)/The Devil Horse (1926).mp4
-17,360,480,0,222,320,105,204,9702,0.0561,19880,/home/amos/server/media/movies/The Devil Horse (1926)/The Devil Horse (1926).mp4
-18,360,480,0,210,278,62,131,4692,0.0272,19950,/home/amos/server/media/movies/The Devil Horse (1926)/The Devil Horse (1926).mp4
-19,360,480,0,222,320,105,204,9702,0.0561,20020,/home/amos/server/media/movies/The Devil Horse (1926)/The Devil Horse (1926).mp4
-20,360,480,0,210,278,69,138,4692,0.0272,20230,/home/amos/server/media/movies/The Devil Horse (1926)/The Devil Horse (1926).mp4
-21,360,480,0,203,271,69,138,4692,0.0272,20300,/home/amos/server/media/movies/The Devil Horse (1926)/The Devil Horse (1926).mp4
-22,360,480,0,181,220,117,157,1560,0.009,21840,/home/amos/server/media/movies/The Devil Horse (1926)/The Devil Horse (1926).mp4
-23,360,480,0,217,285,56,124,4624,0.0268,23800,/home/amos/server/media/movies/The Devil Horse (1926)/The Devil Horse (1926).mp4
-24,360,480,0,152,234,123,205,6724,0.0389,24010,/home/amos/server/media/movies/The Devil Horse (1926)/The Devil Horse (1926).mp4
-25,360,480,0,161,243,98,180,6724,0.0389,24080,/home/amos/server/media/movies/The Devil Horse (1926)/The Devil Horse (1926).mp4
-26,360,480,0,192,290,105,204,9702,0.0561,24220,/home/amos/server/media/movies/The Devil Horse (1926)/The Devil Horse (1926).mp4
-27,360,480,0,175,243,69,138,4692,0.0272,24430,/home/amos/server/media/movies/The Devil Horse (1926)/The Devil Horse (1926).mp4
-28,360,480,0,241,280,25,65,1560,0.009,24570,/home/amos/server/media/movies/The Devil Horse (1926)/The Devil Horse (1926).mp4
-29,360,480,0,165,306,74,215,19881,0.1151,24710,/home/amos/server/media/movies/The Devil Horse (1926)/The Devil Horse (1926).mp4
-30,360,480,0,136,277,59,201,20022,0.1159,24850,/home/amos/server/media/movies/The Devil Horse (1926)/The Devil Horse (1926).mp4
-31,360,480,0,244,312,49,117,4624,0.0268,24920,/home/amos/server/media/movies/The Devil Horse (1926)/The Devil Horse (1926).mp4
-32,360,480,1,88,145,114,171,3249,0.0188,24920,/home/amos/server/media/movies/The Devil Horse (1926)/The Devil Horse (1926).mp4
-33,360,480,0,162,261,125,224,9801,0.0567,25130,/home/amos/server/media/movies/The Devil Horse (1926)/The Devil Horse (1926).mp4
-34,360,480,0,194,312,130,248,13924,0.0806,25270,/home/amos/server/media/movies/The Devil Horse (1926)/The Devil Horse (1926).mp4
-35,360,480,0,237,306,42,110,4692,0.0272,25830,/home/amos/server/media/movies/The Devil Horse (1926)/The Devil Horse (1926).mp4
-36,360,480,1,76,133,148,205,3249,0.0188,25830,/home/amos/server/media/movies/The Devil Horse (1926)/The Devil Horse (1926).mp4
-37,360,480,0,229,268,117,157,1560,0.009,27510,/home/amos/server/media/movies/The Devil Horse (1926)/The Devil Horse (1926).mp4
-38,360,480,0,345,384,165,205,1560,0.009,31360,/home/amos/server/media/movies/The Devil Horse (1926)/The Devil Horse (1926).mp4
-39,360,480,0,355,423,152,221,4692,0.0272,31430,/home/amos/server/media/movies/The Devil Horse (1926)/The Devil Horse (1926).mp4
-40,360,480,0,293,361,152,221,4692,0.0272,31500,/home/amos/server/media/movies/The Devil Horse (1926)/The Devil Horse (1926).mp4
-41,360,480,0,237,306,76,145,4761,0.0276,32690,/home/amos/server/media/movies/The Devil Horse (1926)/The Devil Horse (1926).mp4
-42,360,480,0,289,328,145,185,1560,0.009,33530,/home/amos/server/media/movies/The Devil Horse (1926)/The Devil Horse (1926).mp4
-43,360,480,0,301,358,183,240,3249,0.0188,33600,/home/amos/server/media/movies/The Devil Horse (1926)/The Devil Horse (1926).mp4
-44,360,480,1,188,236,67,114,2256,0.0131,33600,/home/amos/server/media/movies/The Devil Horse (1926)/The Devil Horse (1926).mp4
-45,360,480,0,182,280,56,154,9604,0.0556,33740,/home/amos/server/media/movies/The Devil Horse (1926)/The Devil Horse (1926).mp4
-46,360,480,0,203,271,69,138,4692,0.0272,33810,/home/amos/server/media/movies/The Devil Horse (1926)/The Devil Horse (1926).mp4
-47,360,480,0,277,316,149,189,1560,0.009,34090,/home/amos/server/media/movies/The Devil Horse (1926)/The Devil Horse (1926).mp4
-48,360,480,0,206,323,82,200,13806,0.0799,34160,/home/amos/server/media/movies/The Devil Horse (1926)/The Devil Horse (1926).mp4
-49,360,480,0,217,335,82,200,13924,0.0806,34230,/home/amos/server/media/movies/The Devil Horse (1926)/The Devil Horse (1926).mp4
-50,360,480,0,145,192,57,105,2256,0.0131,34300,/home/amos/server/media/movies/The Devil Horse (1926)/The Devil Horse (1926).mp4
-51,360,480,1,342,389,101,148,2209,0.0128,34300,/home/amos/server/media/movies/The Devil Horse (1926)/The Devil Horse (1926).mp4
-52,360,480,2,278,335,217,274,3249,0.0188,34300,/home/amos/server/media/movies/The Devil Horse (1926)/The Devil Horse (1926).mp4
-53,360,480,0,102,149,62,110,2256,0.0131,34370,/home/amos/server/media/movies/The Devil Horse (1926)/The Devil Horse (1926).mp4
-54,360,480,0,207,255,91,138,2256,0.0131,34510,/home/amos/server/media/movies/The Devil Horse (1926)/The Devil Horse (1926).mp4
-55,360,480,0,308,356,96,143,2256,0.0131,34650,/home/amos/server/media/movies/The Devil Horse (1926)/The Devil Horse (1926).mp4
-56,360,480,1,174,221,72,119,2209,0.0128,34650,/home/amos/server/media/movies/The Devil Horse (1926)/The Devil Horse (1926).mp4
-57,360,480,0,159,207,62,110,2304,0.0133,34720,/home/amos/server/media/movies/The Devil Horse (1926)/The Devil Horse (1926).mp4
-58,360,480,1,303,351,91,138,2256,0.0131,34720,/home/amos/server/media/movies/The Devil Horse (1926)/The Devil Horse (1926).mp4
-59,360,480,0,303,351,96,143,2256,0.0131,34790,/home/amos/server/media/movies/The Devil Horse (1926)/The Devil Horse (1926).mp4
-60,360,480,1,177,216,69,109,1560,0.009,34790,/home/amos/server/media/movies/The Devil Horse (1926)/The Devil Horse (1926).mp4
-61,360,480,0,308,356,96,143,2256,0.0131,34860,/home/amos/server/media/movies/The Devil Horse (1926)/The Devil Horse (1926).mp4
-62,360,480,0,229,268,49,89,1560,0.009,35210,/home/amos/server/media/movies/The Devil Horse (1926)/The Devil Horse (1926).mp4
-63,360,480,0,221,260,49,89,1560,0.009,35280,/home/amos/server/media/movies/The Devil Horse (1926)/The Devil Horse (1926).mp4
-64,360,480,0,73,112,113,153,1560,0.009,35560,/home/amos/server/media/movies/The Devil Horse (1926)/The Devil Horse (1926).mp4
-65,360,480,0,188,236,86,134,2304,0.0133,36330,/home/amos/server/media/movies/The Devil Horse (1926)/The Devil Horse (1926).mp4
-66,360,480,0,188,236,86,134,2304,0.0133,36470,/home/amos/server/media/movies/The Devil Horse (1926)/The Devil Horse (1926).mp4
-67,360,480,0,207,255,86,134,2304,0.0133,36820,/home/amos/server/media/movies/The Devil Horse (1926)/The Devil Horse (1926).mp4
-68,360,480,0,174,221,81,129,2256,0.0131,36960,/home/amos/server/media/movies/The Devil Horse (1926)/The Devil Horse (1926).mp4
-69,360,480,0,364,421,114,171,3249,0.0188,37170,/home/amos/server/media/movies/The Devil Horse (1926)/The Devil Horse (1926).mp4
-70,360,480,0,213,252,89,129,1560,0.009,37310,/home/amos/server/media/movies/The Devil Horse (1926)/The Devil Horse (1926).mp4
-71,360,480,0,213,252,45,85,1560,0.009,37730,/home/amos/server/media/movies/The Devil Horse (1926)/The Devil Horse (1926).mp4
-72,360,480,0,209,266,62,119,3249,0.0188,38290,/home/amos/server/media/movies/The Devil Horse (1926)/The Devil Horse (1926).mp4
-73,360,480,0,163,220,125,182,3249,0.0188,38430,/home/amos/server/media/movies/The Devil Horse (1926)/The Devil Horse (1926).mp4
-74,360,480,0,232,289,79,136,3249,0.0188,39130,/home/amos/server/media/movies/The Devil Horse (1926)/The Devil Horse (1926).mp4
-75,360,480,0,164,212,110,158,2304,0.0133,39200,/home/amos/server/media/movies/The Devil Horse (1926)/The Devil Horse (1926).mp4
-76,360,480,0,151,208,102,159,3249,0.0188,39270,/home/amos/server/media/movies/The Devil Horse (1926)/The Devil Horse (1926).mp4
-77,360,480,0,197,236,53,93,1560,0.009,42630,/home/amos/server/media/movies/The Devil Horse (1926)/The Devil Horse (1926).mp4
-78,360,480,0,113,152,121,161,1560,0.009,42980,/home/amos/server/media/movies/The Devil Horse (1926)/The Devil Horse (1926).mp4
-79,360,480,0,25,82,114,171,3249,0.0188,44660,/home/amos/server/media/movies/The Devil Horse (1926)/The Devil Horse (1926).mp4
-80,360,480,0,202,300,76,174,9604,0.0556,45990,/home/amos/server/media/movies/The Devil Horse (1926)/The Devil Horse (1926).mp4
-81,360,480,0,213,252,141,181,1560,0.009,46480,/home/amos/server/media/movies/The Devil Horse (1926)/The Devil Horse (1926).mp4
-82,360,480,0,249,306,148,205,3249,0.0188,47810,/home/amos/server/media/movies/The Devil Horse (1926)/The Devil Horse (1926).mp4
-83,360,480,0,169,216,139,186,2209,0.0128,48930,/home/amos/server/media/movies/The Devil Horse (1926)/The Devil Horse (1926).mp4
-84,360,480,0,181,220,61,101,1560,0.009,49140,/home/amos/server/media/movies/The Devil Horse (1926)/The Devil Horse (1926).mp4
-85,360,480,0,237,276,69,109,1560,0.009,49280,/home/amos/server/media/movies/The Devil Horse (1926)/The Devil Horse (1926).mp4
-86,360,480,0,157,196,69,109,1560,0.009,49490,/home/amos/server/media/movies/The Devil Horse (1926)/The Devil Horse (1926).mp4
-87,360,480,0,238,295,91,148,3249,0.0188,50750,/home/amos/server/media/movies/The Devil Horse (1926)/The Devil Horse (1926).mp4
-88,360,480,0,173,212,117,157,1560,0.009,51660,/home/amos/server/media/movies/The Devil Horse (1926)/The Devil Horse (1926).mp4
-89,360,480,1,397,436,165,205,1560,0.009,51660,/home/amos/server/media/movies/The Devil Horse (1926)/The Devil Horse (1926).mp4
-90,360,480,0,337,384,86,134,2256,0.0131,55440,/home/amos/server/media/movies/The Devil Horse (1926)/The Devil Horse (1926).mp4
-91,360,480,0,49,96,86,134,2256,0.0131,55650,/home/amos/server/media/movies/The Devil Horse (1926)/The Devil Horse (1926).mp4
-92,360,480,0,150,197,77,124,2209,0.0128,56770,/home/amos/server/media/movies/The Devil Horse (1926)/The Devil Horse (1926).mp4
-93,360,480,0,125,164,89,129,1560,0.009,58660,/home/amos/server/media/movies/The Devil Horse (1926)/The Devil Horse (1926).mp4
-94,360,480,1,345,384,85,125,1560,0.009,58660,/home/amos/server/media/movies/The Devil Horse (1926)/The Devil Horse (1926).mp4
-95,360,480,0,198,245,77,124,2209,0.0128,58800,/home/amos/server/media/movies/The Devil Horse (1926)/The Devil Horse (1926).mp4
-96,360,480,1,69,108,109,149,1560,0.009,58800,/home/amos/server/media/movies/The Devil Horse (1926)/The Devil Horse (1926).mp4
-97,360,480,2,261,300,113,153,1560,0.009,58800,/home/amos/server/media/movies/The Devil Horse (1926)/The Devil Horse (1926).mp4
-98,360,480,3,327,375,91,138,2256,0.0131,58800,/home/amos/server/media/movies/The Devil Horse (1926)/The Devil Horse (1926).mp4
-99,360,480,0,146,202,114,171,3192,0.0185,59360,/home/amos/server/media/movies/The Devil Horse (1926)/The Devil Horse (1926).mp4
-100,360,480,0,217,285,97,165,4624,0.0268,60410,/home/amos/server/media/movies/The Devil Horse (1926)/The Devil Horse (1926).mp4
-101,360,480,0,212,260,101,148,2256,0.0131,64120,/home/amos/server/media/movies/The Devil Horse (1926)/The Devil Horse (1926).mp4
-102,360,480,0,54,101,163,210,2209,0.0128,66430,/home/amos/server/media/movies/The Devil Horse (1926)/The Devil Horse (1926).mp4
-103,360,480,1,229,268,57,97,1560,0.009,66430,/home/amos/server/media/movies/The Devil Horse (1926)/The Devil Horse (1926).mp4
-104,360,480,0,121,168,149,196,2209,0.0128,66780,/home/amos/server/media/movies/The Devil Horse (1926)/The Devil Horse (1926).mp4
-105,360,480,1,30,87,102,159,3249,0.0188,66780,/home/amos/server/media/movies/The Devil Horse (1926)/The Devil Horse (1926).mp4
-106,360,480,0,87,135,149,196,2256,0.0131,66920,/home/amos/server/media/movies/The Devil Horse (1926)/The Devil Horse (1926).mp4
-107,360,480,1,376,433,119,176,3249,0.0188,66920,/home/amos/server/media/movies/The Devil Horse (1926)/The Devil Horse (1926).mp4
-108,360,480,0,57,96,141,181,1560,0.009,67550,/home/amos/server/media/movies/The Devil Horse (1926)/The Devil Horse (1926).mp4
-109,360,480,1,173,212,81,121,1560,0.009,67550,/home/amos/server/media/movies/The Devil Horse (1926)/The Devil Horse (1926).mp4
-110,360,480,0,236,284,110,158,2304,0.0133,71820,/home/amos/server/media/movies/The Devil Horse (1926)/The Devil Horse (1926).mp4
-111,360,480,0,217,264,110,158,2256,0.0131,71960,/home/amos/server/media/movies/The Devil Horse (1926)/The Devil Horse (1926).mp4
-112,360,480,0,227,274,110,158,2256,0.0131,72030,/home/amos/server/media/movies/The Devil Horse (1926)/The Devil Horse (1926).mp4
-113,360,480,0,246,293,139,186,2209,0.0128,72240,/home/amos/server/media/movies/The Devil Horse (1926)/The Devil Horse (1926).mp4
-114,360,480,1,193,240,182,230,2256,0.0131,72240,/home/amos/server/media/movies/The Devil Horse (1926)/The Devil Horse (1926).mp4
-115,360,480,0,251,298,144,191,2209,0.0128,72520,/home/amos/server/media/movies/The Devil Horse (1926)/The Devil Horse (1926).mp4
-116,360,480,1,183,231,182,230,2304,0.0133,72520,/home/amos/server/media/movies/The Devil Horse (1926)/The Devil Horse (1926).mp4
+,img_height,img_width,face_num,x1,x2,y1,y2,area,pct_of_frame,frame_num,imdb_id
+0,360,480,0,203,260,96,153,3249,0.0188,840,16782
+1,360,480,0,151,208,73,130,3249,0.0188,4620,16782
+2,360,480,0,205,244,73,113,1560,0.009,5390,16782
+3,360,480,0,345,384,57,97,1560,0.009,5460,16782
+4,360,480,0,155,202,110,158,2256,0.0131,5670,16782
+5,360,480,0,251,298,38,86,2256,0.0131,6440,16782
+6,360,480,0,233,272,85,125,1560,0.009,7420,16782
+7,360,480,0,163,220,85,142,3249,0.0188,7630,16782
+8,360,480,0,161,230,69,138,4761,0.0276,7700,16782
+9,360,480,0,157,214,85,142,3249,0.0188,7770,16782
+10,360,480,0,403,471,90,158,4624,0.0268,10360,16782
+11,360,480,1,30,87,96,153,3249,0.0188,10360,16782
+12,360,480,0,163,220,45,101,3192,0.0185,14350,16782
+13,360,480,0,206,323,82,200,13806,0.0799,19320,16782
+14,360,480,0,194,312,82,200,13924,0.0806,19390,16782
+15,360,480,0,193,335,59,201,20164,0.1167,19600,16782
+16,360,480,0,205,244,37,77,1560,0.009,19740,16782
+17,360,480,0,222,320,105,204,9702,0.0561,19880,16782
+18,360,480,0,210,278,62,131,4692,0.0272,19950,16782
+19,360,480,0,222,320,105,204,9702,0.0561,20020,16782
+20,360,480,0,210,278,69,138,4692,0.0272,20230,16782
+21,360,480,0,203,271,69,138,4692,0.0272,20300,16782
+22,360,480,0,181,220,117,157,1560,0.009,21840,16782
+23,360,480,0,217,285,56,124,4624,0.0268,23800,16782
+24,360,480,0,152,234,123,205,6724,0.0389,24010,16782
+25,360,480,0,161,243,98,180,6724,0.0389,24080,16782
+26,360,480,0,192,290,105,204,9702,0.0561,24220,16782
+27,360,480,0,175,243,69,138,4692,0.0272,24430,16782
+28,360,480,0,241,280,25,65,1560,0.009,24570,16782
+29,360,480,0,165,306,74,215,19881,0.1151,24710,16782
+30,360,480,0,136,277,59,201,20022,0.1159,24850,16782
+31,360,480,0,244,312,49,117,4624,0.0268,24920,16782
+32,360,480,1,88,145,114,171,3249,0.0188,24920,16782
+33,360,480,0,162,261,125,224,9801,0.0567,25130,16782
+34,360,480,0,194,312,130,248,13924,0.0806,25270,16782
+35,360,480,0,237,306,42,110,4692,0.0272,25830,16782
+36,360,480,1,76,133,148,205,3249,0.0188,25830,16782
+37,360,480,0,229,268,117,157,1560,0.009,27510,16782
+38,360,480,0,345,384,165,205,1560,0.009,31360,16782
+39,360,480,0,355,423,152,221,4692,0.0272,31430,16782
+40,360,480,0,293,361,152,221,4692,0.0272,31500,16782
+41,360,480,0,237,306,76,145,4761,0.0276,32690,16782
+42,360,480,0,289,328,145,185,1560,0.009,33530,16782
+43,360,480,0,301,358,183,240,3249,0.0188,33600,16782
+44,360,480,1,188,236,67,114,2256,0.0131,33600,16782
+45,360,480,0,182,280,56,154,9604,0.0556,33740,16782
+46,360,480,0,203,271,69,138,4692,0.0272,33810,16782
+47,360,480,0,277,316,149,189,1560,0.009,34090,16782
+48,360,480,0,206,323,82,200,13806,0.0799,34160,16782
+49,360,480,0,217,335,82,200,13924,0.0806,34230,16782
+50,360,480,0,145,192,57,105,2256,0.0131,34300,16782
+51,360,480,1,342,389,101,148,2209,0.0128,34300,16782
+52,360,480,2,278,335,217,274,3249,0.0188,34300,16782
+53,360,480,0,102,149,62,110,2256,0.0131,34370,16782
+54,360,480,0,207,255,91,138,2256,0.0131,34510,16782
+55,360,480,0,308,356,96,143,2256,0.0131,34650,16782
+56,360,480,1,174,221,72,119,2209,0.0128,34650,16782
+57,360,480,0,159,207,62,110,2304,0.0133,34720,16782
+58,360,480,1,303,351,91,138,2256,0.0131,34720,16782
+59,360,480,0,303,351,96,143,2256,0.0131,34790,16782
+60,360,480,1,177,216,69,109,1560,0.009,34790,16782
+61,360,480,0,308,356,96,143,2256,0.0131,34860,16782
+62,360,480,0,229,268,49,89,1560,0.009,35210,16782
+63,360,480,0,221,260,49,89,1560,0.009,35280,16782
+64,360,480,0,73,112,113,153,1560,0.009,35560,16782
+65,360,480,0,188,236,86,134,2304,0.0133,36330,16782
+66,360,480,0,188,236,86,134,2304,0.0133,36470,16782
+67,360,480,0,207,255,86,134,2304,0.0133,36820,16782
+68,360,480,0,174,221,81,129,2256,0.0131,36960,16782
+69,360,480,0,364,421,114,171,3249,0.0188,37170,16782
+70,360,480,0,213,252,89,129,1560,0.009,37310,16782
+71,360,480,0,213,252,45,85,1560,0.009,37730,16782
+72,360,480,0,209,266,62,119,3249,0.0188,38290,16782
+73,360,480,0,163,220,125,182,3249,0.0188,38430,16782
+74,360,480,0,232,289,79,136,3249,0.0188,39130,16782
+75,360,480,0,164,212,110,158,2304,0.0133,39200,16782
+76,360,480,0,151,208,102,159,3249,0.0188,39270,16782
+77,360,480,0,197,236,53,93,1560,0.009,42630,16782
+78,360,480,0,113,152,121,161,1560,0.009,42980,16782
+79,360,480,0,25,82,114,171,3249,0.0188,44660,16782
+80,360,480,0,202,300,76,174,9604,0.0556,45990,16782
+81,360,480,0,213,252,141,181,1560,0.009,46480,16782
+82,360,480,0,249,306,148,205,3249,0.0188,47810,16782
+83,360,480,0,169,216,139,186,2209,0.0128,48930,16782
+84,360,480,0,181,220,61,101,1560,0.009,49140,16782
+85,360,480,0,237,276,69,109,1560,0.009,49280,16782
+86,360,480,0,157,196,69,109,1560,0.009,49490,16782
+87,360,480,0,238,295,91,148,3249,0.0188,50750,16782
+88,360,480,0,173,212,117,157,1560,0.009,51660,16782
+89,360,480,1,397,436,165,205,1560,0.009,51660,16782
+90,360,480,0,337,384,86,134,2256,0.0131,55440,16782
+91,360,480,0,49,96,86,134,2256,0.0131,55650,16782
+92,360,480,0,150,197,77,124,2209,0.0128,56770,16782
+93,360,480,0,125,164,89,129,1560,0.009,58660,16782
+94,360,480,1,345,384,85,125,1560,0.009,58660,16782
+95,360,480,0,198,245,77,124,2209,0.0128,58800,16782
+96,360,480,1,69,108,109,149,1560,0.009,58800,16782
+97,360,480,2,261,300,113,153,1560,0.009,58800,16782
+98,360,480,3,327,375,91,138,2256,0.0131,58800,16782
+99,360,480,0,146,202,114,171,3192,0.0185,59360,16782
+100,360,480,0,217,285,97,165,4624,0.0268,60410,16782
+101,360,480,0,212,260,101,148,2256,0.0131,64120,16782
+102,360,480,0,54,101,163,210,2209,0.0128,66430,16782
+103,360,480,1,229,268,57,97,1560,0.009,66430,16782
+104,360,480,0,121,168,149,196,2209,0.0128,66780,16782
+105,360,480,1,30,87,102,159,3249,0.0188,66780,16782
+106,360,480,0,87,135,149,196,2256,0.0131,66920,16782
+107,360,480,1,376,433,119,176,3249,0.0188,66920,16782
+108,360,480,0,57,96,141,181,1560,0.009,67550,16782
+109,360,480,1,173,212,81,121,1560,0.009,67550,16782
+110,360,480,0,236,284,110,158,2304,0.0133,71820,16782
+111,360,480,0,217,264,110,158,2256,0.0131,71960,16782
+112,360,480,0,227,274,110,158,2256,0.0131,72030,16782
+113,360,480,0,246,293,139,186,2209,0.0128,72240,16782
+114,360,480,1,193,240,182,230,2256,0.0131,72240,16782
+115,360,480,0,251,298,144,191,2209,0.0128,72520,16782
+116,360,480,1,183,231,182,230,2304,0.0133,72520,16782

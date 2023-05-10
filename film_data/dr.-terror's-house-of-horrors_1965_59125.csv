@@ -1,244 +1,244 @@
-,img_height,img_width,face_num,x1,x2,y1,y2,area,pct_of_frame,frame_num,video_src
-0,240,320,0,71,140,68,137,4761,0.062,2520,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-1,240,320,0,99,167,75,144,4692,0.0611,2625,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-2,240,320,1,168,236,68,137,4692,0.0611,2625,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-3,240,320,0,189,257,62,130,4624,0.0602,2730,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-4,240,320,1,99,167,75,144,4692,0.0611,2730,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-5,240,320,0,154,223,68,137,4761,0.062,2835,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-6,240,320,1,92,160,75,144,4692,0.0611,2835,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-7,240,320,0,92,160,75,144,4692,0.0611,2940,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-8,240,320,1,168,236,55,123,4624,0.0602,2940,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-9,240,320,0,85,154,75,144,4761,0.062,3045,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-10,240,320,1,154,223,62,130,4692,0.0611,3045,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-11,240,320,0,157,214,68,125,3249,0.0423,3150,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-12,240,320,0,154,223,68,137,4761,0.062,3255,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-13,240,320,0,58,126,75,144,4692,0.0611,3360,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-14,240,320,0,161,230,55,123,4692,0.0611,3465,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-15,240,320,1,71,140,82,151,4761,0.062,3465,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-16,240,320,0,65,133,75,144,4692,0.0611,3570,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-17,240,320,1,161,230,55,123,4692,0.0611,3570,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-18,240,320,0,169,226,62,119,3249,0.0423,3675,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-19,240,320,1,85,154,82,151,4761,0.062,3675,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-20,240,320,0,154,223,55,123,4692,0.0611,3780,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-21,240,320,1,65,133,75,144,4692,0.0611,3780,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-22,240,320,0,212,260,96,143,2256,0.0294,4515,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-23,240,320,1,53,92,65,105,1560,0.0203,4515,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-24,240,320,0,77,116,73,113,1560,0.0203,4620,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-25,240,320,1,203,260,91,148,3249,0.0423,4620,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-26,240,320,0,77,116,77,117,1560,0.0203,4725,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-27,240,320,0,78,147,75,144,4761,0.062,8190,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-28,240,320,0,78,147,62,130,4692,0.0611,11235,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-29,240,320,1,197,254,114,171,3249,0.0423,11235,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-30,240,320,0,85,154,68,137,4761,0.062,11340,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-31,240,320,1,186,243,108,165,3249,0.0423,11340,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-32,240,320,0,100,156,91,148,3192,0.0416,11445,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-33,240,320,1,197,254,114,171,3249,0.0423,11445,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-34,240,320,0,65,133,62,130,4624,0.0602,11550,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-35,240,320,1,192,249,114,171,3249,0.0423,11550,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-36,240,320,0,137,176,57,97,1560,0.0203,11760,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-37,240,320,1,17,56,33,73,1560,0.0203,11760,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-38,240,320,0,117,174,62,119,3249,0.0423,11865,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-39,240,320,0,149,188,93,133,1560,0.0203,12705,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-40,240,320,1,97,136,65,105,1560,0.0203,12705,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-41,240,320,0,149,188,85,125,1560,0.0203,12810,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-42,240,320,1,85,124,53,93,1560,0.0203,12810,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-43,240,320,2,205,244,113,153,1560,0.0203,12810,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-44,240,320,0,54,101,62,110,2256,0.0294,12915,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-45,240,320,1,157,196,89,129,1560,0.0203,12915,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-46,240,320,2,193,232,125,165,1560,0.0203,12915,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-47,240,320,0,77,116,69,109,1560,0.0203,13020,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-48,240,320,1,197,236,117,157,1560,0.0203,13020,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-49,240,320,0,81,120,61,101,1560,0.0203,13335,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-50,240,320,1,212,260,110,158,2304,0.03,13335,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-51,240,320,2,181,220,89,129,1560,0.0203,13335,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-52,240,320,0,87,135,57,105,2304,0.03,13440,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-53,240,320,1,209,248,117,157,1560,0.0203,13440,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-54,240,320,0,117,156,77,117,1560,0.0203,13545,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-55,240,320,1,185,224,109,149,1560,0.0203,13545,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-56,240,320,0,117,156,73,113,1560,0.0203,13650,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-57,240,320,0,169,226,160,217,3249,0.0423,13755,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-58,240,320,1,85,154,89,157,4692,0.0611,13755,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-59,240,320,0,85,154,89,157,4692,0.0611,13965,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-60,240,320,1,174,231,148,205,3249,0.0423,13965,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-61,240,320,0,186,243,125,182,3249,0.0423,14070,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-62,240,320,1,127,195,82,151,4692,0.0611,14070,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-63,240,320,0,105,223,64,182,13924,0.1813,14175,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-64,240,320,0,209,248,81,121,1560,0.0203,16695,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-65,240,320,1,93,132,53,93,1560,0.0203,16695,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-66,240,320,0,217,256,81,121,1560,0.0203,16800,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-67,240,320,0,217,256,85,125,1560,0.0203,16905,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-68,240,320,0,86,168,67,149,6724,0.0876,19215,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-69,240,320,0,86,168,59,141,6724,0.0876,19320,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-70,240,320,0,203,250,53,100,2209,0.0288,19845,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-71,240,320,0,203,250,53,100,2209,0.0288,19950,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-72,240,320,0,203,250,53,100,2209,0.0288,20055,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-73,240,320,0,203,250,53,100,2209,0.0288,20160,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-74,240,320,0,140,197,79,136,3249,0.0423,20265,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-75,240,320,0,207,255,48,95,2256,0.0294,20370,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-76,240,320,0,207,255,53,100,2256,0.0294,20475,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-77,240,320,0,207,255,48,95,2256,0.0294,20580,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-78,240,320,0,145,192,86,134,2256,0.0294,20685,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-79,240,320,0,140,197,85,142,3249,0.0423,20790,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-80,240,320,0,203,250,43,90,2209,0.0288,20895,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-81,240,320,0,198,245,48,95,2209,0.0288,21000,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-82,240,320,0,145,192,86,134,2256,0.0294,21105,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-83,240,320,0,198,245,48,95,2209,0.0288,21210,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-84,240,320,0,201,240,53,93,1560,0.0203,21315,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-85,240,320,0,198,245,48,95,2209,0.0288,21420,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-86,240,320,0,131,229,72,170,9604,0.1251,24885,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-87,240,320,0,81,180,82,180,9702,0.1263,24990,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-88,240,320,0,91,190,72,170,9702,0.1263,25095,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-89,240,320,0,121,219,72,170,9604,0.1251,25200,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-90,240,320,0,257,296,73,113,1560,0.0203,27195,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-91,240,320,0,245,284,77,117,1560,0.0203,27510,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-92,240,320,0,207,255,86,134,2304,0.03,27720,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-93,240,320,1,97,136,161,201,1560,0.0203,27720,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-94,240,320,0,226,283,73,130,3249,0.0423,27825,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-95,240,320,1,25,82,125,182,3249,0.0423,27825,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-96,240,320,0,226,283,73,130,3249,0.0423,27930,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-97,240,320,1,25,82,108,165,3249,0.0423,27930,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-98,240,320,0,226,283,68,125,3249,0.0423,28035,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-99,240,320,1,36,93,102,159,3249,0.0423,28035,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-100,240,320,0,232,289,68,125,3249,0.0423,28140,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-101,240,320,1,39,87,139,186,2256,0.0294,28140,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-102,240,320,0,226,283,73,130,3249,0.0423,28245,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-103,240,320,1,30,87,102,159,3249,0.0423,28245,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-104,240,320,0,220,277,68,125,3249,0.0423,28350,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-105,240,320,0,226,283,68,125,3249,0.0423,28455,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-106,240,320,0,232,289,79,136,3249,0.0423,28560,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-107,240,320,1,30,87,114,171,3249,0.0423,28560,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-108,240,320,0,226,283,85,142,3249,0.0423,28665,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-109,240,320,1,25,82,108,165,3249,0.0423,28665,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-110,240,320,0,226,283,68,125,3249,0.0423,28770,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-111,240,320,1,30,87,114,171,3249,0.0423,28770,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-112,240,320,0,226,283,73,130,3249,0.0423,28875,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-113,240,320,1,39,87,115,162,2256,0.0294,28875,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-114,240,320,0,30,87,114,171,3249,0.0423,28980,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-115,240,320,1,220,277,68,125,3249,0.0423,28980,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-116,240,320,0,37,76,61,101,1560,0.0203,30240,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-117,240,320,0,105,144,61,101,1560,0.0203,30975,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-118,240,320,0,157,196,65,105,1560,0.0203,31605,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-119,240,320,0,116,164,53,100,2256,0.0294,31710,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-120,240,320,0,161,200,57,97,1560,0.0203,31815,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-121,240,320,0,133,172,57,97,1560,0.0203,32025,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-122,240,320,1,165,204,57,97,1560,0.0203,32025,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-123,240,320,0,121,160,49,89,1560,0.0203,32235,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-124,240,320,0,113,152,45,85,1560,0.0203,33075,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-125,240,320,0,133,172,37,77,1560,0.0203,33180,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-126,240,320,0,153,192,45,85,1560,0.0203,33285,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-127,240,320,0,153,192,53,93,1560,0.0203,34020,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-128,240,320,0,111,193,67,149,6724,0.0876,34125,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-129,240,320,0,71,170,72,170,9702,0.1263,35385,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-130,240,320,0,45,127,92,174,6724,0.0876,35490,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-131,240,320,0,111,193,59,141,6724,0.0876,35910,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-132,240,320,0,147,216,62,130,4692,0.0611,36015,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-133,240,320,0,141,209,62,130,4624,0.0602,36120,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-134,240,320,0,224,292,55,123,4624,0.0602,36225,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-135,240,320,0,152,234,59,141,6724,0.0876,36855,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-136,240,320,0,168,236,62,130,4624,0.0602,36960,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-137,240,320,0,157,196,77,117,1560,0.0203,37800,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-138,240,320,0,181,220,77,117,1560,0.0203,38010,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-139,240,320,0,150,197,91,138,2209,0.0288,38115,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-140,240,320,0,169,216,72,119,2209,0.0288,38220,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-141,240,320,0,65,133,75,144,4692,0.0611,38640,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-142,240,320,0,163,220,79,136,3249,0.0423,39690,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-143,240,320,0,134,202,75,144,4692,0.0611,39795,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-144,240,320,0,136,218,67,149,6724,0.0876,39900,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-145,240,320,0,154,223,68,137,4761,0.062,40005,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-146,240,320,0,119,201,59,141,6724,0.0876,40110,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-147,240,320,0,71,170,52,150,9702,0.1263,40320,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-148,240,320,0,145,184,61,101,1560,0.0203,41265,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-149,240,320,0,133,172,93,133,1560,0.0203,41370,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-150,240,320,0,174,231,108,165,3249,0.0423,41475,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-151,240,320,0,106,174,34,102,4624,0.0602,41580,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-152,240,320,0,141,180,45,85,1560,0.0203,42840,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-153,240,320,0,150,197,53,100,2209,0.0288,47880,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-154,240,320,0,173,212,49,89,1560,0.0203,47985,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-155,240,320,0,180,237,62,119,3249,0.0423,48195,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-156,240,320,0,137,176,101,141,1560,0.0203,48720,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-157,240,320,0,127,195,75,144,4692,0.0611,49665,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-158,240,320,0,127,195,75,144,4692,0.0611,49770,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-159,240,320,0,111,159,72,119,2256,0.0294,49875,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-160,240,320,0,120,188,89,157,4624,0.0602,49980,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-161,240,320,0,117,174,91,148,3249,0.0423,50085,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-162,240,320,0,128,185,91,148,3249,0.0423,50190,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-163,240,320,0,107,154,77,124,2209,0.0288,50295,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-164,240,320,0,134,191,91,148,3249,0.0423,50400,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-165,240,320,0,134,191,85,142,3249,0.0423,50505,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-166,240,320,0,140,197,91,148,3249,0.0423,50610,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-167,240,320,0,117,174,68,125,3249,0.0423,50715,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-168,240,320,0,123,179,91,148,3192,0.0416,50820,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-169,240,320,0,117,174,96,153,3249,0.0423,50925,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-170,240,320,0,106,174,82,151,4692,0.0611,51030,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-171,240,320,0,111,168,91,148,3249,0.0423,51135,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-172,240,320,0,121,168,67,114,2209,0.0288,51240,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-173,240,320,0,145,192,86,134,2256,0.0294,51450,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-174,240,320,0,133,172,85,125,1560,0.0203,51870,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-175,240,320,0,151,208,96,153,3249,0.0423,51975,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-176,240,320,0,157,214,96,153,3249,0.0423,52080,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-177,240,320,0,129,168,85,125,1560,0.0203,52185,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-178,240,320,0,129,168,89,129,1560,0.0203,52290,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-179,240,320,0,134,191,91,148,3249,0.0423,52395,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-180,240,320,0,129,168,81,121,1560,0.0203,52500,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-181,240,320,0,140,188,67,114,2256,0.0294,52815,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-182,240,320,0,207,255,77,124,2256,0.0294,53550,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-183,240,320,1,92,160,110,178,4624,0.0602,53550,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-184,240,320,0,92,160,110,178,4624,0.0602,53655,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-185,240,320,1,197,254,73,130,3249,0.0423,53655,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-186,240,320,0,111,168,119,176,3249,0.0423,53760,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-187,240,320,1,192,249,79,136,3249,0.0423,53760,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-188,240,320,0,92,160,110,178,4624,0.0602,53865,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-189,240,320,1,207,255,81,129,2304,0.03,53865,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-190,240,320,0,207,255,86,134,2304,0.03,53970,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-191,240,320,1,99,167,110,178,4624,0.0602,53970,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-192,240,320,0,203,260,79,136,3249,0.0423,54075,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-193,240,320,1,106,174,117,185,4624,0.0602,54075,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-194,240,320,0,105,162,119,176,3249,0.0423,54180,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-195,240,320,1,192,249,79,136,3249,0.0423,54180,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-196,240,320,0,111,168,119,176,3249,0.0423,54285,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-197,240,320,1,203,260,79,136,3249,0.0423,54285,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-198,240,320,0,105,162,125,182,3249,0.0423,54390,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-199,240,320,1,186,243,79,136,3249,0.0423,54390,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-200,240,320,0,105,162,125,182,3249,0.0423,54495,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-201,240,320,1,203,260,79,136,3249,0.0423,54495,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-202,240,320,0,193,240,81,129,2256,0.0294,54600,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-203,240,320,0,192,249,79,136,3249,0.0423,54705,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-204,240,320,1,92,160,117,185,4624,0.0602,54705,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-205,240,320,0,102,149,77,124,2209,0.0288,55440,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-206,240,320,0,57,96,57,97,1560,0.0203,56700,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-207,240,320,1,117,156,85,125,1560,0.0203,56700,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-208,240,320,0,73,112,45,85,1560,0.0203,56910,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-209,240,320,1,137,176,77,117,1560,0.0203,56910,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-210,240,320,0,69,108,49,89,1560,0.0203,57015,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-211,240,320,0,12,110,22,120,9604,0.1251,61740,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-212,240,320,0,129,168,61,101,1560,0.0203,64470,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-213,240,320,0,105,144,61,101,1560,0.0203,64890,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-214,240,320,0,113,152,113,153,1560,0.0203,68355,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-215,240,320,0,29,68,121,161,1560,0.0203,68460,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-216,240,320,0,65,122,68,125,3249,0.0423,71085,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-217,240,320,1,111,193,108,190,6724,0.0876,71085,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-218,240,320,0,35,82,19,66,2209,0.0288,77070,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-219,240,320,0,111,168,96,153,3249,0.0423,77385,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-220,240,320,0,123,179,102,159,3192,0.0416,77490,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-221,240,320,0,128,185,102,159,3249,0.0423,77595,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-222,240,320,0,123,179,96,153,3192,0.0416,77700,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-223,240,320,0,97,144,101,148,2209,0.0288,77805,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-224,240,320,0,111,159,96,143,2256,0.0294,77910,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-225,240,320,1,81,120,93,133,1560,0.0203,77910,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-226,240,320,0,117,174,91,148,3249,0.0423,81480,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-227,240,320,0,94,151,73,130,3249,0.0423,82320,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-228,240,320,0,145,184,53,93,1560,0.0203,88830,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-229,240,320,0,145,184,53,93,1560,0.0203,88935,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-230,240,320,0,163,220,62,119,3249,0.0423,89355,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-231,240,320,0,78,147,82,151,4761,0.062,90615,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-232,240,320,1,141,239,52,150,9604,0.1251,90615,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-233,240,320,0,144,226,100,182,6724,0.0876,90930,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-234,240,320,0,91,190,102,200,9702,0.1263,91035,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-235,240,320,0,62,204,31,172,20022,0.2607,97965,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-236,240,320,0,28,198,37,207,28900,0.3763,98490,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-237,240,320,0,28,198,89,240,25670,0.3342,99225,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-238,240,320,0,82,139,39,96,3249,0.0423,103110,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-239,240,320,0,100,156,50,107,3192,0.0416,104685,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-240,240,320,0,58,176,100,218,13924,0.1813,105210,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-241,240,320,0,111,210,102,200,9702,0.1263,106365,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
-242,240,320,0,147,216,62,130,4692,0.0611,107415,/home/amos/server/media/movies/The Creeping Terror (1964)/The Creeping Terror (1964).mp4
+,img_height,img_width,face_num,x1,x2,y1,y2,area,pct_of_frame,frame_num,imdb_id
+0,240,320,0,71,140,68,137,4761,0.062,2520,59125
+1,240,320,0,99,167,75,144,4692,0.0611,2625,59125
+2,240,320,1,168,236,68,137,4692,0.0611,2625,59125
+3,240,320,0,189,257,62,130,4624,0.0602,2730,59125
+4,240,320,1,99,167,75,144,4692,0.0611,2730,59125
+5,240,320,0,154,223,68,137,4761,0.062,2835,59125
+6,240,320,1,92,160,75,144,4692,0.0611,2835,59125
+7,240,320,0,92,160,75,144,4692,0.0611,2940,59125
+8,240,320,1,168,236,55,123,4624,0.0602,2940,59125
+9,240,320,0,85,154,75,144,4761,0.062,3045,59125
+10,240,320,1,154,223,62,130,4692,0.0611,3045,59125
+11,240,320,0,157,214,68,125,3249,0.0423,3150,59125
+12,240,320,0,154,223,68,137,4761,0.062,3255,59125
+13,240,320,0,58,126,75,144,4692,0.0611,3360,59125
+14,240,320,0,161,230,55,123,4692,0.0611,3465,59125
+15,240,320,1,71,140,82,151,4761,0.062,3465,59125
+16,240,320,0,65,133,75,144,4692,0.0611,3570,59125
+17,240,320,1,161,230,55,123,4692,0.0611,3570,59125
+18,240,320,0,169,226,62,119,3249,0.0423,3675,59125
+19,240,320,1,85,154,82,151,4761,0.062,3675,59125
+20,240,320,0,154,223,55,123,4692,0.0611,3780,59125
+21,240,320,1,65,133,75,144,4692,0.0611,3780,59125
+22,240,320,0,212,260,96,143,2256,0.0294,4515,59125
+23,240,320,1,53,92,65,105,1560,0.0203,4515,59125
+24,240,320,0,77,116,73,113,1560,0.0203,4620,59125
+25,240,320,1,203,260,91,148,3249,0.0423,4620,59125
+26,240,320,0,77,116,77,117,1560,0.0203,4725,59125
+27,240,320,0,78,147,75,144,4761,0.062,8190,59125
+28,240,320,0,78,147,62,130,4692,0.0611,11235,59125
+29,240,320,1,197,254,114,171,3249,0.0423,11235,59125
+30,240,320,0,85,154,68,137,4761,0.062,11340,59125
+31,240,320,1,186,243,108,165,3249,0.0423,11340,59125
+32,240,320,0,100,156,91,148,3192,0.0416,11445,59125
+33,240,320,1,197,254,114,171,3249,0.0423,11445,59125
+34,240,320,0,65,133,62,130,4624,0.0602,11550,59125
+35,240,320,1,192,249,114,171,3249,0.0423,11550,59125
+36,240,320,0,137,176,57,97,1560,0.0203,11760,59125
+37,240,320,1,17,56,33,73,1560,0.0203,11760,59125
+38,240,320,0,117,174,62,119,3249,0.0423,11865,59125
+39,240,320,0,149,188,93,133,1560,0.0203,12705,59125
+40,240,320,1,97,136,65,105,1560,0.0203,12705,59125
+41,240,320,0,149,188,85,125,1560,0.0203,12810,59125
+42,240,320,1,85,124,53,93,1560,0.0203,12810,59125
+43,240,320,2,205,244,113,153,1560,0.0203,12810,59125
+44,240,320,0,54,101,62,110,2256,0.0294,12915,59125
+45,240,320,1,157,196,89,129,1560,0.0203,12915,59125
+46,240,320,2,193,232,125,165,1560,0.0203,12915,59125
+47,240,320,0,77,116,69,109,1560,0.0203,13020,59125
+48,240,320,1,197,236,117,157,1560,0.0203,13020,59125
+49,240,320,0,81,120,61,101,1560,0.0203,13335,59125
+50,240,320,1,212,260,110,158,2304,0.03,13335,59125
+51,240,320,2,181,220,89,129,1560,0.0203,13335,59125
+52,240,320,0,87,135,57,105,2304,0.03,13440,59125
+53,240,320,1,209,248,117,157,1560,0.0203,13440,59125
+54,240,320,0,117,156,77,117,1560,0.0203,13545,59125
+55,240,320,1,185,224,109,149,1560,0.0203,13545,59125
+56,240,320,0,117,156,73,113,1560,0.0203,13650,59125
+57,240,320,0,169,226,160,217,3249,0.0423,13755,59125
+58,240,320,1,85,154,89,157,4692,0.0611,13755,59125
+59,240,320,0,85,154,89,157,4692,0.0611,13965,59125
+60,240,320,1,174,231,148,205,3249,0.0423,13965,59125
+61,240,320,0,186,243,125,182,3249,0.0423,14070,59125
+62,240,320,1,127,195,82,151,4692,0.0611,14070,59125
+63,240,320,0,105,223,64,182,13924,0.1813,14175,59125
+64,240,320,0,209,248,81,121,1560,0.0203,16695,59125
+65,240,320,1,93,132,53,93,1560,0.0203,16695,59125
+66,240,320,0,217,256,81,121,1560,0.0203,16800,59125
+67,240,320,0,217,256,85,125,1560,0.0203,16905,59125
+68,240,320,0,86,168,67,149,6724,0.0876,19215,59125
+69,240,320,0,86,168,59,141,6724,0.0876,19320,59125
+70,240,320,0,203,250,53,100,2209,0.0288,19845,59125
+71,240,320,0,203,250,53,100,2209,0.0288,19950,59125
+72,240,320,0,203,250,53,100,2209,0.0288,20055,59125
+73,240,320,0,203,250,53,100,2209,0.0288,20160,59125
+74,240,320,0,140,197,79,136,3249,0.0423,20265,59125
+75,240,320,0,207,255,48,95,2256,0.0294,20370,59125
+76,240,320,0,207,255,53,100,2256,0.0294,20475,59125
+77,240,320,0,207,255,48,95,2256,0.0294,20580,59125
+78,240,320,0,145,192,86,134,2256,0.0294,20685,59125
+79,240,320,0,140,197,85,142,3249,0.0423,20790,59125
+80,240,320,0,203,250,43,90,2209,0.0288,20895,59125
+81,240,320,0,198,245,48,95,2209,0.0288,21000,59125
+82,240,320,0,145,192,86,134,2256,0.0294,21105,59125
+83,240,320,0,198,245,48,95,2209,0.0288,21210,59125
+84,240,320,0,201,240,53,93,1560,0.0203,21315,59125
+85,240,320,0,198,245,48,95,2209,0.0288,21420,59125
+86,240,320,0,131,229,72,170,9604,0.1251,24885,59125
+87,240,320,0,81,180,82,180,9702,0.1263,24990,59125
+88,240,320,0,91,190,72,170,9702,0.1263,25095,59125
+89,240,320,0,121,219,72,170,9604,0.1251,25200,59125
+90,240,320,0,257,296,73,113,1560,0.0203,27195,59125
+91,240,320,0,245,284,77,117,1560,0.0203,27510,59125
+92,240,320,0,207,255,86,134,2304,0.03,27720,59125
+93,240,320,1,97,136,161,201,1560,0.0203,27720,59125
+94,240,320,0,226,283,73,130,3249,0.0423,27825,59125
+95,240,320,1,25,82,125,182,3249,0.0423,27825,59125
+96,240,320,0,226,283,73,130,3249,0.0423,27930,59125
+97,240,320,1,25,82,108,165,3249,0.0423,27930,59125
+98,240,320,0,226,283,68,125,3249,0.0423,28035,59125
+99,240,320,1,36,93,102,159,3249,0.0423,28035,59125
+100,240,320,0,232,289,68,125,3249,0.0423,28140,59125
+101,240,320,1,39,87,139,186,2256,0.0294,28140,59125
+102,240,320,0,226,283,73,130,3249,0.0423,28245,59125
+103,240,320,1,30,87,102,159,3249,0.0423,28245,59125
+104,240,320,0,220,277,68,125,3249,0.0423,28350,59125
+105,240,320,0,226,283,68,125,3249,0.0423,28455,59125
+106,240,320,0,232,289,79,136,3249,0.0423,28560,59125
+107,240,320,1,30,87,114,171,3249,0.0423,28560,59125
+108,240,320,0,226,283,85,142,3249,0.0423,28665,59125
+109,240,320,1,25,82,108,165,3249,0.0423,28665,59125
+110,240,320,0,226,283,68,125,3249,0.0423,28770,59125
+111,240,320,1,30,87,114,171,3249,0.0423,28770,59125
+112,240,320,0,226,283,73,130,3249,0.0423,28875,59125
+113,240,320,1,39,87,115,162,2256,0.0294,28875,59125
+114,240,320,0,30,87,114,171,3249,0.0423,28980,59125
+115,240,320,1,220,277,68,125,3249,0.0423,28980,59125
+116,240,320,0,37,76,61,101,1560,0.0203,30240,59125
+117,240,320,0,105,144,61,101,1560,0.0203,30975,59125
+118,240,320,0,157,196,65,105,1560,0.0203,31605,59125
+119,240,320,0,116,164,53,100,2256,0.0294,31710,59125
+120,240,320,0,161,200,57,97,1560,0.0203,31815,59125
+121,240,320,0,133,172,57,97,1560,0.0203,32025,59125
+122,240,320,1,165,204,57,97,1560,0.0203,32025,59125
+123,240,320,0,121,160,49,89,1560,0.0203,32235,59125
+124,240,320,0,113,152,45,85,1560,0.0203,33075,59125
+125,240,320,0,133,172,37,77,1560,0.0203,33180,59125
+126,240,320,0,153,192,45,85,1560,0.0203,33285,59125
+127,240,320,0,153,192,53,93,1560,0.0203,34020,59125
+128,240,320,0,111,193,67,149,6724,0.0876,34125,59125
+129,240,320,0,71,170,72,170,9702,0.1263,35385,59125
+130,240,320,0,45,127,92,174,6724,0.0876,35490,59125
+131,240,320,0,111,193,59,141,6724,0.0876,35910,59125
+132,240,320,0,147,216,62,130,4692,0.0611,36015,59125
+133,240,320,0,141,209,62,130,4624,0.0602,36120,59125
+134,240,320,0,224,292,55,123,4624,0.0602,36225,59125
+135,240,320,0,152,234,59,141,6724,0.0876,36855,59125
+136,240,320,0,168,236,62,130,4624,0.0602,36960,59125
+137,240,320,0,157,196,77,117,1560,0.0203,37800,59125
+138,240,320,0,181,220,77,117,1560,0.0203,38010,59125
+139,240,320,0,150,197,91,138,2209,0.0288,38115,59125
+140,240,320,0,169,216,72,119,2209,0.0288,38220,59125
+141,240,320,0,65,133,75,144,4692,0.0611,38640,59125
+142,240,320,0,163,220,79,136,3249,0.0423,39690,59125
+143,240,320,0,134,202,75,144,4692,0.0611,39795,59125
+144,240,320,0,136,218,67,149,6724,0.0876,39900,59125
+145,240,320,0,154,223,68,137,4761,0.062,40005,59125
+146,240,320,0,119,201,59,141,6724,0.0876,40110,59125
+147,240,320,0,71,170,52,150,9702,0.1263,40320,59125
+148,240,320,0,145,184,61,101,1560,0.0203,41265,59125
+149,240,320,0,133,172,93,133,1560,0.0203,41370,59125
+150,240,320,0,174,231,108,165,3249,0.0423,41475,59125
+151,240,320,0,106,174,34,102,4624,0.0602,41580,59125
+152,240,320,0,141,180,45,85,1560,0.0203,42840,59125
+153,240,320,0,150,197,53,100,2209,0.0288,47880,59125
+154,240,320,0,173,212,49,89,1560,0.0203,47985,59125
+155,240,320,0,180,237,62,119,3249,0.0423,48195,59125
+156,240,320,0,137,176,101,141,1560,0.0203,48720,59125
+157,240,320,0,127,195,75,144,4692,0.0611,49665,59125
+158,240,320,0,127,195,75,144,4692,0.0611,49770,59125
+159,240,320,0,111,159,72,119,2256,0.0294,49875,59125
+160,240,320,0,120,188,89,157,4624,0.0602,49980,59125
+161,240,320,0,117,174,91,148,3249,0.0423,50085,59125
+162,240,320,0,128,185,91,148,3249,0.0423,50190,59125
+163,240,320,0,107,154,77,124,2209,0.0288,50295,59125
+164,240,320,0,134,191,91,148,3249,0.0423,50400,59125
+165,240,320,0,134,191,85,142,3249,0.0423,50505,59125
+166,240,320,0,140,197,91,148,3249,0.0423,50610,59125
+167,240,320,0,117,174,68,125,3249,0.0423,50715,59125
+168,240,320,0,123,179,91,148,3192,0.0416,50820,59125
+169,240,320,0,117,174,96,153,3249,0.0423,50925,59125
+170,240,320,0,106,174,82,151,4692,0.0611,51030,59125
+171,240,320,0,111,168,91,148,3249,0.0423,51135,59125
+172,240,320,0,121,168,67,114,2209,0.0288,51240,59125
+173,240,320,0,145,192,86,134,2256,0.0294,51450,59125
+174,240,320,0,133,172,85,125,1560,0.0203,51870,59125
+175,240,320,0,151,208,96,153,3249,0.0423,51975,59125
+176,240,320,0,157,214,96,153,3249,0.0423,52080,59125
+177,240,320,0,129,168,85,125,1560,0.0203,52185,59125
+178,240,320,0,129,168,89,129,1560,0.0203,52290,59125
+179,240,320,0,134,191,91,148,3249,0.0423,52395,59125
+180,240,320,0,129,168,81,121,1560,0.0203,52500,59125
+181,240,320,0,140,188,67,114,2256,0.0294,52815,59125
+182,240,320,0,207,255,77,124,2256,0.0294,53550,59125
+183,240,320,1,92,160,110,178,4624,0.0602,53550,59125
+184,240,320,0,92,160,110,178,4624,0.0602,53655,59125
+185,240,320,1,197,254,73,130,3249,0.0423,53655,59125
+186,240,320,0,111,168,119,176,3249,0.0423,53760,59125
+187,240,320,1,192,249,79,136,3249,0.0423,53760,59125
+188,240,320,0,92,160,110,178,4624,0.0602,53865,59125
+189,240,320,1,207,255,81,129,2304,0.03,53865,59125
+190,240,320,0,207,255,86,134,2304,0.03,53970,59125
+191,240,320,1,99,167,110,178,4624,0.0602,53970,59125
+192,240,320,0,203,260,79,136,3249,0.0423,54075,59125
+193,240,320,1,106,174,117,185,4624,0.0602,54075,59125
+194,240,320,0,105,162,119,176,3249,0.0423,54180,59125
+195,240,320,1,192,249,79,136,3249,0.0423,54180,59125
+196,240,320,0,111,168,119,176,3249,0.0423,54285,59125
+197,240,320,1,203,260,79,136,3249,0.0423,54285,59125
+198,240,320,0,105,162,125,182,3249,0.0423,54390,59125
+199,240,320,1,186,243,79,136,3249,0.0423,54390,59125
+200,240,320,0,105,162,125,182,3249,0.0423,54495,59125
+201,240,320,1,203,260,79,136,3249,0.0423,54495,59125
+202,240,320,0,193,240,81,129,2256,0.0294,54600,59125
+203,240,320,0,192,249,79,136,3249,0.0423,54705,59125
+204,240,320,1,92,160,117,185,4624,0.0602,54705,59125
+205,240,320,0,102,149,77,124,2209,0.0288,55440,59125
+206,240,320,0,57,96,57,97,1560,0.0203,56700,59125
+207,240,320,1,117,156,85,125,1560,0.0203,56700,59125
+208,240,320,0,73,112,45,85,1560,0.0203,56910,59125
+209,240,320,1,137,176,77,117,1560,0.0203,56910,59125
+210,240,320,0,69,108,49,89,1560,0.0203,57015,59125
+211,240,320,0,12,110,22,120,9604,0.1251,61740,59125
+212,240,320,0,129,168,61,101,1560,0.0203,64470,59125
+213,240,320,0,105,144,61,101,1560,0.0203,64890,59125
+214,240,320,0,113,152,113,153,1560,0.0203,68355,59125
+215,240,320,0,29,68,121,161,1560,0.0203,68460,59125
+216,240,320,0,65,122,68,125,3249,0.0423,71085,59125
+217,240,320,1,111,193,108,190,6724,0.0876,71085,59125
+218,240,320,0,35,82,19,66,2209,0.0288,77070,59125
+219,240,320,0,111,168,96,153,3249,0.0423,77385,59125
+220,240,320,0,123,179,102,159,3192,0.0416,77490,59125
+221,240,320,0,128,185,102,159,3249,0.0423,77595,59125
+222,240,320,0,123,179,96,153,3192,0.0416,77700,59125
+223,240,320,0,97,144,101,148,2209,0.0288,77805,59125
+224,240,320,0,111,159,96,143,2256,0.0294,77910,59125
+225,240,320,1,81,120,93,133,1560,0.0203,77910,59125
+226,240,320,0,117,174,91,148,3249,0.0423,81480,59125
+227,240,320,0,94,151,73,130,3249,0.0423,82320,59125
+228,240,320,0,145,184,53,93,1560,0.0203,88830,59125
+229,240,320,0,145,184,53,93,1560,0.0203,88935,59125
+230,240,320,0,163,220,62,119,3249,0.0423,89355,59125
+231,240,320,0,78,147,82,151,4761,0.062,90615,59125
+232,240,320,1,141,239,52,150,9604,0.1251,90615,59125
+233,240,320,0,144,226,100,182,6724,0.0876,90930,59125
+234,240,320,0,91,190,102,200,9702,0.1263,91035,59125
+235,240,320,0,62,204,31,172,20022,0.2607,97965,59125
+236,240,320,0,28,198,37,207,28900,0.3763,98490,59125
+237,240,320,0,28,198,89,240,25670,0.3342,99225,59125
+238,240,320,0,82,139,39,96,3249,0.0423,103110,59125
+239,240,320,0,100,156,50,107,3192,0.0416,104685,59125
+240,240,320,0,58,176,100,218,13924,0.1813,105210,59125
+241,240,320,0,111,210,102,200,9702,0.1263,106365,59125
+242,240,320,0,147,216,62,130,4692,0.0611,107415,59125

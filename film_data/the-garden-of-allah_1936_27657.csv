@@ -1,827 +1,827 @@
-,img_height,img_width,face_num,x1,x2,y1,y2,area,pct_of_frame,frame_num,video_src
-0,360,450,0,213,252,177,217,1560,0.0096,2808,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-1,360,450,0,96,195,205,303,9702,0.0599,3240,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-2,360,450,1,172,313,45,187,20022,0.1236,3240,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-3,360,450,0,146,244,105,204,9702,0.0599,3348,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-4,360,450,0,156,254,96,194,9604,0.0593,3456,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-5,360,450,0,226,324,76,174,9604,0.0593,3780,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-6,360,450,0,145,192,77,124,2209,0.0136,3888,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-7,360,450,0,265,333,221,290,4692,0.029,3996,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-8,360,450,1,169,251,214,296,6724,0.0415,3996,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-9,360,450,2,85,154,159,227,4692,0.029,3996,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-10,360,450,3,244,312,69,138,4692,0.029,3996,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-11,360,450,4,300,368,104,172,4624,0.0285,3996,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-12,360,450,0,265,333,221,290,4692,0.029,4104,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-13,360,450,1,252,334,65,147,6724,0.0415,4104,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-14,360,450,2,86,168,123,205,6724,0.0415,4104,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-15,360,450,3,189,257,194,262,4624,0.0285,4104,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-16,360,450,0,92,160,152,221,4692,0.029,4212,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-17,360,450,1,251,319,76,145,4692,0.029,4212,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-18,360,450,2,177,259,214,296,6724,0.0415,4212,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-19,360,450,3,94,176,48,130,6724,0.0415,4212,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-20,360,450,0,258,326,69,138,4692,0.029,4320,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-21,360,450,1,177,259,214,296,6724,0.0415,4320,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-22,360,450,2,92,160,159,227,4624,0.0285,4320,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-23,360,450,3,277,359,181,263,6724,0.0415,4320,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-24,360,450,4,103,185,57,138,6642,0.041,4320,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-25,360,450,0,252,334,65,147,6724,0.0415,4428,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-26,360,450,1,272,340,221,290,4692,0.029,4428,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-27,360,450,2,196,264,221,290,4692,0.029,4428,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-28,360,450,0,260,342,57,138,6642,0.041,4536,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-29,360,450,1,92,160,166,234,4624,0.0285,4536,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-30,360,450,2,177,259,214,296,6724,0.0415,4536,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-31,360,450,3,272,340,215,283,4624,0.0285,4536,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-32,360,450,0,136,234,145,244,9702,0.0599,4644,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-33,360,450,1,253,371,130,248,13924,0.086,4644,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-34,360,450,2,0,141,16,158,20022,0.1236,4644,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-35,360,450,0,277,395,118,236,13924,0.086,4752,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-36,360,450,1,158,276,118,236,13924,0.086,4752,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-37,360,450,2,26,144,34,152,13924,0.086,4752,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-38,360,450,0,158,276,94,212,13924,0.086,4860,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-39,360,450,1,272,414,88,230,20164,0.1245,4860,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-40,360,450,2,38,156,22,140,13924,0.086,4860,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-41,360,450,0,249,288,73,113,1560,0.0096,5508,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-42,360,450,0,196,294,96,194,9604,0.0593,5616,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-43,360,450,0,196,294,96,194,9604,0.0593,5724,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-44,360,450,0,136,218,81,163,6724,0.0415,5832,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-45,360,450,0,136,218,90,172,6724,0.0415,5940,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-46,360,450,0,136,218,90,172,6724,0.0415,6048,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-47,360,450,0,156,254,105,204,9702,0.0599,6156,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-48,360,450,0,233,272,85,125,1560,0.0096,6264,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-49,360,450,0,169,251,65,147,6724,0.0415,6696,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-50,360,450,0,194,276,65,147,6724,0.0415,6804,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-51,360,450,0,244,300,154,211,3192,0.0197,6912,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-52,360,450,0,161,243,90,172,6724,0.0415,7020,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-53,360,450,0,146,244,66,164,9604,0.0593,7128,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-54,360,450,0,176,274,96,194,9604,0.0593,7236,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-55,360,450,0,186,284,125,224,9702,0.0599,7344,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-56,360,450,0,136,218,81,163,6724,0.0415,7452,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-57,360,450,0,170,288,130,248,13924,0.086,7560,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-58,360,450,0,177,259,90,172,6724,0.0415,7668,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-59,360,450,0,166,264,66,164,9604,0.0593,7776,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-60,360,450,0,295,394,165,264,9801,0.0605,8964,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-61,360,450,0,246,293,72,119,2209,0.0136,9072,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-62,360,450,1,105,144,93,133,1560,0.0096,9072,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-63,360,450,0,257,296,69,109,1560,0.0096,9180,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-64,360,450,1,133,172,77,117,1560,0.0096,9180,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-65,360,450,0,169,208,81,121,1560,0.0096,9288,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-66,360,450,1,261,300,77,117,1560,0.0096,9288,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-67,360,450,0,207,255,86,134,2304,0.0142,9504,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-68,360,450,1,332,380,110,158,2304,0.0142,9504,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-69,360,450,2,0,32,89,129,1280,0.0079,9504,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-70,360,450,3,97,136,109,149,1560,0.0096,9504,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-71,360,450,0,381,420,89,129,1560,0.0096,9612,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-72,360,450,0,317,356,109,149,1560,0.0096,10152,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-73,360,450,0,295,352,131,188,3249,0.0201,10260,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-74,360,450,0,299,346,125,172,2209,0.0136,10368,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-75,360,450,0,227,309,90,172,6724,0.0415,10476,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-76,360,450,0,219,301,90,172,6724,0.0415,10584,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-77,360,450,0,230,299,104,172,4692,0.029,10692,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-78,360,450,0,244,312,104,172,4624,0.0285,10800,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-79,360,450,0,219,301,90,172,6724,0.0415,10908,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-80,360,450,0,113,181,49,117,4624,0.0285,11016,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-81,360,450,0,120,188,62,131,4692,0.029,11124,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-82,360,450,0,99,167,62,131,4692,0.029,11232,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-83,360,450,0,318,365,105,153,2256,0.0139,11340,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-84,360,450,0,270,317,110,158,2256,0.0139,11448,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-85,360,450,0,51,119,125,193,4624,0.0285,11556,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-86,360,450,1,293,361,138,207,4692,0.029,11556,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-87,360,450,0,366,413,125,172,2209,0.0136,11664,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-88,360,450,0,325,364,109,149,1560,0.0096,11772,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-89,360,450,0,217,264,57,105,2256,0.0139,11880,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-90,360,450,1,23,91,201,269,4624,0.0285,11880,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-91,360,450,0,295,352,85,142,3249,0.0201,11988,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-92,360,450,1,111,168,96,153,3249,0.0201,11988,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-93,360,450,0,284,341,91,148,3249,0.0201,12096,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-94,360,450,0,284,341,85,142,3249,0.0201,12204,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-95,360,450,0,117,174,154,211,3249,0.0201,12420,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-96,360,450,0,166,264,56,154,9604,0.0593,12528,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-97,360,450,0,356,404,197,244,2256,0.0139,12636,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-98,360,450,1,163,220,50,107,3249,0.0201,12636,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-99,360,450,2,106,174,221,290,4692,0.029,12636,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-100,360,450,0,177,216,77,117,1560,0.0096,12744,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-101,360,450,1,183,231,216,263,2256,0.0139,12744,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-102,360,450,0,193,240,62,110,2256,0.0139,13068,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-103,360,450,0,186,284,66,164,9604,0.0593,13284,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-104,360,450,0,327,375,192,239,2256,0.0139,13500,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-105,360,450,1,107,154,53,100,2209,0.0136,13500,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-106,360,450,0,323,370,197,244,2209,0.0136,13608,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-107,360,450,1,134,191,50,107,3249,0.0201,13608,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-108,360,450,0,332,380,197,244,2256,0.0139,13932,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-109,360,450,1,134,191,50,107,3249,0.0201,13932,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-110,360,450,0,337,384,197,244,2209,0.0136,14040,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-111,360,450,1,123,179,56,113,3192,0.0197,14040,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-112,360,450,0,182,250,42,110,4624,0.0285,14256,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-113,360,450,0,202,284,57,138,6642,0.041,15012,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-114,360,450,0,194,276,57,138,6642,0.041,15120,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-115,360,450,0,252,334,57,138,6642,0.041,15228,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-116,360,450,1,86,168,65,147,6724,0.0415,15228,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-117,360,450,0,47,145,36,134,9604,0.0593,15336,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-118,360,450,1,260,342,57,138,6642,0.041,15336,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-119,360,450,0,56,155,36,134,9702,0.0599,15444,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-120,360,450,1,269,351,57,138,6642,0.041,15444,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-121,360,450,0,47,145,36,134,9604,0.0593,15552,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-122,360,450,1,277,359,48,130,6724,0.0415,15552,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-123,360,450,0,56,155,36,134,9702,0.0599,15660,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-124,360,450,1,260,342,57,138,6642,0.041,15660,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-125,360,450,0,146,264,70,188,13924,0.086,15768,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-126,360,450,0,197,236,45,85,1560,0.0096,16308,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-127,360,450,0,196,294,66,164,9604,0.0593,16416,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-128,360,450,0,186,284,66,164,9604,0.0593,16740,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-129,360,450,0,341,398,50,107,3249,0.0201,17172,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-130,360,450,0,163,220,131,188,3249,0.0201,17280,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-131,360,450,0,144,226,81,163,6724,0.0415,17388,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-132,360,450,0,113,181,83,151,4624,0.0285,17496,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-133,360,450,0,99,167,83,151,4624,0.0285,17604,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-134,360,450,1,269,351,73,155,6724,0.0415,17604,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-135,360,450,0,113,181,83,151,4624,0.0285,17712,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-136,360,450,1,285,367,57,138,6642,0.041,17712,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-137,360,450,0,143,285,59,201,20164,0.1245,17820,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-138,360,450,0,99,167,90,158,4624,0.0285,17928,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-139,360,450,1,293,375,48,130,6724,0.0415,17928,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-140,360,450,0,141,180,157,197,1560,0.0096,18036,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-141,360,450,1,265,312,38,86,2256,0.0139,18036,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-142,360,450,0,169,216,105,153,2256,0.0139,18144,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-143,360,450,1,49,88,109,149,1560,0.0096,18144,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-144,360,450,0,65,133,90,158,4624,0.0285,18252,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-145,360,450,1,224,292,49,117,4624,0.0285,18252,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-146,360,450,0,330,387,45,101,3192,0.0197,18360,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-147,360,450,1,65,122,108,165,3249,0.0201,18360,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-148,360,450,0,210,278,83,151,4624,0.0285,18468,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-149,360,450,0,140,197,73,130,3249,0.0201,18576,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-150,360,450,0,106,205,96,194,9702,0.0599,18792,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-151,360,450,1,305,404,86,184,9702,0.0599,18792,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-152,360,450,0,140,197,125,182,3249,0.0201,20088,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-153,360,450,1,261,318,114,171,3249,0.0201,20088,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-154,360,450,2,342,389,57,105,2256,0.0139,20088,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-155,360,450,0,163,220,114,171,3249,0.0201,20520,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-156,360,450,1,313,370,96,153,3249,0.0201,20520,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-157,360,450,0,151,208,114,171,3249,0.0201,20628,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-158,360,450,1,307,364,96,153,3249,0.0201,20628,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-159,360,450,0,336,393,91,148,3249,0.0201,20736,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-160,360,450,1,58,126,69,138,4692,0.029,20736,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-161,360,450,2,197,254,119,176,3249,0.0201,20736,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-162,360,450,0,128,210,48,130,6724,0.0415,20844,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-163,360,450,0,188,236,101,148,2256,0.0139,21060,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-164,360,450,0,166,264,66,164,9604,0.0593,21276,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-165,360,450,0,158,276,46,164,13924,0.086,21384,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-166,360,450,0,129,168,85,125,1560,0.0096,21924,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-167,360,450,0,135,183,86,134,2304,0.0142,22032,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-168,360,450,0,135,183,86,134,2304,0.0142,22140,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-169,360,450,0,145,184,85,125,1560,0.0096,22248,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-170,360,450,0,186,268,48,130,6724,0.0415,22356,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-171,360,450,0,177,259,57,138,6642,0.041,22464,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-172,360,450,0,210,278,62,131,4692,0.029,22572,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-173,360,450,0,197,236,69,109,1560,0.0096,22788,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-174,360,450,0,203,271,83,151,4624,0.0285,22896,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-175,360,450,0,301,358,102,159,3249,0.0201,23112,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-176,360,450,1,215,272,96,153,3249,0.0201,23112,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-177,360,450,0,209,266,91,148,3249,0.0201,23220,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-178,360,450,1,2,71,35,103,4692,0.029,23220,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-179,360,450,0,165,204,73,113,1560,0.0096,23436,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-180,360,450,0,243,385,102,244,20164,0.1245,23544,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-181,360,450,0,99,269,54,224,28900,0.1784,23652,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-182,360,450,0,106,174,76,145,4692,0.029,23760,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-183,360,450,1,272,340,83,151,4624,0.0285,23760,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-184,360,450,2,226,283,16,73,3249,0.0201,23760,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-185,360,450,0,113,181,83,151,4624,0.0285,23868,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-186,360,450,1,251,319,90,158,4624,0.0285,23868,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-187,360,450,0,229,268,69,109,1560,0.0096,23976,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-188,360,450,0,161,200,53,93,1560,0.0096,24084,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-189,360,450,0,201,240,73,113,1560,0.0096,24192,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-190,360,450,0,173,212,101,141,1560,0.0096,24408,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-191,360,450,0,135,183,163,210,2256,0.0139,24732,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-192,360,450,1,286,354,28,96,4624,0.0285,24732,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-193,360,450,0,155,202,158,206,2256,0.0139,24840,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-194,360,450,1,295,352,50,107,3249,0.0201,24840,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-195,360,450,0,132,336,55,259,41616,0.2569,24948,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-196,360,450,0,112,315,55,259,41412,0.2556,25056,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-197,360,450,0,112,315,55,259,41412,0.2556,25164,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-198,360,450,1,0,127,188,330,18034,0.1113,25164,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-199,360,450,0,182,300,94,212,13924,0.086,25272,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-200,360,450,0,119,201,90,172,6724,0.0415,25596,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-201,360,450,0,166,264,96,194,9604,0.0593,25704,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-202,360,450,0,251,298,62,110,2256,0.0139,25812,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-203,360,450,0,166,264,105,204,9702,0.0599,25920,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-204,360,450,0,0,85,115,214,8415,0.0519,26028,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-205,360,450,0,157,299,117,258,20022,0.1236,26136,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-206,360,450,0,172,313,102,244,20022,0.1236,26244,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-207,360,450,0,177,216,65,105,1560,0.0096,26568,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-208,360,450,1,69,108,249,289,1560,0.0096,26568,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-209,360,450,2,29,68,217,257,1560,0.0096,26568,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-210,360,450,0,186,284,96,194,9604,0.0593,26676,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-211,360,450,0,111,168,131,188,3249,0.0201,26784,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-212,360,450,0,170,288,118,236,13924,0.086,26892,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-213,360,450,0,157,299,145,287,20164,0.1245,27000,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-214,360,450,0,134,202,90,158,4624,0.0285,27216,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-215,360,450,0,166,264,105,204,9702,0.0599,27648,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-216,360,450,0,151,320,72,241,28561,0.1763,27756,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-217,360,450,0,194,312,130,248,13924,0.086,28080,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-218,360,450,0,186,328,59,201,20164,0.1245,28188,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-219,360,450,0,176,274,76,174,9604,0.0593,28620,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-220,360,450,0,166,264,96,194,9604,0.0593,28944,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-221,360,450,0,325,364,97,137,1560,0.0096,29052,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-222,360,450,0,321,360,109,149,1560,0.0096,29160,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-223,360,450,0,134,252,142,260,13924,0.086,29268,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-224,360,450,0,133,303,123,293,28900,0.1784,29376,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-225,360,450,0,99,269,72,241,28730,0.1773,29484,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-226,360,450,0,168,338,37,207,28900,0.1784,29592,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-227,360,450,0,133,303,72,241,28730,0.1773,29700,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-228,360,450,0,186,284,96,194,9604,0.0593,30024,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-229,360,450,0,166,264,105,204,9702,0.0599,30240,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-230,360,450,0,146,244,66,164,9604,0.0593,30348,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-231,360,450,0,293,375,98,180,6724,0.0415,30780,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-232,360,450,1,154,223,145,214,4761,0.0294,30780,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-233,360,450,0,275,374,96,194,9702,0.0599,30888,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-234,360,450,1,154,223,145,214,4761,0.0294,30888,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-235,360,450,0,136,234,135,234,9702,0.0599,31212,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-236,360,450,0,119,201,123,205,6724,0.0415,31320,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-237,360,450,1,244,326,81,163,6724,0.0415,31320,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-238,360,450,0,119,201,131,213,6724,0.0415,31428,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-239,360,450,0,349,388,85,125,1560,0.0096,31644,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-240,360,450,0,189,228,97,137,1560,0.0096,32292,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-241,360,450,0,209,248,93,133,1560,0.0096,32400,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-242,360,450,0,103,185,173,255,6724,0.0415,32508,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-243,360,450,0,111,193,173,255,6724,0.0415,32616,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-244,360,450,0,293,361,173,241,4624,0.0285,32832,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-245,360,450,0,307,364,62,119,3249,0.0201,32940,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-246,360,450,0,337,376,49,89,1560,0.0096,33264,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-247,360,450,0,267,323,96,153,3192,0.0197,33480,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-248,360,450,1,342,389,120,167,2209,0.0136,33480,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-249,360,450,0,161,243,48,130,6724,0.0415,33588,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-250,360,450,1,258,326,97,165,4624,0.0285,33588,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-251,360,450,0,141,209,62,131,4692,0.029,33696,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-252,360,450,1,265,333,97,165,4624,0.0285,33696,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-253,360,450,0,141,209,56,124,4624,0.0285,33804,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-254,360,450,1,260,342,98,180,6724,0.0415,33804,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-255,360,450,0,127,195,49,117,4624,0.0285,33912,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-256,360,450,1,269,351,81,163,6724,0.0415,33912,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-257,360,450,0,233,272,49,89,1560,0.0096,34128,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-258,360,450,0,261,300,89,129,1560,0.0096,34236,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-259,360,450,0,98,216,82,200,13924,0.086,34560,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-260,360,450,0,299,346,77,124,2209,0.0136,34776,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-261,360,450,0,289,336,72,119,2209,0.0136,34884,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-262,360,450,1,97,144,43,90,2209,0.0136,34884,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-263,360,450,0,128,185,39,96,3249,0.0201,34992,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-264,360,450,1,279,327,62,110,2304,0.0142,34992,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-265,360,450,0,140,188,38,86,2304,0.0142,35100,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-266,360,450,1,270,317,72,119,2209,0.0136,35100,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-267,360,450,0,140,188,43,90,2256,0.0139,35208,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-268,360,450,1,270,317,72,119,2209,0.0136,35208,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-269,360,450,0,182,250,62,131,4692,0.029,35316,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-270,360,450,1,396,450,69,138,3726,0.023,35316,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-271,360,450,0,113,152,61,101,1560,0.0096,35532,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-272,360,450,0,169,208,65,105,1560,0.0096,35640,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-273,360,450,1,257,296,61,101,1560,0.0096,35640,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-274,360,450,0,206,304,56,154,9604,0.0593,35856,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-275,360,450,0,56,155,66,164,9702,0.0599,35964,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-276,360,450,1,219,301,131,213,6724,0.0415,35964,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-277,360,450,0,56,155,56,154,9702,0.0599,36072,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-278,360,450,1,219,301,131,213,6724,0.0415,36072,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-279,360,450,0,236,334,56,154,9604,0.0593,36180,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-280,360,450,0,47,145,56,154,9604,0.0593,36288,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-281,360,450,1,206,304,115,214,9702,0.0599,36288,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-282,360,450,0,37,135,56,154,9604,0.0593,36396,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-283,360,450,1,211,292,131,213,6642,0.041,36396,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-284,360,450,0,114,256,59,201,20164,0.1245,36612,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-285,360,450,0,224,292,49,117,4624,0.0285,36828,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-286,360,450,0,169,251,57,138,6642,0.041,36936,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-287,360,450,0,169,251,57,138,6642,0.041,37044,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-288,360,450,0,169,251,57,138,6642,0.041,37152,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-289,360,450,0,116,286,72,241,28730,0.1773,37368,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-290,360,450,0,133,303,54,224,28900,0.1784,37476,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-291,360,450,0,116,286,54,224,28900,0.1784,37584,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-292,360,450,0,116,286,72,241,28730,0.1773,37692,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-293,360,450,0,211,292,98,180,6642,0.041,38664,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-294,360,450,0,186,284,76,174,9604,0.0593,38772,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-295,360,450,0,211,292,90,172,6642,0.041,38880,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-296,360,450,0,186,284,115,214,9702,0.0599,39096,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-297,360,450,0,182,300,70,188,13924,0.086,39204,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-298,360,450,0,196,294,86,184,9604,0.0593,39312,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-299,360,450,0,253,292,25,65,1560,0.0096,39420,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-300,360,450,0,170,288,70,188,13924,0.086,39636,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-301,360,450,0,169,216,48,95,2209,0.0136,39960,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-302,360,450,0,111,159,57,105,2304,0.0142,40068,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-303,360,450,1,318,375,206,263,3249,0.0201,40068,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-304,360,450,0,186,268,65,147,6724,0.0415,40392,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-305,360,450,0,169,251,73,155,6724,0.0415,40500,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-306,360,450,0,290,346,131,188,3192,0.0197,40932,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-307,360,450,0,267,323,131,188,3192,0.0197,41040,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-308,360,450,0,261,318,131,188,3249,0.0201,41148,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-309,360,450,0,255,312,62,119,3249,0.0201,41364,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-310,360,450,1,134,191,114,171,3249,0.0201,41364,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-311,360,450,0,261,318,50,107,3249,0.0201,41472,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-312,360,450,1,127,195,97,165,4624,0.0285,41472,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-313,360,450,0,230,299,125,193,4692,0.029,41904,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-314,360,450,0,119,201,73,155,6724,0.0415,42012,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-315,360,450,0,143,285,74,215,20022,0.1236,42228,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-316,360,450,0,146,244,46,144,9604,0.0593,42336,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-317,360,450,0,161,243,73,155,6724,0.0415,42444,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-318,360,450,0,146,264,82,200,13924,0.086,42660,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-319,360,450,0,189,228,97,137,1560,0.0096,42876,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-320,360,450,0,244,326,65,147,6724,0.0415,43092,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-321,360,450,1,76,175,155,254,9801,0.0605,43092,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-322,360,450,0,86,185,145,244,9801,0.0605,43200,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-323,360,450,0,94,176,148,230,6724,0.0415,43308,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-324,360,450,1,206,304,66,164,9604,0.0593,43308,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-325,360,450,0,235,317,57,138,6642,0.041,43416,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-326,360,450,1,103,185,156,238,6724,0.0415,43416,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-327,360,450,0,235,317,65,147,6724,0.0415,43524,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-328,360,450,1,94,176,164,246,6724,0.0415,43524,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-329,360,450,0,86,185,155,254,9801,0.0605,43632,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-330,360,450,1,216,314,66,164,9604,0.0593,43632,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-331,360,450,0,169,251,81,163,6724,0.0415,43740,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-332,360,450,0,169,251,65,147,6724,0.0415,43848,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-333,360,450,0,235,317,123,205,6724,0.0415,44928,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-334,360,450,1,78,160,65,147,6724,0.0415,44928,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-335,360,450,0,203,250,86,134,2256,0.0139,45144,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-336,360,450,1,65,122,33,90,3249,0.0201,45144,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-337,360,450,0,203,250,101,148,2209,0.0136,45360,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-338,360,450,1,76,133,45,101,3192,0.0197,45360,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-339,360,450,0,203,250,101,148,2209,0.0136,45468,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-340,360,450,1,71,128,45,101,3192,0.0197,45468,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-341,360,450,0,197,254,102,159,3249,0.0201,45576,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-342,360,450,1,71,128,45,101,3192,0.0197,45576,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-343,360,450,0,216,314,125,224,9702,0.0599,45792,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-344,360,450,1,86,185,46,144,9702,0.0599,45792,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-345,360,450,0,86,185,66,164,9702,0.0599,45900,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-346,360,450,1,216,314,125,224,9702,0.0599,45900,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-347,360,450,0,86,185,56,154,9702,0.0599,46008,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-348,360,450,1,236,334,125,224,9702,0.0599,46008,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-349,360,450,0,226,324,125,224,9702,0.0599,46116,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-350,360,450,1,96,195,76,174,9702,0.0599,46116,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-351,360,450,0,166,264,46,144,9604,0.0593,46332,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-352,360,450,0,166,264,86,184,9604,0.0593,46440,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-353,360,450,0,166,264,66,164,9604,0.0593,46548,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-354,360,450,0,116,286,72,241,28730,0.1773,46656,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-355,360,450,0,116,286,72,241,28730,0.1773,46764,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-356,360,450,0,76,175,76,174,9702,0.0599,46872,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-357,360,450,0,156,254,76,174,9604,0.0593,46980,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-358,360,450,0,156,254,76,174,9604,0.0593,47088,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-359,360,450,0,82,252,54,224,28900,0.1784,47196,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-360,360,450,0,82,252,54,224,28900,0.1784,47304,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-361,360,450,0,134,252,70,188,13924,0.086,47412,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-362,360,450,0,66,165,56,154,9702,0.0599,47520,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-363,360,450,0,99,269,54,224,28900,0.1784,47628,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-364,360,450,0,99,269,54,224,28900,0.1784,47736,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-365,360,450,0,99,269,54,224,28900,0.1784,47844,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-366,360,450,0,82,252,54,224,28900,0.1784,47952,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-367,360,450,0,99,269,54,224,28900,0.1784,48168,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-368,360,450,0,99,269,54,224,28900,0.1784,48276,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-369,360,450,0,99,269,72,241,28730,0.1773,48384,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-370,360,450,0,66,165,46,144,9702,0.0599,48492,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-371,360,450,1,286,428,145,287,20164,0.1245,48492,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-372,360,450,0,146,244,76,174,9604,0.0593,48600,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-373,360,450,0,76,175,46,144,9702,0.0599,48816,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-374,360,450,0,146,264,82,200,13924,0.086,48924,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-375,360,450,0,140,197,73,130,3249,0.0201,50220,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-376,360,450,0,258,326,97,165,4624,0.0285,50436,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-377,360,450,1,119,201,65,147,6724,0.0415,50436,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-378,360,450,0,255,312,96,153,3249,0.0201,50544,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-379,360,450,1,111,193,65,147,6724,0.0415,50544,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-380,360,450,0,261,318,108,165,3249,0.0201,50652,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-381,360,450,1,119,201,90,172,6724,0.0415,50652,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-382,360,450,0,251,319,104,172,4624,0.0285,50760,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-383,360,450,1,119,201,73,155,6724,0.0415,50760,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-384,360,450,0,251,319,97,165,4624,0.0285,50868,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-385,360,450,1,119,201,73,155,6724,0.0415,50868,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-386,360,450,0,251,319,104,172,4624,0.0285,50976,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-387,360,450,1,128,210,81,163,6724,0.0415,50976,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-388,360,450,0,128,210,57,138,6642,0.041,51084,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-389,360,450,0,249,306,166,222,3192,0.0197,51300,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-390,360,450,0,284,341,166,222,3192,0.0197,51408,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-391,360,450,0,295,352,85,142,3249,0.0201,51516,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-392,360,450,0,267,323,68,125,3192,0.0197,51624,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-393,360,450,0,194,312,82,200,13924,0.086,51732,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-394,360,450,0,206,323,82,200,13806,0.0852,51840,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-395,360,450,0,217,335,106,224,13924,0.086,51948,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-396,360,450,0,170,288,94,212,13924,0.086,52056,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-397,360,450,0,182,300,106,224,13924,0.086,52164,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-398,360,450,0,186,284,76,174,9604,0.0593,52272,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-399,360,450,0,194,312,94,212,13924,0.086,52380,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-400,360,450,0,182,300,94,212,13924,0.086,52488,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-401,360,450,0,194,312,94,212,13924,0.086,52596,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-402,360,450,0,176,274,86,184,9604,0.0593,52704,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-403,360,450,0,182,300,94,212,13924,0.086,52812,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-404,360,450,0,182,300,82,200,13924,0.086,52920,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-405,360,450,0,170,288,82,200,13924,0.086,53028,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-406,360,450,0,157,299,59,201,20164,0.1245,53136,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-407,360,450,0,170,288,118,236,13924,0.086,53244,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-408,360,450,0,176,274,86,184,9604,0.0593,53352,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-409,360,450,0,176,274,96,194,9604,0.0593,53460,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-410,360,450,0,156,254,105,204,9702,0.0599,53568,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-411,360,450,0,186,284,125,224,9702,0.0599,54000,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-412,360,450,0,206,304,66,164,9604,0.0593,54972,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-413,360,450,0,156,254,96,194,9604,0.0593,55188,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-414,360,450,0,196,294,46,144,9604,0.0593,55296,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-415,360,450,0,69,314,33,277,59780,0.369,55512,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-416,360,450,0,186,268,40,122,6724,0.0415,55728,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-417,360,450,0,177,259,48,130,6724,0.0415,55836,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-418,360,450,0,146,244,56,154,9604,0.0593,55944,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-419,360,450,0,196,294,66,164,9604,0.0593,56592,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-420,360,450,0,196,294,86,184,9604,0.0593,56700,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-421,360,450,0,141,209,104,172,4624,0.0285,56916,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-422,360,450,0,106,174,97,165,4624,0.0285,57024,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-423,360,450,0,188,236,72,119,2256,0.0139,57240,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-424,360,450,0,151,208,68,125,3249,0.0201,57348,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-425,360,450,0,131,178,77,124,2209,0.0136,57456,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-426,360,450,0,136,218,48,130,6724,0.0415,57564,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-427,360,450,0,229,268,101,141,1560,0.0096,57888,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-428,360,450,0,265,304,189,229,1560,0.0096,57996,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-429,360,450,0,277,316,205,245,1560,0.0096,58104,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-430,360,450,0,277,359,156,238,6724,0.0415,58212,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-431,360,450,0,269,351,164,246,6724,0.0415,58320,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-432,360,450,0,290,346,177,234,3192,0.0197,58428,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-433,360,450,0,301,419,225,343,13924,0.086,58536,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-434,360,450,0,229,347,106,224,13924,0.086,58644,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-435,360,450,0,145,184,137,177,1560,0.0096,58860,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-436,360,450,0,150,197,134,182,2256,0.0139,58968,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-437,360,450,0,249,306,68,125,3249,0.0201,59076,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-438,360,450,0,249,306,73,130,3249,0.0201,59184,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-439,360,450,0,157,214,189,245,3192,0.0197,59292,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-440,360,450,0,134,202,201,269,4624,0.0285,59400,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-441,360,450,0,193,240,72,119,2209,0.0136,59616,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-442,360,450,0,146,244,96,194,9604,0.0593,59724,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-443,360,450,0,156,254,96,194,9604,0.0593,59832,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-444,360,450,0,146,264,82,200,13924,0.086,59940,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-445,360,450,0,146,264,82,200,13924,0.086,60048,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-446,360,450,0,158,276,82,200,13924,0.086,60156,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-447,360,450,0,146,264,82,200,13924,0.086,60264,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-448,360,450,0,136,218,106,188,6724,0.0415,60372,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-449,360,450,0,136,234,66,164,9604,0.0593,60804,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-450,360,450,0,146,244,66,164,9604,0.0593,60912,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-451,360,450,0,0,64,90,158,4352,0.0269,61344,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-452,360,450,0,134,202,97,165,4624,0.0285,61452,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-453,360,450,0,127,195,97,165,4624,0.0285,61560,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-454,360,450,0,169,208,49,89,1560,0.0096,61992,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-455,360,450,0,265,312,72,119,2209,0.0136,62100,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-456,360,450,0,258,326,56,124,4624,0.0285,62208,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-457,360,450,1,123,179,56,113,3192,0.0197,62208,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-458,360,450,0,120,188,62,131,4692,0.029,62316,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-459,360,450,1,255,312,62,119,3249,0.0201,62316,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-460,360,450,0,158,276,70,188,13924,0.086,62424,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-461,360,450,0,170,288,70,188,13924,0.086,62532,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-462,360,450,0,146,264,82,200,13924,0.086,62640,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-463,360,450,0,267,323,62,119,3192,0.0197,62748,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-464,360,450,1,134,191,56,113,3249,0.0201,62748,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-465,360,450,0,215,272,62,119,3249,0.0201,62856,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-466,360,450,0,203,271,76,145,4692,0.029,62964,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-467,360,450,0,156,254,66,164,9604,0.0593,63180,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-468,360,450,0,119,201,48,130,6724,0.0415,63288,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-469,360,450,1,226,324,66,164,9604,0.0593,63288,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-470,360,450,0,111,193,57,138,6642,0.041,63396,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-471,360,450,1,236,334,66,164,9604,0.0593,63396,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-472,360,450,0,128,210,48,130,6724,0.0415,63504,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-473,360,450,0,244,326,73,155,6724,0.0415,63612,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-474,360,450,1,103,185,57,138,6642,0.041,63612,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-475,360,450,0,246,344,66,164,9604,0.0593,65124,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-476,360,450,0,272,414,88,230,20164,0.1245,65232,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-477,360,450,0,166,264,56,154,9604,0.0593,65340,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-478,360,450,0,133,303,72,241,28730,0.1773,65448,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-479,360,450,0,129,270,88,230,20022,0.1236,65556,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-480,360,450,0,47,145,56,154,9604,0.0593,65664,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-481,360,450,1,279,347,145,214,4692,0.029,65664,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-482,360,450,0,166,264,86,184,9604,0.0593,65772,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-483,360,450,0,143,285,102,244,20164,0.1245,65880,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-484,360,450,0,133,303,89,259,28900,0.1784,65988,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-485,360,450,0,116,286,54,224,28900,0.1784,66096,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-486,360,450,0,151,320,72,241,28561,0.1763,66204,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-487,360,450,0,151,320,89,259,28730,0.1773,66312,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-488,360,450,0,151,320,89,259,28730,0.1773,66420,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-489,360,450,0,143,285,102,244,20164,0.1245,66528,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-490,360,450,0,151,320,89,259,28730,0.1773,66636,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-491,360,450,0,143,285,102,244,20164,0.1245,66744,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-492,360,450,0,286,354,145,214,4692,0.029,66852,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-493,360,450,1,70,151,65,147,6642,0.041,66852,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-494,360,450,0,66,165,56,154,9702,0.0599,66960,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-495,360,450,0,332,380,110,158,2304,0.0142,67284,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-496,360,450,0,164,212,139,186,2256,0.0139,67392,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-497,360,450,1,88,145,62,119,3249,0.0201,67392,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-498,360,450,0,182,250,42,110,4624,0.0285,67824,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-499,360,450,0,210,278,152,221,4692,0.029,68580,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-500,360,450,1,127,195,118,186,4624,0.0285,68580,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-501,360,450,0,215,356,160,301,19881,0.1227,70848,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-502,360,450,0,206,323,178,296,13806,0.0852,70956,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-503,360,450,0,186,328,160,301,20022,0.1236,71064,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-504,360,450,0,215,356,145,287,20022,0.1236,71280,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-505,360,450,0,186,328,117,258,20022,0.1236,71388,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-506,360,450,1,86,227,59,201,20022,0.1236,71388,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-507,360,450,0,194,312,118,236,13924,0.086,71496,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-508,360,450,0,200,342,145,287,20164,0.1245,71604,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-509,360,450,0,215,356,145,287,20022,0.1236,71712,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-510,360,450,0,206,323,142,260,13806,0.0852,71820,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-511,360,450,0,217,335,154,272,13924,0.086,71928,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-512,360,450,0,194,276,106,188,6724,0.0415,72792,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-513,360,450,0,194,276,115,197,6724,0.0415,72900,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-514,360,450,0,194,276,106,188,6724,0.0415,73008,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-515,360,450,1,96,195,66,164,9702,0.0599,73008,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-516,360,450,0,186,268,115,197,6724,0.0415,73116,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-517,360,450,0,237,306,83,151,4692,0.029,73980,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-518,360,450,0,244,312,69,138,4692,0.029,74088,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-519,360,450,0,244,312,69,138,4692,0.029,74196,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-520,360,450,0,94,176,115,197,6724,0.0415,75600,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-521,360,450,1,226,324,66,164,9604,0.0593,75600,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-522,360,450,0,103,185,81,163,6724,0.0415,75708,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-523,360,450,1,211,292,90,172,6642,0.041,75708,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-524,360,450,0,86,185,56,154,9702,0.0599,75816,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-525,360,450,1,202,284,81,163,6724,0.0415,75816,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-526,360,450,0,212,260,86,134,2304,0.0142,76140,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-527,360,450,0,231,279,86,134,2304,0.0142,76248,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-528,360,450,0,219,301,115,197,6724,0.0415,76356,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-529,360,450,1,70,151,65,147,6642,0.041,76356,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-530,360,450,0,269,351,115,197,6724,0.0415,76464,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-531,360,450,1,86,168,48,130,6724,0.0415,76464,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-532,360,450,0,198,245,81,129,2256,0.0139,76572,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-533,360,450,0,269,351,131,213,6724,0.0415,76680,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-534,360,450,1,94,176,65,147,6724,0.0415,76680,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-535,360,450,0,302,384,73,155,6724,0.0415,76896,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-536,360,450,0,260,342,73,155,6724,0.0415,77004,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-537,360,450,0,255,312,56,113,3249,0.0201,77112,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-538,360,450,0,157,299,45,187,20164,0.1245,77220,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-539,360,450,0,157,299,45,187,20164,0.1245,77328,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-540,360,450,0,193,240,182,230,2256,0.0139,77544,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-541,360,450,0,169,251,73,155,6724,0.0415,78732,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-542,360,450,0,177,259,65,147,6724,0.0415,78840,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-543,360,450,0,169,251,73,155,6724,0.0415,78948,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-544,360,450,0,177,259,65,147,6724,0.0415,79056,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-545,360,450,0,217,285,69,138,4692,0.029,79272,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-546,360,450,0,106,174,132,200,4624,0.0285,79380,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-547,360,450,0,140,197,96,153,3249,0.0201,79596,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-548,360,450,0,236,334,135,234,9702,0.0599,79812,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-549,360,450,0,260,342,148,230,6724,0.0415,79920,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-550,360,450,0,244,326,140,221,6642,0.041,80028,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-551,360,450,0,227,309,140,221,6642,0.041,80136,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-552,360,450,0,216,314,56,154,9604,0.0593,80244,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-553,360,450,0,169,251,73,155,6724,0.0415,80352,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-554,360,450,0,258,326,69,138,4692,0.029,80784,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-555,360,450,1,134,202,56,124,4624,0.0285,80784,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-556,360,450,0,256,354,105,204,9702,0.0599,81108,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-557,360,450,1,116,214,86,184,9604,0.0593,81108,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-558,360,450,0,265,364,96,194,9702,0.0599,81216,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-559,360,450,0,275,374,155,254,9801,0.0605,81324,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-560,360,450,1,66,165,86,184,9702,0.0599,81324,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-561,360,450,0,235,317,90,172,6724,0.0415,81756,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-562,360,450,1,78,147,49,117,4692,0.029,81756,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-563,360,450,0,252,334,98,180,6724,0.0415,81864,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-564,360,450,1,103,185,65,147,6724,0.0415,81864,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-565,360,450,0,111,193,57,138,6642,0.041,81972,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-566,360,450,1,244,312,83,151,4624,0.0285,81972,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-567,360,450,0,251,319,83,151,4624,0.0285,82080,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-568,360,450,1,134,202,90,158,4624,0.0285,82080,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-569,360,450,0,236,334,105,204,9702,0.0599,82188,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-570,360,450,0,101,140,145,185,1560,0.0096,82296,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-571,360,450,0,102,149,86,134,2256,0.0139,82404,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-572,360,450,0,23,91,69,138,4692,0.029,82512,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-573,360,450,0,237,276,57,97,1560,0.0096,82836,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-574,360,450,0,227,274,62,110,2256,0.0139,83052,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-575,360,450,1,125,164,93,133,1560,0.0096,83052,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-576,360,450,0,101,140,117,157,1560,0.0096,83160,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-577,360,450,1,279,327,62,110,2304,0.0142,83160,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-578,360,450,0,221,260,57,97,1560,0.0096,83376,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-579,360,450,0,219,301,48,130,6724,0.0415,83916,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-580,360,450,0,227,309,48,130,6724,0.0415,84024,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-581,360,450,0,231,279,72,119,2256,0.0139,84132,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-582,360,450,0,236,284,77,124,2256,0.0139,84240,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-583,360,450,1,128,185,45,101,3192,0.0197,84240,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-584,360,450,0,236,284,77,124,2256,0.0139,84348,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-585,360,450,0,236,284,77,124,2256,0.0139,84456,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-586,360,450,0,215,272,79,136,3249,0.0201,84564,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-587,360,450,1,117,174,68,125,3249,0.0201,84564,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-588,360,450,0,128,185,56,113,3249,0.0201,84672,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-589,360,450,1,203,250,91,138,2209,0.0136,84672,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-590,360,450,0,157,299,102,244,20164,0.1245,84780,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-591,360,450,0,129,270,145,287,20022,0.1236,84888,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-592,360,450,0,151,320,72,241,28561,0.1763,84996,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-593,360,450,0,172,313,88,230,20022,0.1236,85104,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-594,360,450,0,114,256,88,230,20164,0.1245,85212,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-595,360,450,0,168,338,72,241,28730,0.1773,85320,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-596,360,450,0,157,299,45,187,20164,0.1245,85644,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-597,360,450,0,318,375,39,96,3249,0.0201,88128,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-598,360,450,0,295,352,73,130,3249,0.0201,88236,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-599,360,450,0,101,140,65,105,1560,0.0096,88452,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-600,360,450,0,289,328,85,125,1560,0.0096,88668,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-601,360,450,0,134,252,70,188,13924,0.086,88884,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-602,360,450,0,126,224,66,164,9604,0.0593,88992,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-603,360,450,0,134,252,58,176,13924,0.086,89100,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-604,360,450,0,122,240,58,176,13924,0.086,89208,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-605,360,450,0,265,364,66,164,9702,0.0599,89424,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-606,360,450,0,275,374,56,154,9702,0.0599,89532,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-607,360,450,1,47,145,36,134,9604,0.0593,89532,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-608,360,450,0,356,404,38,86,2304,0.0142,89748,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-609,360,450,1,213,252,77,117,1560,0.0096,89748,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-610,360,450,0,126,224,66,164,9604,0.0593,89856,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-611,360,450,0,144,226,65,147,6724,0.0415,89964,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-612,360,450,0,217,256,77,117,1560,0.0096,90072,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-613,360,450,1,345,384,49,89,1560,0.0096,90072,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-614,360,450,0,136,218,65,147,6724,0.0415,90180,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-615,360,450,0,156,254,66,164,9604,0.0593,90288,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-616,360,450,0,136,218,65,147,6724,0.0415,90396,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-617,360,450,0,255,312,50,107,3249,0.0201,90504,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-618,360,450,0,196,264,76,145,4692,0.029,90612,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-619,360,450,0,256,354,66,164,9604,0.0593,90720,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-620,360,450,0,126,224,56,154,9604,0.0593,90828,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-621,360,450,0,161,243,81,163,6724,0.0415,90936,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-622,360,450,0,169,251,73,155,6724,0.0415,91044,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-623,360,450,0,202,284,90,172,6724,0.0415,91152,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-624,360,450,0,136,218,57,138,6642,0.041,91260,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-625,360,450,0,136,218,65,147,6724,0.0415,91368,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-626,360,450,0,169,226,85,142,3249,0.0201,91476,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-627,360,450,0,169,226,85,142,3249,0.0201,91584,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-628,360,450,0,136,218,65,147,6724,0.0415,91692,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-629,360,450,0,174,231,79,136,3249,0.0201,91800,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-630,360,450,0,174,231,79,136,3249,0.0201,91908,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-631,360,450,0,169,251,81,163,6724,0.0415,92016,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-632,360,450,0,136,218,57,138,6642,0.041,92124,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-633,360,450,0,156,254,76,174,9604,0.0593,92232,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-634,360,450,0,136,218,57,138,6642,0.041,92340,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-635,360,450,0,175,243,83,151,4624,0.0285,92448,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-636,360,450,0,136,234,56,154,9604,0.0593,92556,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-637,360,450,0,161,243,90,172,6724,0.0415,92664,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-638,360,450,0,116,286,72,241,28730,0.1773,92772,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-639,360,450,0,133,303,89,259,28900,0.1784,92880,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-640,360,450,0,143,285,88,230,20164,0.1245,92988,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-641,360,450,0,133,303,72,241,28730,0.1773,93096,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-642,360,450,0,133,303,72,241,28730,0.1773,93204,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-643,360,450,0,133,303,72,241,28730,0.1773,93312,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-644,360,450,0,116,286,54,224,28900,0.1784,93420,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-645,360,450,0,116,286,72,241,28730,0.1773,93528,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-646,360,450,0,99,269,72,241,28730,0.1773,93636,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-647,360,450,0,116,286,72,241,28730,0.1773,93744,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-648,360,450,0,69,314,33,277,59780,0.369,93852,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-649,360,450,0,69,314,33,277,59780,0.369,93960,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-650,360,450,0,249,306,108,165,3249,0.0201,94392,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-651,360,450,1,246,293,24,71,2209,0.0136,94392,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-652,360,450,0,284,341,131,188,3249,0.0201,94500,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-653,360,450,0,279,347,118,186,4624,0.0285,94608,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-654,360,450,0,278,335,137,194,3249,0.0201,94716,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-655,360,450,0,278,335,125,182,3249,0.0201,94824,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-656,360,450,0,272,329,131,188,3249,0.0201,94932,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-657,360,450,0,272,340,125,193,4624,0.0285,95040,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-658,360,450,0,272,329,131,188,3249,0.0201,95148,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-659,360,450,0,272,329,125,182,3249,0.0201,95256,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-660,360,450,0,143,285,117,258,20022,0.1236,95364,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-661,360,450,0,272,329,131,188,3249,0.0201,95472,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-662,360,450,0,192,249,79,136,3249,0.0201,95580,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-663,360,450,0,128,210,90,172,6724,0.0415,95688,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-664,360,450,0,70,274,55,259,41616,0.2569,96660,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-665,360,450,0,70,274,76,280,41616,0.2569,96768,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-666,360,450,0,112,315,55,259,41412,0.2556,96876,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-667,360,450,0,112,315,55,259,41412,0.2556,96984,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-668,360,450,0,133,303,72,241,28730,0.1773,97092,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-669,360,450,0,112,315,55,259,41412,0.2556,97200,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-670,360,450,0,151,320,72,241,28561,0.1763,97308,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-671,360,450,0,132,336,55,259,41616,0.2569,97416,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-672,360,450,0,91,295,35,238,41412,0.2556,97524,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-673,360,450,0,185,355,72,241,28730,0.1773,97632,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-674,360,450,0,168,338,89,259,28900,0.1784,97740,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-675,360,450,0,151,320,72,241,28561,0.1763,97848,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-676,360,450,0,151,320,106,276,28730,0.1773,97956,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-677,360,450,0,132,336,76,280,41616,0.2569,98064,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-678,360,450,0,112,315,55,259,41412,0.2556,98172,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-679,360,450,0,133,303,72,241,28730,0.1773,98280,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-680,360,450,0,151,320,72,241,28561,0.1763,98388,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-681,360,450,0,106,174,62,131,4692,0.029,98496,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-682,360,450,1,284,341,114,171,3249,0.0201,98496,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-683,360,450,0,111,193,65,147,6724,0.0415,98604,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-684,360,450,1,284,341,119,176,3249,0.0201,98604,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-685,360,450,0,106,174,56,124,4624,0.0285,98712,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-686,360,450,1,279,347,111,179,4624,0.0285,98712,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-687,360,450,0,153,357,76,280,41616,0.2569,98820,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-688,360,450,0,168,338,72,241,28730,0.1773,98928,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-689,360,450,0,151,320,72,241,28561,0.1763,99036,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-690,360,450,0,133,303,54,224,28900,0.1784,99144,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-691,360,450,0,151,320,72,241,28561,0.1763,99252,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-692,360,450,0,151,320,89,259,28730,0.1773,99360,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-693,360,450,0,151,320,72,241,28561,0.1763,99468,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-694,360,450,0,133,303,54,224,28900,0.1784,99576,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-695,360,450,0,133,303,72,241,28730,0.1773,99684,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-696,360,450,0,151,320,72,241,28561,0.1763,99792,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-697,360,450,0,151,320,72,241,28561,0.1763,99900,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-698,360,450,0,151,320,72,241,28561,0.1763,100008,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-699,360,450,0,151,320,37,207,28730,0.1773,100116,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-700,360,450,0,133,303,54,224,28900,0.1784,100224,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-701,360,450,0,112,315,76,280,41412,0.2556,100332,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-702,360,450,0,133,303,72,241,28730,0.1773,100440,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-703,360,450,0,151,320,72,241,28561,0.1763,100548,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-704,360,450,0,185,355,54,224,28900,0.1784,100656,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-705,360,450,0,151,320,72,241,28561,0.1763,100764,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-706,360,450,0,116,286,54,224,28900,0.1784,100872,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-707,360,450,0,133,303,72,241,28730,0.1773,100980,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-708,360,450,0,133,303,72,241,28730,0.1773,101088,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-709,360,450,0,133,303,89,259,28900,0.1784,101196,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-710,360,450,0,86,185,56,154,9702,0.0599,101304,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-711,360,450,1,244,326,140,221,6642,0.041,101304,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-712,360,450,0,96,195,56,154,9702,0.0599,101412,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-713,360,450,1,252,334,173,255,6724,0.0415,101412,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-714,360,450,0,110,228,82,200,13924,0.086,101520,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-715,360,450,1,235,317,140,221,6642,0.041,101520,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-716,360,450,0,134,252,82,200,13924,0.086,101628,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-717,360,450,1,252,334,131,213,6724,0.0415,101628,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-718,360,450,0,122,240,70,188,13924,0.086,101736,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-719,360,450,1,244,326,131,213,6724,0.0415,101736,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-720,360,450,0,136,234,76,174,9604,0.0593,101844,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-721,360,450,1,252,334,123,205,6724,0.0415,101844,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-722,360,450,0,134,252,82,200,13924,0.086,101952,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-723,360,450,1,252,334,140,221,6642,0.041,101952,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-724,360,450,0,244,326,140,221,6642,0.041,102060,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-725,360,450,1,146,244,105,204,9702,0.0599,102060,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-726,360,450,0,134,252,82,200,13924,0.086,102168,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-727,360,450,1,252,334,131,213,6724,0.0415,102168,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-728,360,450,0,122,240,70,188,13924,0.086,102276,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-729,360,450,1,252,334,123,205,6724,0.0415,102276,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-730,360,450,0,110,228,70,188,13924,0.086,102384,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-731,360,450,1,252,334,123,205,6724,0.0415,102384,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-732,360,450,0,116,214,76,174,9604,0.0593,102492,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-733,360,450,1,252,334,123,205,6724,0.0415,102492,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-734,360,450,0,106,205,66,164,9702,0.0599,102600,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-735,360,450,1,252,334,131,213,6724,0.0415,102600,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-736,360,450,0,116,214,66,164,9604,0.0593,102708,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-737,360,450,1,244,326,140,221,6642,0.041,102708,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-738,360,450,0,233,272,153,193,1560,0.0096,103140,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-739,360,450,0,136,234,76,174,9604,0.0593,103248,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-740,360,450,0,186,284,56,154,9604,0.0593,103356,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-741,360,450,0,176,274,66,164,9604,0.0593,103464,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-742,360,450,0,177,259,73,155,6724,0.0415,103680,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-743,360,450,0,236,284,62,110,2304,0.0142,103788,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-744,360,450,0,15,63,91,138,2256,0.0139,103896,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-745,360,450,1,272,329,50,107,3249,0.0201,103896,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-746,360,450,0,301,358,56,113,3249,0.0201,104004,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-747,360,450,1,155,202,91,138,2209,0.0136,104004,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-748,360,450,0,150,197,91,138,2209,0.0136,104112,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-749,360,450,1,290,346,56,113,3192,0.0197,104112,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-750,360,450,0,145,192,91,138,2209,0.0136,104220,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-751,360,450,1,284,341,56,113,3249,0.0201,104220,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-752,360,450,0,290,346,56,113,3192,0.0197,104328,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-753,360,450,1,116,164,96,143,2256,0.0139,104328,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-754,360,450,0,313,370,50,107,3249,0.0201,104436,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-755,360,450,1,83,130,101,148,2209,0.0136,104436,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-756,360,450,0,235,317,81,163,6724,0.0415,104544,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-757,360,450,1,103,185,140,221,6642,0.041,104544,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-758,360,450,0,227,309,81,163,6724,0.0415,104652,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-759,360,450,1,76,175,145,244,9801,0.0605,104652,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-760,360,450,0,256,354,86,184,9604,0.0593,104760,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-761,360,450,1,57,199,145,287,20164,0.1245,104760,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-762,360,450,0,71,213,145,287,20164,0.1245,104868,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-763,360,450,1,265,364,76,174,9702,0.0599,104868,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-764,360,450,0,265,364,76,174,9702,0.0599,104976,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-765,360,450,1,57,199,145,287,20164,0.1245,104976,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-766,360,450,0,253,371,58,176,13924,0.086,105084,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-767,360,450,1,74,192,154,272,13924,0.086,105084,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-768,360,450,0,176,274,96,194,9604,0.0593,105408,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-769,360,450,0,170,288,82,200,13924,0.086,105516,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-770,360,450,0,170,288,70,188,13924,0.086,105624,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-771,360,450,0,186,284,96,194,9604,0.0593,105732,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-772,360,450,0,78,160,98,180,6724,0.0415,105840,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-773,360,450,0,324,381,73,130,3249,0.0201,106056,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-774,360,450,1,155,202,105,153,2256,0.0139,106056,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-775,360,450,0,324,381,79,136,3249,0.0201,106164,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-776,360,450,1,155,202,105,153,2256,0.0139,106164,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-777,360,450,0,146,244,76,174,9604,0.0593,106272,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-778,360,450,0,206,304,105,204,9702,0.0599,106380,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-779,360,450,0,172,313,102,244,20022,0.1236,106704,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-780,360,450,0,172,313,88,230,20022,0.1236,106812,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-781,360,450,0,151,208,96,153,3249,0.0201,107352,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-782,360,450,0,106,205,86,184,9702,0.0599,107460,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-783,360,450,1,244,312,125,193,4624,0.0285,107460,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-784,360,450,0,161,200,61,101,1560,0.0096,107892,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-785,360,450,0,166,264,96,194,9604,0.0593,108000,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-786,360,450,0,156,254,86,184,9604,0.0593,108108,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-787,360,450,0,158,276,70,188,13924,0.086,108324,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-788,360,450,0,166,264,86,184,9604,0.0593,108432,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-789,360,450,0,166,264,86,184,9604,0.0593,108540,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-790,360,450,0,166,264,86,184,9604,0.0593,108648,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-791,360,450,0,105,144,49,89,1560,0.0096,108756,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-792,360,450,0,116,286,54,224,28900,0.1784,108864,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-793,360,450,0,129,270,59,201,20022,0.1236,108972,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-794,360,450,0,114,256,102,244,20164,0.1245,109080,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-795,360,450,0,129,270,74,215,19881,0.1227,109188,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-796,360,450,0,133,303,72,241,28730,0.1773,109296,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-797,360,450,0,116,286,72,241,28730,0.1773,109404,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-798,360,450,0,116,286,72,241,28730,0.1773,109512,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-799,360,450,0,116,286,54,224,28900,0.1784,109620,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-800,360,450,0,157,196,49,89,1560,0.0096,109728,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-801,360,450,0,141,180,49,89,1560,0.0096,109836,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-802,360,450,0,103,185,98,180,6724,0.0415,110160,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-803,360,450,1,279,347,90,158,4624,0.0285,110160,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-804,360,450,0,279,347,83,151,4624,0.0285,110484,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-805,360,450,1,103,185,81,163,6724,0.0415,110484,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-806,360,450,0,246,344,86,184,9604,0.0593,110592,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-807,360,450,0,94,176,90,172,6724,0.0415,110700,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-808,360,450,1,272,340,90,158,4624,0.0285,110700,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-809,360,450,0,94,176,81,163,6724,0.0415,110808,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-810,360,450,1,272,340,104,172,4624,0.0285,110808,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-811,360,450,0,86,185,86,184,9702,0.0599,111024,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-812,360,450,1,260,342,81,163,6724,0.0415,111024,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-813,360,450,0,86,185,86,184,9702,0.0599,111240,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-814,360,450,1,260,342,90,172,6724,0.0415,111240,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-815,360,450,0,86,185,66,164,9702,0.0599,111348,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-816,360,450,1,252,334,81,163,6724,0.0415,111348,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-817,360,450,0,220,277,68,125,3249,0.0201,111456,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-818,360,450,0,146,244,96,194,9604,0.0593,111564,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-819,360,450,0,172,313,59,201,20022,0.1236,111672,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-820,360,450,0,143,285,88,230,20164,0.1245,111780,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-821,360,450,0,134,252,94,212,13924,0.086,111888,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-822,360,450,0,207,255,72,119,2256,0.0139,111996,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-823,360,450,0,116,286,89,259,28900,0.1784,112212,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-824,360,450,0,133,303,72,241,28730,0.1773,112320,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
-825,360,450,0,146,264,106,224,13924,0.086,112428,/home/amos/server/media/movies/The Garden Of Allah (1936)/The Garden Of Allah (1936).mp4
+,img_height,img_width,face_num,x1,x2,y1,y2,area,pct_of_frame,frame_num,imdb_id
+0,360,450,0,213,252,177,217,1560,0.0096,2808,27657
+1,360,450,0,96,195,205,303,9702,0.0599,3240,27657
+2,360,450,1,172,313,45,187,20022,0.1236,3240,27657
+3,360,450,0,146,244,105,204,9702,0.0599,3348,27657
+4,360,450,0,156,254,96,194,9604,0.0593,3456,27657
+5,360,450,0,226,324,76,174,9604,0.0593,3780,27657
+6,360,450,0,145,192,77,124,2209,0.0136,3888,27657
+7,360,450,0,265,333,221,290,4692,0.029,3996,27657
+8,360,450,1,169,251,214,296,6724,0.0415,3996,27657
+9,360,450,2,85,154,159,227,4692,0.029,3996,27657
+10,360,450,3,244,312,69,138,4692,0.029,3996,27657
+11,360,450,4,300,368,104,172,4624,0.0285,3996,27657
+12,360,450,0,265,333,221,290,4692,0.029,4104,27657
+13,360,450,1,252,334,65,147,6724,0.0415,4104,27657
+14,360,450,2,86,168,123,205,6724,0.0415,4104,27657
+15,360,450,3,189,257,194,262,4624,0.0285,4104,27657
+16,360,450,0,92,160,152,221,4692,0.029,4212,27657
+17,360,450,1,251,319,76,145,4692,0.029,4212,27657
+18,360,450,2,177,259,214,296,6724,0.0415,4212,27657
+19,360,450,3,94,176,48,130,6724,0.0415,4212,27657
+20,360,450,0,258,326,69,138,4692,0.029,4320,27657
+21,360,450,1,177,259,214,296,6724,0.0415,4320,27657
+22,360,450,2,92,160,159,227,4624,0.0285,4320,27657
+23,360,450,3,277,359,181,263,6724,0.0415,4320,27657
+24,360,450,4,103,185,57,138,6642,0.041,4320,27657
+25,360,450,0,252,334,65,147,6724,0.0415,4428,27657
+26,360,450,1,272,340,221,290,4692,0.029,4428,27657
+27,360,450,2,196,264,221,290,4692,0.029,4428,27657
+28,360,450,0,260,342,57,138,6642,0.041,4536,27657
+29,360,450,1,92,160,166,234,4624,0.0285,4536,27657
+30,360,450,2,177,259,214,296,6724,0.0415,4536,27657
+31,360,450,3,272,340,215,283,4624,0.0285,4536,27657
+32,360,450,0,136,234,145,244,9702,0.0599,4644,27657
+33,360,450,1,253,371,130,248,13924,0.086,4644,27657
+34,360,450,2,0,141,16,158,20022,0.1236,4644,27657
+35,360,450,0,277,395,118,236,13924,0.086,4752,27657
+36,360,450,1,158,276,118,236,13924,0.086,4752,27657
+37,360,450,2,26,144,34,152,13924,0.086,4752,27657
+38,360,450,0,158,276,94,212,13924,0.086,4860,27657
+39,360,450,1,272,414,88,230,20164,0.1245,4860,27657
+40,360,450,2,38,156,22,140,13924,0.086,4860,27657
+41,360,450,0,249,288,73,113,1560,0.0096,5508,27657
+42,360,450,0,196,294,96,194,9604,0.0593,5616,27657
+43,360,450,0,196,294,96,194,9604,0.0593,5724,27657
+44,360,450,0,136,218,81,163,6724,0.0415,5832,27657
+45,360,450,0,136,218,90,172,6724,0.0415,5940,27657
+46,360,450,0,136,218,90,172,6724,0.0415,6048,27657
+47,360,450,0,156,254,105,204,9702,0.0599,6156,27657
+48,360,450,0,233,272,85,125,1560,0.0096,6264,27657
+49,360,450,0,169,251,65,147,6724,0.0415,6696,27657
+50,360,450,0,194,276,65,147,6724,0.0415,6804,27657
+51,360,450,0,244,300,154,211,3192,0.0197,6912,27657
+52,360,450,0,161,243,90,172,6724,0.0415,7020,27657
+53,360,450,0,146,244,66,164,9604,0.0593,7128,27657
+54,360,450,0,176,274,96,194,9604,0.0593,7236,27657
+55,360,450,0,186,284,125,224,9702,0.0599,7344,27657
+56,360,450,0,136,218,81,163,6724,0.0415,7452,27657
+57,360,450,0,170,288,130,248,13924,0.086,7560,27657
+58,360,450,0,177,259,90,172,6724,0.0415,7668,27657
+59,360,450,0,166,264,66,164,9604,0.0593,7776,27657
+60,360,450,0,295,394,165,264,9801,0.0605,8964,27657
+61,360,450,0,246,293,72,119,2209,0.0136,9072,27657
+62,360,450,1,105,144,93,133,1560,0.0096,9072,27657
+63,360,450,0,257,296,69,109,1560,0.0096,9180,27657
+64,360,450,1,133,172,77,117,1560,0.0096,9180,27657
+65,360,450,0,169,208,81,121,1560,0.0096,9288,27657
+66,360,450,1,261,300,77,117,1560,0.0096,9288,27657
+67,360,450,0,207,255,86,134,2304,0.0142,9504,27657
+68,360,450,1,332,380,110,158,2304,0.0142,9504,27657
+69,360,450,2,0,32,89,129,1280,0.0079,9504,27657
+70,360,450,3,97,136,109,149,1560,0.0096,9504,27657
+71,360,450,0,381,420,89,129,1560,0.0096,9612,27657
+72,360,450,0,317,356,109,149,1560,0.0096,10152,27657
+73,360,450,0,295,352,131,188,3249,0.0201,10260,27657
+74,360,450,0,299,346,125,172,2209,0.0136,10368,27657
+75,360,450,0,227,309,90,172,6724,0.0415,10476,27657
+76,360,450,0,219,301,90,172,6724,0.0415,10584,27657
+77,360,450,0,230,299,104,172,4692,0.029,10692,27657
+78,360,450,0,244,312,104,172,4624,0.0285,10800,27657
+79,360,450,0,219,301,90,172,6724,0.0415,10908,27657
+80,360,450,0,113,181,49,117,4624,0.0285,11016,27657
+81,360,450,0,120,188,62,131,4692,0.029,11124,27657
+82,360,450,0,99,167,62,131,4692,0.029,11232,27657
+83,360,450,0,318,365,105,153,2256,0.0139,11340,27657
+84,360,450,0,270,317,110,158,2256,0.0139,11448,27657
+85,360,450,0,51,119,125,193,4624,0.0285,11556,27657
+86,360,450,1,293,361,138,207,4692,0.029,11556,27657
+87,360,450,0,366,413,125,172,2209,0.0136,11664,27657
+88,360,450,0,325,364,109,149,1560,0.0096,11772,27657
+89,360,450,0,217,264,57,105,2256,0.0139,11880,27657
+90,360,450,1,23,91,201,269,4624,0.0285,11880,27657
+91,360,450,0,295,352,85,142,3249,0.0201,11988,27657
+92,360,450,1,111,168,96,153,3249,0.0201,11988,27657
+93,360,450,0,284,341,91,148,3249,0.0201,12096,27657
+94,360,450,0,284,341,85,142,3249,0.0201,12204,27657
+95,360,450,0,117,174,154,211,3249,0.0201,12420,27657
+96,360,450,0,166,264,56,154,9604,0.0593,12528,27657
+97,360,450,0,356,404,197,244,2256,0.0139,12636,27657
+98,360,450,1,163,220,50,107,3249,0.0201,12636,27657
+99,360,450,2,106,174,221,290,4692,0.029,12636,27657
+100,360,450,0,177,216,77,117,1560,0.0096,12744,27657
+101,360,450,1,183,231,216,263,2256,0.0139,12744,27657
+102,360,450,0,193,240,62,110,2256,0.0139,13068,27657
+103,360,450,0,186,284,66,164,9604,0.0593,13284,27657
+104,360,450,0,327,375,192,239,2256,0.0139,13500,27657
+105,360,450,1,107,154,53,100,2209,0.0136,13500,27657
+106,360,450,0,323,370,197,244,2209,0.0136,13608,27657
+107,360,450,1,134,191,50,107,3249,0.0201,13608,27657
+108,360,450,0,332,380,197,244,2256,0.0139,13932,27657
+109,360,450,1,134,191,50,107,3249,0.0201,13932,27657
+110,360,450,0,337,384,197,244,2209,0.0136,14040,27657
+111,360,450,1,123,179,56,113,3192,0.0197,14040,27657
+112,360,450,0,182,250,42,110,4624,0.0285,14256,27657
+113,360,450,0,202,284,57,138,6642,0.041,15012,27657
+114,360,450,0,194,276,57,138,6642,0.041,15120,27657
+115,360,450,0,252,334,57,138,6642,0.041,15228,27657
+116,360,450,1,86,168,65,147,6724,0.0415,15228,27657
+117,360,450,0,47,145,36,134,9604,0.0593,15336,27657
+118,360,450,1,260,342,57,138,6642,0.041,15336,27657
+119,360,450,0,56,155,36,134,9702,0.0599,15444,27657
+120,360,450,1,269,351,57,138,6642,0.041,15444,27657
+121,360,450,0,47,145,36,134,9604,0.0593,15552,27657
+122,360,450,1,277,359,48,130,6724,0.0415,15552,27657
+123,360,450,0,56,155,36,134,9702,0.0599,15660,27657
+124,360,450,1,260,342,57,138,6642,0.041,15660,27657
+125,360,450,0,146,264,70,188,13924,0.086,15768,27657
+126,360,450,0,197,236,45,85,1560,0.0096,16308,27657
+127,360,450,0,196,294,66,164,9604,0.0593,16416,27657
+128,360,450,0,186,284,66,164,9604,0.0593,16740,27657
+129,360,450,0,341,398,50,107,3249,0.0201,17172,27657
+130,360,450,0,163,220,131,188,3249,0.0201,17280,27657
+131,360,450,0,144,226,81,163,6724,0.0415,17388,27657
+132,360,450,0,113,181,83,151,4624,0.0285,17496,27657
+133,360,450,0,99,167,83,151,4624,0.0285,17604,27657
+134,360,450,1,269,351,73,155,6724,0.0415,17604,27657
+135,360,450,0,113,181,83,151,4624,0.0285,17712,27657
+136,360,450,1,285,367,57,138,6642,0.041,17712,27657
+137,360,450,0,143,285,59,201,20164,0.1245,17820,27657
+138,360,450,0,99,167,90,158,4624,0.0285,17928,27657
+139,360,450,1,293,375,48,130,6724,0.0415,17928,27657
+140,360,450,0,141,180,157,197,1560,0.0096,18036,27657
+141,360,450,1,265,312,38,86,2256,0.0139,18036,27657
+142,360,450,0,169,216,105,153,2256,0.0139,18144,27657
+143,360,450,1,49,88,109,149,1560,0.0096,18144,27657
+144,360,450,0,65,133,90,158,4624,0.0285,18252,27657
+145,360,450,1,224,292,49,117,4624,0.0285,18252,27657
+146,360,450,0,330,387,45,101,3192,0.0197,18360,27657
+147,360,450,1,65,122,108,165,3249,0.0201,18360,27657
+148,360,450,0,210,278,83,151,4624,0.0285,18468,27657
+149,360,450,0,140,197,73,130,3249,0.0201,18576,27657
+150,360,450,0,106,205,96,194,9702,0.0599,18792,27657
+151,360,450,1,305,404,86,184,9702,0.0599,18792,27657
+152,360,450,0,140,197,125,182,3249,0.0201,20088,27657
+153,360,450,1,261,318,114,171,3249,0.0201,20088,27657
+154,360,450,2,342,389,57,105,2256,0.0139,20088,27657
+155,360,450,0,163,220,114,171,3249,0.0201,20520,27657
+156,360,450,1,313,370,96,153,3249,0.0201,20520,27657
+157,360,450,0,151,208,114,171,3249,0.0201,20628,27657
+158,360,450,1,307,364,96,153,3249,0.0201,20628,27657
+159,360,450,0,336,393,91,148,3249,0.0201,20736,27657
+160,360,450,1,58,126,69,138,4692,0.029,20736,27657
+161,360,450,2,197,254,119,176,3249,0.0201,20736,27657
+162,360,450,0,128,210,48,130,6724,0.0415,20844,27657
+163,360,450,0,188,236,101,148,2256,0.0139,21060,27657
+164,360,450,0,166,264,66,164,9604,0.0593,21276,27657
+165,360,450,0,158,276,46,164,13924,0.086,21384,27657
+166,360,450,0,129,168,85,125,1560,0.0096,21924,27657
+167,360,450,0,135,183,86,134,2304,0.0142,22032,27657
+168,360,450,0,135,183,86,134,2304,0.0142,22140,27657
+169,360,450,0,145,184,85,125,1560,0.0096,22248,27657
+170,360,450,0,186,268,48,130,6724,0.0415,22356,27657
+171,360,450,0,177,259,57,138,6642,0.041,22464,27657
+172,360,450,0,210,278,62,131,4692,0.029,22572,27657
+173,360,450,0,197,236,69,109,1560,0.0096,22788,27657
+174,360,450,0,203,271,83,151,4624,0.0285,22896,27657
+175,360,450,0,301,358,102,159,3249,0.0201,23112,27657
+176,360,450,1,215,272,96,153,3249,0.0201,23112,27657
+177,360,450,0,209,266,91,148,3249,0.0201,23220,27657
+178,360,450,1,2,71,35,103,4692,0.029,23220,27657
+179,360,450,0,165,204,73,113,1560,0.0096,23436,27657
+180,360,450,0,243,385,102,244,20164,0.1245,23544,27657
+181,360,450,0,99,269,54,224,28900,0.1784,23652,27657
+182,360,450,0,106,174,76,145,4692,0.029,23760,27657
+183,360,450,1,272,340,83,151,4624,0.0285,23760,27657
+184,360,450,2,226,283,16,73,3249,0.0201,23760,27657
+185,360,450,0,113,181,83,151,4624,0.0285,23868,27657
+186,360,450,1,251,319,90,158,4624,0.0285,23868,27657
+187,360,450,0,229,268,69,109,1560,0.0096,23976,27657
+188,360,450,0,161,200,53,93,1560,0.0096,24084,27657
+189,360,450,0,201,240,73,113,1560,0.0096,24192,27657
+190,360,450,0,173,212,101,141,1560,0.0096,24408,27657
+191,360,450,0,135,183,163,210,2256,0.0139,24732,27657
+192,360,450,1,286,354,28,96,4624,0.0285,24732,27657
+193,360,450,0,155,202,158,206,2256,0.0139,24840,27657
+194,360,450,1,295,352,50,107,3249,0.0201,24840,27657
+195,360,450,0,132,336,55,259,41616,0.2569,24948,27657
+196,360,450,0,112,315,55,259,41412,0.2556,25056,27657
+197,360,450,0,112,315,55,259,41412,0.2556,25164,27657
+198,360,450,1,0,127,188,330,18034,0.1113,25164,27657
+199,360,450,0,182,300,94,212,13924,0.086,25272,27657
+200,360,450,0,119,201,90,172,6724,0.0415,25596,27657
+201,360,450,0,166,264,96,194,9604,0.0593,25704,27657
+202,360,450,0,251,298,62,110,2256,0.0139,25812,27657
+203,360,450,0,166,264,105,204,9702,0.0599,25920,27657
+204,360,450,0,0,85,115,214,8415,0.0519,26028,27657
+205,360,450,0,157,299,117,258,20022,0.1236,26136,27657
+206,360,450,0,172,313,102,244,20022,0.1236,26244,27657
+207,360,450,0,177,216,65,105,1560,0.0096,26568,27657
+208,360,450,1,69,108,249,289,1560,0.0096,26568,27657
+209,360,450,2,29,68,217,257,1560,0.0096,26568,27657
+210,360,450,0,186,284,96,194,9604,0.0593,26676,27657
+211,360,450,0,111,168,131,188,3249,0.0201,26784,27657
+212,360,450,0,170,288,118,236,13924,0.086,26892,27657
+213,360,450,0,157,299,145,287,20164,0.1245,27000,27657
+214,360,450,0,134,202,90,158,4624,0.0285,27216,27657
+215,360,450,0,166,264,105,204,9702,0.0599,27648,27657
+216,360,450,0,151,320,72,241,28561,0.1763,27756,27657
+217,360,450,0,194,312,130,248,13924,0.086,28080,27657
+218,360,450,0,186,328,59,201,20164,0.1245,28188,27657
+219,360,450,0,176,274,76,174,9604,0.0593,28620,27657
+220,360,450,0,166,264,96,194,9604,0.0593,28944,27657
+221,360,450,0,325,364,97,137,1560,0.0096,29052,27657
+222,360,450,0,321,360,109,149,1560,0.0096,29160,27657
+223,360,450,0,134,252,142,260,13924,0.086,29268,27657
+224,360,450,0,133,303,123,293,28900,0.1784,29376,27657
+225,360,450,0,99,269,72,241,28730,0.1773,29484,27657
+226,360,450,0,168,338,37,207,28900,0.1784,29592,27657
+227,360,450,0,133,303,72,241,28730,0.1773,29700,27657
+228,360,450,0,186,284,96,194,9604,0.0593,30024,27657
+229,360,450,0,166,264,105,204,9702,0.0599,30240,27657
+230,360,450,0,146,244,66,164,9604,0.0593,30348,27657
+231,360,450,0,293,375,98,180,6724,0.0415,30780,27657
+232,360,450,1,154,223,145,214,4761,0.0294,30780,27657
+233,360,450,0,275,374,96,194,9702,0.0599,30888,27657
+234,360,450,1,154,223,145,214,4761,0.0294,30888,27657
+235,360,450,0,136,234,135,234,9702,0.0599,31212,27657
+236,360,450,0,119,201,123,205,6724,0.0415,31320,27657
+237,360,450,1,244,326,81,163,6724,0.0415,31320,27657
+238,360,450,0,119,201,131,213,6724,0.0415,31428,27657
+239,360,450,0,349,388,85,125,1560,0.0096,31644,27657
+240,360,450,0,189,228,97,137,1560,0.0096,32292,27657
+241,360,450,0,209,248,93,133,1560,0.0096,32400,27657
+242,360,450,0,103,185,173,255,6724,0.0415,32508,27657
+243,360,450,0,111,193,173,255,6724,0.0415,32616,27657
+244,360,450,0,293,361,173,241,4624,0.0285,32832,27657
+245,360,450,0,307,364,62,119,3249,0.0201,32940,27657
+246,360,450,0,337,376,49,89,1560,0.0096,33264,27657
+247,360,450,0,267,323,96,153,3192,0.0197,33480,27657
+248,360,450,1,342,389,120,167,2209,0.0136,33480,27657
+249,360,450,0,161,243,48,130,6724,0.0415,33588,27657
+250,360,450,1,258,326,97,165,4624,0.0285,33588,27657
+251,360,450,0,141,209,62,131,4692,0.029,33696,27657
+252,360,450,1,265,333,97,165,4624,0.0285,33696,27657
+253,360,450,0,141,209,56,124,4624,0.0285,33804,27657
+254,360,450,1,260,342,98,180,6724,0.0415,33804,27657
+255,360,450,0,127,195,49,117,4624,0.0285,33912,27657
+256,360,450,1,269,351,81,163,6724,0.0415,33912,27657
+257,360,450,0,233,272,49,89,1560,0.0096,34128,27657
+258,360,450,0,261,300,89,129,1560,0.0096,34236,27657
+259,360,450,0,98,216,82,200,13924,0.086,34560,27657
+260,360,450,0,299,346,77,124,2209,0.0136,34776,27657
+261,360,450,0,289,336,72,119,2209,0.0136,34884,27657
+262,360,450,1,97,144,43,90,2209,0.0136,34884,27657
+263,360,450,0,128,185,39,96,3249,0.0201,34992,27657
+264,360,450,1,279,327,62,110,2304,0.0142,34992,27657
+265,360,450,0,140,188,38,86,2304,0.0142,35100,27657
+266,360,450,1,270,317,72,119,2209,0.0136,35100,27657
+267,360,450,0,140,188,43,90,2256,0.0139,35208,27657
+268,360,450,1,270,317,72,119,2209,0.0136,35208,27657
+269,360,450,0,182,250,62,131,4692,0.029,35316,27657
+270,360,450,1,396,450,69,138,3726,0.023,35316,27657
+271,360,450,0,113,152,61,101,1560,0.0096,35532,27657
+272,360,450,0,169,208,65,105,1560,0.0096,35640,27657
+273,360,450,1,257,296,61,101,1560,0.0096,35640,27657
+274,360,450,0,206,304,56,154,9604,0.0593,35856,27657
+275,360,450,0,56,155,66,164,9702,0.0599,35964,27657
+276,360,450,1,219,301,131,213,6724,0.0415,35964,27657
+277,360,450,0,56,155,56,154,9702,0.0599,36072,27657
+278,360,450,1,219,301,131,213,6724,0.0415,36072,27657
+279,360,450,0,236,334,56,154,9604,0.0593,36180,27657
+280,360,450,0,47,145,56,154,9604,0.0593,36288,27657
+281,360,450,1,206,304,115,214,9702,0.0599,36288,27657
+282,360,450,0,37,135,56,154,9604,0.0593,36396,27657
+283,360,450,1,211,292,131,213,6642,0.041,36396,27657
+284,360,450,0,114,256,59,201,20164,0.1245,36612,27657
+285,360,450,0,224,292,49,117,4624,0.0285,36828,27657
+286,360,450,0,169,251,57,138,6642,0.041,36936,27657
+287,360,450,0,169,251,57,138,6642,0.041,37044,27657
+288,360,450,0,169,251,57,138,6642,0.041,37152,27657
+289,360,450,0,116,286,72,241,28730,0.1773,37368,27657
+290,360,450,0,133,303,54,224,28900,0.1784,37476,27657
+291,360,450,0,116,286,54,224,28900,0.1784,37584,27657
+292,360,450,0,116,286,72,241,28730,0.1773,37692,27657
+293,360,450,0,211,292,98,180,6642,0.041,38664,27657
+294,360,450,0,186,284,76,174,9604,0.0593,38772,27657
+295,360,450,0,211,292,90,172,6642,0.041,38880,27657
+296,360,450,0,186,284,115,214,9702,0.0599,39096,27657
+297,360,450,0,182,300,70,188,13924,0.086,39204,27657
+298,360,450,0,196,294,86,184,9604,0.0593,39312,27657
+299,360,450,0,253,292,25,65,1560,0.0096,39420,27657
+300,360,450,0,170,288,70,188,13924,0.086,39636,27657
+301,360,450,0,169,216,48,95,2209,0.0136,39960,27657
+302,360,450,0,111,159,57,105,2304,0.0142,40068,27657
+303,360,450,1,318,375,206,263,3249,0.0201,40068,27657
+304,360,450,0,186,268,65,147,6724,0.0415,40392,27657
+305,360,450,0,169,251,73,155,6724,0.0415,40500,27657
+306,360,450,0,290,346,131,188,3192,0.0197,40932,27657
+307,360,450,0,267,323,131,188,3192,0.0197,41040,27657
+308,360,450,0,261,318,131,188,3249,0.0201,41148,27657
+309,360,450,0,255,312,62,119,3249,0.0201,41364,27657
+310,360,450,1,134,191,114,171,3249,0.0201,41364,27657
+311,360,450,0,261,318,50,107,3249,0.0201,41472,27657
+312,360,450,1,127,195,97,165,4624,0.0285,41472,27657
+313,360,450,0,230,299,125,193,4692,0.029,41904,27657
+314,360,450,0,119,201,73,155,6724,0.0415,42012,27657
+315,360,450,0,143,285,74,215,20022,0.1236,42228,27657
+316,360,450,0,146,244,46,144,9604,0.0593,42336,27657
+317,360,450,0,161,243,73,155,6724,0.0415,42444,27657
+318,360,450,0,146,264,82,200,13924,0.086,42660,27657
+319,360,450,0,189,228,97,137,1560,0.0096,42876,27657
+320,360,450,0,244,326,65,147,6724,0.0415,43092,27657
+321,360,450,1,76,175,155,254,9801,0.0605,43092,27657
+322,360,450,0,86,185,145,244,9801,0.0605,43200,27657
+323,360,450,0,94,176,148,230,6724,0.0415,43308,27657
+324,360,450,1,206,304,66,164,9604,0.0593,43308,27657
+325,360,450,0,235,317,57,138,6642,0.041,43416,27657
+326,360,450,1,103,185,156,238,6724,0.0415,43416,27657
+327,360,450,0,235,317,65,147,6724,0.0415,43524,27657
+328,360,450,1,94,176,164,246,6724,0.0415,43524,27657
+329,360,450,0,86,185,155,254,9801,0.0605,43632,27657
+330,360,450,1,216,314,66,164,9604,0.0593,43632,27657
+331,360,450,0,169,251,81,163,6724,0.0415,43740,27657
+332,360,450,0,169,251,65,147,6724,0.0415,43848,27657
+333,360,450,0,235,317,123,205,6724,0.0415,44928,27657
+334,360,450,1,78,160,65,147,6724,0.0415,44928,27657
+335,360,450,0,203,250,86,134,2256,0.0139,45144,27657
+336,360,450,1,65,122,33,90,3249,0.0201,45144,27657
+337,360,450,0,203,250,101,148,2209,0.0136,45360,27657
+338,360,450,1,76,133,45,101,3192,0.0197,45360,27657
+339,360,450,0,203,250,101,148,2209,0.0136,45468,27657
+340,360,450,1,71,128,45,101,3192,0.0197,45468,27657
+341,360,450,0,197,254,102,159,3249,0.0201,45576,27657
+342,360,450,1,71,128,45,101,3192,0.0197,45576,27657
+343,360,450,0,216,314,125,224,9702,0.0599,45792,27657
+344,360,450,1,86,185,46,144,9702,0.0599,45792,27657
+345,360,450,0,86,185,66,164,9702,0.0599,45900,27657
+346,360,450,1,216,314,125,224,9702,0.0599,45900,27657
+347,360,450,0,86,185,56,154,9702,0.0599,46008,27657
+348,360,450,1,236,334,125,224,9702,0.0599,46008,27657
+349,360,450,0,226,324,125,224,9702,0.0599,46116,27657
+350,360,450,1,96,195,76,174,9702,0.0599,46116,27657
+351,360,450,0,166,264,46,144,9604,0.0593,46332,27657
+352,360,450,0,166,264,86,184,9604,0.0593,46440,27657
+353,360,450,0,166,264,66,164,9604,0.0593,46548,27657
+354,360,450,0,116,286,72,241,28730,0.1773,46656,27657
+355,360,450,0,116,286,72,241,28730,0.1773,46764,27657
+356,360,450,0,76,175,76,174,9702,0.0599,46872,27657
+357,360,450,0,156,254,76,174,9604,0.0593,46980,27657
+358,360,450,0,156,254,76,174,9604,0.0593,47088,27657
+359,360,450,0,82,252,54,224,28900,0.1784,47196,27657
+360,360,450,0,82,252,54,224,28900,0.1784,47304,27657
+361,360,450,0,134,252,70,188,13924,0.086,47412,27657
+362,360,450,0,66,165,56,154,9702,0.0599,47520,27657
+363,360,450,0,99,269,54,224,28900,0.1784,47628,27657
+364,360,450,0,99,269,54,224,28900,0.1784,47736,27657
+365,360,450,0,99,269,54,224,28900,0.1784,47844,27657
+366,360,450,0,82,252,54,224,28900,0.1784,47952,27657
+367,360,450,0,99,269,54,224,28900,0.1784,48168,27657
+368,360,450,0,99,269,54,224,28900,0.1784,48276,27657
+369,360,450,0,99,269,72,241,28730,0.1773,48384,27657
+370,360,450,0,66,165,46,144,9702,0.0599,48492,27657
+371,360,450,1,286,428,145,287,20164,0.1245,48492,27657
+372,360,450,0,146,244,76,174,9604,0.0593,48600,27657
+373,360,450,0,76,175,46,144,9702,0.0599,48816,27657
+374,360,450,0,146,264,82,200,13924,0.086,48924,27657
+375,360,450,0,140,197,73,130,3249,0.0201,50220,27657
+376,360,450,0,258,326,97,165,4624,0.0285,50436,27657
+377,360,450,1,119,201,65,147,6724,0.0415,50436,27657
+378,360,450,0,255,312,96,153,3249,0.0201,50544,27657
+379,360,450,1,111,193,65,147,6724,0.0415,50544,27657
+380,360,450,0,261,318,108,165,3249,0.0201,50652,27657
+381,360,450,1,119,201,90,172,6724,0.0415,50652,27657
+382,360,450,0,251,319,104,172,4624,0.0285,50760,27657
+383,360,450,1,119,201,73,155,6724,0.0415,50760,27657
+384,360,450,0,251,319,97,165,4624,0.0285,50868,27657
+385,360,450,1,119,201,73,155,6724,0.0415,50868,27657
+386,360,450,0,251,319,104,172,4624,0.0285,50976,27657
+387,360,450,1,128,210,81,163,6724,0.0415,50976,27657
+388,360,450,0,128,210,57,138,6642,0.041,51084,27657
+389,360,450,0,249,306,166,222,3192,0.0197,51300,27657
+390,360,450,0,284,341,166,222,3192,0.0197,51408,27657
+391,360,450,0,295,352,85,142,3249,0.0201,51516,27657
+392,360,450,0,267,323,68,125,3192,0.0197,51624,27657
+393,360,450,0,194,312,82,200,13924,0.086,51732,27657
+394,360,450,0,206,323,82,200,13806,0.0852,51840,27657
+395,360,450,0,217,335,106,224,13924,0.086,51948,27657
+396,360,450,0,170,288,94,212,13924,0.086,52056,27657
+397,360,450,0,182,300,106,224,13924,0.086,52164,27657
+398,360,450,0,186,284,76,174,9604,0.0593,52272,27657
+399,360,450,0,194,312,94,212,13924,0.086,52380,27657
+400,360,450,0,182,300,94,212,13924,0.086,52488,27657
+401,360,450,0,194,312,94,212,13924,0.086,52596,27657
+402,360,450,0,176,274,86,184,9604,0.0593,52704,27657
+403,360,450,0,182,300,94,212,13924,0.086,52812,27657
+404,360,450,0,182,300,82,200,13924,0.086,52920,27657
+405,360,450,0,170,288,82,200,13924,0.086,53028,27657
+406,360,450,0,157,299,59,201,20164,0.1245,53136,27657
+407,360,450,0,170,288,118,236,13924,0.086,53244,27657
+408,360,450,0,176,274,86,184,9604,0.0593,53352,27657
+409,360,450,0,176,274,96,194,9604,0.0593,53460,27657
+410,360,450,0,156,254,105,204,9702,0.0599,53568,27657
+411,360,450,0,186,284,125,224,9702,0.0599,54000,27657
+412,360,450,0,206,304,66,164,9604,0.0593,54972,27657
+413,360,450,0,156,254,96,194,9604,0.0593,55188,27657
+414,360,450,0,196,294,46,144,9604,0.0593,55296,27657
+415,360,450,0,69,314,33,277,59780,0.369,55512,27657
+416,360,450,0,186,268,40,122,6724,0.0415,55728,27657
+417,360,450,0,177,259,48,130,6724,0.0415,55836,27657
+418,360,450,0,146,244,56,154,9604,0.0593,55944,27657
+419,360,450,0,196,294,66,164,9604,0.0593,56592,27657
+420,360,450,0,196,294,86,184,9604,0.0593,56700,27657
+421,360,450,0,141,209,104,172,4624,0.0285,56916,27657
+422,360,450,0,106,174,97,165,4624,0.0285,57024,27657
+423,360,450,0,188,236,72,119,2256,0.0139,57240,27657
+424,360,450,0,151,208,68,125,3249,0.0201,57348,27657
+425,360,450,0,131,178,77,124,2209,0.0136,57456,27657
+426,360,450,0,136,218,48,130,6724,0.0415,57564,27657
+427,360,450,0,229,268,101,141,1560,0.0096,57888,27657
+428,360,450,0,265,304,189,229,1560,0.0096,57996,27657
+429,360,450,0,277,316,205,245,1560,0.0096,58104,27657
+430,360,450,0,277,359,156,238,6724,0.0415,58212,27657
+431,360,450,0,269,351,164,246,6724,0.0415,58320,27657
+432,360,450,0,290,346,177,234,3192,0.0197,58428,27657
+433,360,450,0,301,419,225,343,13924,0.086,58536,27657
+434,360,450,0,229,347,106,224,13924,0.086,58644,27657
+435,360,450,0,145,184,137,177,1560,0.0096,58860,27657
+436,360,450,0,150,197,134,182,2256,0.0139,58968,27657
+437,360,450,0,249,306,68,125,3249,0.0201,59076,27657
+438,360,450,0,249,306,73,130,3249,0.0201,59184,27657
+439,360,450,0,157,214,189,245,3192,0.0197,59292,27657
+440,360,450,0,134,202,201,269,4624,0.0285,59400,27657
+441,360,450,0,193,240,72,119,2209,0.0136,59616,27657
+442,360,450,0,146,244,96,194,9604,0.0593,59724,27657
+443,360,450,0,156,254,96,194,9604,0.0593,59832,27657
+444,360,450,0,146,264,82,200,13924,0.086,59940,27657
+445,360,450,0,146,264,82,200,13924,0.086,60048,27657
+446,360,450,0,158,276,82,200,13924,0.086,60156,27657
+447,360,450,0,146,264,82,200,13924,0.086,60264,27657
+448,360,450,0,136,218,106,188,6724,0.0415,60372,27657
+449,360,450,0,136,234,66,164,9604,0.0593,60804,27657
+450,360,450,0,146,244,66,164,9604,0.0593,60912,27657
+451,360,450,0,0,64,90,158,4352,0.0269,61344,27657
+452,360,450,0,134,202,97,165,4624,0.0285,61452,27657
+453,360,450,0,127,195,97,165,4624,0.0285,61560,27657
+454,360,450,0,169,208,49,89,1560,0.0096,61992,27657
+455,360,450,0,265,312,72,119,2209,0.0136,62100,27657
+456,360,450,0,258,326,56,124,4624,0.0285,62208,27657
+457,360,450,1,123,179,56,113,3192,0.0197,62208,27657
+458,360,450,0,120,188,62,131,4692,0.029,62316,27657
+459,360,450,1,255,312,62,119,3249,0.0201,62316,27657
+460,360,450,0,158,276,70,188,13924,0.086,62424,27657
+461,360,450,0,170,288,70,188,13924,0.086,62532,27657
+462,360,450,0,146,264,82,200,13924,0.086,62640,27657
+463,360,450,0,267,323,62,119,3192,0.0197,62748,27657
+464,360,450,1,134,191,56,113,3249,0.0201,62748,27657
+465,360,450,0,215,272,62,119,3249,0.0201,62856,27657
+466,360,450,0,203,271,76,145,4692,0.029,62964,27657
+467,360,450,0,156,254,66,164,9604,0.0593,63180,27657
+468,360,450,0,119,201,48,130,6724,0.0415,63288,27657
+469,360,450,1,226,324,66,164,9604,0.0593,63288,27657
+470,360,450,0,111,193,57,138,6642,0.041,63396,27657
+471,360,450,1,236,334,66,164,9604,0.0593,63396,27657
+472,360,450,0,128,210,48,130,6724,0.0415,63504,27657
+473,360,450,0,244,326,73,155,6724,0.0415,63612,27657
+474,360,450,1,103,185,57,138,6642,0.041,63612,27657
+475,360,450,0,246,344,66,164,9604,0.0593,65124,27657
+476,360,450,0,272,414,88,230,20164,0.1245,65232,27657
+477,360,450,0,166,264,56,154,9604,0.0593,65340,27657
+478,360,450,0,133,303,72,241,28730,0.1773,65448,27657
+479,360,450,0,129,270,88,230,20022,0.1236,65556,27657
+480,360,450,0,47,145,56,154,9604,0.0593,65664,27657
+481,360,450,1,279,347,145,214,4692,0.029,65664,27657
+482,360,450,0,166,264,86,184,9604,0.0593,65772,27657
+483,360,450,0,143,285,102,244,20164,0.1245,65880,27657
+484,360,450,0,133,303,89,259,28900,0.1784,65988,27657
+485,360,450,0,116,286,54,224,28900,0.1784,66096,27657
+486,360,450,0,151,320,72,241,28561,0.1763,66204,27657
+487,360,450,0,151,320,89,259,28730,0.1773,66312,27657
+488,360,450,0,151,320,89,259,28730,0.1773,66420,27657
+489,360,450,0,143,285,102,244,20164,0.1245,66528,27657
+490,360,450,0,151,320,89,259,28730,0.1773,66636,27657
+491,360,450,0,143,285,102,244,20164,0.1245,66744,27657
+492,360,450,0,286,354,145,214,4692,0.029,66852,27657
+493,360,450,1,70,151,65,147,6642,0.041,66852,27657
+494,360,450,0,66,165,56,154,9702,0.0599,66960,27657
+495,360,450,0,332,380,110,158,2304,0.0142,67284,27657
+496,360,450,0,164,212,139,186,2256,0.0139,67392,27657
+497,360,450,1,88,145,62,119,3249,0.0201,67392,27657
+498,360,450,0,182,250,42,110,4624,0.0285,67824,27657
+499,360,450,0,210,278,152,221,4692,0.029,68580,27657
+500,360,450,1,127,195,118,186,4624,0.0285,68580,27657
+501,360,450,0,215,356,160,301,19881,0.1227,70848,27657
+502,360,450,0,206,323,178,296,13806,0.0852,70956,27657
+503,360,450,0,186,328,160,301,20022,0.1236,71064,27657
+504,360,450,0,215,356,145,287,20022,0.1236,71280,27657
+505,360,450,0,186,328,117,258,20022,0.1236,71388,27657
+506,360,450,1,86,227,59,201,20022,0.1236,71388,27657
+507,360,450,0,194,312,118,236,13924,0.086,71496,27657
+508,360,450,0,200,342,145,287,20164,0.1245,71604,27657
+509,360,450,0,215,356,145,287,20022,0.1236,71712,27657
+510,360,450,0,206,323,142,260,13806,0.0852,71820,27657
+511,360,450,0,217,335,154,272,13924,0.086,71928,27657
+512,360,450,0,194,276,106,188,6724,0.0415,72792,27657
+513,360,450,0,194,276,115,197,6724,0.0415,72900,27657
+514,360,450,0,194,276,106,188,6724,0.0415,73008,27657
+515,360,450,1,96,195,66,164,9702,0.0599,73008,27657
+516,360,450,0,186,268,115,197,6724,0.0415,73116,27657
+517,360,450,0,237,306,83,151,4692,0.029,73980,27657
+518,360,450,0,244,312,69,138,4692,0.029,74088,27657
+519,360,450,0,244,312,69,138,4692,0.029,74196,27657
+520,360,450,0,94,176,115,197,6724,0.0415,75600,27657
+521,360,450,1,226,324,66,164,9604,0.0593,75600,27657
+522,360,450,0,103,185,81,163,6724,0.0415,75708,27657
+523,360,450,1,211,292,90,172,6642,0.041,75708,27657
+524,360,450,0,86,185,56,154,9702,0.0599,75816,27657
+525,360,450,1,202,284,81,163,6724,0.0415,75816,27657
+526,360,450,0,212,260,86,134,2304,0.0142,76140,27657
+527,360,450,0,231,279,86,134,2304,0.0142,76248,27657
+528,360,450,0,219,301,115,197,6724,0.0415,76356,27657
+529,360,450,1,70,151,65,147,6642,0.041,76356,27657
+530,360,450,0,269,351,115,197,6724,0.0415,76464,27657
+531,360,450,1,86,168,48,130,6724,0.0415,76464,27657
+532,360,450,0,198,245,81,129,2256,0.0139,76572,27657
+533,360,450,0,269,351,131,213,6724,0.0415,76680,27657
+534,360,450,1,94,176,65,147,6724,0.0415,76680,27657
+535,360,450,0,302,384,73,155,6724,0.0415,76896,27657
+536,360,450,0,260,342,73,155,6724,0.0415,77004,27657
+537,360,450,0,255,312,56,113,3249,0.0201,77112,27657
+538,360,450,0,157,299,45,187,20164,0.1245,77220,27657
+539,360,450,0,157,299,45,187,20164,0.1245,77328,27657
+540,360,450,0,193,240,182,230,2256,0.0139,77544,27657
+541,360,450,0,169,251,73,155,6724,0.0415,78732,27657
+542,360,450,0,177,259,65,147,6724,0.0415,78840,27657
+543,360,450,0,169,251,73,155,6724,0.0415,78948,27657
+544,360,450,0,177,259,65,147,6724,0.0415,79056,27657
+545,360,450,0,217,285,69,138,4692,0.029,79272,27657
+546,360,450,0,106,174,132,200,4624,0.0285,79380,27657
+547,360,450,0,140,197,96,153,3249,0.0201,79596,27657
+548,360,450,0,236,334,135,234,9702,0.0599,79812,27657
+549,360,450,0,260,342,148,230,6724,0.0415,79920,27657
+550,360,450,0,244,326,140,221,6642,0.041,80028,27657
+551,360,450,0,227,309,140,221,6642,0.041,80136,27657
+552,360,450,0,216,314,56,154,9604,0.0593,80244,27657
+553,360,450,0,169,251,73,155,6724,0.0415,80352,27657
+554,360,450,0,258,326,69,138,4692,0.029,80784,27657
+555,360,450,1,134,202,56,124,4624,0.0285,80784,27657
+556,360,450,0,256,354,105,204,9702,0.0599,81108,27657
+557,360,450,1,116,214,86,184,9604,0.0593,81108,27657
+558,360,450,0,265,364,96,194,9702,0.0599,81216,27657
+559,360,450,0,275,374,155,254,9801,0.0605,81324,27657
+560,360,450,1,66,165,86,184,9702,0.0599,81324,27657
+561,360,450,0,235,317,90,172,6724,0.0415,81756,27657
+562,360,450,1,78,147,49,117,4692,0.029,81756,27657
+563,360,450,0,252,334,98,180,6724,0.0415,81864,27657
+564,360,450,1,103,185,65,147,6724,0.0415,81864,27657
+565,360,450,0,111,193,57,138,6642,0.041,81972,27657
+566,360,450,1,244,312,83,151,4624,0.0285,81972,27657
+567,360,450,0,251,319,83,151,4624,0.0285,82080,27657
+568,360,450,1,134,202,90,158,4624,0.0285,82080,27657
+569,360,450,0,236,334,105,204,9702,0.0599,82188,27657
+570,360,450,0,101,140,145,185,1560,0.0096,82296,27657
+571,360,450,0,102,149,86,134,2256,0.0139,82404,27657
+572,360,450,0,23,91,69,138,4692,0.029,82512,27657
+573,360,450,0,237,276,57,97,1560,0.0096,82836,27657
+574,360,450,0,227,274,62,110,2256,0.0139,83052,27657
+575,360,450,1,125,164,93,133,1560,0.0096,83052,27657
+576,360,450,0,101,140,117,157,1560,0.0096,83160,27657
+577,360,450,1,279,327,62,110,2304,0.0142,83160,27657
+578,360,450,0,221,260,57,97,1560,0.0096,83376,27657
+579,360,450,0,219,301,48,130,6724,0.0415,83916,27657
+580,360,450,0,227,309,48,130,6724,0.0415,84024,27657
+581,360,450,0,231,279,72,119,2256,0.0139,84132,27657
+582,360,450,0,236,284,77,124,2256,0.0139,84240,27657
+583,360,450,1,128,185,45,101,3192,0.0197,84240,27657
+584,360,450,0,236,284,77,124,2256,0.0139,84348,27657
+585,360,450,0,236,284,77,124,2256,0.0139,84456,27657
+586,360,450,0,215,272,79,136,3249,0.0201,84564,27657
+587,360,450,1,117,174,68,125,3249,0.0201,84564,27657
+588,360,450,0,128,185,56,113,3249,0.0201,84672,27657
+589,360,450,1,203,250,91,138,2209,0.0136,84672,27657
+590,360,450,0,157,299,102,244,20164,0.1245,84780,27657
+591,360,450,0,129,270,145,287,20022,0.1236,84888,27657
+592,360,450,0,151,320,72,241,28561,0.1763,84996,27657
+593,360,450,0,172,313,88,230,20022,0.1236,85104,27657
+594,360,450,0,114,256,88,230,20164,0.1245,85212,27657
+595,360,450,0,168,338,72,241,28730,0.1773,85320,27657
+596,360,450,0,157,299,45,187,20164,0.1245,85644,27657
+597,360,450,0,318,375,39,96,3249,0.0201,88128,27657
+598,360,450,0,295,352,73,130,3249,0.0201,88236,27657
+599,360,450,0,101,140,65,105,1560,0.0096,88452,27657
+600,360,450,0,289,328,85,125,1560,0.0096,88668,27657
+601,360,450,0,134,252,70,188,13924,0.086,88884,27657
+602,360,450,0,126,224,66,164,9604,0.0593,88992,27657
+603,360,450,0,134,252,58,176,13924,0.086,89100,27657
+604,360,450,0,122,240,58,176,13924,0.086,89208,27657
+605,360,450,0,265,364,66,164,9702,0.0599,89424,27657
+606,360,450,0,275,374,56,154,9702,0.0599,89532,27657
+607,360,450,1,47,145,36,134,9604,0.0593,89532,27657
+608,360,450,0,356,404,38,86,2304,0.0142,89748,27657
+609,360,450,1,213,252,77,117,1560,0.0096,89748,27657
+610,360,450,0,126,224,66,164,9604,0.0593,89856,27657
+611,360,450,0,144,226,65,147,6724,0.0415,89964,27657
+612,360,450,0,217,256,77,117,1560,0.0096,90072,27657
+613,360,450,1,345,384,49,89,1560,0.0096,90072,27657
+614,360,450,0,136,218,65,147,6724,0.0415,90180,27657
+615,360,450,0,156,254,66,164,9604,0.0593,90288,27657
+616,360,450,0,136,218,65,147,6724,0.0415,90396,27657
+617,360,450,0,255,312,50,107,3249,0.0201,90504,27657
+618,360,450,0,196,264,76,145,4692,0.029,90612,27657
+619,360,450,0,256,354,66,164,9604,0.0593,90720,27657
+620,360,450,0,126,224,56,154,9604,0.0593,90828,27657
+621,360,450,0,161,243,81,163,6724,0.0415,90936,27657
+622,360,450,0,169,251,73,155,6724,0.0415,91044,27657
+623,360,450,0,202,284,90,172,6724,0.0415,91152,27657
+624,360,450,0,136,218,57,138,6642,0.041,91260,27657
+625,360,450,0,136,218,65,147,6724,0.0415,91368,27657
+626,360,450,0,169,226,85,142,3249,0.0201,91476,27657
+627,360,450,0,169,226,85,142,3249,0.0201,91584,27657
+628,360,450,0,136,218,65,147,6724,0.0415,91692,27657
+629,360,450,0,174,231,79,136,3249,0.0201,91800,27657
+630,360,450,0,174,231,79,136,3249,0.0201,91908,27657
+631,360,450,0,169,251,81,163,6724,0.0415,92016,27657
+632,360,450,0,136,218,57,138,6642,0.041,92124,27657
+633,360,450,0,156,254,76,174,9604,0.0593,92232,27657
+634,360,450,0,136,218,57,138,6642,0.041,92340,27657
+635,360,450,0,175,243,83,151,4624,0.0285,92448,27657
+636,360,450,0,136,234,56,154,9604,0.0593,92556,27657
+637,360,450,0,161,243,90,172,6724,0.0415,92664,27657
+638,360,450,0,116,286,72,241,28730,0.1773,92772,27657
+639,360,450,0,133,303,89,259,28900,0.1784,92880,27657
+640,360,450,0,143,285,88,230,20164,0.1245,92988,27657
+641,360,450,0,133,303,72,241,28730,0.1773,93096,27657
+642,360,450,0,133,303,72,241,28730,0.1773,93204,27657
+643,360,450,0,133,303,72,241,28730,0.1773,93312,27657
+644,360,450,0,116,286,54,224,28900,0.1784,93420,27657
+645,360,450,0,116,286,72,241,28730,0.1773,93528,27657
+646,360,450,0,99,269,72,241,28730,0.1773,93636,27657
+647,360,450,0,116,286,72,241,28730,0.1773,93744,27657
+648,360,450,0,69,314,33,277,59780,0.369,93852,27657
+649,360,450,0,69,314,33,277,59780,0.369,93960,27657
+650,360,450,0,249,306,108,165,3249,0.0201,94392,27657
+651,360,450,1,246,293,24,71,2209,0.0136,94392,27657
+652,360,450,0,284,341,131,188,3249,0.0201,94500,27657
+653,360,450,0,279,347,118,186,4624,0.0285,94608,27657
+654,360,450,0,278,335,137,194,3249,0.0201,94716,27657
+655,360,450,0,278,335,125,182,3249,0.0201,94824,27657
+656,360,450,0,272,329,131,188,3249,0.0201,94932,27657
+657,360,450,0,272,340,125,193,4624,0.0285,95040,27657
+658,360,450,0,272,329,131,188,3249,0.0201,95148,27657
+659,360,450,0,272,329,125,182,3249,0.0201,95256,27657
+660,360,450,0,143,285,117,258,20022,0.1236,95364,27657
+661,360,450,0,272,329,131,188,3249,0.0201,95472,27657
+662,360,450,0,192,249,79,136,3249,0.0201,95580,27657
+663,360,450,0,128,210,90,172,6724,0.0415,95688,27657
+664,360,450,0,70,274,55,259,41616,0.2569,96660,27657
+665,360,450,0,70,274,76,280,41616,0.2569,96768,27657
+666,360,450,0,112,315,55,259,41412,0.2556,96876,27657
+667,360,450,0,112,315,55,259,41412,0.2556,96984,27657
+668,360,450,0,133,303,72,241,28730,0.1773,97092,27657
+669,360,450,0,112,315,55,259,41412,0.2556,97200,27657
+670,360,450,0,151,320,72,241,28561,0.1763,97308,27657
+671,360,450,0,132,336,55,259,41616,0.2569,97416,27657
+672,360,450,0,91,295,35,238,41412,0.2556,97524,27657
+673,360,450,0,185,355,72,241,28730,0.1773,97632,27657
+674,360,450,0,168,338,89,259,28900,0.1784,97740,27657
+675,360,450,0,151,320,72,241,28561,0.1763,97848,27657
+676,360,450,0,151,320,106,276,28730,0.1773,97956,27657
+677,360,450,0,132,336,76,280,41616,0.2569,98064,27657
+678,360,450,0,112,315,55,259,41412,0.2556,98172,27657
+679,360,450,0,133,303,72,241,28730,0.1773,98280,27657
+680,360,450,0,151,320,72,241,28561,0.1763,98388,27657
+681,360,450,0,106,174,62,131,4692,0.029,98496,27657
+682,360,450,1,284,341,114,171,3249,0.0201,98496,27657
+683,360,450,0,111,193,65,147,6724,0.0415,98604,27657
+684,360,450,1,284,341,119,176,3249,0.0201,98604,27657
+685,360,450,0,106,174,56,124,4624,0.0285,98712,27657
+686,360,450,1,279,347,111,179,4624,0.0285,98712,27657
+687,360,450,0,153,357,76,280,41616,0.2569,98820,27657
+688,360,450,0,168,338,72,241,28730,0.1773,98928,27657
+689,360,450,0,151,320,72,241,28561,0.1763,99036,27657
+690,360,450,0,133,303,54,224,28900,0.1784,99144,27657
+691,360,450,0,151,320,72,241,28561,0.1763,99252,27657
+692,360,450,0,151,320,89,259,28730,0.1773,99360,27657
+693,360,450,0,151,320,72,241,28561,0.1763,99468,27657
+694,360,450,0,133,303,54,224,28900,0.1784,99576,27657
+695,360,450,0,133,303,72,241,28730,0.1773,99684,27657
+696,360,450,0,151,320,72,241,28561,0.1763,99792,27657
+697,360,450,0,151,320,72,241,28561,0.1763,99900,27657
+698,360,450,0,151,320,72,241,28561,0.1763,100008,27657
+699,360,450,0,151,320,37,207,28730,0.1773,100116,27657
+700,360,450,0,133,303,54,224,28900,0.1784,100224,27657
+701,360,450,0,112,315,76,280,41412,0.2556,100332,27657
+702,360,450,0,133,303,72,241,28730,0.1773,100440,27657
+703,360,450,0,151,320,72,241,28561,0.1763,100548,27657
+704,360,450,0,185,355,54,224,28900,0.1784,100656,27657
+705,360,450,0,151,320,72,241,28561,0.1763,100764,27657
+706,360,450,0,116,286,54,224,28900,0.1784,100872,27657
+707,360,450,0,133,303,72,241,28730,0.1773,100980,27657
+708,360,450,0,133,303,72,241,28730,0.1773,101088,27657
+709,360,450,0,133,303,89,259,28900,0.1784,101196,27657
+710,360,450,0,86,185,56,154,9702,0.0599,101304,27657
+711,360,450,1,244,326,140,221,6642,0.041,101304,27657
+712,360,450,0,96,195,56,154,9702,0.0599,101412,27657
+713,360,450,1,252,334,173,255,6724,0.0415,101412,27657
+714,360,450,0,110,228,82,200,13924,0.086,101520,27657
+715,360,450,1,235,317,140,221,6642,0.041,101520,27657
+716,360,450,0,134,252,82,200,13924,0.086,101628,27657
+717,360,450,1,252,334,131,213,6724,0.0415,101628,27657
+718,360,450,0,122,240,70,188,13924,0.086,101736,27657
+719,360,450,1,244,326,131,213,6724,0.0415,101736,27657
+720,360,450,0,136,234,76,174,9604,0.0593,101844,27657
+721,360,450,1,252,334,123,205,6724,0.0415,101844,27657
+722,360,450,0,134,252,82,200,13924,0.086,101952,27657
+723,360,450,1,252,334,140,221,6642,0.041,101952,27657
+724,360,450,0,244,326,140,221,6642,0.041,102060,27657
+725,360,450,1,146,244,105,204,9702,0.0599,102060,27657
+726,360,450,0,134,252,82,200,13924,0.086,102168,27657
+727,360,450,1,252,334,131,213,6724,0.0415,102168,27657
+728,360,450,0,122,240,70,188,13924,0.086,102276,27657
+729,360,450,1,252,334,123,205,6724,0.0415,102276,27657
+730,360,450,0,110,228,70,188,13924,0.086,102384,27657
+731,360,450,1,252,334,123,205,6724,0.0415,102384,27657
+732,360,450,0,116,214,76,174,9604,0.0593,102492,27657
+733,360,450,1,252,334,123,205,6724,0.0415,102492,27657
+734,360,450,0,106,205,66,164,9702,0.0599,102600,27657
+735,360,450,1,252,334,131,213,6724,0.0415,102600,27657
+736,360,450,0,116,214,66,164,9604,0.0593,102708,27657
+737,360,450,1,244,326,140,221,6642,0.041,102708,27657
+738,360,450,0,233,272,153,193,1560,0.0096,103140,27657
+739,360,450,0,136,234,76,174,9604,0.0593,103248,27657
+740,360,450,0,186,284,56,154,9604,0.0593,103356,27657
+741,360,450,0,176,274,66,164,9604,0.0593,103464,27657
+742,360,450,0,177,259,73,155,6724,0.0415,103680,27657
+743,360,450,0,236,284,62,110,2304,0.0142,103788,27657
+744,360,450,0,15,63,91,138,2256,0.0139,103896,27657
+745,360,450,1,272,329,50,107,3249,0.0201,103896,27657
+746,360,450,0,301,358,56,113,3249,0.0201,104004,27657
+747,360,450,1,155,202,91,138,2209,0.0136,104004,27657
+748,360,450,0,150,197,91,138,2209,0.0136,104112,27657
+749,360,450,1,290,346,56,113,3192,0.0197,104112,27657
+750,360,450,0,145,192,91,138,2209,0.0136,104220,27657
+751,360,450,1,284,341,56,113,3249,0.0201,104220,27657
+752,360,450,0,290,346,56,113,3192,0.0197,104328,27657
+753,360,450,1,116,164,96,143,2256,0.0139,104328,27657
+754,360,450,0,313,370,50,107,3249,0.0201,104436,27657
+755,360,450,1,83,130,101,148,2209,0.0136,104436,27657
+756,360,450,0,235,317,81,163,6724,0.0415,104544,27657
+757,360,450,1,103,185,140,221,6642,0.041,104544,27657
+758,360,450,0,227,309,81,163,6724,0.0415,104652,27657
+759,360,450,1,76,175,145,244,9801,0.0605,104652,27657
+760,360,450,0,256,354,86,184,9604,0.0593,104760,27657
+761,360,450,1,57,199,145,287,20164,0.1245,104760,27657
+762,360,450,0,71,213,145,287,20164,0.1245,104868,27657
+763,360,450,1,265,364,76,174,9702,0.0599,104868,27657
+764,360,450,0,265,364,76,174,9702,0.0599,104976,27657
+765,360,450,1,57,199,145,287,20164,0.1245,104976,27657
+766,360,450,0,253,371,58,176,13924,0.086,105084,27657
+767,360,450,1,74,192,154,272,13924,0.086,105084,27657
+768,360,450,0,176,274,96,194,9604,0.0593,105408,27657
+769,360,450,0,170,288,82,200,13924,0.086,105516,27657
+770,360,450,0,170,288,70,188,13924,0.086,105624,27657
+771,360,450,0,186,284,96,194,9604,0.0593,105732,27657
+772,360,450,0,78,160,98,180,6724,0.0415,105840,27657
+773,360,450,0,324,381,73,130,3249,0.0201,106056,27657
+774,360,450,1,155,202,105,153,2256,0.0139,106056,27657
+775,360,450,0,324,381,79,136,3249,0.0201,106164,27657
+776,360,450,1,155,202,105,153,2256,0.0139,106164,27657
+777,360,450,0,146,244,76,174,9604,0.0593,106272,27657
+778,360,450,0,206,304,105,204,9702,0.0599,106380,27657
+779,360,450,0,172,313,102,244,20022,0.1236,106704,27657
+780,360,450,0,172,313,88,230,20022,0.1236,106812,27657
+781,360,450,0,151,208,96,153,3249,0.0201,107352,27657
+782,360,450,0,106,205,86,184,9702,0.0599,107460,27657
+783,360,450,1,244,312,125,193,4624,0.0285,107460,27657
+784,360,450,0,161,200,61,101,1560,0.0096,107892,27657
+785,360,450,0,166,264,96,194,9604,0.0593,108000,27657
+786,360,450,0,156,254,86,184,9604,0.0593,108108,27657
+787,360,450,0,158,276,70,188,13924,0.086,108324,27657
+788,360,450,0,166,264,86,184,9604,0.0593,108432,27657
+789,360,450,0,166,264,86,184,9604,0.0593,108540,27657
+790,360,450,0,166,264,86,184,9604,0.0593,108648,27657
+791,360,450,0,105,144,49,89,1560,0.0096,108756,27657
+792,360,450,0,116,286,54,224,28900,0.1784,108864,27657
+793,360,450,0,129,270,59,201,20022,0.1236,108972,27657
+794,360,450,0,114,256,102,244,20164,0.1245,109080,27657
+795,360,450,0,129,270,74,215,19881,0.1227,109188,27657
+796,360,450,0,133,303,72,241,28730,0.1773,109296,27657
+797,360,450,0,116,286,72,241,28730,0.1773,109404,27657
+798,360,450,0,116,286,72,241,28730,0.1773,109512,27657
+799,360,450,0,116,286,54,224,28900,0.1784,109620,27657
+800,360,450,0,157,196,49,89,1560,0.0096,109728,27657
+801,360,450,0,141,180,49,89,1560,0.0096,109836,27657
+802,360,450,0,103,185,98,180,6724,0.0415,110160,27657
+803,360,450,1,279,347,90,158,4624,0.0285,110160,27657
+804,360,450,0,279,347,83,151,4624,0.0285,110484,27657
+805,360,450,1,103,185,81,163,6724,0.0415,110484,27657
+806,360,450,0,246,344,86,184,9604,0.0593,110592,27657
+807,360,450,0,94,176,90,172,6724,0.0415,110700,27657
+808,360,450,1,272,340,90,158,4624,0.0285,110700,27657
+809,360,450,0,94,176,81,163,6724,0.0415,110808,27657
+810,360,450,1,272,340,104,172,4624,0.0285,110808,27657
+811,360,450,0,86,185,86,184,9702,0.0599,111024,27657
+812,360,450,1,260,342,81,163,6724,0.0415,111024,27657
+813,360,450,0,86,185,86,184,9702,0.0599,111240,27657
+814,360,450,1,260,342,90,172,6724,0.0415,111240,27657
+815,360,450,0,86,185,66,164,9702,0.0599,111348,27657
+816,360,450,1,252,334,81,163,6724,0.0415,111348,27657
+817,360,450,0,220,277,68,125,3249,0.0201,111456,27657
+818,360,450,0,146,244,96,194,9604,0.0593,111564,27657
+819,360,450,0,172,313,59,201,20022,0.1236,111672,27657
+820,360,450,0,143,285,88,230,20164,0.1245,111780,27657
+821,360,450,0,134,252,94,212,13924,0.086,111888,27657
+822,360,450,0,207,255,72,119,2256,0.0139,111996,27657
+823,360,450,0,116,286,89,259,28900,0.1784,112212,27657
+824,360,450,0,133,303,72,241,28730,0.1773,112320,27657
+825,360,450,0,146,264,106,224,13924,0.086,112428,27657

@@ -1,607 +1,607 @@
-,img_height,img_width,face_num,x1,x2,y1,y2,area,pct_of_frame,frame_num,video_src
-0,688,1280,0,426,778,56,409,124256,0.1411,2954,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-1,688,1280,0,395,599,153,357,41616,0.0473,3165,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-2,688,1280,0,391,636,54,299,60025,0.0682,4009,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-3,688,1280,0,649,696,149,196,2209,0.0025,4853,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-4,688,1280,0,867,1008,115,256,19881,0.0226,5486,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-5,688,1280,0,540,744,112,316,41616,0.0473,5697,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-6,688,1280,0,581,785,133,336,41412,0.047,6119,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-7,688,1280,0,465,710,79,324,60025,0.0682,6330,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-8,688,1280,0,600,893,99,392,85849,0.0975,6752,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-9,688,1280,0,365,507,129,271,20164,0.0229,7385,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-10,688,1280,1,685,803,131,249,13924,0.0158,7385,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-11,688,1280,0,983,1082,252,351,9801,0.0111,8440,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-12,688,1280,0,437,640,91,295,41412,0.047,8862,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-13,688,1280,0,492,662,69,239,28900,0.0328,9073,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-14,688,1280,0,23,91,213,281,4624,0.0053,9706,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-15,688,1280,0,398,516,167,285,13924,0.0158,10128,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-16,688,1280,1,971,1089,119,237,13924,0.0158,10128,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-17,688,1280,0,490,735,79,324,60025,0.0682,10339,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-18,688,1280,0,486,584,43,142,9702,0.011,10550,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-19,688,1280,0,975,1023,192,239,2256,0.0026,10761,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-20,688,1280,0,791,873,93,175,6724,0.0076,11605,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-21,688,1280,0,784,883,83,181,9702,0.011,11816,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-22,688,1280,0,392,685,99,392,85849,0.0975,12660,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-23,688,1280,1,659,953,99,392,86142,0.0978,12660,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-24,688,1280,0,392,685,39,333,86142,0.0978,12871,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-25,688,1280,1,639,883,79,324,59780,0.0679,12871,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-26,688,1280,0,332,626,158,452,86436,0.0982,13293,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-27,688,1280,0,600,893,188,481,85849,0.0975,14137,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-28,688,1280,0,630,923,158,452,86142,0.0978,14348,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-29,688,1280,0,540,834,129,422,86142,0.0978,14559,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-30,688,1280,0,355,707,56,409,124256,0.1411,14770,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-31,688,1280,0,540,784,79,324,59780,0.0679,14981,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-32,688,1280,0,362,656,129,422,86142,0.0978,15403,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-33,688,1280,0,390,742,92,444,123904,0.1407,15614,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-34,688,1280,0,212,564,128,480,123904,0.1407,15825,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-35,688,1280,0,990,1037,62,110,2256,0.0026,16458,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-36,688,1280,0,584,666,109,191,6724,0.0076,16669,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-37,688,1280,0,510,680,224,394,28900,0.0328,16880,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-38,688,1280,0,829,1033,112,316,41616,0.0473,17513,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-39,688,1280,0,501,583,167,249,6724,0.0076,19623,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-40,688,1280,1,147,246,133,231,9702,0.011,19623,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-41,688,1280,2,861,900,157,197,1560,0.0018,19623,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-42,688,1280,0,317,561,104,348,59536,0.0676,19834,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-43,688,1280,1,953,1094,101,242,19881,0.0226,19834,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-44,688,1280,0,623,765,0,127,18034,0.0205,20045,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-45,688,1280,1,213,507,39,333,86436,0.0982,20045,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-46,688,1280,0,490,735,104,348,59780,0.0679,20256,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-47,688,1280,0,570,864,99,392,86142,0.0978,20467,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-48,688,1280,0,600,893,129,422,85849,0.0975,20678,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-49,688,1280,0,459,541,159,241,6724,0.0076,20889,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-50,688,1280,0,581,785,236,440,41616,0.0473,21100,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-51,688,1280,1,780,898,299,417,13924,0.0158,21100,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-52,688,1280,2,213,507,0,273,80262,0.0911,21100,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-53,688,1280,0,614,859,129,373,59780,0.0679,21311,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-54,688,1280,1,144,388,54,299,59780,0.0679,21311,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-55,688,1280,2,1035,1280,203,447,59780,0.0679,21311,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-56,688,1280,0,355,707,128,480,123904,0.1407,21733,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-57,688,1280,0,600,893,99,392,85849,0.0975,21944,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-58,688,1280,1,212,564,0,337,118624,0.1347,21944,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-59,688,1280,0,355,707,56,409,124256,0.1411,22155,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-60,688,1280,0,283,636,128,480,124256,0.1411,22577,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-61,688,1280,0,357,865,101,608,257556,0.2925,22788,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-62,688,1280,0,416,514,93,191,9604,0.0109,24476,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-63,688,1280,0,819,989,18,188,28900,0.0328,24687,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-64,688,1280,0,283,636,21,373,124256,0.1411,25742,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-65,688,1280,0,212,564,199,551,123904,0.1407,25953,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-66,688,1280,0,512,934,111,533,178084,0.2022,26164,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-67,688,1280,0,342,586,153,398,59780,0.0679,26375,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-68,688,1280,0,481,774,99,392,85849,0.0975,26586,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-69,688,1280,0,640,992,128,480,123904,0.1407,27430,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-70,688,1280,0,932,1136,71,275,41616,0.0473,28485,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-71,688,1280,0,1182,1280,113,211,9604,0.0109,29118,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-72,688,1280,0,392,685,69,363,86142,0.0978,29540,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-73,688,1280,0,212,564,92,444,123904,0.1407,29962,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-74,688,1280,0,465,710,79,324,60025,0.0682,30173,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-75,688,1280,0,426,849,68,491,178929,0.2032,30384,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-76,688,1280,0,465,710,104,348,59780,0.0679,30595,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-77,688,1280,0,481,774,69,363,86142,0.0978,30806,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-78,688,1280,1,986,1280,0,273,80262,0.0911,30806,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-79,688,1280,0,647,817,121,291,28900,0.0328,31017,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-80,688,1280,1,406,576,155,325,28900,0.0328,31017,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-81,688,1280,0,659,953,39,333,86436,0.0982,31228,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-82,688,1280,0,481,774,99,392,85849,0.0975,32072,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-83,688,1280,0,469,891,68,491,178506,0.2027,32283,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-84,688,1280,0,342,586,153,398,59780,0.0679,32916,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-85,688,1280,0,675,773,153,251,9604,0.0109,33127,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-86,688,1280,0,540,744,153,357,41616,0.0473,33338,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-87,688,1280,0,647,817,138,308,28900,0.0328,33760,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-88,688,1280,0,332,626,39,333,86436,0.0982,33971,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-89,688,1280,0,303,596,99,392,85849,0.0975,34182,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-90,688,1280,0,666,734,199,267,4624,0.0053,34393,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-91,688,1280,0,457,661,153,357,41616,0.0473,34604,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-92,688,1280,0,867,1008,43,185,20022,0.0227,34815,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-93,688,1280,0,416,661,129,373,59780,0.0679,35448,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-94,688,1280,0,465,710,153,398,60025,0.0682,35870,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-95,688,1280,0,451,745,69,363,86436,0.0982,36081,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-96,688,1280,0,392,685,158,452,86142,0.0978,36292,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-97,688,1280,0,298,720,0,405,170910,0.1941,36503,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-98,688,1280,0,322,464,201,342,20022,0.0227,37136,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-99,688,1280,0,248,600,128,480,123904,0.1407,37558,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-100,688,1280,1,996,1137,187,328,19881,0.0226,37558,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-101,688,1280,0,283,636,128,480,124256,0.1411,37769,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-102,688,1280,0,298,720,68,491,178506,0.2027,37980,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-103,688,1280,0,340,763,68,491,178929,0.2032,38191,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-104,688,1280,0,544,714,155,325,28900,0.0328,39035,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-105,688,1280,0,832,900,102,170,4624,0.0053,39668,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-106,688,1280,0,725,807,26,108,6724,0.0076,40090,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-107,688,1280,0,390,742,92,444,123904,0.1407,42200,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-108,688,1280,0,340,763,111,533,178506,0.2027,42411,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-109,688,1280,0,733,903,173,342,28730,0.0326,42833,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-110,688,1280,1,131,301,138,308,28900,0.0328,42833,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-111,688,1280,2,922,1092,173,342,28730,0.0326,42833,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-112,688,1280,0,422,715,99,392,85849,0.0975,43044,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-113,688,1280,0,974,1056,267,349,6724,0.0076,43466,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-114,688,1280,0,949,1031,275,357,6724,0.0076,43677,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-115,688,1280,0,1007,1089,275,357,6724,0.0076,43888,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-116,688,1280,0,1007,1089,267,349,6724,0.0076,44099,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-117,688,1280,0,426,778,128,480,123904,0.1407,44310,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-118,688,1280,0,319,671,128,480,123904,0.1407,44521,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-119,688,1280,0,303,596,158,452,86142,0.0978,44732,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-120,688,1280,0,639,883,104,348,59536,0.0676,44943,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-121,688,1280,0,366,611,104,348,59780,0.0679,45154,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-122,688,1280,0,303,596,99,392,85849,0.0975,45365,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-123,688,1280,0,64,182,72,190,13924,0.0158,45576,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-124,688,1280,0,600,893,129,422,85849,0.0975,49163,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-125,688,1280,0,465,710,129,373,59780,0.0679,49796,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-126,688,1280,0,267,512,79,324,60025,0.0682,50218,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-127,688,1280,0,437,640,215,419,41412,0.047,50429,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-128,688,1280,0,560,764,153,357,41616,0.0473,50640,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-129,688,1280,0,390,742,92,444,123904,0.1407,51062,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-130,688,1280,0,596,766,69,239,28900,0.0328,51273,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-131,688,1280,0,86,290,256,460,41616,0.0473,51484,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-132,688,1280,0,510,680,155,325,28900,0.0328,51695,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-133,688,1280,1,154,448,99,392,86142,0.0978,51695,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-134,688,1280,2,1118,1280,215,419,33048,0.0375,51695,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-135,688,1280,0,540,784,104,348,59536,0.0676,51906,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-136,688,1280,0,457,661,484,687,41412,0.047,52328,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-137,688,1280,0,478,682,91,295,41616,0.0473,53172,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-138,688,1280,0,767,971,215,419,41616,0.0473,53383,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-139,688,1280,0,498,702,71,275,41616,0.0473,53594,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-140,688,1280,0,490,735,104,348,59780,0.0679,53805,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-141,688,1280,0,386,484,73,171,9604,0.0109,54016,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-142,688,1280,0,374,492,119,237,13924,0.0158,54227,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-143,688,1280,0,600,893,129,422,85849,0.0975,54438,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-144,688,1280,0,313,517,91,295,41616,0.0473,55071,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-145,688,1280,1,862,1106,104,348,59536,0.0676,55071,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-146,688,1280,0,812,1057,79,324,60025,0.0682,55282,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-147,688,1280,1,292,496,91,295,41616,0.0473,55282,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-148,688,1280,0,837,1082,104,348,59780,0.0679,55493,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-149,688,1280,1,243,487,104,348,59536,0.0676,55493,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-150,688,1280,0,271,475,71,275,41616,0.0473,55704,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-151,688,1280,1,862,1106,54,299,59780,0.0679,55704,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-152,688,1280,0,511,804,99,392,85849,0.0975,56759,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-153,688,1280,0,475,645,104,274,28900,0.0328,58025,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-154,688,1280,1,897,1191,10,303,86142,0.0978,58025,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-155,688,1280,0,725,823,113,211,9604,0.0109,58236,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-156,688,1280,1,386,484,103,201,9604,0.0109,58236,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-157,688,1280,2,589,707,107,225,13924,0.0158,58236,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-158,688,1280,0,916,997,134,216,6642,0.0075,58447,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-159,688,1280,1,694,762,102,170,4624,0.0053,58447,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-160,688,1280,2,575,674,93,191,9702,0.011,58447,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-161,688,1280,3,1163,1280,48,166,13806,0.0157,58447,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-162,688,1280,0,894,992,173,271,9604,0.0109,58658,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-163,688,1280,1,36,118,201,283,6724,0.0076,58658,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-164,688,1280,0,609,750,201,342,19881,0.0226,58869,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-165,688,1280,0,768,938,121,291,28900,0.0328,59291,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-166,688,1280,0,545,644,123,221,9702,0.011,59713,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-167,688,1280,1,673,741,123,191,4624,0.0053,59713,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-168,688,1280,0,406,576,87,256,28730,0.0326,60557,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-169,688,1280,0,613,783,121,291,28900,0.0328,62034,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-170,688,1280,0,602,806,133,336,41412,0.047,62245,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-171,688,1280,0,391,636,104,348,59780,0.0679,62456,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-172,688,1280,0,441,611,155,325,28900,0.0328,63089,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-173,688,1280,0,688,933,79,324,60025,0.0682,63300,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-174,688,1280,0,481,774,129,422,85849,0.0975,63511,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-175,688,1280,0,166,336,104,274,28900,0.0328,63933,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-176,688,1280,0,922,1092,121,291,28900,0.0328,64144,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-177,688,1280,0,416,661,79,324,60025,0.0682,64355,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-178,688,1280,0,392,685,0,273,79989,0.0908,64566,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-179,688,1280,0,514,582,95,164,4692,0.0053,65199,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-180,688,1280,0,870,1074,112,316,41616,0.0473,65410,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-181,688,1280,1,623,765,144,285,20022,0.0227,65410,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-182,688,1280,0,883,940,302,358,3192,0.0036,66676,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-183,688,1280,1,551,633,93,175,6724,0.0076,66676,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-184,688,1280,0,725,823,153,251,9604,0.0109,67098,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-185,688,1280,0,511,804,69,363,86142,0.0978,67309,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-186,688,1280,0,481,774,129,422,85849,0.0975,67520,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-187,688,1280,0,630,923,158,452,86142,0.0978,67731,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-188,688,1280,0,638,779,129,271,20022,0.0227,67942,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-189,688,1280,0,688,933,129,373,59780,0.0679,68153,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-190,688,1280,0,802,972,138,308,28900,0.0328,68364,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-191,688,1280,1,286,456,52,222,28900,0.0328,68364,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-192,688,1280,0,193,438,54,299,60025,0.0682,68575,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-193,688,1280,1,787,1032,153,398,60025,0.0682,68575,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-194,688,1280,0,292,537,79,324,60025,0.0682,68786,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-195,688,1280,1,812,1057,153,398,60025,0.0682,68786,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-196,688,1280,0,713,958,104,348,59780,0.0679,68997,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-197,688,1280,1,342,586,54,299,59780,0.0679,68997,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-198,688,1280,0,639,883,54,299,59780,0.0679,69208,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-199,688,1280,0,726,929,112,316,41412,0.047,69419,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-200,688,1280,0,406,576,121,291,28900,0.0328,69630,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-201,688,1280,0,451,745,39,333,86436,0.0982,69841,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-202,688,1280,0,713,958,54,299,60025,0.0682,70052,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-203,688,1280,0,763,1007,104,348,59536,0.0676,70263,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-204,688,1280,0,664,908,104,348,59536,0.0676,70474,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-205,688,1280,0,422,715,99,392,85849,0.0975,70685,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-206,688,1280,0,585,684,173,271,9702,0.011,71318,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-207,688,1280,0,614,859,54,299,60025,0.0682,71951,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-208,688,1280,0,637,755,96,213,13806,0.0157,72162,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-209,688,1280,0,319,671,128,480,123904,0.1407,72584,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-210,688,1280,0,565,809,104,348,59536,0.0676,73006,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-211,688,1280,0,441,685,129,373,59536,0.0676,73217,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-212,688,1280,0,85,124,117,157,1560,0.0018,73428,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-213,688,1280,1,395,442,120,167,2209,0.0025,73428,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-214,688,1280,0,354,558,215,419,41616,0.0473,73639,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-215,688,1280,1,643,847,71,275,41616,0.0473,73639,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-216,688,1280,0,222,363,0,127,17907,0.0203,74061,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-217,688,1280,1,738,982,327,571,59536,0.0676,74061,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-218,688,1280,0,362,656,158,452,86436,0.0982,74272,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-219,688,1280,0,422,715,158,452,86142,0.0978,74905,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-220,688,1280,0,664,908,129,373,59536,0.0676,75116,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-221,688,1280,0,740,788,81,129,2304,0.0026,75960,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-222,688,1280,1,548,617,88,157,4761,0.0054,75960,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-223,688,1280,0,591,639,105,153,2304,0.0026,76171,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-224,688,1280,1,664,721,83,140,3249,0.0037,76171,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-225,688,1280,0,332,626,129,422,86142,0.0978,76804,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-226,688,1280,0,243,537,99,392,86142,0.0978,77015,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-227,688,1280,0,600,893,99,392,85849,0.0975,77226,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-228,688,1280,0,200,370,155,325,28900,0.0328,80602,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-229,688,1280,1,113,152,25,65,1560,0.0018,80602,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-230,688,1280,0,217,387,138,308,28900,0.0328,80813,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-231,688,1280,1,93,132,21,61,1560,0.0018,80813,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-232,688,1280,0,131,301,138,308,28900,0.0328,81024,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-233,688,1280,1,11,58,0,47,2209,0.0025,81024,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-234,688,1280,2,854,1024,155,325,28900,0.0328,81024,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-235,688,1280,0,165,306,129,271,20022,0.0227,81235,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-236,688,1280,1,39,87,5,52,2256,0.0026,81235,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-237,688,1280,0,165,306,144,285,19881,0.0226,81446,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-238,688,1280,1,13,52,25,65,1560,0.0018,81446,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-239,688,1280,0,332,626,99,392,86142,0.0978,81868,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-240,688,1280,0,333,537,50,254,41616,0.0473,82079,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-241,688,1280,0,416,661,129,373,59780,0.0679,82290,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-242,688,1280,0,354,558,91,295,41616,0.0473,82501,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-243,688,1280,0,354,558,91,295,41616,0.0473,82712,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-244,688,1280,0,441,685,129,373,59536,0.0676,83134,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-245,688,1280,0,953,1094,101,242,19881,0.0226,83767,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-246,688,1280,1,645,743,173,271,9604,0.0109,83767,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-247,688,1280,0,741,780,165,205,1560,0.0018,84189,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-248,688,1280,1,865,904,181,221,1560,0.0018,84189,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-249,688,1280,2,949,988,173,213,1560,0.0018,84189,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-250,688,1280,3,618,675,146,203,3249,0.0037,84189,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-251,688,1280,0,457,661,112,316,41616,0.0473,85244,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-252,688,1280,0,457,661,112,316,41616,0.0473,85455,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-253,688,1280,0,682,852,155,325,28900,0.0328,85666,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-254,688,1280,1,389,559,52,222,28900,0.0328,85666,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-255,688,1280,0,639,883,129,373,59536,0.0676,85877,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-256,688,1280,1,457,661,71,275,41616,0.0473,85877,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-257,688,1280,0,647,817,155,325,28900,0.0328,86299,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-258,688,1280,0,565,683,394,512,13924,0.0158,86510,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-259,688,1280,1,333,537,91,295,41616,0.0473,86510,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-260,688,1280,0,625,743,394,512,13924,0.0158,86721,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-261,688,1280,1,333,537,50,254,41616,0.0473,86721,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-262,688,1280,0,746,950,133,336,41412,0.047,86932,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-263,688,1280,0,333,537,133,336,41412,0.047,87143,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-264,688,1280,1,862,1106,178,423,59780,0.0679,87143,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-265,688,1280,0,410,528,119,237,13924,0.0158,87354,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-266,688,1280,0,639,883,104,348,59536,0.0676,88409,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-267,688,1280,0,511,804,0,244,71492,0.0812,88620,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-268,688,1280,0,416,661,104,348,59780,0.0679,89042,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-269,688,1280,0,589,834,104,348,59780,0.0679,89253,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-270,688,1280,0,630,923,10,303,85849,0.0975,89464,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-271,688,1280,0,422,715,99,392,85849,0.0975,89675,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-272,688,1280,0,292,496,133,336,41412,0.047,89886,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-273,688,1280,0,354,558,91,295,41616,0.0473,90097,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-274,688,1280,0,492,662,121,291,28900,0.0328,90308,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-275,688,1280,0,523,664,72,213,19881,0.0226,90519,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-276,688,1280,0,458,576,287,405,13924,0.0158,92418,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-277,688,1280,0,676,1028,163,516,124256,0.1411,93262,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-278,688,1280,0,441,611,35,205,28900,0.0328,93684,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-279,688,1280,1,119,363,29,274,59780,0.0679,93684,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-280,688,1280,0,922,1092,138,308,28900,0.0328,94739,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-281,688,1280,1,148,318,138,308,28900,0.0328,94739,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-282,688,1280,0,114,284,155,325,28900,0.0328,94950,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-283,688,1280,1,836,1006,104,274,28900,0.0328,94950,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-284,688,1280,0,510,680,173,342,28730,0.0326,95372,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-285,688,1280,0,540,784,104,348,59536,0.0676,95794,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-286,688,1280,0,498,702,195,398,41412,0.047,96005,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-287,688,1280,0,738,982,129,373,59536,0.0676,96849,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-288,688,1280,0,666,734,206,274,4624,0.0053,99170,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-289,688,1280,0,655,753,113,211,9604,0.0109,100014,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-290,688,1280,0,416,620,153,357,41616,0.0473,100858,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-291,688,1280,1,787,1032,79,324,60025,0.0682,100858,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-292,688,1280,0,630,923,0,273,79989,0.0908,101069,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-293,688,1280,0,437,640,174,378,41412,0.047,101280,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-294,688,1280,0,466,564,113,211,9604,0.0109,102546,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-295,688,1280,0,705,803,143,241,9604,0.0109,102757,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-296,688,1280,0,561,731,121,291,28900,0.0328,103179,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-297,688,1280,0,659,953,129,422,86142,0.0978,103390,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-298,688,1280,0,395,599,91,295,41616,0.0473,104234,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-299,688,1280,0,317,561,79,324,59780,0.0679,104445,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-300,688,1280,0,689,982,129,422,85849,0.0975,104656,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-301,688,1280,0,744,862,119,237,13924,0.0158,106766,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-302,688,1280,0,251,455,112,316,41616,0.0473,107188,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-303,688,1280,0,469,891,154,576,178084,0.2022,107399,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-304,688,1280,0,465,710,104,348,59780,0.0679,107610,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-305,688,1280,0,465,710,178,423,60025,0.0682,107821,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-306,688,1280,0,565,683,107,225,13924,0.0158,108032,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-307,688,1280,0,308,449,215,357,20022,0.0227,108665,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-308,688,1280,0,565,683,96,213,13806,0.0157,108876,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-309,688,1280,1,867,1008,316,457,19881,0.0226,108876,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-310,688,1280,0,457,661,91,295,41616,0.0473,109087,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-311,688,1280,0,516,614,93,191,9604,0.0109,109509,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-312,688,1280,0,490,735,203,447,59780,0.0679,110775,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-313,688,1280,0,498,702,91,295,41616,0.0473,110986,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-314,688,1280,0,854,1277,196,619,178929,0.2032,111619,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-315,688,1280,1,303,596,99,392,85849,0.0975,111619,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-316,688,1280,0,689,982,188,481,85849,0.0975,111830,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-317,688,1280,0,688,933,153,398,60025,0.0682,112041,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-318,688,1280,0,614,859,104,348,59780,0.0679,112252,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-319,688,1280,0,248,600,92,444,123904,0.1407,112463,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-320,688,1280,1,597,1020,154,576,178506,0.2027,112463,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-321,688,1280,0,383,806,68,491,178929,0.2032,112674,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-322,688,1280,0,212,564,92,444,123904,0.1407,112885,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-323,688,1280,0,535,634,153,251,9702,0.011,113307,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-324,688,1280,0,478,682,133,336,41412,0.047,114362,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-325,688,1280,0,383,806,0,362,153126,0.1739,114573,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-326,688,1280,0,175,784,6,615,370881,0.4211,114784,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-327,688,1280,0,949,1031,234,316,6724,0.0076,115206,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-328,688,1280,1,318,400,93,175,6724,0.0076,115206,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-329,688,1280,0,366,611,104,348,59780,0.0679,115417,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-330,688,1280,0,544,714,104,274,28900,0.0328,115628,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-331,688,1280,0,422,715,99,392,85849,0.0975,115839,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-332,688,1280,0,441,685,104,348,59536,0.0676,116050,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-333,688,1280,0,604,956,56,409,124256,0.1411,116261,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-334,688,1280,0,332,626,158,452,86436,0.0982,116472,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-335,688,1280,0,340,763,111,533,178506,0.2027,116683,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-336,688,1280,0,838,1131,99,392,85849,0.0975,117738,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-337,688,1280,0,748,1042,39,333,86436,0.0982,117949,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-338,688,1280,0,604,956,56,409,124256,0.1411,118160,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-339,688,1280,0,332,626,69,363,86436,0.0982,118371,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-340,688,1280,0,176,529,92,444,124256,0.1411,118582,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-341,688,1280,0,560,764,112,316,41616,0.0473,118793,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-342,688,1280,0,251,455,153,357,41616,0.0473,119004,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-343,688,1280,0,313,517,195,398,41412,0.047,119215,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-344,688,1280,0,267,512,153,398,60025,0.0682,119426,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-345,688,1280,0,481,774,99,392,85849,0.0975,119637,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-346,688,1280,0,267,512,129,373,59780,0.0679,119848,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-347,688,1280,0,565,809,104,348,59536,0.0676,120481,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-348,688,1280,0,614,859,104,348,59780,0.0679,120692,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-349,688,1280,0,589,834,178,423,60025,0.0682,120903,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-350,688,1280,0,565,809,79,324,59780,0.0679,121114,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-351,688,1280,0,622,826,91,295,41616,0.0473,121325,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-352,688,1280,0,676,1028,199,551,123904,0.1407,121747,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-353,688,1280,0,717,1224,0,506,256542,0.2913,122380,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-354,688,1280,0,298,720,68,491,178506,0.2027,122802,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-355,688,1280,0,481,774,39,333,86142,0.0978,123013,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-356,688,1280,0,713,958,129,373,59780,0.0679,123224,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-357,688,1280,1,366,611,104,348,59780,0.0679,123224,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-358,688,1280,0,778,1072,99,392,86142,0.0978,123435,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-359,688,1280,1,362,656,129,422,86142,0.0978,123435,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-360,688,1280,0,659,953,129,422,86142,0.0978,123646,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-361,688,1280,0,554,977,111,533,178506,0.2027,123857,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-362,688,1280,0,689,982,69,363,86142,0.0978,124279,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-363,688,1280,0,251,455,112,316,41616,0.0473,124701,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-364,688,1280,0,243,537,99,392,86142,0.0978,124912,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-365,688,1280,1,451,745,39,333,86436,0.0982,124912,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-366,688,1280,0,490,735,153,398,60025,0.0682,128077,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-367,688,1280,0,583,640,238,295,3249,0.0037,128288,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-368,688,1280,0,932,1136,195,398,41412,0.047,128710,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-369,688,1280,0,785,955,173,342,28730,0.0326,129132,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-370,688,1280,0,767,971,153,357,41616,0.0473,129554,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-371,688,1280,0,333,537,236,440,41616,0.0473,129765,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-372,688,1280,0,375,578,71,275,41412,0.047,129976,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-373,688,1280,0,457,661,133,336,41412,0.047,130820,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-374,688,1280,0,570,864,129,422,86142,0.0978,132086,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-375,688,1280,0,422,715,69,363,86142,0.0978,132508,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-376,688,1280,0,441,611,104,274,28900,0.0328,136095,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-377,688,1280,0,410,528,167,285,13924,0.0158,136517,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-378,688,1280,0,1008,1178,18,188,28900,0.0328,136728,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-379,688,1280,0,193,438,203,447,59780,0.0679,136939,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-380,688,1280,0,119,363,129,373,59536,0.0676,137150,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-381,688,1280,0,423,564,144,285,19881,0.0226,137361,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-382,688,1280,0,193,438,228,472,59780,0.0679,137572,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-383,688,1280,1,492,662,52,222,28900,0.0328,137572,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-384,688,1280,0,94,339,203,447,59780,0.0679,137783,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-385,688,1280,1,622,826,71,275,41616,0.0473,137783,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-386,688,1280,0,351,492,86,228,20022,0.0227,137994,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-387,688,1280,0,699,869,104,274,28900,0.0328,138416,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-388,688,1280,0,601,719,119,237,13924,0.0158,139260,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-389,688,1280,0,360,969,0,553,336777,0.3824,139682,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-390,688,1280,0,422,715,69,363,86142,0.0978,139893,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-391,688,1280,0,248,600,56,409,124256,0.1411,140104,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-392,688,1280,0,569,921,56,409,124256,0.1411,140315,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-393,688,1280,0,658,715,227,284,3249,0.0037,140948,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-394,688,1280,0,537,679,115,256,20022,0.0227,141159,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-395,688,1280,1,303,596,158,452,86142,0.0978,141159,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-396,688,1280,0,168,372,174,378,41616,0.0473,141581,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-397,688,1280,0,243,487,252,497,59780,0.0679,141792,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-398,688,1280,1,510,680,104,274,28900,0.0328,141792,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-399,688,1280,0,924,1022,203,301,9604,0.0109,142214,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-400,688,1280,1,406,504,153,251,9604,0.0109,142214,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-401,688,1280,0,243,537,158,452,86436,0.0982,142425,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-402,688,1280,1,595,736,359,500,19881,0.0226,142425,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-403,688,1280,0,750,920,138,308,28900,0.0328,142847,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-404,688,1280,0,416,661,129,373,59780,0.0679,143058,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-405,688,1280,0,392,685,99,392,85849,0.0975,143269,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-406,688,1280,0,462,814,92,444,123904,0.1407,143480,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-407,688,1280,0,340,763,25,448,178929,0.2032,143691,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-408,688,1280,0,519,723,153,357,41616,0.0473,144113,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-409,688,1280,0,655,753,173,271,9604,0.0109,144535,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-410,688,1280,1,183,231,225,273,2304,0.0026,144535,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-411,688,1280,0,609,691,126,208,6724,0.0076,144746,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-412,688,1280,0,383,806,68,491,178929,0.2032,146434,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-413,688,1280,0,600,893,10,303,85849,0.0975,146645,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-414,688,1280,0,519,723,133,336,41412,0.047,146856,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-415,688,1280,1,726,1148,68,491,178506,0.2027,146856,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-416,688,1280,0,498,702,153,357,41616,0.0473,147067,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-417,688,1280,0,283,636,128,480,124256,0.1411,147278,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-418,688,1280,0,747,1099,56,409,124256,0.1411,147489,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-419,688,1280,0,540,834,129,422,86142,0.0978,147700,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-420,688,1280,0,711,1063,92,444,123904,0.1407,147911,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-421,688,1280,0,355,707,128,480,123904,0.1407,148122,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-422,688,1280,0,383,806,68,491,178929,0.2032,148333,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-423,688,1280,0,597,1020,68,491,178929,0.2032,148755,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-424,688,1280,0,469,891,25,448,178506,0.2027,148966,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-425,688,1280,0,360,969,0,553,336777,0.3824,149177,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-426,688,1280,0,595,652,238,295,3249,0.0037,149810,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-427,688,1280,0,791,873,167,249,6724,0.0076,150232,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-428,688,1280,0,836,1006,155,325,28900,0.0328,150443,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-429,688,1280,1,148,351,112,316,41412,0.047,150443,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-430,688,1280,0,849,1053,112,316,41616,0.0473,150654,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-431,688,1280,1,44,289,79,324,60025,0.0682,150654,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-432,688,1280,0,565,809,104,348,59536,0.0676,150865,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-433,688,1280,0,292,496,112,316,41616,0.0473,151076,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-434,688,1280,0,271,475,71,275,41616,0.0473,151709,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-435,688,1280,0,320,490,138,308,28900,0.0328,152342,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-436,688,1280,0,441,685,79,324,59780,0.0679,152553,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-437,688,1280,1,781,922,58,199,19881,0.0226,152553,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-438,688,1280,0,1193,1232,265,305,1560,0.0018,152975,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-439,688,1280,1,841,880,145,185,1560,0.0018,152975,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-440,688,1280,0,423,564,115,256,19881,0.0226,153186,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-441,688,1280,0,695,836,101,242,19881,0.0226,153397,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-442,688,1280,1,399,447,5,52,2256,0.0026,153397,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-443,688,1280,0,630,923,129,422,85849,0.0975,153608,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-444,688,1280,0,638,779,144,285,19881,0.0226,153819,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-445,688,1280,0,630,923,69,363,86142,0.0978,154030,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-446,688,1280,0,511,804,69,363,86142,0.0978,154241,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-447,688,1280,0,391,636,129,373,59780,0.0679,154452,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-448,688,1280,0,366,611,129,373,59780,0.0679,154663,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-449,688,1280,0,437,578,158,299,19881,0.0226,157406,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-450,688,1280,0,552,693,273,414,19881,0.0226,158039,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-451,688,1280,0,639,883,104,348,59536,0.0676,158672,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-452,688,1280,0,497,849,128,480,123904,0.1407,158883,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-453,688,1280,0,319,671,128,480,123904,0.1407,159094,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-454,688,1280,0,589,834,104,348,59780,0.0679,159305,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-455,688,1280,0,391,636,153,398,60025,0.0682,159727,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-456,688,1280,0,416,620,112,316,41616,0.0473,160360,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-457,688,1280,0,462,814,128,480,123904,0.1407,160571,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-458,688,1280,0,426,778,92,444,123904,0.1407,160782,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-459,688,1280,0,541,580,109,149,1560,0.0018,160993,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-460,688,1280,0,416,661,104,348,59780,0.0679,161204,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-461,688,1280,0,315,432,155,273,13806,0.0157,161626,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-462,688,1280,0,630,923,129,422,85849,0.0975,161837,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-463,688,1280,0,527,697,104,274,28900,0.0328,162259,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-464,688,1280,0,213,507,129,422,86142,0.0978,162681,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-465,688,1280,0,243,537,158,452,86436,0.0982,162892,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-466,688,1280,0,248,600,128,480,123904,0.1407,163103,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-467,688,1280,0,148,351,133,336,41209,0.0468,163314,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-468,688,1280,0,894,941,115,162,2209,0.0025,164791,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-469,688,1280,1,702,749,149,196,2209,0.0025,164791,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-470,688,1280,0,481,774,99,392,85849,0.0975,165002,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-471,688,1280,0,494,636,86,228,20164,0.0229,166479,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-472,688,1280,0,684,888,112,316,41616,0.0473,166690,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-473,688,1280,1,168,372,50,254,41616,0.0473,166690,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-474,688,1280,0,649,767,107,225,13924,0.0158,166901,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-475,688,1280,0,441,480,165,205,1560,0.0018,167112,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-476,688,1280,0,664,867,153,357,41412,0.047,167323,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-477,688,1280,0,354,558,174,378,41616,0.0473,167534,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-478,688,1280,0,392,685,129,422,85849,0.0975,167745,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-479,688,1280,0,375,578,153,357,41412,0.047,167956,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-480,688,1280,0,354,558,133,336,41412,0.047,168167,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-481,688,1280,0,395,599,133,336,41412,0.047,168378,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-482,688,1280,0,255,677,68,491,178506,0.2027,168800,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-483,688,1280,0,520,577,279,335,3192,0.0036,169011,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-484,688,1280,0,1083,1181,83,181,9604,0.0109,169644,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-485,688,1280,1,322,464,158,299,20022,0.0227,169644,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-486,688,1280,0,561,731,121,291,28900,0.0328,169855,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-487,688,1280,0,511,804,129,422,85849,0.0975,170066,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-488,688,1280,0,251,455,71,275,41616,0.0473,170488,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-489,688,1280,0,119,363,79,324,59780,0.0679,170699,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-490,688,1280,0,333,537,153,357,41616,0.0473,170910,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-491,688,1280,0,451,745,39,333,86436,0.0982,171121,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-492,688,1280,0,497,849,92,444,123904,0.1407,171543,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-493,688,1280,0,383,806,25,448,178929,0.2032,172387,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-494,688,1280,0,237,845,0,553,336224,0.3818,173020,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-495,688,1280,0,385,467,209,291,6724,0.0076,173231,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-496,688,1280,0,422,715,99,392,85849,0.0975,173442,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-497,688,1280,0,647,817,138,308,28900,0.0328,173653,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-498,688,1280,0,392,685,129,422,85849,0.0975,173864,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-499,688,1280,0,422,715,158,452,86142,0.0978,174075,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-500,688,1280,0,319,671,92,444,123904,0.1407,174286,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-501,688,1280,0,416,661,129,373,59780,0.0679,174497,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-502,688,1280,0,700,782,192,274,6724,0.0076,174708,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-503,688,1280,0,506,604,123,221,9604,0.0109,174919,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-504,688,1280,0,376,475,133,231,9702,0.011,175130,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-505,688,1280,1,844,942,123,221,9604,0.0109,175130,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-506,688,1280,0,346,445,133,231,9702,0.011,175341,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-507,688,1280,1,816,934,143,261,13924,0.0158,175341,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-508,688,1280,0,255,373,119,237,13924,0.0158,175552,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-509,688,1280,1,852,970,143,261,13924,0.0158,175552,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-510,688,1280,0,661,779,84,202,13924,0.0158,175763,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-511,688,1280,0,128,210,259,341,6724,0.0076,175974,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-512,688,1280,1,963,1062,173,271,9702,0.011,175974,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-513,688,1280,0,423,564,86,228,20022,0.0227,177029,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-514,688,1280,0,298,720,111,533,178084,0.2022,177240,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-515,688,1280,0,298,720,154,576,178084,0.2022,177451,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-516,688,1280,0,601,719,119,237,13924,0.0158,177662,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-517,688,1280,1,1043,1213,104,274,28900,0.0328,177662,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-518,688,1280,0,396,494,123,221,9604,0.0109,178084,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-519,688,1280,0,366,611,153,398,60025,0.0682,178295,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-520,688,1280,0,570,864,129,422,86142,0.0978,178506,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-521,688,1280,0,466,564,113,211,9604,0.0109,178717,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-522,688,1280,0,476,574,222,321,9702,0.011,179350,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-523,688,1280,0,283,636,92,444,124256,0.1411,179772,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-524,688,1280,0,390,742,128,480,123904,0.1407,179983,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-525,688,1280,0,533,885,128,480,123904,0.1407,180194,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-526,688,1280,0,600,893,99,392,85849,0.0975,180616,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-527,688,1280,0,213,507,99,392,86142,0.0978,181038,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-528,688,1280,0,511,804,10,303,85849,0.0975,181249,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-529,688,1280,0,375,578,153,357,41412,0.047,181460,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-530,688,1280,0,392,685,158,452,86142,0.0978,181882,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-531,688,1280,0,416,620,91,295,41616,0.0473,182304,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-532,688,1280,0,478,682,112,316,41616,0.0473,182515,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-533,688,1280,0,392,685,99,392,85849,0.0975,182726,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-534,688,1280,0,639,883,129,373,59536,0.0676,183570,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-535,688,1280,0,639,883,153,398,59780,0.0679,183781,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-536,688,1280,1,248,600,128,480,123904,0.1407,183781,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-537,688,1280,0,212,635,68,491,178929,0.2032,183992,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-538,688,1280,0,303,596,69,363,86142,0.0978,184203,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-539,688,1280,0,490,735,153,398,60025,0.0682,184414,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-540,688,1280,0,84,506,68,491,178506,0.2027,184625,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-541,688,1280,0,540,744,174,378,41616,0.0473,186524,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-542,688,1280,0,416,661,129,373,59780,0.0679,186735,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-543,688,1280,0,625,743,155,273,13924,0.0158,186946,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-544,688,1280,0,462,814,92,444,123904,0.1407,187157,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-545,688,1280,0,457,661,153,357,41616,0.0473,187579,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-546,688,1280,0,451,745,39,333,86436,0.0982,187790,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-547,688,1280,0,390,742,56,409,124256,0.1411,188001,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-548,688,1280,0,338,508,241,411,28900,0.0328,188634,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-549,688,1280,0,355,707,56,409,124256,0.1411,191377,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-550,688,1280,0,689,982,337,630,85849,0.0975,192221,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-551,688,1280,0,416,514,123,221,9604,0.0109,192854,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-552,688,1280,0,416,514,53,152,9702,0.011,193065,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-553,688,1280,0,319,671,163,516,124256,0.1411,194120,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-554,688,1280,0,319,671,92,444,123904,0.1407,194331,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-555,688,1280,0,307,405,222,321,9702,0.011,197285,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-556,688,1280,1,741,823,201,283,6724,0.0076,197285,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-557,688,1280,0,540,834,129,422,86142,0.0978,197496,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-558,688,1280,0,124,418,247,541,86436,0.0982,197707,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-559,688,1280,0,589,707,107,225,13924,0.0158,198129,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-560,688,1280,0,184,477,39,333,86142,0.0978,198762,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-561,688,1280,0,545,644,133,231,9702,0.011,199817,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-562,688,1280,0,209,266,169,226,3249,0.0037,200239,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-563,688,1280,0,649,767,119,237,13924,0.0158,200661,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-564,688,1280,0,144,388,79,324,59780,0.0679,201716,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-565,688,1280,0,293,375,76,158,6724,0.0076,201927,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-566,688,1280,1,816,898,101,183,6724,0.0076,201927,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-567,688,1280,0,630,800,310,480,28900,0.0328,202349,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-568,688,1280,0,645,684,161,201,1560,0.0018,202560,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-569,688,1280,0,28,198,173,342,28730,0.0326,203193,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-570,688,1280,0,540,834,99,392,86142,0.0978,204037,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-571,688,1280,0,462,814,128,480,123904,0.1407,204248,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-572,688,1280,0,451,745,158,452,86436,0.0982,204459,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-573,688,1280,0,458,628,155,325,28900,0.0328,205092,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-574,688,1280,0,391,636,104,348,59780,0.0679,207413,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-575,688,1280,0,569,608,153,193,1560,0.0018,207624,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-576,688,1280,1,901,940,169,209,1560,0.0018,207624,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-577,688,1280,2,1149,1188,165,205,1560,0.0018,207624,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-578,688,1280,0,986,1230,79,324,59780,0.0679,207835,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-579,688,1280,1,267,512,104,348,59780,0.0679,207835,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-580,688,1280,0,498,702,91,295,41616,0.0473,208046,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-581,688,1280,0,390,742,92,444,123904,0.1407,208257,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-582,688,1280,0,466,564,153,251,9604,0.0109,208679,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-583,688,1280,1,88,145,186,243,3249,0.0037,208679,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-584,688,1280,2,625,707,109,191,6724,0.0076,208679,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-585,688,1280,0,469,891,0,405,170910,0.1941,209734,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-586,688,1280,0,144,226,126,208,6724,0.0076,209945,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-587,688,1280,1,1033,1131,123,221,9604,0.0109,209945,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-588,688,1280,0,527,697,121,291,28900,0.0328,210156,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-589,688,1280,0,451,745,99,392,86142,0.0978,211000,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-590,688,1280,0,602,806,133,336,41412,0.047,212055,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-591,688,1280,0,494,612,131,249,13924,0.0158,212477,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-592,688,1280,1,595,693,183,281,9604,0.0109,212477,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-593,688,1280,0,565,683,167,285,13924,0.0158,212688,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-594,688,1280,1,303,421,107,225,13924,0.0158,212688,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-595,688,1280,2,685,783,193,291,9604,0.0109,212688,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-596,688,1280,0,445,513,227,295,4624,0.0053,212899,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-597,688,1280,0,509,548,161,201,1560,0.0018,213321,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-598,688,1280,1,697,744,206,254,2256,0.0026,213321,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-599,688,1280,0,750,797,283,330,2209,0.0025,213532,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-600,688,1280,1,468,525,209,266,3249,0.0037,213532,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-601,688,1280,0,733,815,267,349,6724,0.0076,213743,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-602,688,1280,1,808,865,307,364,3249,0.0037,213743,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-603,688,1280,0,279,421,129,271,20164,0.0229,213954,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-604,688,1280,1,780,898,322,440,13924,0.0158,213954,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
-605,688,1280,0,319,671,92,444,123904,0.1407,214165,/home/amos/server/media/movies/A Prophet (2009)/A Prophet (2009).mkv
+,img_height,img_width,face_num,x1,x2,y1,y2,area,pct_of_frame,frame_num,imdb_id
+0,688,1280,0,426,778,56,409,124256,0.1411,2954,1235166
+1,688,1280,0,395,599,153,357,41616,0.0473,3165,1235166
+2,688,1280,0,391,636,54,299,60025,0.0682,4009,1235166
+3,688,1280,0,649,696,149,196,2209,0.0025,4853,1235166
+4,688,1280,0,867,1008,115,256,19881,0.0226,5486,1235166
+5,688,1280,0,540,744,112,316,41616,0.0473,5697,1235166
+6,688,1280,0,581,785,133,336,41412,0.047,6119,1235166
+7,688,1280,0,465,710,79,324,60025,0.0682,6330,1235166
+8,688,1280,0,600,893,99,392,85849,0.0975,6752,1235166
+9,688,1280,0,365,507,129,271,20164,0.0229,7385,1235166
+10,688,1280,1,685,803,131,249,13924,0.0158,7385,1235166
+11,688,1280,0,983,1082,252,351,9801,0.0111,8440,1235166
+12,688,1280,0,437,640,91,295,41412,0.047,8862,1235166
+13,688,1280,0,492,662,69,239,28900,0.0328,9073,1235166
+14,688,1280,0,23,91,213,281,4624,0.0053,9706,1235166
+15,688,1280,0,398,516,167,285,13924,0.0158,10128,1235166
+16,688,1280,1,971,1089,119,237,13924,0.0158,10128,1235166
+17,688,1280,0,490,735,79,324,60025,0.0682,10339,1235166
+18,688,1280,0,486,584,43,142,9702,0.011,10550,1235166
+19,688,1280,0,975,1023,192,239,2256,0.0026,10761,1235166
+20,688,1280,0,791,873,93,175,6724,0.0076,11605,1235166
+21,688,1280,0,784,883,83,181,9702,0.011,11816,1235166
+22,688,1280,0,392,685,99,392,85849,0.0975,12660,1235166
+23,688,1280,1,659,953,99,392,86142,0.0978,12660,1235166
+24,688,1280,0,392,685,39,333,86142,0.0978,12871,1235166
+25,688,1280,1,639,883,79,324,59780,0.0679,12871,1235166
+26,688,1280,0,332,626,158,452,86436,0.0982,13293,1235166
+27,688,1280,0,600,893,188,481,85849,0.0975,14137,1235166
+28,688,1280,0,630,923,158,452,86142,0.0978,14348,1235166
+29,688,1280,0,540,834,129,422,86142,0.0978,14559,1235166
+30,688,1280,0,355,707,56,409,124256,0.1411,14770,1235166
+31,688,1280,0,540,784,79,324,59780,0.0679,14981,1235166
+32,688,1280,0,362,656,129,422,86142,0.0978,15403,1235166
+33,688,1280,0,390,742,92,444,123904,0.1407,15614,1235166
+34,688,1280,0,212,564,128,480,123904,0.1407,15825,1235166
+35,688,1280,0,990,1037,62,110,2256,0.0026,16458,1235166
+36,688,1280,0,584,666,109,191,6724,0.0076,16669,1235166
+37,688,1280,0,510,680,224,394,28900,0.0328,16880,1235166
+38,688,1280,0,829,1033,112,316,41616,0.0473,17513,1235166
+39,688,1280,0,501,583,167,249,6724,0.0076,19623,1235166
+40,688,1280,1,147,246,133,231,9702,0.011,19623,1235166
+41,688,1280,2,861,900,157,197,1560,0.0018,19623,1235166
+42,688,1280,0,317,561,104,348,59536,0.0676,19834,1235166
+43,688,1280,1,953,1094,101,242,19881,0.0226,19834,1235166
+44,688,1280,0,623,765,0,127,18034,0.0205,20045,1235166
+45,688,1280,1,213,507,39,333,86436,0.0982,20045,1235166
+46,688,1280,0,490,735,104,348,59780,0.0679,20256,1235166
+47,688,1280,0,570,864,99,392,86142,0.0978,20467,1235166
+48,688,1280,0,600,893,129,422,85849,0.0975,20678,1235166
+49,688,1280,0,459,541,159,241,6724,0.0076,20889,1235166
+50,688,1280,0,581,785,236,440,41616,0.0473,21100,1235166
+51,688,1280,1,780,898,299,417,13924,0.0158,21100,1235166
+52,688,1280,2,213,507,0,273,80262,0.0911,21100,1235166
+53,688,1280,0,614,859,129,373,59780,0.0679,21311,1235166
+54,688,1280,1,144,388,54,299,59780,0.0679,21311,1235166
+55,688,1280,2,1035,1280,203,447,59780,0.0679,21311,1235166
+56,688,1280,0,355,707,128,480,123904,0.1407,21733,1235166
+57,688,1280,0,600,893,99,392,85849,0.0975,21944,1235166
+58,688,1280,1,212,564,0,337,118624,0.1347,21944,1235166
+59,688,1280,0,355,707,56,409,124256,0.1411,22155,1235166
+60,688,1280,0,283,636,128,480,124256,0.1411,22577,1235166
+61,688,1280,0,357,865,101,608,257556,0.2925,22788,1235166
+62,688,1280,0,416,514,93,191,9604,0.0109,24476,1235166
+63,688,1280,0,819,989,18,188,28900,0.0328,24687,1235166
+64,688,1280,0,283,636,21,373,124256,0.1411,25742,1235166
+65,688,1280,0,212,564,199,551,123904,0.1407,25953,1235166
+66,688,1280,0,512,934,111,533,178084,0.2022,26164,1235166
+67,688,1280,0,342,586,153,398,59780,0.0679,26375,1235166
+68,688,1280,0,481,774,99,392,85849,0.0975,26586,1235166
+69,688,1280,0,640,992,128,480,123904,0.1407,27430,1235166
+70,688,1280,0,932,1136,71,275,41616,0.0473,28485,1235166
+71,688,1280,0,1182,1280,113,211,9604,0.0109,29118,1235166
+72,688,1280,0,392,685,69,363,86142,0.0978,29540,1235166
+73,688,1280,0,212,564,92,444,123904,0.1407,29962,1235166
+74,688,1280,0,465,710,79,324,60025,0.0682,30173,1235166
+75,688,1280,0,426,849,68,491,178929,0.2032,30384,1235166
+76,688,1280,0,465,710,104,348,59780,0.0679,30595,1235166
+77,688,1280,0,481,774,69,363,86142,0.0978,30806,1235166
+78,688,1280,1,986,1280,0,273,80262,0.0911,30806,1235166
+79,688,1280,0,647,817,121,291,28900,0.0328,31017,1235166
+80,688,1280,1,406,576,155,325,28900,0.0328,31017,1235166
+81,688,1280,0,659,953,39,333,86436,0.0982,31228,1235166
+82,688,1280,0,481,774,99,392,85849,0.0975,32072,1235166
+83,688,1280,0,469,891,68,491,178506,0.2027,32283,1235166
+84,688,1280,0,342,586,153,398,59780,0.0679,32916,1235166
+85,688,1280,0,675,773,153,251,9604,0.0109,33127,1235166
+86,688,1280,0,540,744,153,357,41616,0.0473,33338,1235166
+87,688,1280,0,647,817,138,308,28900,0.0328,33760,1235166
+88,688,1280,0,332,626,39,333,86436,0.0982,33971,1235166
+89,688,1280,0,303,596,99,392,85849,0.0975,34182,1235166
+90,688,1280,0,666,734,199,267,4624,0.0053,34393,1235166
+91,688,1280,0,457,661,153,357,41616,0.0473,34604,1235166
+92,688,1280,0,867,1008,43,185,20022,0.0227,34815,1235166
+93,688,1280,0,416,661,129,373,59780,0.0679,35448,1235166
+94,688,1280,0,465,710,153,398,60025,0.0682,35870,1235166
+95,688,1280,0,451,745,69,363,86436,0.0982,36081,1235166
+96,688,1280,0,392,685,158,452,86142,0.0978,36292,1235166
+97,688,1280,0,298,720,0,405,170910,0.1941,36503,1235166
+98,688,1280,0,322,464,201,342,20022,0.0227,37136,1235166
+99,688,1280,0,248,600,128,480,123904,0.1407,37558,1235166
+100,688,1280,1,996,1137,187,328,19881,0.0226,37558,1235166
+101,688,1280,0,283,636,128,480,124256,0.1411,37769,1235166
+102,688,1280,0,298,720,68,491,178506,0.2027,37980,1235166
+103,688,1280,0,340,763,68,491,178929,0.2032,38191,1235166
+104,688,1280,0,544,714,155,325,28900,0.0328,39035,1235166
+105,688,1280,0,832,900,102,170,4624,0.0053,39668,1235166
+106,688,1280,0,725,807,26,108,6724,0.0076,40090,1235166
+107,688,1280,0,390,742,92,444,123904,0.1407,42200,1235166
+108,688,1280,0,340,763,111,533,178506,0.2027,42411,1235166
+109,688,1280,0,733,903,173,342,28730,0.0326,42833,1235166
+110,688,1280,1,131,301,138,308,28900,0.0328,42833,1235166
+111,688,1280,2,922,1092,173,342,28730,0.0326,42833,1235166
+112,688,1280,0,422,715,99,392,85849,0.0975,43044,1235166
+113,688,1280,0,974,1056,267,349,6724,0.0076,43466,1235166
+114,688,1280,0,949,1031,275,357,6724,0.0076,43677,1235166
+115,688,1280,0,1007,1089,275,357,6724,0.0076,43888,1235166
+116,688,1280,0,1007,1089,267,349,6724,0.0076,44099,1235166
+117,688,1280,0,426,778,128,480,123904,0.1407,44310,1235166
+118,688,1280,0,319,671,128,480,123904,0.1407,44521,1235166
+119,688,1280,0,303,596,158,452,86142,0.0978,44732,1235166
+120,688,1280,0,639,883,104,348,59536,0.0676,44943,1235166
+121,688,1280,0,366,611,104,348,59780,0.0679,45154,1235166
+122,688,1280,0,303,596,99,392,85849,0.0975,45365,1235166
+123,688,1280,0,64,182,72,190,13924,0.0158,45576,1235166
+124,688,1280,0,600,893,129,422,85849,0.0975,49163,1235166
+125,688,1280,0,465,710,129,373,59780,0.0679,49796,1235166
+126,688,1280,0,267,512,79,324,60025,0.0682,50218,1235166
+127,688,1280,0,437,640,215,419,41412,0.047,50429,1235166
+128,688,1280,0,560,764,153,357,41616,0.0473,50640,1235166
+129,688,1280,0,390,742,92,444,123904,0.1407,51062,1235166
+130,688,1280,0,596,766,69,239,28900,0.0328,51273,1235166
+131,688,1280,0,86,290,256,460,41616,0.0473,51484,1235166
+132,688,1280,0,510,680,155,325,28900,0.0328,51695,1235166
+133,688,1280,1,154,448,99,392,86142,0.0978,51695,1235166
+134,688,1280,2,1118,1280,215,419,33048,0.0375,51695,1235166
+135,688,1280,0,540,784,104,348,59536,0.0676,51906,1235166
+136,688,1280,0,457,661,484,687,41412,0.047,52328,1235166
+137,688,1280,0,478,682,91,295,41616,0.0473,53172,1235166
+138,688,1280,0,767,971,215,419,41616,0.0473,53383,1235166
+139,688,1280,0,498,702,71,275,41616,0.0473,53594,1235166
+140,688,1280,0,490,735,104,348,59780,0.0679,53805,1235166
+141,688,1280,0,386,484,73,171,9604,0.0109,54016,1235166
+142,688,1280,0,374,492,119,237,13924,0.0158,54227,1235166
+143,688,1280,0,600,893,129,422,85849,0.0975,54438,1235166
+144,688,1280,0,313,517,91,295,41616,0.0473,55071,1235166
+145,688,1280,1,862,1106,104,348,59536,0.0676,55071,1235166
+146,688,1280,0,812,1057,79,324,60025,0.0682,55282,1235166
+147,688,1280,1,292,496,91,295,41616,0.0473,55282,1235166
+148,688,1280,0,837,1082,104,348,59780,0.0679,55493,1235166
+149,688,1280,1,243,487,104,348,59536,0.0676,55493,1235166
+150,688,1280,0,271,475,71,275,41616,0.0473,55704,1235166
+151,688,1280,1,862,1106,54,299,59780,0.0679,55704,1235166
+152,688,1280,0,511,804,99,392,85849,0.0975,56759,1235166
+153,688,1280,0,475,645,104,274,28900,0.0328,58025,1235166
+154,688,1280,1,897,1191,10,303,86142,0.0978,58025,1235166
+155,688,1280,0,725,823,113,211,9604,0.0109,58236,1235166
+156,688,1280,1,386,484,103,201,9604,0.0109,58236,1235166
+157,688,1280,2,589,707,107,225,13924,0.0158,58236,1235166
+158,688,1280,0,916,997,134,216,6642,0.0075,58447,1235166
+159,688,1280,1,694,762,102,170,4624,0.0053,58447,1235166
+160,688,1280,2,575,674,93,191,9702,0.011,58447,1235166
+161,688,1280,3,1163,1280,48,166,13806,0.0157,58447,1235166
+162,688,1280,0,894,992,173,271,9604,0.0109,58658,1235166
+163,688,1280,1,36,118,201,283,6724,0.0076,58658,1235166
+164,688,1280,0,609,750,201,342,19881,0.0226,58869,1235166
+165,688,1280,0,768,938,121,291,28900,0.0328,59291,1235166
+166,688,1280,0,545,644,123,221,9702,0.011,59713,1235166
+167,688,1280,1,673,741,123,191,4624,0.0053,59713,1235166
+168,688,1280,0,406,576,87,256,28730,0.0326,60557,1235166
+169,688,1280,0,613,783,121,291,28900,0.0328,62034,1235166
+170,688,1280,0,602,806,133,336,41412,0.047,62245,1235166
+171,688,1280,0,391,636,104,348,59780,0.0679,62456,1235166
+172,688,1280,0,441,611,155,325,28900,0.0328,63089,1235166
+173,688,1280,0,688,933,79,324,60025,0.0682,63300,1235166
+174,688,1280,0,481,774,129,422,85849,0.0975,63511,1235166
+175,688,1280,0,166,336,104,274,28900,0.0328,63933,1235166
+176,688,1280,0,922,1092,121,291,28900,0.0328,64144,1235166
+177,688,1280,0,416,661,79,324,60025,0.0682,64355,1235166
+178,688,1280,0,392,685,0,273,79989,0.0908,64566,1235166
+179,688,1280,0,514,582,95,164,4692,0.0053,65199,1235166
+180,688,1280,0,870,1074,112,316,41616,0.0473,65410,1235166
+181,688,1280,1,623,765,144,285,20022,0.0227,65410,1235166
+182,688,1280,0,883,940,302,358,3192,0.0036,66676,1235166
+183,688,1280,1,551,633,93,175,6724,0.0076,66676,1235166
+184,688,1280,0,725,823,153,251,9604,0.0109,67098,1235166
+185,688,1280,0,511,804,69,363,86142,0.0978,67309,1235166
+186,688,1280,0,481,774,129,422,85849,0.0975,67520,1235166
+187,688,1280,0,630,923,158,452,86142,0.0978,67731,1235166
+188,688,1280,0,638,779,129,271,20022,0.0227,67942,1235166
+189,688,1280,0,688,933,129,373,59780,0.0679,68153,1235166
+190,688,1280,0,802,972,138,308,28900,0.0328,68364,1235166
+191,688,1280,1,286,456,52,222,28900,0.0328,68364,1235166
+192,688,1280,0,193,438,54,299,60025,0.0682,68575,1235166
+193,688,1280,1,787,1032,153,398,60025,0.0682,68575,1235166
+194,688,1280,0,292,537,79,324,60025,0.0682,68786,1235166
+195,688,1280,1,812,1057,153,398,60025,0.0682,68786,1235166
+196,688,1280,0,713,958,104,348,59780,0.0679,68997,1235166
+197,688,1280,1,342,586,54,299,59780,0.0679,68997,1235166
+198,688,1280,0,639,883,54,299,59780,0.0679,69208,1235166
+199,688,1280,0,726,929,112,316,41412,0.047,69419,1235166
+200,688,1280,0,406,576,121,291,28900,0.0328,69630,1235166
+201,688,1280,0,451,745,39,333,86436,0.0982,69841,1235166
+202,688,1280,0,713,958,54,299,60025,0.0682,70052,1235166
+203,688,1280,0,763,1007,104,348,59536,0.0676,70263,1235166
+204,688,1280,0,664,908,104,348,59536,0.0676,70474,1235166
+205,688,1280,0,422,715,99,392,85849,0.0975,70685,1235166
+206,688,1280,0,585,684,173,271,9702,0.011,71318,1235166
+207,688,1280,0,614,859,54,299,60025,0.0682,71951,1235166
+208,688,1280,0,637,755,96,213,13806,0.0157,72162,1235166
+209,688,1280,0,319,671,128,480,123904,0.1407,72584,1235166
+210,688,1280,0,565,809,104,348,59536,0.0676,73006,1235166
+211,688,1280,0,441,685,129,373,59536,0.0676,73217,1235166
+212,688,1280,0,85,124,117,157,1560,0.0018,73428,1235166
+213,688,1280,1,395,442,120,167,2209,0.0025,73428,1235166
+214,688,1280,0,354,558,215,419,41616,0.0473,73639,1235166
+215,688,1280,1,643,847,71,275,41616,0.0473,73639,1235166
+216,688,1280,0,222,363,0,127,17907,0.0203,74061,1235166
+217,688,1280,1,738,982,327,571,59536,0.0676,74061,1235166
+218,688,1280,0,362,656,158,452,86436,0.0982,74272,1235166
+219,688,1280,0,422,715,158,452,86142,0.0978,74905,1235166
+220,688,1280,0,664,908,129,373,59536,0.0676,75116,1235166
+221,688,1280,0,740,788,81,129,2304,0.0026,75960,1235166
+222,688,1280,1,548,617,88,157,4761,0.0054,75960,1235166
+223,688,1280,0,591,639,105,153,2304,0.0026,76171,1235166
+224,688,1280,1,664,721,83,140,3249,0.0037,76171,1235166
+225,688,1280,0,332,626,129,422,86142,0.0978,76804,1235166
+226,688,1280,0,243,537,99,392,86142,0.0978,77015,1235166
+227,688,1280,0,600,893,99,392,85849,0.0975,77226,1235166
+228,688,1280,0,200,370,155,325,28900,0.0328,80602,1235166
+229,688,1280,1,113,152,25,65,1560,0.0018,80602,1235166
+230,688,1280,0,217,387,138,308,28900,0.0328,80813,1235166
+231,688,1280,1,93,132,21,61,1560,0.0018,80813,1235166
+232,688,1280,0,131,301,138,308,28900,0.0328,81024,1235166
+233,688,1280,1,11,58,0,47,2209,0.0025,81024,1235166
+234,688,1280,2,854,1024,155,325,28900,0.0328,81024,1235166
+235,688,1280,0,165,306,129,271,20022,0.0227,81235,1235166
+236,688,1280,1,39,87,5,52,2256,0.0026,81235,1235166
+237,688,1280,0,165,306,144,285,19881,0.0226,81446,1235166
+238,688,1280,1,13,52,25,65,1560,0.0018,81446,1235166
+239,688,1280,0,332,626,99,392,86142,0.0978,81868,1235166
+240,688,1280,0,333,537,50,254,41616,0.0473,82079,1235166
+241,688,1280,0,416,661,129,373,59780,0.0679,82290,1235166
+242,688,1280,0,354,558,91,295,41616,0.0473,82501,1235166
+243,688,1280,0,354,558,91,295,41616,0.0473,82712,1235166
+244,688,1280,0,441,685,129,373,59536,0.0676,83134,1235166
+245,688,1280,0,953,1094,101,242,19881,0.0226,83767,1235166
+246,688,1280,1,645,743,173,271,9604,0.0109,83767,1235166
+247,688,1280,0,741,780,165,205,1560,0.0018,84189,1235166
+248,688,1280,1,865,904,181,221,1560,0.0018,84189,1235166
+249,688,1280,2,949,988,173,213,1560,0.0018,84189,1235166
+250,688,1280,3,618,675,146,203,3249,0.0037,84189,1235166
+251,688,1280,0,457,661,112,316,41616,0.0473,85244,1235166
+252,688,1280,0,457,661,112,316,41616,0.0473,85455,1235166
+253,688,1280,0,682,852,155,325,28900,0.0328,85666,1235166
+254,688,1280,1,389,559,52,222,28900,0.0328,85666,1235166
+255,688,1280,0,639,883,129,373,59536,0.0676,85877,1235166
+256,688,1280,1,457,661,71,275,41616,0.0473,85877,1235166
+257,688,1280,0,647,817,155,325,28900,0.0328,86299,1235166
+258,688,1280,0,565,683,394,512,13924,0.0158,86510,1235166
+259,688,1280,1,333,537,91,295,41616,0.0473,86510,1235166
+260,688,1280,0,625,743,394,512,13924,0.0158,86721,1235166
+261,688,1280,1,333,537,50,254,41616,0.0473,86721,1235166
+262,688,1280,0,746,950,133,336,41412,0.047,86932,1235166
+263,688,1280,0,333,537,133,336,41412,0.047,87143,1235166
+264,688,1280,1,862,1106,178,423,59780,0.0679,87143,1235166
+265,688,1280,0,410,528,119,237,13924,0.0158,87354,1235166
+266,688,1280,0,639,883,104,348,59536,0.0676,88409,1235166
+267,688,1280,0,511,804,0,244,71492,0.0812,88620,1235166
+268,688,1280,0,416,661,104,348,59780,0.0679,89042,1235166
+269,688,1280,0,589,834,104,348,59780,0.0679,89253,1235166
+270,688,1280,0,630,923,10,303,85849,0.0975,89464,1235166
+271,688,1280,0,422,715,99,392,85849,0.0975,89675,1235166
+272,688,1280,0,292,496,133,336,41412,0.047,89886,1235166
+273,688,1280,0,354,558,91,295,41616,0.0473,90097,1235166
+274,688,1280,0,492,662,121,291,28900,0.0328,90308,1235166
+275,688,1280,0,523,664,72,213,19881,0.0226,90519,1235166
+276,688,1280,0,458,576,287,405,13924,0.0158,92418,1235166
+277,688,1280,0,676,1028,163,516,124256,0.1411,93262,1235166
+278,688,1280,0,441,611,35,205,28900,0.0328,93684,1235166
+279,688,1280,1,119,363,29,274,59780,0.0679,93684,1235166
+280,688,1280,0,922,1092,138,308,28900,0.0328,94739,1235166
+281,688,1280,1,148,318,138,308,28900,0.0328,94739,1235166
+282,688,1280,0,114,284,155,325,28900,0.0328,94950,1235166
+283,688,1280,1,836,1006,104,274,28900,0.0328,94950,1235166
+284,688,1280,0,510,680,173,342,28730,0.0326,95372,1235166
+285,688,1280,0,540,784,104,348,59536,0.0676,95794,1235166
+286,688,1280,0,498,702,195,398,41412,0.047,96005,1235166
+287,688,1280,0,738,982,129,373,59536,0.0676,96849,1235166
+288,688,1280,0,666,734,206,274,4624,0.0053,99170,1235166
+289,688,1280,0,655,753,113,211,9604,0.0109,100014,1235166
+290,688,1280,0,416,620,153,357,41616,0.0473,100858,1235166
+291,688,1280,1,787,1032,79,324,60025,0.0682,100858,1235166
+292,688,1280,0,630,923,0,273,79989,0.0908,101069,1235166
+293,688,1280,0,437,640,174,378,41412,0.047,101280,1235166
+294,688,1280,0,466,564,113,211,9604,0.0109,102546,1235166
+295,688,1280,0,705,803,143,241,9604,0.0109,102757,1235166
+296,688,1280,0,561,731,121,291,28900,0.0328,103179,1235166
+297,688,1280,0,659,953,129,422,86142,0.0978,103390,1235166
+298,688,1280,0,395,599,91,295,41616,0.0473,104234,1235166
+299,688,1280,0,317,561,79,324,59780,0.0679,104445,1235166
+300,688,1280,0,689,982,129,422,85849,0.0975,104656,1235166
+301,688,1280,0,744,862,119,237,13924,0.0158,106766,1235166
+302,688,1280,0,251,455,112,316,41616,0.0473,107188,1235166
+303,688,1280,0,469,891,154,576,178084,0.2022,107399,1235166
+304,688,1280,0,465,710,104,348,59780,0.0679,107610,1235166
+305,688,1280,0,465,710,178,423,60025,0.0682,107821,1235166
+306,688,1280,0,565,683,107,225,13924,0.0158,108032,1235166
+307,688,1280,0,308,449,215,357,20022,0.0227,108665,1235166
+308,688,1280,0,565,683,96,213,13806,0.0157,108876,1235166
+309,688,1280,1,867,1008,316,457,19881,0.0226,108876,1235166
+310,688,1280,0,457,661,91,295,41616,0.0473,109087,1235166
+311,688,1280,0,516,614,93,191,9604,0.0109,109509,1235166
+312,688,1280,0,490,735,203,447,59780,0.0679,110775,1235166
+313,688,1280,0,498,702,91,295,41616,0.0473,110986,1235166
+314,688,1280,0,854,1277,196,619,178929,0.2032,111619,1235166
+315,688,1280,1,303,596,99,392,85849,0.0975,111619,1235166
+316,688,1280,0,689,982,188,481,85849,0.0975,111830,1235166
+317,688,1280,0,688,933,153,398,60025,0.0682,112041,1235166
+318,688,1280,0,614,859,104,348,59780,0.0679,112252,1235166
+319,688,1280,0,248,600,92,444,123904,0.1407,112463,1235166
+320,688,1280,1,597,1020,154,576,178506,0.2027,112463,1235166
+321,688,1280,0,383,806,68,491,178929,0.2032,112674,1235166
+322,688,1280,0,212,564,92,444,123904,0.1407,112885,1235166
+323,688,1280,0,535,634,153,251,9702,0.011,113307,1235166
+324,688,1280,0,478,682,133,336,41412,0.047,114362,1235166
+325,688,1280,0,383,806,0,362,153126,0.1739,114573,1235166
+326,688,1280,0,175,784,6,615,370881,0.4211,114784,1235166
+327,688,1280,0,949,1031,234,316,6724,0.0076,115206,1235166
+328,688,1280,1,318,400,93,175,6724,0.0076,115206,1235166
+329,688,1280,0,366,611,104,348,59780,0.0679,115417,1235166
+330,688,1280,0,544,714,104,274,28900,0.0328,115628,1235166
+331,688,1280,0,422,715,99,392,85849,0.0975,115839,1235166
+332,688,1280,0,441,685,104,348,59536,0.0676,116050,1235166
+333,688,1280,0,604,956,56,409,124256,0.1411,116261,1235166
+334,688,1280,0,332,626,158,452,86436,0.0982,116472,1235166
+335,688,1280,0,340,763,111,533,178506,0.2027,116683,1235166
+336,688,1280,0,838,1131,99,392,85849,0.0975,117738,1235166
+337,688,1280,0,748,1042,39,333,86436,0.0982,117949,1235166
+338,688,1280,0,604,956,56,409,124256,0.1411,118160,1235166
+339,688,1280,0,332,626,69,363,86436,0.0982,118371,1235166
+340,688,1280,0,176,529,92,444,124256,0.1411,118582,1235166
+341,688,1280,0,560,764,112,316,41616,0.0473,118793,1235166
+342,688,1280,0,251,455,153,357,41616,0.0473,119004,1235166
+343,688,1280,0,313,517,195,398,41412,0.047,119215,1235166
+344,688,1280,0,267,512,153,398,60025,0.0682,119426,1235166
+345,688,1280,0,481,774,99,392,85849,0.0975,119637,1235166
+346,688,1280,0,267,512,129,373,59780,0.0679,119848,1235166
+347,688,1280,0,565,809,104,348,59536,0.0676,120481,1235166
+348,688,1280,0,614,859,104,348,59780,0.0679,120692,1235166
+349,688,1280,0,589,834,178,423,60025,0.0682,120903,1235166
+350,688,1280,0,565,809,79,324,59780,0.0679,121114,1235166
+351,688,1280,0,622,826,91,295,41616,0.0473,121325,1235166
+352,688,1280,0,676,1028,199,551,123904,0.1407,121747,1235166
+353,688,1280,0,717,1224,0,506,256542,0.2913,122380,1235166
+354,688,1280,0,298,720,68,491,178506,0.2027,122802,1235166
+355,688,1280,0,481,774,39,333,86142,0.0978,123013,1235166
+356,688,1280,0,713,958,129,373,59780,0.0679,123224,1235166
+357,688,1280,1,366,611,104,348,59780,0.0679,123224,1235166
+358,688,1280,0,778,1072,99,392,86142,0.0978,123435,1235166
+359,688,1280,1,362,656,129,422,86142,0.0978,123435,1235166
+360,688,1280,0,659,953,129,422,86142,0.0978,123646,1235166
+361,688,1280,0,554,977,111,533,178506,0.2027,123857,1235166
+362,688,1280,0,689,982,69,363,86142,0.0978,124279,1235166
+363,688,1280,0,251,455,112,316,41616,0.0473,124701,1235166
+364,688,1280,0,243,537,99,392,86142,0.0978,124912,1235166
+365,688,1280,1,451,745,39,333,86436,0.0982,124912,1235166
+366,688,1280,0,490,735,153,398,60025,0.0682,128077,1235166
+367,688,1280,0,583,640,238,295,3249,0.0037,128288,1235166
+368,688,1280,0,932,1136,195,398,41412,0.047,128710,1235166
+369,688,1280,0,785,955,173,342,28730,0.0326,129132,1235166
+370,688,1280,0,767,971,153,357,41616,0.0473,129554,1235166
+371,688,1280,0,333,537,236,440,41616,0.0473,129765,1235166
+372,688,1280,0,375,578,71,275,41412,0.047,129976,1235166
+373,688,1280,0,457,661,133,336,41412,0.047,130820,1235166
+374,688,1280,0,570,864,129,422,86142,0.0978,132086,1235166
+375,688,1280,0,422,715,69,363,86142,0.0978,132508,1235166
+376,688,1280,0,441,611,104,274,28900,0.0328,136095,1235166
+377,688,1280,0,410,528,167,285,13924,0.0158,136517,1235166
+378,688,1280,0,1008,1178,18,188,28900,0.0328,136728,1235166
+379,688,1280,0,193,438,203,447,59780,0.0679,136939,1235166
+380,688,1280,0,119,363,129,373,59536,0.0676,137150,1235166
+381,688,1280,0,423,564,144,285,19881,0.0226,137361,1235166
+382,688,1280,0,193,438,228,472,59780,0.0679,137572,1235166
+383,688,1280,1,492,662,52,222,28900,0.0328,137572,1235166
+384,688,1280,0,94,339,203,447,59780,0.0679,137783,1235166
+385,688,1280,1,622,826,71,275,41616,0.0473,137783,1235166
+386,688,1280,0,351,492,86,228,20022,0.0227,137994,1235166
+387,688,1280,0,699,869,104,274,28900,0.0328,138416,1235166
+388,688,1280,0,601,719,119,237,13924,0.0158,139260,1235166
+389,688,1280,0,360,969,0,553,336777,0.3824,139682,1235166
+390,688,1280,0,422,715,69,363,86142,0.0978,139893,1235166
+391,688,1280,0,248,600,56,409,124256,0.1411,140104,1235166
+392,688,1280,0,569,921,56,409,124256,0.1411,140315,1235166
+393,688,1280,0,658,715,227,284,3249,0.0037,140948,1235166
+394,688,1280,0,537,679,115,256,20022,0.0227,141159,1235166
+395,688,1280,1,303,596,158,452,86142,0.0978,141159,1235166
+396,688,1280,0,168,372,174,378,41616,0.0473,141581,1235166
+397,688,1280,0,243,487,252,497,59780,0.0679,141792,1235166
+398,688,1280,1,510,680,104,274,28900,0.0328,141792,1235166
+399,688,1280,0,924,1022,203,301,9604,0.0109,142214,1235166
+400,688,1280,1,406,504,153,251,9604,0.0109,142214,1235166
+401,688,1280,0,243,537,158,452,86436,0.0982,142425,1235166
+402,688,1280,1,595,736,359,500,19881,0.0226,142425,1235166
+403,688,1280,0,750,920,138,308,28900,0.0328,142847,1235166
+404,688,1280,0,416,661,129,373,59780,0.0679,143058,1235166
+405,688,1280,0,392,685,99,392,85849,0.0975,143269,1235166
+406,688,1280,0,462,814,92,444,123904,0.1407,143480,1235166
+407,688,1280,0,340,763,25,448,178929,0.2032,143691,1235166
+408,688,1280,0,519,723,153,357,41616,0.0473,144113,1235166
+409,688,1280,0,655,753,173,271,9604,0.0109,144535,1235166
+410,688,1280,1,183,231,225,273,2304,0.0026,144535,1235166
+411,688,1280,0,609,691,126,208,6724,0.0076,144746,1235166
+412,688,1280,0,383,806,68,491,178929,0.2032,146434,1235166
+413,688,1280,0,600,893,10,303,85849,0.0975,146645,1235166
+414,688,1280,0,519,723,133,336,41412,0.047,146856,1235166
+415,688,1280,1,726,1148,68,491,178506,0.2027,146856,1235166
+416,688,1280,0,498,702,153,357,41616,0.0473,147067,1235166
+417,688,1280,0,283,636,128,480,124256,0.1411,147278,1235166
+418,688,1280,0,747,1099,56,409,124256,0.1411,147489,1235166
+419,688,1280,0,540,834,129,422,86142,0.0978,147700,1235166
+420,688,1280,0,711,1063,92,444,123904,0.1407,147911,1235166
+421,688,1280,0,355,707,128,480,123904,0.1407,148122,1235166
+422,688,1280,0,383,806,68,491,178929,0.2032,148333,1235166
+423,688,1280,0,597,1020,68,491,178929,0.2032,148755,1235166
+424,688,1280,0,469,891,25,448,178506,0.2027,148966,1235166
+425,688,1280,0,360,969,0,553,336777,0.3824,149177,1235166
+426,688,1280,0,595,652,238,295,3249,0.0037,149810,1235166
+427,688,1280,0,791,873,167,249,6724,0.0076,150232,1235166
+428,688,1280,0,836,1006,155,325,28900,0.0328,150443,1235166
+429,688,1280,1,148,351,112,316,41412,0.047,150443,1235166
+430,688,1280,0,849,1053,112,316,41616,0.0473,150654,1235166
+431,688,1280,1,44,289,79,324,60025,0.0682,150654,1235166
+432,688,1280,0,565,809,104,348,59536,0.0676,150865,1235166
+433,688,1280,0,292,496,112,316,41616,0.0473,151076,1235166
+434,688,1280,0,271,475,71,275,41616,0.0473,151709,1235166
+435,688,1280,0,320,490,138,308,28900,0.0328,152342,1235166
+436,688,1280,0,441,685,79,324,59780,0.0679,152553,1235166
+437,688,1280,1,781,922,58,199,19881,0.0226,152553,1235166
+438,688,1280,0,1193,1232,265,305,1560,0.0018,152975,1235166
+439,688,1280,1,841,880,145,185,1560,0.0018,152975,1235166
+440,688,1280,0,423,564,115,256,19881,0.0226,153186,1235166
+441,688,1280,0,695,836,101,242,19881,0.0226,153397,1235166
+442,688,1280,1,399,447,5,52,2256,0.0026,153397,1235166
+443,688,1280,0,630,923,129,422,85849,0.0975,153608,1235166
+444,688,1280,0,638,779,144,285,19881,0.0226,153819,1235166
+445,688,1280,0,630,923,69,363,86142,0.0978,154030,1235166
+446,688,1280,0,511,804,69,363,86142,0.0978,154241,1235166
+447,688,1280,0,391,636,129,373,59780,0.0679,154452,1235166
+448,688,1280,0,366,611,129,373,59780,0.0679,154663,1235166
+449,688,1280,0,437,578,158,299,19881,0.0226,157406,1235166
+450,688,1280,0,552,693,273,414,19881,0.0226,158039,1235166
+451,688,1280,0,639,883,104,348,59536,0.0676,158672,1235166
+452,688,1280,0,497,849,128,480,123904,0.1407,158883,1235166
+453,688,1280,0,319,671,128,480,123904,0.1407,159094,1235166
+454,688,1280,0,589,834,104,348,59780,0.0679,159305,1235166
+455,688,1280,0,391,636,153,398,60025,0.0682,159727,1235166
+456,688,1280,0,416,620,112,316,41616,0.0473,160360,1235166
+457,688,1280,0,462,814,128,480,123904,0.1407,160571,1235166
+458,688,1280,0,426,778,92,444,123904,0.1407,160782,1235166
+459,688,1280,0,541,580,109,149,1560,0.0018,160993,1235166
+460,688,1280,0,416,661,104,348,59780,0.0679,161204,1235166
+461,688,1280,0,315,432,155,273,13806,0.0157,161626,1235166
+462,688,1280,0,630,923,129,422,85849,0.0975,161837,1235166
+463,688,1280,0,527,697,104,274,28900,0.0328,162259,1235166
+464,688,1280,0,213,507,129,422,86142,0.0978,162681,1235166
+465,688,1280,0,243,537,158,452,86436,0.0982,162892,1235166
+466,688,1280,0,248,600,128,480,123904,0.1407,163103,1235166
+467,688,1280,0,148,351,133,336,41209,0.0468,163314,1235166
+468,688,1280,0,894,941,115,162,2209,0.0025,164791,1235166
+469,688,1280,1,702,749,149,196,2209,0.0025,164791,1235166
+470,688,1280,0,481,774,99,392,85849,0.0975,165002,1235166
+471,688,1280,0,494,636,86,228,20164,0.0229,166479,1235166
+472,688,1280,0,684,888,112,316,41616,0.0473,166690,1235166
+473,688,1280,1,168,372,50,254,41616,0.0473,166690,1235166
+474,688,1280,0,649,767,107,225,13924,0.0158,166901,1235166
+475,688,1280,0,441,480,165,205,1560,0.0018,167112,1235166
+476,688,1280,0,664,867,153,357,41412,0.047,167323,1235166
+477,688,1280,0,354,558,174,378,41616,0.0473,167534,1235166
+478,688,1280,0,392,685,129,422,85849,0.0975,167745,1235166
+479,688,1280,0,375,578,153,357,41412,0.047,167956,1235166
+480,688,1280,0,354,558,133,336,41412,0.047,168167,1235166
+481,688,1280,0,395,599,133,336,41412,0.047,168378,1235166
+482,688,1280,0,255,677,68,491,178506,0.2027,168800,1235166
+483,688,1280,0,520,577,279,335,3192,0.0036,169011,1235166
+484,688,1280,0,1083,1181,83,181,9604,0.0109,169644,1235166
+485,688,1280,1,322,464,158,299,20022,0.0227,169644,1235166
+486,688,1280,0,561,731,121,291,28900,0.0328,169855,1235166
+487,688,1280,0,511,804,129,422,85849,0.0975,170066,1235166
+488,688,1280,0,251,455,71,275,41616,0.0473,170488,1235166
+489,688,1280,0,119,363,79,324,59780,0.0679,170699,1235166
+490,688,1280,0,333,537,153,357,41616,0.0473,170910,1235166
+491,688,1280,0,451,745,39,333,86436,0.0982,171121,1235166
+492,688,1280,0,497,849,92,444,123904,0.1407,171543,1235166
+493,688,1280,0,383,806,25,448,178929,0.2032,172387,1235166
+494,688,1280,0,237,845,0,553,336224,0.3818,173020,1235166
+495,688,1280,0,385,467,209,291,6724,0.0076,173231,1235166
+496,688,1280,0,422,715,99,392,85849,0.0975,173442,1235166
+497,688,1280,0,647,817,138,308,28900,0.0328,173653,1235166
+498,688,1280,0,392,685,129,422,85849,0.0975,173864,1235166
+499,688,1280,0,422,715,158,452,86142,0.0978,174075,1235166
+500,688,1280,0,319,671,92,444,123904,0.1407,174286,1235166
+501,688,1280,0,416,661,129,373,59780,0.0679,174497,1235166
+502,688,1280,0,700,782,192,274,6724,0.0076,174708,1235166
+503,688,1280,0,506,604,123,221,9604,0.0109,174919,1235166
+504,688,1280,0,376,475,133,231,9702,0.011,175130,1235166
+505,688,1280,1,844,942,123,221,9604,0.0109,175130,1235166
+506,688,1280,0,346,445,133,231,9702,0.011,175341,1235166
+507,688,1280,1,816,934,143,261,13924,0.0158,175341,1235166
+508,688,1280,0,255,373,119,237,13924,0.0158,175552,1235166
+509,688,1280,1,852,970,143,261,13924,0.0158,175552,1235166
+510,688,1280,0,661,779,84,202,13924,0.0158,175763,1235166
+511,688,1280,0,128,210,259,341,6724,0.0076,175974,1235166
+512,688,1280,1,963,1062,173,271,9702,0.011,175974,1235166
+513,688,1280,0,423,564,86,228,20022,0.0227,177029,1235166
+514,688,1280,0,298,720,111,533,178084,0.2022,177240,1235166
+515,688,1280,0,298,720,154,576,178084,0.2022,177451,1235166
+516,688,1280,0,601,719,119,237,13924,0.0158,177662,1235166
+517,688,1280,1,1043,1213,104,274,28900,0.0328,177662,1235166
+518,688,1280,0,396,494,123,221,9604,0.0109,178084,1235166
+519,688,1280,0,366,611,153,398,60025,0.0682,178295,1235166
+520,688,1280,0,570,864,129,422,86142,0.0978,178506,1235166
+521,688,1280,0,466,564,113,211,9604,0.0109,178717,1235166
+522,688,1280,0,476,574,222,321,9702,0.011,179350,1235166
+523,688,1280,0,283,636,92,444,124256,0.1411,179772,1235166
+524,688,1280,0,390,742,128,480,123904,0.1407,179983,1235166
+525,688,1280,0,533,885,128,480,123904,0.1407,180194,1235166
+526,688,1280,0,600,893,99,392,85849,0.0975,180616,1235166
+527,688,1280,0,213,507,99,392,86142,0.0978,181038,1235166
+528,688,1280,0,511,804,10,303,85849,0.0975,181249,1235166
+529,688,1280,0,375,578,153,357,41412,0.047,181460,1235166
+530,688,1280,0,392,685,158,452,86142,0.0978,181882,1235166
+531,688,1280,0,416,620,91,295,41616,0.0473,182304,1235166
+532,688,1280,0,478,682,112,316,41616,0.0473,182515,1235166
+533,688,1280,0,392,685,99,392,85849,0.0975,182726,1235166
+534,688,1280,0,639,883,129,373,59536,0.0676,183570,1235166
+535,688,1280,0,639,883,153,398,59780,0.0679,183781,1235166
+536,688,1280,1,248,600,128,480,123904,0.1407,183781,1235166
+537,688,1280,0,212,635,68,491,178929,0.2032,183992,1235166
+538,688,1280,0,303,596,69,363,86142,0.0978,184203,1235166
+539,688,1280,0,490,735,153,398,60025,0.0682,184414,1235166
+540,688,1280,0,84,506,68,491,178506,0.2027,184625,1235166
+541,688,1280,0,540,744,174,378,41616,0.0473,186524,1235166
+542,688,1280,0,416,661,129,373,59780,0.0679,186735,1235166
+543,688,1280,0,625,743,155,273,13924,0.0158,186946,1235166
+544,688,1280,0,462,814,92,444,123904,0.1407,187157,1235166
+545,688,1280,0,457,661,153,357,41616,0.0473,187579,1235166
+546,688,1280,0,451,745,39,333,86436,0.0982,187790,1235166
+547,688,1280,0,390,742,56,409,124256,0.1411,188001,1235166
+548,688,1280,0,338,508,241,411,28900,0.0328,188634,1235166
+549,688,1280,0,355,707,56,409,124256,0.1411,191377,1235166
+550,688,1280,0,689,982,337,630,85849,0.0975,192221,1235166
+551,688,1280,0,416,514,123,221,9604,0.0109,192854,1235166
+552,688,1280,0,416,514,53,152,9702,0.011,193065,1235166
+553,688,1280,0,319,671,163,516,124256,0.1411,194120,1235166
+554,688,1280,0,319,671,92,444,123904,0.1407,194331,1235166
+555,688,1280,0,307,405,222,321,9702,0.011,197285,1235166
+556,688,1280,1,741,823,201,283,6724,0.0076,197285,1235166
+557,688,1280,0,540,834,129,422,86142,0.0978,197496,1235166
+558,688,1280,0,124,418,247,541,86436,0.0982,197707,1235166
+559,688,1280,0,589,707,107,225,13924,0.0158,198129,1235166
+560,688,1280,0,184,477,39,333,86142,0.0978,198762,1235166
+561,688,1280,0,545,644,133,231,9702,0.011,199817,1235166
+562,688,1280,0,209,266,169,226,3249,0.0037,200239,1235166
+563,688,1280,0,649,767,119,237,13924,0.0158,200661,1235166
+564,688,1280,0,144,388,79,324,59780,0.0679,201716,1235166
+565,688,1280,0,293,375,76,158,6724,0.0076,201927,1235166
+566,688,1280,1,816,898,101,183,6724,0.0076,201927,1235166
+567,688,1280,0,630,800,310,480,28900,0.0328,202349,1235166
+568,688,1280,0,645,684,161,201,1560,0.0018,202560,1235166
+569,688,1280,0,28,198,173,342,28730,0.0326,203193,1235166
+570,688,1280,0,540,834,99,392,86142,0.0978,204037,1235166
+571,688,1280,0,462,814,128,480,123904,0.1407,204248,1235166
+572,688,1280,0,451,745,158,452,86436,0.0982,204459,1235166
+573,688,1280,0,458,628,155,325,28900,0.0328,205092,1235166
+574,688,1280,0,391,636,104,348,59780,0.0679,207413,1235166
+575,688,1280,0,569,608,153,193,1560,0.0018,207624,1235166
+576,688,1280,1,901,940,169,209,1560,0.0018,207624,1235166
+577,688,1280,2,1149,1188,165,205,1560,0.0018,207624,1235166
+578,688,1280,0,986,1230,79,324,59780,0.0679,207835,1235166
+579,688,1280,1,267,512,104,348,59780,0.0679,207835,1235166
+580,688,1280,0,498,702,91,295,41616,0.0473,208046,1235166
+581,688,1280,0,390,742,92,444,123904,0.1407,208257,1235166
+582,688,1280,0,466,564,153,251,9604,0.0109,208679,1235166
+583,688,1280,1,88,145,186,243,3249,0.0037,208679,1235166
+584,688,1280,2,625,707,109,191,6724,0.0076,208679,1235166
+585,688,1280,0,469,891,0,405,170910,0.1941,209734,1235166
+586,688,1280,0,144,226,126,208,6724,0.0076,209945,1235166
+587,688,1280,1,1033,1131,123,221,9604,0.0109,209945,1235166
+588,688,1280,0,527,697,121,291,28900,0.0328,210156,1235166
+589,688,1280,0,451,745,99,392,86142,0.0978,211000,1235166
+590,688,1280,0,602,806,133,336,41412,0.047,212055,1235166
+591,688,1280,0,494,612,131,249,13924,0.0158,212477,1235166
+592,688,1280,1,595,693,183,281,9604,0.0109,212477,1235166
+593,688,1280,0,565,683,167,285,13924,0.0158,212688,1235166
+594,688,1280,1,303,421,107,225,13924,0.0158,212688,1235166
+595,688,1280,2,685,783,193,291,9604,0.0109,212688,1235166
+596,688,1280,0,445,513,227,295,4624,0.0053,212899,1235166
+597,688,1280,0,509,548,161,201,1560,0.0018,213321,1235166
+598,688,1280,1,697,744,206,254,2256,0.0026,213321,1235166
+599,688,1280,0,750,797,283,330,2209,0.0025,213532,1235166
+600,688,1280,1,468,525,209,266,3249,0.0037,213532,1235166
+601,688,1280,0,733,815,267,349,6724,0.0076,213743,1235166
+602,688,1280,1,808,865,307,364,3249,0.0037,213743,1235166
+603,688,1280,0,279,421,129,271,20164,0.0229,213954,1235166
+604,688,1280,1,780,898,322,440,13924,0.0158,213954,1235166
+605,688,1280,0,319,671,92,444,123904,0.1407,214165,1235166

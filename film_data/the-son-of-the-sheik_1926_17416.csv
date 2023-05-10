@@ -1,412 +1,412 @@
-,img_height,img_width,face_num,x1,x2,y1,y2,area,pct_of_frame,frame_num,video_src
-0,360,480,0,67,237,123,293,28900,0.1672,3744,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-1,360,480,0,179,226,28,76,2256,0.0131,3978,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-2,360,480,0,230,299,111,179,4692,0.0272,5382,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-3,360,480,0,289,328,113,153,1560,0.009,5850,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-4,360,480,0,210,278,83,151,4624,0.0268,6201,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-5,360,480,0,85,329,0,228,55632,0.3219,6786,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-6,360,480,0,85,329,33,277,59536,0.3445,6903,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-7,360,480,0,60,304,33,277,59536,0.3445,7020,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-8,360,480,0,60,304,33,277,59536,0.3445,7137,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-9,360,480,0,136,277,117,258,19881,0.1151,7371,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-10,360,480,0,206,323,106,224,13806,0.0799,8424,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-11,360,480,0,153,323,123,293,28900,0.1672,8541,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-12,360,480,0,170,340,140,310,28900,0.1672,8892,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-13,360,480,0,165,306,102,244,20022,0.1159,9009,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-14,360,480,0,267,323,108,165,3192,0.0185,9126,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-15,360,480,0,260,342,140,221,6642,0.0384,9243,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-16,360,480,0,53,151,76,174,9604,0.0556,9711,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-17,360,480,1,293,375,140,221,6642,0.0384,9711,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-18,360,480,0,53,135,106,188,6724,0.0389,9828,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-19,360,480,1,260,342,123,205,6724,0.0389,9828,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-20,360,480,0,292,390,135,234,9702,0.0561,9945,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-21,360,480,1,61,143,123,205,6724,0.0389,9945,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-22,360,480,0,94,176,115,197,6724,0.0389,10413,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-23,360,480,0,73,171,96,194,9604,0.0556,10881,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-24,360,480,1,260,342,131,213,6724,0.0389,10881,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-25,360,480,0,83,181,86,184,9604,0.0556,11115,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-26,360,480,0,238,295,22,78,3192,0.0185,11583,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-27,360,480,0,147,216,76,145,4761,0.0276,11700,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-28,360,480,0,79,220,59,201,20022,0.1159,12402,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-29,360,480,0,147,216,49,117,4692,0.0272,12870,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-30,360,480,0,146,264,94,212,13924,0.0806,13104,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-31,360,480,0,146,264,178,296,13924,0.0806,13221,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-32,360,480,0,107,249,74,215,20022,0.1159,13338,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-33,360,480,0,50,219,123,293,28730,0.1663,14859,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-34,360,480,0,84,254,123,293,28900,0.1672,14976,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-35,360,480,0,97,136,153,193,1560,0.009,15444,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-36,360,480,0,168,236,62,131,4692,0.0272,16029,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-37,360,480,0,161,230,56,124,4692,0.0272,16380,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-38,360,480,0,238,295,56,113,3249,0.0188,16965,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-39,360,480,0,211,292,57,138,6561,0.038,18486,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-40,360,480,0,196,264,28,96,4624,0.0268,18720,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-41,360,480,0,203,271,69,138,4692,0.0272,19071,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-42,360,480,0,120,188,76,145,4692,0.0272,19422,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-43,360,480,0,99,167,97,165,4624,0.0268,19539,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-44,360,480,0,170,288,106,224,13924,0.0806,19656,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-45,360,480,0,64,206,117,258,20022,0.1159,19890,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-46,360,480,0,98,216,106,224,13924,0.0806,20007,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-47,360,480,0,79,220,88,230,20022,0.1159,20124,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-48,360,480,0,172,270,86,184,9604,0.0556,20241,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-49,360,480,1,73,171,115,214,9702,0.0561,20241,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-50,360,480,0,172,270,86,184,9604,0.0556,20475,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-51,360,480,1,73,171,125,224,9702,0.0561,20475,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-52,360,480,0,73,171,145,244,9702,0.0561,20592,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-53,360,480,1,170,288,106,224,13924,0.0806,20592,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-54,360,480,0,73,171,125,224,9702,0.0561,20709,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-55,360,480,1,158,276,70,188,13924,0.0806,20709,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-56,360,480,0,73,171,125,224,9702,0.0561,20943,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-57,360,480,1,172,270,96,194,9604,0.0556,20943,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-58,360,480,0,93,191,115,214,9702,0.0561,21060,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-59,360,480,1,192,290,86,184,9604,0.0556,21060,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-60,360,480,0,162,261,66,164,9702,0.0561,21411,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-61,360,480,1,112,211,175,273,9702,0.0561,21411,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-62,360,480,0,182,280,66,164,9604,0.0556,21528,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-63,360,480,1,112,211,165,264,9801,0.0567,21528,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-64,360,480,0,142,241,66,164,9702,0.0561,21645,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-65,360,480,0,134,252,70,188,13924,0.0806,21879,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-66,360,480,0,94,176,140,221,6642,0.0384,21996,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-67,360,480,0,152,234,57,138,6642,0.0384,23166,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-68,360,480,0,58,126,104,172,4624,0.0268,23400,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-69,360,480,0,58,126,104,172,4624,0.0268,23634,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-70,360,480,0,76,133,108,165,3249,0.0188,23751,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-71,360,480,0,92,160,97,165,4624,0.0268,24102,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-72,360,480,0,134,202,69,138,4692,0.0272,24336,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-73,360,480,0,187,357,54,224,28900,0.1672,24687,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-74,360,480,1,50,191,88,230,20022,0.1159,24687,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-75,360,480,0,21,163,88,230,20164,0.1167,24804,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-76,360,480,1,170,340,37,207,28900,0.1672,24804,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-77,360,480,0,225,264,105,145,1560,0.009,24921,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-78,360,480,0,337,384,62,110,2256,0.0131,25038,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-79,360,480,0,303,351,57,105,2304,0.0133,25155,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-80,360,480,0,265,333,69,138,4692,0.0272,25740,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-81,360,480,0,152,234,131,213,6724,0.0389,25857,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-82,360,480,0,132,231,135,234,9801,0.0567,25974,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-83,360,480,0,106,174,159,227,4624,0.0268,27846,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-84,360,480,0,61,143,115,197,6724,0.0389,28548,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-85,360,480,0,61,143,115,197,6724,0.0389,28782,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-86,360,480,1,172,270,96,194,9604,0.0556,28782,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-87,360,480,0,43,141,96,194,9604,0.0556,28899,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-88,360,480,0,161,230,166,234,4692,0.0272,29133,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-89,360,480,0,111,193,156,238,6724,0.0389,29250,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-90,360,480,0,162,261,56,154,9702,0.0561,29601,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-91,360,480,0,83,130,120,167,2209,0.0128,29718,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-92,360,480,0,182,250,49,117,4624,0.0268,29835,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-93,360,480,1,388,444,56,113,3192,0.0185,29835,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-94,360,480,0,140,188,81,129,2304,0.0133,29952,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-95,360,480,1,113,181,166,234,4624,0.0268,29952,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-96,360,480,2,370,427,68,125,3249,0.0188,29952,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-97,360,480,3,217,285,42,110,4624,0.0268,29952,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-98,360,480,0,122,263,88,230,20022,0.1159,30537,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-99,360,480,0,380,428,91,138,2256,0.0131,30654,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-100,360,480,1,285,367,65,147,6724,0.0389,30654,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-101,360,480,0,293,375,48,130,6724,0.0389,31239,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-102,360,480,0,79,220,131,273,20022,0.1159,31941,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-103,360,480,0,352,433,98,180,6642,0.0384,32175,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-104,360,480,0,25,72,149,196,2209,0.0128,32292,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-105,360,480,0,230,299,83,151,4692,0.0272,32409,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-106,360,480,0,103,201,66,164,9604,0.0556,32760,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-107,360,480,0,196,264,90,158,4624,0.0268,32877,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-108,360,480,0,251,319,76,145,4692,0.0272,33228,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-109,360,480,0,134,191,206,263,3249,0.0188,34866,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-110,360,480,0,134,191,206,263,3249,0.0188,34983,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-111,360,480,0,101,271,123,293,28900,0.1672,35451,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-112,360,480,0,197,236,125,165,1560,0.009,36036,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-113,360,480,0,180,237,114,171,3249,0.0188,36153,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-114,360,480,0,172,270,56,154,9604,0.0556,36855,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-115,360,480,0,211,292,48,130,6642,0.0384,36972,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-116,360,480,0,202,284,57,138,6642,0.0384,37089,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-117,360,480,0,202,300,56,154,9604,0.0556,37206,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-118,360,480,0,172,270,105,204,9702,0.0561,37908,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-119,360,480,0,59,106,43,90,2209,0.0128,39195,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-120,360,480,1,324,381,108,165,3249,0.0188,39195,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-121,360,480,0,211,292,73,155,6642,0.0384,39312,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-122,360,480,0,211,292,65,147,6642,0.0384,39429,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-123,360,480,0,237,306,83,151,4692,0.0272,39546,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-124,360,480,1,13,111,86,184,9604,0.0556,39546,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-125,360,480,0,93,191,96,194,9604,0.0556,39897,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-126,360,480,1,206,323,58,176,13806,0.0799,39897,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-127,360,480,0,281,320,21,61,1560,0.009,40716,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-128,360,480,1,157,214,91,148,3249,0.0188,40716,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-129,360,480,2,25,72,14,61,2209,0.0128,40716,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-130,360,480,0,174,231,73,130,3249,0.0188,40950,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-131,360,480,0,212,260,72,119,2256,0.0131,42120,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-132,360,480,0,232,289,22,78,3192,0.0185,42237,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-133,360,480,0,293,361,111,179,4624,0.0268,42354,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-134,360,480,0,119,201,98,180,6724,0.0389,42471,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-135,360,480,1,285,367,81,163,6724,0.0389,42471,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-136,360,480,0,186,268,81,163,6724,0.0389,43290,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-137,360,480,0,182,280,86,184,9604,0.0556,43407,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-138,360,480,0,107,249,117,258,20022,0.1159,43524,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-139,360,480,0,146,264,142,260,13924,0.0806,43641,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-140,360,480,0,98,216,178,296,13924,0.0806,43758,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-141,360,480,0,211,292,65,147,6642,0.0384,43875,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-142,360,480,0,122,221,46,144,9702,0.0561,43992,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-143,360,480,0,152,251,56,154,9702,0.0561,44226,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-144,360,480,0,177,259,81,163,6724,0.0389,44343,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-145,360,480,0,209,266,200,257,3249,0.0188,44460,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-146,360,480,0,197,254,206,263,3249,0.0188,44577,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-147,360,480,0,153,192,105,145,1560,0.009,44928,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-148,360,480,1,232,289,108,165,3249,0.0188,44928,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-149,360,480,0,153,323,72,241,28730,0.1663,45162,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-150,360,480,0,111,168,73,130,3249,0.0188,45279,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-151,360,480,0,84,254,72,241,28730,0.1663,45396,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-152,360,480,0,159,207,53,100,2256,0.0131,45513,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-153,360,480,0,150,197,24,71,2209,0.0128,45630,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-154,360,480,0,261,318,166,222,3192,0.0185,45747,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-155,360,480,0,177,259,57,138,6642,0.0384,45864,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-156,360,480,0,169,251,73,155,6724,0.0389,45981,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-157,360,480,0,111,193,73,155,6724,0.0389,46449,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-158,360,480,1,341,409,125,193,4624,0.0268,46449,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-159,360,480,0,279,347,97,165,4624,0.0268,46566,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-160,360,480,0,93,191,66,164,9604,0.0556,46917,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-161,360,480,0,63,161,56,154,9604,0.0556,47034,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-162,360,480,0,220,277,79,136,3249,0.0188,47385,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-163,360,480,0,210,278,76,145,4692,0.0272,47502,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-164,360,480,0,249,306,68,125,3249,0.0188,48906,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-165,360,480,0,154,223,62,131,4761,0.0276,49140,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-166,360,480,0,118,288,89,259,28900,0.1672,49257,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-167,360,480,0,84,254,89,259,28900,0.1672,49374,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-168,360,480,0,98,216,70,188,13924,0.0806,49959,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-169,360,480,0,212,310,145,244,9702,0.0561,50076,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-170,360,480,0,98,216,82,200,13924,0.0806,50193,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-171,360,480,0,217,264,53,100,2209,0.0128,50778,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-172,360,480,1,327,375,53,100,2256,0.0131,50778,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-173,360,480,2,105,144,113,153,1560,0.009,50778,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-174,360,480,0,313,370,56,113,3249,0.0188,50895,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-175,360,480,0,262,360,56,154,9604,0.0556,51129,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-176,360,480,0,136,277,102,244,20022,0.1159,51246,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-177,360,480,0,217,335,130,248,13924,0.0806,51831,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-178,360,480,0,134,202,35,103,4624,0.0268,52065,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-179,360,480,0,265,406,145,287,20022,0.1159,52767,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-180,360,480,0,122,263,117,258,19881,0.1151,53235,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-181,360,480,0,93,234,88,230,20022,0.1159,53703,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-182,360,480,0,170,288,82,200,13924,0.0806,54405,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-183,360,480,0,303,351,168,215,2256,0.0131,55926,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-184,360,480,1,97,136,49,89,1560,0.009,55926,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-185,360,480,0,93,191,76,174,9604,0.0556,56043,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-186,360,480,0,144,226,57,138,6642,0.0384,56160,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-187,360,480,0,103,201,66,164,9604,0.0556,56277,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-188,360,480,0,103,201,66,164,9604,0.0556,56394,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-189,360,480,0,244,326,65,147,6724,0.0389,56628,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-190,360,480,0,267,323,39,96,3192,0.0185,56745,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-191,360,480,0,122,221,56,154,9702,0.0561,57096,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-192,360,480,0,172,270,46,144,9604,0.0556,57213,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-193,360,480,0,182,280,56,154,9604,0.0556,57330,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-194,360,480,0,103,201,86,184,9604,0.0556,57681,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-195,360,480,0,193,335,74,215,20022,0.1159,58149,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-196,360,480,0,217,335,82,200,13924,0.0806,58266,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-197,360,480,0,189,257,56,124,4624,0.0268,58383,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-198,360,480,0,349,388,157,197,1560,0.009,58617,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-199,360,480,0,136,277,117,258,19881,0.1151,58734,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-200,360,480,0,118,288,89,259,28900,0.1672,59085,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-201,360,480,0,122,263,131,273,20022,0.1159,59202,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-202,360,480,0,270,317,129,177,2256,0.0131,59319,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-203,360,480,0,170,288,94,212,13924,0.0806,59670,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-204,360,480,0,146,264,106,224,13924,0.0806,59787,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-205,360,480,0,158,276,118,236,13924,0.0806,59904,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-206,360,480,0,179,320,88,230,20022,0.1159,60372,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-207,360,480,0,153,323,123,293,28900,0.1672,60723,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-208,360,480,0,170,340,89,259,28900,0.1672,60840,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-209,360,480,0,192,290,86,184,9604,0.0556,61191,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-210,360,480,0,177,259,131,213,6724,0.0389,61308,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-211,360,480,0,122,221,105,204,9801,0.0567,61425,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-212,360,480,0,132,231,86,184,9702,0.0561,61542,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-213,360,480,0,169,251,65,147,6724,0.0389,61659,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-214,360,480,0,110,228,118,236,13924,0.0806,61776,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-215,360,480,0,98,216,82,200,13924,0.0806,61893,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-216,360,480,0,161,243,65,147,6724,0.0389,62010,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-217,360,480,0,134,252,70,188,13924,0.0806,62127,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-218,360,480,0,136,277,88,230,20022,0.1159,62244,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-219,360,480,0,272,370,135,234,9702,0.0561,62946,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-220,360,480,1,177,259,90,172,6724,0.0389,62946,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-221,360,480,0,179,226,72,119,2209,0.0128,63765,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-222,360,480,0,147,216,76,145,4761,0.0276,64584,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-223,360,480,0,136,218,65,147,6724,0.0389,65286,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-224,360,480,0,119,201,57,138,6642,0.0384,65403,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-225,360,480,0,165,306,131,273,20022,0.1159,65520,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-226,360,480,0,157,214,56,113,3249,0.0188,66573,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-227,360,480,0,235,317,140,221,6642,0.0384,67275,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-228,360,480,1,169,251,98,180,6724,0.0389,67275,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-229,360,480,0,277,359,140,221,6642,0.0384,67392,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-230,360,480,1,128,210,98,180,6724,0.0389,67392,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-231,360,480,0,252,334,131,213,6724,0.0389,67509,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-232,360,480,0,70,151,90,172,6642,0.0384,67626,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-233,360,480,0,227,309,140,221,6642,0.0384,67743,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-234,360,480,0,177,259,90,172,6724,0.0389,67977,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-235,360,480,0,244,326,140,221,6642,0.0384,68094,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-236,360,480,0,144,226,98,180,6724,0.0389,68211,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-237,360,480,1,182,250,166,234,4624,0.0268,68211,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-238,360,480,0,161,243,90,172,6724,0.0389,68445,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-239,360,480,0,94,176,164,246,6724,0.0389,68562,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-240,360,480,1,11,93,98,180,6724,0.0389,68562,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-241,360,480,0,127,195,97,165,4624,0.0268,68796,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-242,360,480,1,258,326,159,227,4624,0.0268,68796,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-243,360,480,0,279,347,159,227,4624,0.0268,68913,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-244,360,480,0,120,188,104,172,4624,0.0268,69147,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-245,360,480,1,341,409,166,234,4624,0.0268,69147,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-246,360,480,0,78,160,65,147,6724,0.0389,70083,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-247,360,480,0,154,223,62,131,4761,0.0276,70200,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-248,360,480,0,53,135,57,138,6642,0.0384,70317,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-249,360,480,0,177,259,57,138,6642,0.0384,70785,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-250,360,480,0,150,292,102,244,20164,0.1167,70902,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-251,360,480,0,212,310,96,194,9604,0.0556,71136,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-252,360,480,0,211,292,98,180,6642,0.0384,71253,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-253,360,480,0,93,191,66,164,9604,0.0556,72423,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-254,360,480,0,98,216,58,176,13924,0.0806,72540,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-255,360,480,0,132,231,86,184,9702,0.0561,72657,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-256,360,480,0,162,261,86,184,9702,0.0561,72774,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-257,360,480,0,110,228,82,200,13924,0.0806,72891,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-258,360,480,0,194,276,98,180,6724,0.0389,73242,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-259,360,480,0,182,280,96,194,9604,0.0556,73593,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-260,360,480,0,192,290,86,184,9604,0.0556,73710,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-261,360,480,0,192,290,86,184,9604,0.0556,73944,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-262,360,480,0,79,220,131,273,20022,0.1159,74529,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-263,360,480,0,79,220,131,273,20022,0.1159,74646,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-264,360,480,0,50,219,123,293,28730,0.1663,74763,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-265,360,480,0,68,271,117,321,41412,0.2397,74880,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-266,360,480,0,146,202,108,165,3192,0.0185,75114,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-267,360,480,0,284,341,79,136,3249,0.0188,75231,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-268,360,480,1,105,162,119,176,3249,0.0188,75231,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-269,360,480,0,285,324,9,49,1560,0.009,75582,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-270,360,480,0,289,328,13,53,1560,0.009,75699,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-271,360,480,0,110,228,82,200,13924,0.0806,75816,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-272,360,480,0,168,236,35,103,4624,0.0268,75933,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-273,360,480,0,210,278,56,124,4624,0.0268,76167,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-274,360,480,0,215,272,39,96,3249,0.0188,76401,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-275,360,480,0,152,234,57,138,6642,0.0384,76752,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-276,360,480,0,161,230,35,103,4692,0.0272,76869,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-277,360,480,0,168,236,69,138,4692,0.0272,76986,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-278,360,480,0,203,271,49,117,4624,0.0268,77103,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-279,360,480,0,186,268,73,155,6724,0.0389,77337,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-280,360,480,0,85,154,56,124,4692,0.0272,77571,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-281,360,480,1,320,389,42,110,4692,0.0272,77571,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-282,360,480,0,244,326,81,163,6724,0.0389,77922,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-283,360,480,0,300,368,49,117,4624,0.0268,78390,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-284,360,480,0,186,268,81,163,6724,0.0389,78507,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-285,360,480,0,194,276,65,147,6724,0.0389,78624,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-286,360,480,0,118,288,54,224,28900,0.1672,78741,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-287,360,480,0,237,306,62,131,4761,0.0276,78975,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-288,360,480,0,113,181,56,124,4624,0.0268,79209,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-289,360,480,0,152,251,86,184,9702,0.0561,79560,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-290,360,480,0,161,243,40,122,6724,0.0389,79794,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-291,360,480,0,152,251,46,144,9702,0.0561,79911,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-292,360,480,0,284,332,43,90,2256,0.0131,80847,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-293,360,480,0,182,250,56,124,4624,0.0268,81081,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-294,360,480,0,211,292,131,213,6642,0.0384,81315,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-295,360,480,0,202,284,90,172,6724,0.0389,81783,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-296,360,480,0,186,268,57,138,6642,0.0384,81900,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-297,360,480,0,182,250,62,131,4692,0.0272,82251,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-298,360,480,0,175,243,56,124,4624,0.0268,82368,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-299,360,480,0,182,250,62,131,4692,0.0272,82485,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-300,360,480,0,169,251,65,147,6724,0.0389,82602,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-301,360,480,0,175,243,56,124,4624,0.0268,82719,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-302,360,480,0,182,250,56,124,4624,0.0268,83070,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-303,360,480,0,169,251,65,147,6724,0.0389,83187,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-304,360,480,0,169,251,73,155,6724,0.0389,83304,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-305,360,480,0,74,192,70,188,13924,0.0806,83421,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-306,360,480,0,36,93,56,113,3249,0.0188,83538,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-307,360,480,1,251,319,56,124,4624,0.0268,83538,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-308,360,480,0,162,261,76,174,9702,0.0561,83889,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-309,360,480,0,42,99,45,101,3192,0.0185,84006,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-310,360,480,1,244,312,42,110,4624,0.0268,84006,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-311,360,480,0,37,105,42,110,4624,0.0268,84123,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-312,360,480,0,152,234,65,147,6724,0.0389,84357,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-313,360,480,0,112,211,115,214,9801,0.0567,84474,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-314,360,480,0,142,241,86,184,9702,0.0561,84591,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-315,360,480,0,132,231,96,194,9702,0.0561,84708,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-316,360,480,0,152,234,65,147,6724,0.0389,84825,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-317,360,480,0,192,290,76,174,9604,0.0556,84942,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-318,360,480,0,53,110,68,125,3249,0.0188,85059,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-319,360,480,1,313,370,73,130,3249,0.0188,85059,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-320,360,480,0,59,116,79,136,3249,0.0188,85176,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-321,360,480,1,307,364,73,130,3249,0.0188,85176,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-322,360,480,0,48,105,73,130,3249,0.0188,85293,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-323,360,480,0,211,292,73,155,6642,0.0384,85878,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-324,360,480,0,295,352,102,159,3249,0.0188,87165,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-325,360,480,0,134,191,50,107,3249,0.0188,87516,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-326,360,480,0,126,173,33,81,2256,0.0131,87633,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-327,360,480,0,99,167,56,124,4624,0.0268,87750,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-328,360,480,0,192,290,76,174,9604,0.0556,88335,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-329,360,480,0,172,270,76,174,9604,0.0556,88686,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-330,360,480,0,51,404,0,266,93898,0.5434,89037,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-331,360,480,0,219,301,73,155,6724,0.0389,89505,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-332,360,480,0,134,202,76,145,4692,0.0272,91494,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-333,360,480,0,168,236,104,172,4624,0.0268,91611,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-334,360,480,0,172,270,66,164,9604,0.0556,92430,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-335,360,480,0,186,268,48,130,6724,0.0389,92547,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-336,360,480,0,186,268,98,180,6724,0.0389,92664,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-337,360,480,0,202,284,90,172,6724,0.0389,92781,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-338,360,480,0,179,320,74,215,19881,0.1151,94302,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-339,360,480,0,107,249,117,258,20022,0.1159,94419,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-340,360,480,0,290,346,148,205,3192,0.0185,95004,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-341,360,480,0,186,268,81,163,6724,0.0389,95472,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-342,360,480,0,222,320,66,164,9604,0.0556,95589,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-343,360,480,0,194,276,40,122,6724,0.0389,95706,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-344,360,480,0,327,409,181,263,6724,0.0389,95940,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-345,360,480,0,194,312,70,188,13924,0.0806,96408,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-346,360,480,0,101,271,123,293,28900,0.1672,96525,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-347,360,480,0,98,216,82,200,13924,0.0806,96993,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-348,360,480,0,252,334,173,255,6724,0.0389,97227,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-349,360,480,1,112,211,86,184,9702,0.0561,97227,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-350,360,480,0,146,264,58,176,13924,0.0806,97344,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-351,360,480,0,179,320,131,273,20022,0.1159,98397,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-352,360,480,0,109,313,76,280,41616,0.2408,98514,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-353,360,480,0,186,268,90,172,6724,0.0389,99801,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-354,360,480,0,84,254,123,293,28900,0.1672,99918,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-355,360,480,0,84,254,123,293,28900,0.1672,100035,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-356,360,480,0,50,219,140,310,28730,0.1663,100152,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-357,360,480,0,88,145,50,107,3249,0.0188,100386,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-358,360,480,0,59,116,33,90,3249,0.0188,100620,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-359,360,480,0,192,249,56,113,3249,0.0188,100854,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-360,360,480,0,147,216,62,131,4761,0.0276,101088,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-361,360,480,1,237,306,76,145,4761,0.0276,101088,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-362,360,480,0,272,340,69,138,4692,0.0272,101907,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-363,360,480,0,300,368,104,172,4624,0.0268,102024,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-364,360,480,0,94,176,48,130,6724,0.0389,104013,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-365,360,480,0,244,312,90,158,4624,0.0268,104247,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-366,360,480,0,244,312,90,158,4624,0.0268,104364,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-367,360,480,1,106,174,69,138,4692,0.0272,104364,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-368,360,480,0,230,299,90,158,4692,0.0272,104715,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-369,360,480,0,251,319,83,151,4624,0.0268,104832,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-370,360,480,1,85,154,62,131,4761,0.0276,104832,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-371,360,480,0,203,271,83,151,4624,0.0268,104949,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-372,360,480,0,229,347,154,272,13924,0.0806,105183,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-373,360,480,1,134,252,118,236,13924,0.0806,105183,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-374,360,480,0,134,252,106,224,13924,0.0806,105300,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-375,360,480,1,232,330,165,264,9702,0.0561,105300,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-376,360,480,0,144,226,81,163,6724,0.0389,106002,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-377,360,480,1,237,306,125,193,4692,0.0272,106002,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-378,360,480,0,237,306,118,186,4692,0.0272,106119,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-379,360,480,1,94,176,81,163,6724,0.0389,106119,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-380,360,480,0,112,211,96,194,9702,0.0561,106587,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-381,360,480,0,162,261,125,224,9801,0.0567,106704,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-382,360,480,0,222,320,66,164,9604,0.0556,106938,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-383,360,480,0,152,251,76,174,9702,0.0561,107055,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-384,360,480,0,120,188,42,110,4624,0.0268,108459,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-385,360,480,0,252,350,125,224,9702,0.0561,109629,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-386,360,480,0,343,425,57,138,6642,0.0384,109863,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-387,360,480,0,227,309,156,238,6724,0.0389,109980,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-388,360,480,1,310,392,57,138,6642,0.0384,109980,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-389,360,480,0,301,419,118,236,13924,0.0806,110097,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-390,360,480,0,232,289,50,107,3249,0.0188,110682,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-391,360,480,0,84,254,106,276,28900,0.1672,111150,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-392,360,480,0,112,211,105,204,9801,0.0567,112788,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-393,360,480,0,152,251,76,174,9702,0.0561,113139,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-394,360,480,0,202,300,76,174,9604,0.0556,113607,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-395,360,480,0,182,280,56,154,9604,0.0556,113724,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-396,360,480,0,136,305,89,259,28730,0.1663,113958,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-397,360,480,0,107,249,88,230,20164,0.1167,114075,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-398,360,480,0,182,280,66,164,9604,0.0556,114309,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-399,360,480,0,67,237,123,293,28900,0.1672,114894,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-400,360,480,0,210,278,69,138,4692,0.0272,115596,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-401,360,480,0,220,277,85,142,3249,0.0188,116415,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-402,360,480,0,227,309,81,163,6724,0.0389,117702,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-403,360,480,0,210,278,90,158,4624,0.0268,117819,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-404,360,480,0,177,259,81,163,6724,0.0389,118638,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-405,360,480,0,251,319,118,186,4624,0.0268,119223,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-406,360,480,0,196,264,76,145,4692,0.0272,119340,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-407,360,480,0,132,231,56,154,9702,0.0561,119925,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-408,360,480,0,147,216,28,96,4692,0.0272,121914,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-409,360,480,0,146,264,154,272,13924,0.0806,122148,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
-410,360,480,1,182,280,26,124,9604,0.0556,122148,/home/amos/server/media/movies/The Son Of The Sheik (1926)/The Son Of The Sheik (1926).mp4
+,img_height,img_width,face_num,x1,x2,y1,y2,area,pct_of_frame,frame_num,imdb_id
+0,360,480,0,67,237,123,293,28900,0.1672,3744,17416
+1,360,480,0,179,226,28,76,2256,0.0131,3978,17416
+2,360,480,0,230,299,111,179,4692,0.0272,5382,17416
+3,360,480,0,289,328,113,153,1560,0.009,5850,17416
+4,360,480,0,210,278,83,151,4624,0.0268,6201,17416
+5,360,480,0,85,329,0,228,55632,0.3219,6786,17416
+6,360,480,0,85,329,33,277,59536,0.3445,6903,17416
+7,360,480,0,60,304,33,277,59536,0.3445,7020,17416
+8,360,480,0,60,304,33,277,59536,0.3445,7137,17416
+9,360,480,0,136,277,117,258,19881,0.1151,7371,17416
+10,360,480,0,206,323,106,224,13806,0.0799,8424,17416
+11,360,480,0,153,323,123,293,28900,0.1672,8541,17416
+12,360,480,0,170,340,140,310,28900,0.1672,8892,17416
+13,360,480,0,165,306,102,244,20022,0.1159,9009,17416
+14,360,480,0,267,323,108,165,3192,0.0185,9126,17416
+15,360,480,0,260,342,140,221,6642,0.0384,9243,17416
+16,360,480,0,53,151,76,174,9604,0.0556,9711,17416
+17,360,480,1,293,375,140,221,6642,0.0384,9711,17416
+18,360,480,0,53,135,106,188,6724,0.0389,9828,17416
+19,360,480,1,260,342,123,205,6724,0.0389,9828,17416
+20,360,480,0,292,390,135,234,9702,0.0561,9945,17416
+21,360,480,1,61,143,123,205,6724,0.0389,9945,17416
+22,360,480,0,94,176,115,197,6724,0.0389,10413,17416
+23,360,480,0,73,171,96,194,9604,0.0556,10881,17416
+24,360,480,1,260,342,131,213,6724,0.0389,10881,17416
+25,360,480,0,83,181,86,184,9604,0.0556,11115,17416
+26,360,480,0,238,295,22,78,3192,0.0185,11583,17416
+27,360,480,0,147,216,76,145,4761,0.0276,11700,17416
+28,360,480,0,79,220,59,201,20022,0.1159,12402,17416
+29,360,480,0,147,216,49,117,4692,0.0272,12870,17416
+30,360,480,0,146,264,94,212,13924,0.0806,13104,17416
+31,360,480,0,146,264,178,296,13924,0.0806,13221,17416
+32,360,480,0,107,249,74,215,20022,0.1159,13338,17416
+33,360,480,0,50,219,123,293,28730,0.1663,14859,17416
+34,360,480,0,84,254,123,293,28900,0.1672,14976,17416
+35,360,480,0,97,136,153,193,1560,0.009,15444,17416
+36,360,480,0,168,236,62,131,4692,0.0272,16029,17416
+37,360,480,0,161,230,56,124,4692,0.0272,16380,17416
+38,360,480,0,238,295,56,113,3249,0.0188,16965,17416
+39,360,480,0,211,292,57,138,6561,0.038,18486,17416
+40,360,480,0,196,264,28,96,4624,0.0268,18720,17416
+41,360,480,0,203,271,69,138,4692,0.0272,19071,17416
+42,360,480,0,120,188,76,145,4692,0.0272,19422,17416
+43,360,480,0,99,167,97,165,4624,0.0268,19539,17416
+44,360,480,0,170,288,106,224,13924,0.0806,19656,17416
+45,360,480,0,64,206,117,258,20022,0.1159,19890,17416
+46,360,480,0,98,216,106,224,13924,0.0806,20007,17416
+47,360,480,0,79,220,88,230,20022,0.1159,20124,17416
+48,360,480,0,172,270,86,184,9604,0.0556,20241,17416
+49,360,480,1,73,171,115,214,9702,0.0561,20241,17416
+50,360,480,0,172,270,86,184,9604,0.0556,20475,17416
+51,360,480,1,73,171,125,224,9702,0.0561,20475,17416
+52,360,480,0,73,171,145,244,9702,0.0561,20592,17416
+53,360,480,1,170,288,106,224,13924,0.0806,20592,17416
+54,360,480,0,73,171,125,224,9702,0.0561,20709,17416
+55,360,480,1,158,276,70,188,13924,0.0806,20709,17416
+56,360,480,0,73,171,125,224,9702,0.0561,20943,17416
+57,360,480,1,172,270,96,194,9604,0.0556,20943,17416
+58,360,480,0,93,191,115,214,9702,0.0561,21060,17416
+59,360,480,1,192,290,86,184,9604,0.0556,21060,17416
+60,360,480,0,162,261,66,164,9702,0.0561,21411,17416
+61,360,480,1,112,211,175,273,9702,0.0561,21411,17416
+62,360,480,0,182,280,66,164,9604,0.0556,21528,17416
+63,360,480,1,112,211,165,264,9801,0.0567,21528,17416
+64,360,480,0,142,241,66,164,9702,0.0561,21645,17416
+65,360,480,0,134,252,70,188,13924,0.0806,21879,17416
+66,360,480,0,94,176,140,221,6642,0.0384,21996,17416
+67,360,480,0,152,234,57,138,6642,0.0384,23166,17416
+68,360,480,0,58,126,104,172,4624,0.0268,23400,17416
+69,360,480,0,58,126,104,172,4624,0.0268,23634,17416
+70,360,480,0,76,133,108,165,3249,0.0188,23751,17416
+71,360,480,0,92,160,97,165,4624,0.0268,24102,17416
+72,360,480,0,134,202,69,138,4692,0.0272,24336,17416
+73,360,480,0,187,357,54,224,28900,0.1672,24687,17416
+74,360,480,1,50,191,88,230,20022,0.1159,24687,17416
+75,360,480,0,21,163,88,230,20164,0.1167,24804,17416
+76,360,480,1,170,340,37,207,28900,0.1672,24804,17416
+77,360,480,0,225,264,105,145,1560,0.009,24921,17416
+78,360,480,0,337,384,62,110,2256,0.0131,25038,17416
+79,360,480,0,303,351,57,105,2304,0.0133,25155,17416
+80,360,480,0,265,333,69,138,4692,0.0272,25740,17416
+81,360,480,0,152,234,131,213,6724,0.0389,25857,17416
+82,360,480,0,132,231,135,234,9801,0.0567,25974,17416
+83,360,480,0,106,174,159,227,4624,0.0268,27846,17416
+84,360,480,0,61,143,115,197,6724,0.0389,28548,17416
+85,360,480,0,61,143,115,197,6724,0.0389,28782,17416
+86,360,480,1,172,270,96,194,9604,0.0556,28782,17416
+87,360,480,0,43,141,96,194,9604,0.0556,28899,17416
+88,360,480,0,161,230,166,234,4692,0.0272,29133,17416
+89,360,480,0,111,193,156,238,6724,0.0389,29250,17416
+90,360,480,0,162,261,56,154,9702,0.0561,29601,17416
+91,360,480,0,83,130,120,167,2209,0.0128,29718,17416
+92,360,480,0,182,250,49,117,4624,0.0268,29835,17416
+93,360,480,1,388,444,56,113,3192,0.0185,29835,17416
+94,360,480,0,140,188,81,129,2304,0.0133,29952,17416
+95,360,480,1,113,181,166,234,4624,0.0268,29952,17416
+96,360,480,2,370,427,68,125,3249,0.0188,29952,17416
+97,360,480,3,217,285,42,110,4624,0.0268,29952,17416
+98,360,480,0,122,263,88,230,20022,0.1159,30537,17416
+99,360,480,0,380,428,91,138,2256,0.0131,30654,17416
+100,360,480,1,285,367,65,147,6724,0.0389,30654,17416
+101,360,480,0,293,375,48,130,6724,0.0389,31239,17416
+102,360,480,0,79,220,131,273,20022,0.1159,31941,17416
+103,360,480,0,352,433,98,180,6642,0.0384,32175,17416
+104,360,480,0,25,72,149,196,2209,0.0128,32292,17416
+105,360,480,0,230,299,83,151,4692,0.0272,32409,17416
+106,360,480,0,103,201,66,164,9604,0.0556,32760,17416
+107,360,480,0,196,264,90,158,4624,0.0268,32877,17416
+108,360,480,0,251,319,76,145,4692,0.0272,33228,17416
+109,360,480,0,134,191,206,263,3249,0.0188,34866,17416
+110,360,480,0,134,191,206,263,3249,0.0188,34983,17416
+111,360,480,0,101,271,123,293,28900,0.1672,35451,17416
+112,360,480,0,197,236,125,165,1560,0.009,36036,17416
+113,360,480,0,180,237,114,171,3249,0.0188,36153,17416
+114,360,480,0,172,270,56,154,9604,0.0556,36855,17416
+115,360,480,0,211,292,48,130,6642,0.0384,36972,17416
+116,360,480,0,202,284,57,138,6642,0.0384,37089,17416
+117,360,480,0,202,300,56,154,9604,0.0556,37206,17416
+118,360,480,0,172,270,105,204,9702,0.0561,37908,17416
+119,360,480,0,59,106,43,90,2209,0.0128,39195,17416
+120,360,480,1,324,381,108,165,3249,0.0188,39195,17416
+121,360,480,0,211,292,73,155,6642,0.0384,39312,17416
+122,360,480,0,211,292,65,147,6642,0.0384,39429,17416
+123,360,480,0,237,306,83,151,4692,0.0272,39546,17416
+124,360,480,1,13,111,86,184,9604,0.0556,39546,17416
+125,360,480,0,93,191,96,194,9604,0.0556,39897,17416
+126,360,480,1,206,323,58,176,13806,0.0799,39897,17416
+127,360,480,0,281,320,21,61,1560,0.009,40716,17416
+128,360,480,1,157,214,91,148,3249,0.0188,40716,17416
+129,360,480,2,25,72,14,61,2209,0.0128,40716,17416
+130,360,480,0,174,231,73,130,3249,0.0188,40950,17416
+131,360,480,0,212,260,72,119,2256,0.0131,42120,17416
+132,360,480,0,232,289,22,78,3192,0.0185,42237,17416
+133,360,480,0,293,361,111,179,4624,0.0268,42354,17416
+134,360,480,0,119,201,98,180,6724,0.0389,42471,17416
+135,360,480,1,285,367,81,163,6724,0.0389,42471,17416
+136,360,480,0,186,268,81,163,6724,0.0389,43290,17416
+137,360,480,0,182,280,86,184,9604,0.0556,43407,17416
+138,360,480,0,107,249,117,258,20022,0.1159,43524,17416
+139,360,480,0,146,264,142,260,13924,0.0806,43641,17416
+140,360,480,0,98,216,178,296,13924,0.0806,43758,17416
+141,360,480,0,211,292,65,147,6642,0.0384,43875,17416
+142,360,480,0,122,221,46,144,9702,0.0561,43992,17416
+143,360,480,0,152,251,56,154,9702,0.0561,44226,17416
+144,360,480,0,177,259,81,163,6724,0.0389,44343,17416
+145,360,480,0,209,266,200,257,3249,0.0188,44460,17416
+146,360,480,0,197,254,206,263,3249,0.0188,44577,17416
+147,360,480,0,153,192,105,145,1560,0.009,44928,17416
+148,360,480,1,232,289,108,165,3249,0.0188,44928,17416
+149,360,480,0,153,323,72,241,28730,0.1663,45162,17416
+150,360,480,0,111,168,73,130,3249,0.0188,45279,17416
+151,360,480,0,84,254,72,241,28730,0.1663,45396,17416
+152,360,480,0,159,207,53,100,2256,0.0131,45513,17416
+153,360,480,0,150,197,24,71,2209,0.0128,45630,17416
+154,360,480,0,261,318,166,222,3192,0.0185,45747,17416
+155,360,480,0,177,259,57,138,6642,0.0384,45864,17416
+156,360,480,0,169,251,73,155,6724,0.0389,45981,17416
+157,360,480,0,111,193,73,155,6724,0.0389,46449,17416
+158,360,480,1,341,409,125,193,4624,0.0268,46449,17416
+159,360,480,0,279,347,97,165,4624,0.0268,46566,17416
+160,360,480,0,93,191,66,164,9604,0.0556,46917,17416
+161,360,480,0,63,161,56,154,9604,0.0556,47034,17416
+162,360,480,0,220,277,79,136,3249,0.0188,47385,17416
+163,360,480,0,210,278,76,145,4692,0.0272,47502,17416
+164,360,480,0,249,306,68,125,3249,0.0188,48906,17416
+165,360,480,0,154,223,62,131,4761,0.0276,49140,17416
+166,360,480,0,118,288,89,259,28900,0.1672,49257,17416
+167,360,480,0,84,254,89,259,28900,0.1672,49374,17416
+168,360,480,0,98,216,70,188,13924,0.0806,49959,17416
+169,360,480,0,212,310,145,244,9702,0.0561,50076,17416
+170,360,480,0,98,216,82,200,13924,0.0806,50193,17416
+171,360,480,0,217,264,53,100,2209,0.0128,50778,17416
+172,360,480,1,327,375,53,100,2256,0.0131,50778,17416
+173,360,480,2,105,144,113,153,1560,0.009,50778,17416
+174,360,480,0,313,370,56,113,3249,0.0188,50895,17416
+175,360,480,0,262,360,56,154,9604,0.0556,51129,17416
+176,360,480,0,136,277,102,244,20022,0.1159,51246,17416
+177,360,480,0,217,335,130,248,13924,0.0806,51831,17416
+178,360,480,0,134,202,35,103,4624,0.0268,52065,17416
+179,360,480,0,265,406,145,287,20022,0.1159,52767,17416
+180,360,480,0,122,263,117,258,19881,0.1151,53235,17416
+181,360,480,0,93,234,88,230,20022,0.1159,53703,17416
+182,360,480,0,170,288,82,200,13924,0.0806,54405,17416
+183,360,480,0,303,351,168,215,2256,0.0131,55926,17416
+184,360,480,1,97,136,49,89,1560,0.009,55926,17416
+185,360,480,0,93,191,76,174,9604,0.0556,56043,17416
+186,360,480,0,144,226,57,138,6642,0.0384,56160,17416
+187,360,480,0,103,201,66,164,9604,0.0556,56277,17416
+188,360,480,0,103,201,66,164,9604,0.0556,56394,17416
+189,360,480,0,244,326,65,147,6724,0.0389,56628,17416
+190,360,480,0,267,323,39,96,3192,0.0185,56745,17416
+191,360,480,0,122,221,56,154,9702,0.0561,57096,17416
+192,360,480,0,172,270,46,144,9604,0.0556,57213,17416
+193,360,480,0,182,280,56,154,9604,0.0556,57330,17416
+194,360,480,0,103,201,86,184,9604,0.0556,57681,17416
+195,360,480,0,193,335,74,215,20022,0.1159,58149,17416
+196,360,480,0,217,335,82,200,13924,0.0806,58266,17416
+197,360,480,0,189,257,56,124,4624,0.0268,58383,17416
+198,360,480,0,349,388,157,197,1560,0.009,58617,17416
+199,360,480,0,136,277,117,258,19881,0.1151,58734,17416
+200,360,480,0,118,288,89,259,28900,0.1672,59085,17416
+201,360,480,0,122,263,131,273,20022,0.1159,59202,17416
+202,360,480,0,270,317,129,177,2256,0.0131,59319,17416
+203,360,480,0,170,288,94,212,13924,0.0806,59670,17416
+204,360,480,0,146,264,106,224,13924,0.0806,59787,17416
+205,360,480,0,158,276,118,236,13924,0.0806,59904,17416
+206,360,480,0,179,320,88,230,20022,0.1159,60372,17416
+207,360,480,0,153,323,123,293,28900,0.1672,60723,17416
+208,360,480,0,170,340,89,259,28900,0.1672,60840,17416
+209,360,480,0,192,290,86,184,9604,0.0556,61191,17416
+210,360,480,0,177,259,131,213,6724,0.0389,61308,17416
+211,360,480,0,122,221,105,204,9801,0.0567,61425,17416
+212,360,480,0,132,231,86,184,9702,0.0561,61542,17416
+213,360,480,0,169,251,65,147,6724,0.0389,61659,17416
+214,360,480,0,110,228,118,236,13924,0.0806,61776,17416
+215,360,480,0,98,216,82,200,13924,0.0806,61893,17416
+216,360,480,0,161,243,65,147,6724,0.0389,62010,17416
+217,360,480,0,134,252,70,188,13924,0.0806,62127,17416
+218,360,480,0,136,277,88,230,20022,0.1159,62244,17416
+219,360,480,0,272,370,135,234,9702,0.0561,62946,17416
+220,360,480,1,177,259,90,172,6724,0.0389,62946,17416
+221,360,480,0,179,226,72,119,2209,0.0128,63765,17416
+222,360,480,0,147,216,76,145,4761,0.0276,64584,17416
+223,360,480,0,136,218,65,147,6724,0.0389,65286,17416
+224,360,480,0,119,201,57,138,6642,0.0384,65403,17416
+225,360,480,0,165,306,131,273,20022,0.1159,65520,17416
+226,360,480,0,157,214,56,113,3249,0.0188,66573,17416
+227,360,480,0,235,317,140,221,6642,0.0384,67275,17416
+228,360,480,1,169,251,98,180,6724,0.0389,67275,17416
+229,360,480,0,277,359,140,221,6642,0.0384,67392,17416
+230,360,480,1,128,210,98,180,6724,0.0389,67392,17416
+231,360,480,0,252,334,131,213,6724,0.0389,67509,17416
+232,360,480,0,70,151,90,172,6642,0.0384,67626,17416
+233,360,480,0,227,309,140,221,6642,0.0384,67743,17416
+234,360,480,0,177,259,90,172,6724,0.0389,67977,17416
+235,360,480,0,244,326,140,221,6642,0.0384,68094,17416
+236,360,480,0,144,226,98,180,6724,0.0389,68211,17416
+237,360,480,1,182,250,166,234,4624,0.0268,68211,17416
+238,360,480,0,161,243,90,172,6724,0.0389,68445,17416
+239,360,480,0,94,176,164,246,6724,0.0389,68562,17416
+240,360,480,1,11,93,98,180,6724,0.0389,68562,17416
+241,360,480,0,127,195,97,165,4624,0.0268,68796,17416
+242,360,480,1,258,326,159,227,4624,0.0268,68796,17416
+243,360,480,0,279,347,159,227,4624,0.0268,68913,17416
+244,360,480,0,120,188,104,172,4624,0.0268,69147,17416
+245,360,480,1,341,409,166,234,4624,0.0268,69147,17416
+246,360,480,0,78,160,65,147,6724,0.0389,70083,17416
+247,360,480,0,154,223,62,131,4761,0.0276,70200,17416
+248,360,480,0,53,135,57,138,6642,0.0384,70317,17416
+249,360,480,0,177,259,57,138,6642,0.0384,70785,17416
+250,360,480,0,150,292,102,244,20164,0.1167,70902,17416
+251,360,480,0,212,310,96,194,9604,0.0556,71136,17416
+252,360,480,0,211,292,98,180,6642,0.0384,71253,17416
+253,360,480,0,93,191,66,164,9604,0.0556,72423,17416
+254,360,480,0,98,216,58,176,13924,0.0806,72540,17416
+255,360,480,0,132,231,86,184,9702,0.0561,72657,17416
+256,360,480,0,162,261,86,184,9702,0.0561,72774,17416
+257,360,480,0,110,228,82,200,13924,0.0806,72891,17416
+258,360,480,0,194,276,98,180,6724,0.0389,73242,17416
+259,360,480,0,182,280,96,194,9604,0.0556,73593,17416
+260,360,480,0,192,290,86,184,9604,0.0556,73710,17416
+261,360,480,0,192,290,86,184,9604,0.0556,73944,17416
+262,360,480,0,79,220,131,273,20022,0.1159,74529,17416
+263,360,480,0,79,220,131,273,20022,0.1159,74646,17416
+264,360,480,0,50,219,123,293,28730,0.1663,74763,17416
+265,360,480,0,68,271,117,321,41412,0.2397,74880,17416
+266,360,480,0,146,202,108,165,3192,0.0185,75114,17416
+267,360,480,0,284,341,79,136,3249,0.0188,75231,17416
+268,360,480,1,105,162,119,176,3249,0.0188,75231,17416
+269,360,480,0,285,324,9,49,1560,0.009,75582,17416
+270,360,480,0,289,328,13,53,1560,0.009,75699,17416
+271,360,480,0,110,228,82,200,13924,0.0806,75816,17416
+272,360,480,0,168,236,35,103,4624,0.0268,75933,17416
+273,360,480,0,210,278,56,124,4624,0.0268,76167,17416
+274,360,480,0,215,272,39,96,3249,0.0188,76401,17416
+275,360,480,0,152,234,57,138,6642,0.0384,76752,17416
+276,360,480,0,161,230,35,103,4692,0.0272,76869,17416
+277,360,480,0,168,236,69,138,4692,0.0272,76986,17416
+278,360,480,0,203,271,49,117,4624,0.0268,77103,17416
+279,360,480,0,186,268,73,155,6724,0.0389,77337,17416
+280,360,480,0,85,154,56,124,4692,0.0272,77571,17416
+281,360,480,1,320,389,42,110,4692,0.0272,77571,17416
+282,360,480,0,244,326,81,163,6724,0.0389,77922,17416
+283,360,480,0,300,368,49,117,4624,0.0268,78390,17416
+284,360,480,0,186,268,81,163,6724,0.0389,78507,17416
+285,360,480,0,194,276,65,147,6724,0.0389,78624,17416
+286,360,480,0,118,288,54,224,28900,0.1672,78741,17416
+287,360,480,0,237,306,62,131,4761,0.0276,78975,17416
+288,360,480,0,113,181,56,124,4624,0.0268,79209,17416
+289,360,480,0,152,251,86,184,9702,0.0561,79560,17416
+290,360,480,0,161,243,40,122,6724,0.0389,79794,17416
+291,360,480,0,152,251,46,144,9702,0.0561,79911,17416
+292,360,480,0,284,332,43,90,2256,0.0131,80847,17416
+293,360,480,0,182,250,56,124,4624,0.0268,81081,17416
+294,360,480,0,211,292,131,213,6642,0.0384,81315,17416
+295,360,480,0,202,284,90,172,6724,0.0389,81783,17416
+296,360,480,0,186,268,57,138,6642,0.0384,81900,17416
+297,360,480,0,182,250,62,131,4692,0.0272,82251,17416
+298,360,480,0,175,243,56,124,4624,0.0268,82368,17416
+299,360,480,0,182,250,62,131,4692,0.0272,82485,17416
+300,360,480,0,169,251,65,147,6724,0.0389,82602,17416
+301,360,480,0,175,243,56,124,4624,0.0268,82719,17416
+302,360,480,0,182,250,56,124,4624,0.0268,83070,17416
+303,360,480,0,169,251,65,147,6724,0.0389,83187,17416
+304,360,480,0,169,251,73,155,6724,0.0389,83304,17416
+305,360,480,0,74,192,70,188,13924,0.0806,83421,17416
+306,360,480,0,36,93,56,113,3249,0.0188,83538,17416
+307,360,480,1,251,319,56,124,4624,0.0268,83538,17416
+308,360,480,0,162,261,76,174,9702,0.0561,83889,17416
+309,360,480,0,42,99,45,101,3192,0.0185,84006,17416
+310,360,480,1,244,312,42,110,4624,0.0268,84006,17416
+311,360,480,0,37,105,42,110,4624,0.0268,84123,17416
+312,360,480,0,152,234,65,147,6724,0.0389,84357,17416
+313,360,480,0,112,211,115,214,9801,0.0567,84474,17416
+314,360,480,0,142,241,86,184,9702,0.0561,84591,17416
+315,360,480,0,132,231,96,194,9702,0.0561,84708,17416
+316,360,480,0,152,234,65,147,6724,0.0389,84825,17416
+317,360,480,0,192,290,76,174,9604,0.0556,84942,17416
+318,360,480,0,53,110,68,125,3249,0.0188,85059,17416
+319,360,480,1,313,370,73,130,3249,0.0188,85059,17416
+320,360,480,0,59,116,79,136,3249,0.0188,85176,17416
+321,360,480,1,307,364,73,130,3249,0.0188,85176,17416
+322,360,480,0,48,105,73,130,3249,0.0188,85293,17416
+323,360,480,0,211,292,73,155,6642,0.0384,85878,17416
+324,360,480,0,295,352,102,159,3249,0.0188,87165,17416
+325,360,480,0,134,191,50,107,3249,0.0188,87516,17416
+326,360,480,0,126,173,33,81,2256,0.0131,87633,17416
+327,360,480,0,99,167,56,124,4624,0.0268,87750,17416
+328,360,480,0,192,290,76,174,9604,0.0556,88335,17416
+329,360,480,0,172,270,76,174,9604,0.0556,88686,17416
+330,360,480,0,51,404,0,266,93898,0.5434,89037,17416
+331,360,480,0,219,301,73,155,6724,0.0389,89505,17416
+332,360,480,0,134,202,76,145,4692,0.0272,91494,17416
+333,360,480,0,168,236,104,172,4624,0.0268,91611,17416
+334,360,480,0,172,270,66,164,9604,0.0556,92430,17416
+335,360,480,0,186,268,48,130,6724,0.0389,92547,17416
+336,360,480,0,186,268,98,180,6724,0.0389,92664,17416
+337,360,480,0,202,284,90,172,6724,0.0389,92781,17416
+338,360,480,0,179,320,74,215,19881,0.1151,94302,17416
+339,360,480,0,107,249,117,258,20022,0.1159,94419,17416
+340,360,480,0,290,346,148,205,3192,0.0185,95004,17416
+341,360,480,0,186,268,81,163,6724,0.0389,95472,17416
+342,360,480,0,222,320,66,164,9604,0.0556,95589,17416
+343,360,480,0,194,276,40,122,6724,0.0389,95706,17416
+344,360,480,0,327,409,181,263,6724,0.0389,95940,17416
+345,360,480,0,194,312,70,188,13924,0.0806,96408,17416
+346,360,480,0,101,271,123,293,28900,0.1672,96525,17416
+347,360,480,0,98,216,82,200,13924,0.0806,96993,17416
+348,360,480,0,252,334,173,255,6724,0.0389,97227,17416
+349,360,480,1,112,211,86,184,9702,0.0561,97227,17416
+350,360,480,0,146,264,58,176,13924,0.0806,97344,17416
+351,360,480,0,179,320,131,273,20022,0.1159,98397,17416
+352,360,480,0,109,313,76,280,41616,0.2408,98514,17416
+353,360,480,0,186,268,90,172,6724,0.0389,99801,17416
+354,360,480,0,84,254,123,293,28900,0.1672,99918,17416
+355,360,480,0,84,254,123,293,28900,0.1672,100035,17416
+356,360,480,0,50,219,140,310,28730,0.1663,100152,17416
+357,360,480,0,88,145,50,107,3249,0.0188,100386,17416
+358,360,480,0,59,116,33,90,3249,0.0188,100620,17416
+359,360,480,0,192,249,56,113,3249,0.0188,100854,17416
+360,360,480,0,147,216,62,131,4761,0.0276,101088,17416
+361,360,480,1,237,306,76,145,4761,0.0276,101088,17416
+362,360,480,0,272,340,69,138,4692,0.0272,101907,17416
+363,360,480,0,300,368,104,172,4624,0.0268,102024,17416
+364,360,480,0,94,176,48,130,6724,0.0389,104013,17416
+365,360,480,0,244,312,90,158,4624,0.0268,104247,17416
+366,360,480,0,244,312,90,158,4624,0.0268,104364,17416
+367,360,480,1,106,174,69,138,4692,0.0272,104364,17416
+368,360,480,0,230,299,90,158,4692,0.0272,104715,17416
+369,360,480,0,251,319,83,151,4624,0.0268,104832,17416
+370,360,480,1,85,154,62,131,4761,0.0276,104832,17416
+371,360,480,0,203,271,83,151,4624,0.0268,104949,17416
+372,360,480,0,229,347,154,272,13924,0.0806,105183,17416
+373,360,480,1,134,252,118,236,13924,0.0806,105183,17416
+374,360,480,0,134,252,106,224,13924,0.0806,105300,17416
+375,360,480,1,232,330,165,264,9702,0.0561,105300,17416
+376,360,480,0,144,226,81,163,6724,0.0389,106002,17416
+377,360,480,1,237,306,125,193,4692,0.0272,106002,17416
+378,360,480,0,237,306,118,186,4692,0.0272,106119,17416
+379,360,480,1,94,176,81,163,6724,0.0389,106119,17416
+380,360,480,0,112,211,96,194,9702,0.0561,106587,17416
+381,360,480,0,162,261,125,224,9801,0.0567,106704,17416
+382,360,480,0,222,320,66,164,9604,0.0556,106938,17416
+383,360,480,0,152,251,76,174,9702,0.0561,107055,17416
+384,360,480,0,120,188,42,110,4624,0.0268,108459,17416
+385,360,480,0,252,350,125,224,9702,0.0561,109629,17416
+386,360,480,0,343,425,57,138,6642,0.0384,109863,17416
+387,360,480,0,227,309,156,238,6724,0.0389,109980,17416
+388,360,480,1,310,392,57,138,6642,0.0384,109980,17416
+389,360,480,0,301,419,118,236,13924,0.0806,110097,17416
+390,360,480,0,232,289,50,107,3249,0.0188,110682,17416
+391,360,480,0,84,254,106,276,28900,0.1672,111150,17416
+392,360,480,0,112,211,105,204,9801,0.0567,112788,17416
+393,360,480,0,152,251,76,174,9702,0.0561,113139,17416
+394,360,480,0,202,300,76,174,9604,0.0556,113607,17416
+395,360,480,0,182,280,56,154,9604,0.0556,113724,17416
+396,360,480,0,136,305,89,259,28730,0.1663,113958,17416
+397,360,480,0,107,249,88,230,20164,0.1167,114075,17416
+398,360,480,0,182,280,66,164,9604,0.0556,114309,17416
+399,360,480,0,67,237,123,293,28900,0.1672,114894,17416
+400,360,480,0,210,278,69,138,4692,0.0272,115596,17416
+401,360,480,0,220,277,85,142,3249,0.0188,116415,17416
+402,360,480,0,227,309,81,163,6724,0.0389,117702,17416
+403,360,480,0,210,278,90,158,4624,0.0268,117819,17416
+404,360,480,0,177,259,81,163,6724,0.0389,118638,17416
+405,360,480,0,251,319,118,186,4624,0.0268,119223,17416
+406,360,480,0,196,264,76,145,4692,0.0272,119340,17416
+407,360,480,0,132,231,56,154,9702,0.0561,119925,17416
+408,360,480,0,147,216,28,96,4692,0.0272,121914,17416
+409,360,480,0,146,264,154,272,13924,0.0806,122148,17416
+410,360,480,1,182,280,26,124,9604,0.0556,122148,17416

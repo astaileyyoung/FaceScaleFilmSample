@@ -1,487 +1,487 @@
-,img_height,img_width,face_num,x1,x2,y1,y2,area,pct_of_frame,frame_num,video_src
-0,360,478,0,224,292,118,186,4624,0.0269,2688,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-1,360,478,1,53,110,148,205,3249,0.0189,2688,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-2,360,478,0,299,346,149,196,2209,0.0128,2880,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-3,360,478,0,330,387,154,211,3249,0.0189,2976,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-4,360,478,0,183,231,144,191,2256,0.0131,3072,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-5,360,478,0,152,234,106,188,6724,0.0391,3168,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-6,360,478,0,203,271,90,158,4624,0.0269,3264,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-7,360,478,0,261,300,129,169,1560,0.0091,5184,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-8,360,478,1,181,220,117,157,1560,0.0091,5184,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-9,360,478,0,136,218,73,155,6724,0.0391,5760,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-10,360,478,0,335,433,96,194,9604,0.0558,5856,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-11,360,478,0,275,374,86,184,9702,0.0564,5952,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-12,360,478,0,144,226,81,163,6724,0.0391,6048,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-13,360,478,1,293,375,106,188,6724,0.0391,6048,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-14,360,478,0,269,351,98,180,6724,0.0391,6144,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-15,360,478,1,136,218,81,163,6724,0.0391,6144,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-16,360,478,0,269,351,106,188,6724,0.0391,6240,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-17,360,478,1,136,218,81,163,6724,0.0391,6240,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-18,360,478,0,109,148,105,145,1560,0.0091,7488,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-19,360,478,0,33,72,45,85,1560,0.0091,8160,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-20,360,478,0,150,197,57,105,2256,0.0131,11808,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-21,360,478,1,341,398,189,245,3192,0.0185,11808,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-22,360,478,0,107,154,72,119,2209,0.0128,13152,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-23,360,478,0,116,164,81,129,2304,0.0134,13344,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-24,360,478,0,111,159,77,124,2256,0.0131,13536,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-25,360,478,0,111,159,72,119,2256,0.0131,13728,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-26,360,478,0,177,259,90,172,6724,0.0391,14304,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-27,360,478,0,186,284,76,174,9604,0.0558,14400,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-28,360,478,0,119,201,98,180,6724,0.0391,14496,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-29,360,478,0,113,181,97,165,4624,0.0269,14592,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-30,360,478,0,113,181,97,165,4624,0.0269,14688,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-31,360,478,1,272,340,69,138,4692,0.0273,14688,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-32,360,478,0,113,181,97,165,4624,0.0269,14784,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-33,360,478,0,308,356,182,230,2304,0.0134,16224,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-34,360,478,0,217,264,115,162,2209,0.0128,16320,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-35,360,478,1,318,375,91,148,3249,0.0189,16320,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-36,360,478,0,212,260,105,153,2304,0.0134,16416,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-37,360,478,0,198,245,101,148,2209,0.0128,16512,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-38,360,478,1,308,356,77,124,2256,0.0131,16512,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-39,360,478,0,183,231,101,148,2256,0.0131,16608,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-40,360,478,1,294,341,173,220,2209,0.0128,16608,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-41,360,478,2,303,351,81,129,2304,0.0134,16608,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-42,360,478,0,290,346,166,222,3136,0.0182,16704,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-43,360,478,1,150,197,101,148,2209,0.0128,16704,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-44,360,478,0,327,375,72,119,2256,0.0131,16800,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-45,360,478,1,198,245,86,134,2256,0.0131,16800,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-46,360,478,2,295,352,154,211,3249,0.0189,16800,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-47,360,478,0,212,260,101,148,2256,0.0131,16896,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-48,360,478,1,295,352,154,211,3249,0.0189,16896,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-49,360,478,0,301,358,68,125,3249,0.0189,16992,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-50,360,478,1,198,245,110,158,2256,0.0131,16992,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-51,360,478,0,203,250,96,143,2209,0.0128,17088,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-52,360,478,1,318,365,72,119,2209,0.0128,17088,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-53,360,478,0,188,236,96,143,2256,0.0131,17184,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-54,360,478,1,318,365,72,119,2209,0.0128,17184,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-55,360,478,0,127,195,97,165,4624,0.0269,17472,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-56,360,478,0,202,284,115,197,6724,0.0391,17664,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-57,360,478,0,255,312,68,125,3249,0.0189,21504,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-58,360,478,0,275,322,86,134,2256,0.0131,21600,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-59,360,478,1,134,202,118,186,4624,0.0269,21600,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-60,360,478,0,278,335,68,125,3249,0.0189,21696,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-61,360,478,1,76,133,252,309,3249,0.0189,21696,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-62,360,478,0,290,346,68,125,3192,0.0185,21792,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-63,360,478,1,123,179,137,194,3192,0.0185,21792,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-64,360,478,0,284,341,73,130,3249,0.0189,21888,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-65,360,478,1,128,185,143,199,3192,0.0185,21888,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-66,360,478,0,323,370,62,110,2256,0.0131,22368,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-67,360,478,1,237,306,56,124,4692,0.0273,22368,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-68,360,478,0,232,289,73,130,3249,0.0189,22464,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-69,360,478,0,154,223,83,151,4692,0.0273,22560,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-70,360,478,0,272,340,104,172,4624,0.0269,22656,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-71,360,478,0,334,402,90,158,4624,0.0269,25344,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-72,360,478,0,0,103,142,260,12154,0.0706,25632,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-73,360,478,1,301,442,145,287,20022,0.1164,25632,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-74,360,478,0,44,162,142,260,13924,0.0809,25728,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-75,360,478,1,295,413,154,272,13924,0.0809,25728,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-76,360,478,0,295,413,154,272,13924,0.0809,25824,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-77,360,478,1,20,138,178,296,13924,0.0809,25824,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-78,360,478,0,28,170,102,244,20164,0.1172,25920,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-79,360,478,1,307,425,130,248,13924,0.0809,25920,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-80,360,478,0,68,186,118,236,13924,0.0809,26016,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-81,360,478,1,301,442,117,258,19881,0.1155,26016,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-82,360,478,0,56,174,118,236,13924,0.0809,26112,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-83,360,478,1,283,401,130,248,13924,0.0809,26112,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-84,360,478,0,56,174,118,236,13924,0.0809,26208,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-85,360,478,1,295,413,130,248,13924,0.0809,26208,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-86,360,478,0,295,413,130,248,13924,0.0809,26304,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-87,360,478,0,32,150,118,236,13924,0.0809,26400,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-88,360,478,1,301,442,117,258,19881,0.1155,26400,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-89,360,478,0,277,359,156,238,6724,0.0391,27360,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-90,360,478,1,66,165,115,214,9801,0.057,27360,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-91,360,478,0,37,135,105,204,9702,0.0564,27456,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-92,360,478,1,275,374,155,254,9801,0.057,27456,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-93,360,478,0,315,414,155,254,9801,0.057,27552,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-94,360,478,1,86,185,115,214,9801,0.057,27552,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-95,360,478,0,269,351,156,238,6724,0.0391,27648,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-96,360,478,1,86,185,115,214,9801,0.057,27648,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-97,360,478,0,302,384,181,263,6724,0.0391,27744,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-98,360,478,1,66,165,76,174,9702,0.0564,27744,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-99,360,478,0,293,375,173,255,6724,0.0391,27840,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-100,360,478,1,76,175,96,194,9702,0.0564,27840,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-101,360,478,0,265,364,155,254,9801,0.057,27936,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-102,360,478,1,106,205,105,204,9801,0.057,27936,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-103,360,478,0,285,384,145,244,9801,0.057,28032,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-104,360,478,1,86,185,105,204,9801,0.057,28032,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-105,360,478,0,30,98,83,151,4624,0.0269,28128,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-106,360,478,1,197,254,148,205,3249,0.0189,28128,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-107,360,478,2,348,416,111,179,4624,0.0269,28128,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-108,360,478,0,51,119,83,151,4624,0.0269,28224,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-109,360,478,1,203,271,138,207,4692,0.0273,28224,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-110,360,478,0,203,271,138,207,4692,0.0273,28320,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-111,360,478,1,37,105,90,158,4624,0.0269,28320,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-112,360,478,2,348,416,125,193,4624,0.0269,28320,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-113,360,478,0,217,285,132,200,4624,0.0269,28416,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-114,360,478,1,30,98,90,158,4624,0.0269,28416,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-115,360,478,2,355,423,125,193,4624,0.0269,28416,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-116,360,478,0,30,98,69,138,4692,0.0273,28512,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-117,360,478,1,189,257,138,207,4692,0.0273,28512,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-118,360,478,2,348,416,132,200,4624,0.0269,28512,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-119,360,478,0,362,430,132,200,4624,0.0269,28608,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-120,360,478,1,196,264,145,214,4692,0.0273,28608,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-121,360,478,0,196,264,145,214,4692,0.0273,28704,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-122,360,478,1,348,416,125,193,4624,0.0269,28704,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-123,360,478,0,210,278,152,221,4692,0.0273,28800,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-124,360,478,1,341,409,118,186,4624,0.0269,28800,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-125,360,478,0,237,306,152,221,4761,0.0277,28896,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-126,360,478,1,341,409,138,207,4692,0.0273,28896,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-127,360,478,0,129,270,117,258,19881,0.1155,28992,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-128,360,478,0,140,258,142,260,13924,0.0809,29088,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-129,360,478,0,128,246,130,248,13924,0.0809,29184,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-130,360,478,0,189,257,159,227,4624,0.0269,29280,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-131,360,478,0,189,257,159,227,4624,0.0269,29376,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-132,360,478,1,341,409,152,221,4692,0.0273,29376,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-133,360,478,0,217,285,166,234,4624,0.0269,29472,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-134,360,478,0,364,421,194,251,3249,0.0189,30144,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-135,360,478,1,123,179,39,96,3192,0.0185,30144,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-136,360,478,0,347,404,217,274,3249,0.0189,30240,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-137,360,478,1,117,174,56,113,3249,0.0189,30240,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-138,360,478,0,359,416,229,286,3249,0.0189,30336,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-139,360,478,1,92,160,49,117,4624,0.0269,30336,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-140,360,478,0,92,160,49,117,4624,0.0269,30432,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-141,360,478,1,232,289,252,309,3249,0.0189,30432,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-142,360,478,0,261,318,85,142,3249,0.0189,30528,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-143,360,478,1,140,197,68,125,3249,0.0189,30528,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-144,360,478,0,140,197,68,125,3249,0.0189,30624,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-145,360,478,0,140,197,68,125,3249,0.0189,30720,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-146,360,478,1,278,335,73,130,3249,0.0189,30720,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-147,360,478,0,284,341,73,130,3249,0.0189,30816,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-148,360,478,1,134,202,69,138,4692,0.0273,30816,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-149,360,478,0,278,335,79,136,3249,0.0189,30912,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-150,360,478,0,134,202,62,131,4692,0.0273,31008,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-151,360,478,1,279,347,69,138,4692,0.0273,31008,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-152,360,478,0,188,306,94,212,13924,0.0809,31104,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-153,360,478,0,146,244,125,224,9702,0.0564,31200,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-154,360,478,0,152,270,130,248,13924,0.0809,31296,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-155,360,478,0,152,270,106,224,13924,0.0809,31392,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-156,360,478,0,164,282,118,236,13924,0.0809,31488,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-157,360,478,0,155,202,77,124,2209,0.0128,31584,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-158,360,478,0,92,210,82,200,13924,0.0809,31872,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-159,360,478,0,128,246,130,248,13924,0.0809,31968,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-160,360,478,0,128,246,130,248,13924,0.0809,32064,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-161,360,478,0,174,231,114,171,3249,0.0189,32256,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-162,360,478,0,180,237,108,165,3249,0.0189,32352,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-163,360,478,0,143,285,117,258,20022,0.1164,32448,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-164,360,478,0,198,245,57,105,2256,0.0131,36288,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-165,360,478,0,117,174,73,130,3249,0.0189,36384,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-166,360,478,1,380,428,240,287,2256,0.0131,36384,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-167,360,478,0,151,208,79,136,3249,0.0189,36480,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-168,360,478,1,341,398,183,240,3249,0.0189,36480,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-169,360,478,0,123,179,85,142,3192,0.0185,36576,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-170,360,478,1,341,398,194,251,3249,0.0189,36576,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-171,360,478,0,146,202,68,125,3192,0.0185,36672,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-172,360,478,1,347,394,201,249,2256,0.0131,36672,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-173,360,478,0,99,167,104,172,4624,0.0269,36960,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-174,360,478,1,348,416,228,297,4692,0.0273,36960,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-175,360,478,0,168,236,104,172,4624,0.0269,37056,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-176,360,478,1,306,375,152,221,4761,0.0277,37056,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-177,360,478,0,223,341,130,248,13924,0.0809,37152,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-178,360,478,0,140,258,190,308,13924,0.0809,37248,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-179,360,478,0,126,173,91,138,2209,0.0128,37824,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-180,360,478,1,241,288,110,158,2256,0.0131,37824,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-181,360,478,0,131,178,91,138,2209,0.0128,37920,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-182,360,478,1,246,293,105,153,2256,0.0131,37920,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-183,360,478,0,59,116,73,130,3249,0.0189,38016,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-184,360,478,1,327,375,81,129,2304,0.0134,38016,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-185,360,478,2,121,168,91,138,2209,0.0128,38016,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-186,360,478,3,241,288,110,158,2256,0.0131,38016,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-187,360,478,0,30,77,77,124,2209,0.0128,38208,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-188,360,478,1,109,148,97,137,1560,0.0091,38208,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-189,360,478,2,370,427,79,136,3249,0.0189,38208,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-190,360,478,3,215,272,85,142,3249,0.0189,38208,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-191,360,478,0,261,318,79,136,3249,0.0189,38304,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-192,360,478,0,375,423,91,138,2256,0.0131,39072,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-193,360,478,0,157,214,102,159,3249,0.0189,39648,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-194,360,478,1,76,133,91,148,3249,0.0189,39648,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-195,360,478,0,209,266,96,153,3249,0.0189,39744,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-196,360,478,1,318,375,96,153,3249,0.0189,39744,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-197,360,478,0,220,277,96,153,3249,0.0189,39840,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-198,360,478,1,100,156,91,148,3192,0.0185,39840,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-199,360,478,0,220,277,96,153,3249,0.0189,39936,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-200,360,478,0,232,289,79,136,3249,0.0189,40224,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-201,360,478,1,128,185,96,153,3249,0.0189,40224,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-202,360,478,0,299,346,91,138,2209,0.0128,40320,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-203,360,478,1,146,202,91,148,3192,0.0185,40320,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-204,360,478,0,128,185,102,159,3249,0.0189,40416,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-205,360,478,1,261,318,79,136,3249,0.0189,40416,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-206,360,478,0,123,179,96,153,3192,0.0185,40512,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-207,360,478,0,135,183,101,148,2256,0.0131,40608,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-208,360,478,1,261,318,68,125,3249,0.0189,40608,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-209,360,478,0,131,178,101,148,2209,0.0128,40704,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-210,360,478,1,249,306,73,130,3249,0.0189,40704,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-211,360,478,0,126,173,101,148,2209,0.0128,40800,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-212,360,478,1,238,295,79,136,3249,0.0189,40800,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-213,360,478,0,135,183,86,134,2304,0.0134,40896,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-214,360,478,1,294,341,72,119,2209,0.0128,40896,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-215,360,478,0,284,332,72,119,2256,0.0131,40992,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-216,360,478,1,128,185,85,142,3249,0.0189,40992,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-217,360,478,0,140,197,85,142,3249,0.0189,41088,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-218,360,478,1,272,329,62,119,3249,0.0189,41088,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-219,360,478,0,128,185,85,142,3249,0.0189,41184,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-220,360,478,1,270,317,72,119,2209,0.0128,41184,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-221,360,478,0,123,179,91,148,3192,0.0185,41280,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-222,360,478,1,284,332,81,129,2304,0.0134,41280,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-223,360,478,0,123,179,91,148,3192,0.0185,41376,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-224,360,478,1,261,318,73,130,3249,0.0189,41376,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-225,360,478,0,53,110,91,148,3249,0.0189,42240,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-226,360,478,0,173,212,77,117,1560,0.0091,42432,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-227,360,478,1,289,328,113,153,1560,0.0091,42432,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-228,360,478,0,145,184,93,133,1560,0.0091,42528,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-229,360,478,1,63,111,101,148,2256,0.0131,42528,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-230,360,478,0,265,312,115,162,2209,0.0128,42624,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-231,360,478,0,153,192,77,117,1560,0.0091,42720,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-232,360,478,1,265,304,109,149,1560,0.0091,42720,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-233,360,478,0,269,308,109,149,1560,0.0091,42912,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-234,360,478,1,145,184,73,113,1560,0.0091,42912,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-235,360,478,0,25,82,50,107,3249,0.0189,44256,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-236,360,478,1,297,336,109,149,1560,0.0091,44256,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-237,360,478,0,405,444,81,121,1560,0.0091,44448,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-238,360,478,0,385,424,77,117,1560,0.0091,46080,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-239,360,478,0,357,396,97,137,1560,0.0091,46752,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-240,360,478,0,293,375,115,197,6724,0.0391,47328,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-241,360,478,1,116,214,105,204,9702,0.0564,47328,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-242,360,478,0,285,367,98,180,6724,0.0391,47424,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-243,360,478,0,277,359,106,188,6724,0.0391,47520,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-244,360,478,0,241,288,91,138,2209,0.0128,48288,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-245,360,478,1,102,149,115,162,2209,0.0128,48288,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-246,360,478,0,140,197,91,148,3249,0.0189,48672,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-247,360,478,0,260,308,91,138,2256,0.0131,48768,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-248,360,478,1,111,159,91,138,2256,0.0131,48768,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-249,360,478,0,251,298,81,129,2256,0.0131,48864,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-250,360,478,0,145,192,91,138,2209,0.0128,48960,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-251,360,478,1,267,323,62,119,3192,0.0185,48960,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-252,360,478,0,211,329,142,260,13924,0.0809,49728,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-253,360,478,0,69,108,13,53,1560,0.0091,50016,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-254,360,478,0,211,329,94,212,13924,0.0809,50784,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-255,360,478,0,297,336,73,113,1560,0.0091,51456,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-256,360,478,0,325,364,105,145,1560,0.0091,52032,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-257,360,478,0,207,255,158,206,2304,0.0134,52128,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-258,360,478,1,82,139,108,165,3249,0.0189,52128,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-259,360,478,0,341,398,73,130,3249,0.0189,52224,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-260,360,478,1,220,277,148,205,3249,0.0189,52224,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-261,360,478,0,347,404,79,136,3249,0.0189,52320,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-262,360,478,1,222,269,158,206,2256,0.0131,52320,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-263,360,478,0,220,277,148,205,3249,0.0189,52416,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-264,360,478,1,320,389,69,138,4761,0.0277,52416,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-265,360,478,0,226,283,148,205,3249,0.0189,52512,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-266,360,478,1,347,404,91,148,3249,0.0189,52512,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-267,360,478,2,278,335,91,148,3249,0.0189,52512,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-268,360,478,0,341,398,79,136,3249,0.0189,52608,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-269,360,478,1,215,272,148,205,3249,0.0189,52608,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-270,360,478,2,278,335,85,142,3249,0.0189,52608,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-271,360,478,0,222,269,149,196,2209,0.0128,52896,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-272,360,478,1,100,156,96,153,3192,0.0185,52896,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-273,360,478,2,359,416,73,130,3249,0.0189,52896,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-274,360,478,0,359,416,85,142,3249,0.0189,52992,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-275,360,478,1,236,284,163,210,2256,0.0131,52992,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-276,360,478,0,355,423,76,145,4692,0.0273,53088,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-277,360,478,0,336,393,114,171,3249,0.0189,53568,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-278,360,478,1,196,264,56,124,4624,0.0269,53568,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-279,360,478,0,203,260,73,130,3249,0.0189,53664,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-280,360,478,1,370,427,131,188,3249,0.0189,53664,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-281,360,478,2,37,105,56,124,4624,0.0269,53664,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-282,360,478,0,196,264,62,131,4692,0.0273,53760,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-283,360,478,1,370,427,131,188,3249,0.0189,53760,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-284,360,478,2,44,112,56,124,4624,0.0269,53760,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-285,360,478,0,370,427,131,188,3249,0.0189,53856,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-286,360,478,1,37,105,56,124,4624,0.0269,53856,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-287,360,478,0,30,98,69,138,4692,0.0273,53952,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-288,360,478,1,359,416,137,194,3249,0.0189,53952,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-289,360,478,2,224,292,76,145,4692,0.0273,53952,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-290,360,478,0,30,98,62,131,4692,0.0273,54048,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-291,360,478,1,362,430,132,200,4624,0.0269,54048,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-292,360,478,2,224,292,83,151,4624,0.0269,54048,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-293,360,478,0,57,96,85,125,1560,0.0091,54336,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-294,360,478,0,49,88,89,129,1560,0.0091,54432,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-295,360,478,1,189,228,97,137,1560,0.0091,54432,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-296,360,478,2,342,389,134,182,2256,0.0131,54432,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-297,360,478,0,189,228,93,133,1560,0.0091,54528,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-298,360,478,0,196,294,105,204,9702,0.0564,54912,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-299,360,478,0,219,301,123,205,6724,0.0391,55008,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-300,360,478,0,196,294,115,214,9702,0.0564,55104,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-301,360,478,0,174,221,86,134,2256,0.0131,55200,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-302,360,478,0,193,232,101,141,1560,0.0091,55296,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-303,360,478,0,203,260,73,130,3249,0.0189,56448,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-304,360,478,0,249,288,101,141,1560,0.0091,56544,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-305,360,478,1,361,408,81,129,2256,0.0131,56544,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-306,360,478,2,205,244,41,81,1560,0.0091,56544,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-307,360,478,3,325,364,69,109,1560,0.0091,56544,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-308,360,478,0,337,384,91,138,2209,0.0128,56640,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-309,360,478,1,241,280,101,141,1560,0.0091,56640,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-310,360,478,2,205,244,41,81,1560,0.0091,56640,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-311,360,478,0,370,427,73,130,3249,0.0189,56736,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-312,360,478,1,241,280,97,137,1560,0.0091,56736,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-313,360,478,0,238,295,68,125,3249,0.0189,56832,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-314,360,478,0,249,306,68,125,3249,0.0189,56928,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-315,360,478,0,163,220,73,130,3249,0.0189,57024,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-316,360,478,0,176,274,105,204,9702,0.0564,57312,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-317,360,478,0,157,214,73,130,3249,0.0189,57888,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-318,360,478,0,146,202,62,119,3192,0.0185,57984,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-319,360,478,0,163,220,68,125,3249,0.0189,58080,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-320,360,478,0,157,214,68,125,3249,0.0189,58176,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-321,360,478,0,286,354,97,165,4624,0.0269,59136,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-322,360,478,0,313,370,102,159,3249,0.0189,59328,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-323,360,478,0,293,361,83,151,4624,0.0269,59616,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-324,360,478,0,301,358,91,148,3249,0.0189,59808,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-325,360,478,0,284,341,96,153,3249,0.0189,60096,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-326,360,478,0,306,375,83,151,4692,0.0273,60192,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-327,360,478,0,318,375,108,165,3249,0.0189,60864,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-328,360,478,0,353,410,79,136,3249,0.0189,62976,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-329,360,478,1,241,280,89,129,1560,0.0091,62976,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-330,360,478,0,210,278,173,241,4624,0.0269,63072,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-331,360,478,1,48,105,131,188,3249,0.0189,63072,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-332,360,478,0,202,284,140,221,6642,0.0386,63168,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-333,360,478,0,244,326,198,279,6642,0.0386,63360,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-334,360,478,1,53,110,131,188,3249,0.0189,63360,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-335,360,478,0,164,282,118,236,13924,0.0809,63456,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-336,360,478,0,116,214,105,204,9702,0.0564,63552,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-337,360,478,0,166,264,76,174,9604,0.0558,63840,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-338,360,478,0,246,344,115,214,9702,0.0564,63936,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-339,360,478,0,197,236,53,93,1560,0.0091,64512,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-340,360,478,1,207,255,110,158,2304,0.0134,64512,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-341,360,478,0,59,116,137,194,3249,0.0189,65088,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-342,360,478,0,78,147,173,241,4692,0.0273,65184,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-343,360,478,0,134,202,145,214,4692,0.0273,65280,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-344,360,478,0,168,236,125,193,4624,0.0269,65376,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-345,360,478,0,217,285,69,138,4692,0.0273,65664,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-346,360,478,0,255,312,68,125,3249,0.0189,65760,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-347,360,478,0,244,300,73,130,3192,0.0185,65856,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-348,360,478,0,192,249,79,136,3249,0.0189,65952,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-349,360,478,0,366,413,129,177,2256,0.0131,66048,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-350,360,478,1,251,298,134,182,2256,0.0131,66048,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-351,360,478,2,37,76,105,145,1560,0.0091,66048,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-352,360,478,0,366,413,129,177,2256,0.0131,66144,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-353,360,478,1,37,76,105,145,1560,0.0091,66144,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-354,360,478,2,251,298,134,182,2256,0.0131,66144,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-355,360,478,0,45,84,145,185,1560,0.0091,66240,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-356,360,478,1,117,156,173,213,1560,0.0091,66240,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-357,360,478,2,133,172,129,169,1560,0.0091,66240,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-358,360,478,0,33,72,153,193,1560,0.0091,66336,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-359,360,478,1,251,298,177,225,2256,0.0131,66336,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-360,360,478,2,327,375,197,244,2256,0.0131,66336,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-361,360,478,3,227,274,43,90,2209,0.0128,66336,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-362,360,478,0,341,398,166,222,3192,0.0185,66432,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-363,360,478,1,246,293,158,206,2256,0.0131,66432,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-364,360,478,2,37,76,133,173,1560,0.0091,66432,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-365,360,478,3,409,456,129,177,2256,0.0131,66432,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-366,360,478,0,226,283,91,148,3249,0.0189,66528,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-367,360,478,0,182,250,83,151,4624,0.0269,66624,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-368,360,478,0,182,250,90,158,4624,0.0269,66720,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-369,360,478,0,220,277,85,142,3249,0.0189,66816,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-370,360,478,0,341,380,157,197,1560,0.0091,67488,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-371,360,478,1,137,176,149,189,1560,0.0091,67488,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-372,360,478,2,417,456,145,185,1560,0.0091,67488,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-373,360,478,3,293,332,165,205,1560,0.0091,67488,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-374,360,478,0,332,380,201,249,2304,0.0134,67584,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-375,360,478,0,109,148,93,133,1560,0.0091,67680,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-376,360,478,1,393,432,97,137,1560,0.0091,67680,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-377,360,478,0,213,252,125,165,1560,0.0091,67776,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-378,360,478,1,397,436,101,141,1560,0.0091,67776,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-379,360,478,2,111,159,91,138,2256,0.0131,67776,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-380,360,478,0,70,151,73,155,6642,0.0386,67872,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-381,360,478,0,119,323,117,321,41616,0.2418,68736,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-382,360,478,0,443,478,91,138,1645,0.0096,68832,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-383,360,478,1,361,400,105,145,1560,0.0091,68832,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-384,360,478,0,315,414,96,194,9702,0.0564,69024,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-385,360,478,1,56,174,118,236,13924,0.0809,69024,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-386,360,478,0,200,342,131,273,20164,0.1172,69120,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-387,360,478,0,213,383,158,327,28730,0.167,69216,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-388,360,478,0,227,309,106,188,6724,0.0391,69312,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-389,360,478,0,226,283,91,148,3249,0.0189,69408,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-390,360,478,0,193,232,97,137,1560,0.0091,69504,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-391,360,478,0,341,380,121,161,1560,0.0091,69600,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-392,360,478,0,345,384,117,157,1560,0.0091,69696,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-393,360,478,0,173,212,97,137,1560,0.0091,69792,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-394,360,478,0,169,208,105,145,1560,0.0091,69984,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-395,360,478,0,169,208,105,145,1560,0.0091,70080,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-396,360,478,0,345,384,113,153,1560,0.0091,70176,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-397,360,478,1,173,212,105,145,1560,0.0091,70176,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-398,360,478,0,349,388,105,145,1560,0.0091,70272,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-399,360,478,1,165,204,101,141,1560,0.0091,70272,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-400,360,478,0,347,394,101,148,2209,0.0128,70368,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-401,360,478,1,87,135,91,138,2256,0.0131,70368,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-402,360,478,0,7,64,96,153,3249,0.0189,70464,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-403,360,478,0,345,384,105,145,1560,0.0091,70560,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-404,360,478,1,157,196,101,141,1560,0.0091,70560,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-405,360,478,0,157,196,97,137,1560,0.0091,70656,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-406,360,478,0,347,394,101,148,2209,0.0128,70752,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-407,360,478,1,157,196,101,141,1560,0.0091,70752,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-408,360,478,2,44,92,96,143,2256,0.0131,70752,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-409,360,478,0,157,196,101,141,1560,0.0091,70848,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-410,360,478,1,349,388,101,141,1560,0.0091,70848,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-411,360,478,2,49,96,96,143,2209,0.0128,70848,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-412,360,478,0,345,384,109,149,1560,0.0091,70944,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-413,360,478,1,157,196,101,141,1560,0.0091,70944,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-414,360,478,0,385,432,96,143,2209,0.0128,71040,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-415,360,478,1,205,244,157,197,1560,0.0091,71040,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-416,360,478,2,30,77,110,158,2256,0.0131,71040,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-417,360,478,0,366,413,101,148,2209,0.0128,71136,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-418,360,478,0,366,413,105,153,2256,0.0131,71232,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-419,360,478,1,183,231,158,206,2304,0.0134,71232,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-420,360,478,0,371,418,101,148,2209,0.0128,71328,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-421,360,478,1,35,82,115,162,2209,0.0128,71328,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-422,360,478,0,61,100,197,237,1560,0.0091,71424,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-423,360,478,1,145,184,49,89,1560,0.0091,71424,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-424,360,478,2,279,327,173,220,2256,0.0131,71424,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-425,360,478,0,201,240,177,217,1560,0.0091,71520,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-426,360,478,0,375,423,48,95,2256,0.0131,71616,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-427,360,478,1,313,352,65,105,1560,0.0091,71616,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-428,360,478,0,377,416,53,93,1560,0.0091,71712,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-429,360,478,0,21,60,189,229,1560,0.0091,71808,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-430,360,478,0,373,412,57,97,1560,0.0091,71904,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-431,360,478,1,317,356,57,97,1560,0.0091,71904,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-432,360,478,0,381,420,57,97,1560,0.0091,72000,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-433,360,478,0,186,284,96,194,9604,0.0558,72096,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-434,360,478,0,186,284,86,184,9604,0.0558,72192,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-435,360,478,0,285,367,173,255,6724,0.0391,72288,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-436,360,478,1,71,140,76,145,4761,0.0277,72288,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-437,360,478,0,85,154,83,151,4692,0.0273,72384,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-438,360,478,1,285,367,173,255,6724,0.0391,72384,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-439,360,478,0,211,292,90,172,6642,0.0386,72480,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-440,360,478,0,194,276,81,163,6724,0.0391,72576,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-441,360,478,0,385,424,57,97,1560,0.0091,72864,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-442,360,478,0,317,356,65,105,1560,0.0091,73056,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-443,360,478,0,385,424,57,97,1560,0.0091,73248,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-444,360,478,0,313,352,69,109,1560,0.0091,73440,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-445,360,478,0,193,240,67,114,2209,0.0128,74016,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-446,360,478,1,59,106,125,172,2209,0.0128,74016,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-447,360,478,0,275,322,67,114,2209,0.0128,74112,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-448,360,478,0,294,341,77,124,2209,0.0128,74208,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-449,360,478,0,330,387,85,142,3249,0.0189,74304,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-450,360,478,0,111,159,129,177,2304,0.0134,74400,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-451,360,478,0,121,168,139,186,2209,0.0128,74496,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-452,360,478,0,97,144,120,167,2209,0.0128,74784,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-453,360,478,0,277,316,149,189,1560,0.0091,74976,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-454,360,478,0,189,228,149,189,1560,0.0091,75264,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-455,360,478,0,173,212,45,85,1560,0.0091,75360,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-456,360,478,1,233,272,173,213,1560,0.0091,75360,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-457,360,478,0,165,204,45,85,1560,0.0091,79296,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-458,360,478,0,175,243,90,158,4624,0.0269,80160,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-459,360,478,0,189,257,97,165,4624,0.0269,80256,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-460,360,478,0,154,223,97,165,4692,0.0273,80352,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-461,360,478,0,169,226,91,148,3249,0.0189,80640,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-462,360,478,0,154,223,83,151,4692,0.0273,80736,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-463,360,478,0,163,220,85,142,3249,0.0189,80832,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-464,360,478,0,161,230,83,151,4692,0.0273,81216,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-465,360,478,0,127,195,90,158,4624,0.0269,81312,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-466,360,478,0,186,243,85,142,3249,0.0189,81600,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-467,360,478,0,169,226,85,142,3249,0.0189,81888,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-468,360,478,0,157,214,85,142,3249,0.0189,82080,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-469,360,478,0,168,236,83,151,4624,0.0269,82176,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-470,360,478,0,147,216,90,158,4692,0.0273,82272,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-471,360,478,0,313,352,81,121,1560,0.0091,86208,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-472,360,478,0,122,366,107,351,59536,0.346,86976,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-473,360,478,0,181,385,117,321,41616,0.2418,87072,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-474,360,478,0,269,308,69,109,1560,0.0091,89664,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-475,360,478,0,169,208,69,109,1560,0.0091,90720,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-476,360,478,0,317,356,65,105,1560,0.0091,90816,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-477,360,478,1,117,156,49,89,1560,0.0091,90816,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-478,360,478,0,321,360,49,89,1560,0.0091,91008,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-479,360,478,0,185,224,185,225,1560,0.0091,92064,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-480,360,478,0,265,312,120,167,2209,0.0128,93216,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-481,360,478,0,217,256,113,153,1560,0.0091,93408,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-482,360,478,0,121,160,105,145,1560,0.0091,96192,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-483,360,478,0,179,226,57,105,2256,0.0131,97248,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-484,360,478,0,251,298,91,138,2209,0.0128,97344,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
-485,360,478,0,299,346,14,61,2209,0.0128,98016,/home/amos/server/media/movies/Boss Of Rawhide (1943)/Boss Of Rawhide (1943).mp4
+,img_height,img_width,face_num,x1,x2,y1,y2,area,pct_of_frame,frame_num,imdb_id
+0,360,478,0,224,292,118,186,4624,0.0269,2688,36664
+1,360,478,1,53,110,148,205,3249,0.0189,2688,36664
+2,360,478,0,299,346,149,196,2209,0.0128,2880,36664
+3,360,478,0,330,387,154,211,3249,0.0189,2976,36664
+4,360,478,0,183,231,144,191,2256,0.0131,3072,36664
+5,360,478,0,152,234,106,188,6724,0.0391,3168,36664
+6,360,478,0,203,271,90,158,4624,0.0269,3264,36664
+7,360,478,0,261,300,129,169,1560,0.0091,5184,36664
+8,360,478,1,181,220,117,157,1560,0.0091,5184,36664
+9,360,478,0,136,218,73,155,6724,0.0391,5760,36664
+10,360,478,0,335,433,96,194,9604,0.0558,5856,36664
+11,360,478,0,275,374,86,184,9702,0.0564,5952,36664
+12,360,478,0,144,226,81,163,6724,0.0391,6048,36664
+13,360,478,1,293,375,106,188,6724,0.0391,6048,36664
+14,360,478,0,269,351,98,180,6724,0.0391,6144,36664
+15,360,478,1,136,218,81,163,6724,0.0391,6144,36664
+16,360,478,0,269,351,106,188,6724,0.0391,6240,36664
+17,360,478,1,136,218,81,163,6724,0.0391,6240,36664
+18,360,478,0,109,148,105,145,1560,0.0091,7488,36664
+19,360,478,0,33,72,45,85,1560,0.0091,8160,36664
+20,360,478,0,150,197,57,105,2256,0.0131,11808,36664
+21,360,478,1,341,398,189,245,3192,0.0185,11808,36664
+22,360,478,0,107,154,72,119,2209,0.0128,13152,36664
+23,360,478,0,116,164,81,129,2304,0.0134,13344,36664
+24,360,478,0,111,159,77,124,2256,0.0131,13536,36664
+25,360,478,0,111,159,72,119,2256,0.0131,13728,36664
+26,360,478,0,177,259,90,172,6724,0.0391,14304,36664
+27,360,478,0,186,284,76,174,9604,0.0558,14400,36664
+28,360,478,0,119,201,98,180,6724,0.0391,14496,36664
+29,360,478,0,113,181,97,165,4624,0.0269,14592,36664
+30,360,478,0,113,181,97,165,4624,0.0269,14688,36664
+31,360,478,1,272,340,69,138,4692,0.0273,14688,36664
+32,360,478,0,113,181,97,165,4624,0.0269,14784,36664
+33,360,478,0,308,356,182,230,2304,0.0134,16224,36664
+34,360,478,0,217,264,115,162,2209,0.0128,16320,36664
+35,360,478,1,318,375,91,148,3249,0.0189,16320,36664
+36,360,478,0,212,260,105,153,2304,0.0134,16416,36664
+37,360,478,0,198,245,101,148,2209,0.0128,16512,36664
+38,360,478,1,308,356,77,124,2256,0.0131,16512,36664
+39,360,478,0,183,231,101,148,2256,0.0131,16608,36664
+40,360,478,1,294,341,173,220,2209,0.0128,16608,36664
+41,360,478,2,303,351,81,129,2304,0.0134,16608,36664
+42,360,478,0,290,346,166,222,3136,0.0182,16704,36664
+43,360,478,1,150,197,101,148,2209,0.0128,16704,36664
+44,360,478,0,327,375,72,119,2256,0.0131,16800,36664
+45,360,478,1,198,245,86,134,2256,0.0131,16800,36664
+46,360,478,2,295,352,154,211,3249,0.0189,16800,36664
+47,360,478,0,212,260,101,148,2256,0.0131,16896,36664
+48,360,478,1,295,352,154,211,3249,0.0189,16896,36664
+49,360,478,0,301,358,68,125,3249,0.0189,16992,36664
+50,360,478,1,198,245,110,158,2256,0.0131,16992,36664
+51,360,478,0,203,250,96,143,2209,0.0128,17088,36664
+52,360,478,1,318,365,72,119,2209,0.0128,17088,36664
+53,360,478,0,188,236,96,143,2256,0.0131,17184,36664
+54,360,478,1,318,365,72,119,2209,0.0128,17184,36664
+55,360,478,0,127,195,97,165,4624,0.0269,17472,36664
+56,360,478,0,202,284,115,197,6724,0.0391,17664,36664
+57,360,478,0,255,312,68,125,3249,0.0189,21504,36664
+58,360,478,0,275,322,86,134,2256,0.0131,21600,36664
+59,360,478,1,134,202,118,186,4624,0.0269,21600,36664
+60,360,478,0,278,335,68,125,3249,0.0189,21696,36664
+61,360,478,1,76,133,252,309,3249,0.0189,21696,36664
+62,360,478,0,290,346,68,125,3192,0.0185,21792,36664
+63,360,478,1,123,179,137,194,3192,0.0185,21792,36664
+64,360,478,0,284,341,73,130,3249,0.0189,21888,36664
+65,360,478,1,128,185,143,199,3192,0.0185,21888,36664
+66,360,478,0,323,370,62,110,2256,0.0131,22368,36664
+67,360,478,1,237,306,56,124,4692,0.0273,22368,36664
+68,360,478,0,232,289,73,130,3249,0.0189,22464,36664
+69,360,478,0,154,223,83,151,4692,0.0273,22560,36664
+70,360,478,0,272,340,104,172,4624,0.0269,22656,36664
+71,360,478,0,334,402,90,158,4624,0.0269,25344,36664
+72,360,478,0,0,103,142,260,12154,0.0706,25632,36664
+73,360,478,1,301,442,145,287,20022,0.1164,25632,36664
+74,360,478,0,44,162,142,260,13924,0.0809,25728,36664
+75,360,478,1,295,413,154,272,13924,0.0809,25728,36664
+76,360,478,0,295,413,154,272,13924,0.0809,25824,36664
+77,360,478,1,20,138,178,296,13924,0.0809,25824,36664
+78,360,478,0,28,170,102,244,20164,0.1172,25920,36664
+79,360,478,1,307,425,130,248,13924,0.0809,25920,36664
+80,360,478,0,68,186,118,236,13924,0.0809,26016,36664
+81,360,478,1,301,442,117,258,19881,0.1155,26016,36664
+82,360,478,0,56,174,118,236,13924,0.0809,26112,36664
+83,360,478,1,283,401,130,248,13924,0.0809,26112,36664
+84,360,478,0,56,174,118,236,13924,0.0809,26208,36664
+85,360,478,1,295,413,130,248,13924,0.0809,26208,36664
+86,360,478,0,295,413,130,248,13924,0.0809,26304,36664
+87,360,478,0,32,150,118,236,13924,0.0809,26400,36664
+88,360,478,1,301,442,117,258,19881,0.1155,26400,36664
+89,360,478,0,277,359,156,238,6724,0.0391,27360,36664
+90,360,478,1,66,165,115,214,9801,0.057,27360,36664
+91,360,478,0,37,135,105,204,9702,0.0564,27456,36664
+92,360,478,1,275,374,155,254,9801,0.057,27456,36664
+93,360,478,0,315,414,155,254,9801,0.057,27552,36664
+94,360,478,1,86,185,115,214,9801,0.057,27552,36664
+95,360,478,0,269,351,156,238,6724,0.0391,27648,36664
+96,360,478,1,86,185,115,214,9801,0.057,27648,36664
+97,360,478,0,302,384,181,263,6724,0.0391,27744,36664
+98,360,478,1,66,165,76,174,9702,0.0564,27744,36664
+99,360,478,0,293,375,173,255,6724,0.0391,27840,36664
+100,360,478,1,76,175,96,194,9702,0.0564,27840,36664
+101,360,478,0,265,364,155,254,9801,0.057,27936,36664
+102,360,478,1,106,205,105,204,9801,0.057,27936,36664
+103,360,478,0,285,384,145,244,9801,0.057,28032,36664
+104,360,478,1,86,185,105,204,9801,0.057,28032,36664
+105,360,478,0,30,98,83,151,4624,0.0269,28128,36664
+106,360,478,1,197,254,148,205,3249,0.0189,28128,36664
+107,360,478,2,348,416,111,179,4624,0.0269,28128,36664
+108,360,478,0,51,119,83,151,4624,0.0269,28224,36664
+109,360,478,1,203,271,138,207,4692,0.0273,28224,36664
+110,360,478,0,203,271,138,207,4692,0.0273,28320,36664
+111,360,478,1,37,105,90,158,4624,0.0269,28320,36664
+112,360,478,2,348,416,125,193,4624,0.0269,28320,36664
+113,360,478,0,217,285,132,200,4624,0.0269,28416,36664
+114,360,478,1,30,98,90,158,4624,0.0269,28416,36664
+115,360,478,2,355,423,125,193,4624,0.0269,28416,36664
+116,360,478,0,30,98,69,138,4692,0.0273,28512,36664
+117,360,478,1,189,257,138,207,4692,0.0273,28512,36664
+118,360,478,2,348,416,132,200,4624,0.0269,28512,36664
+119,360,478,0,362,430,132,200,4624,0.0269,28608,36664
+120,360,478,1,196,264,145,214,4692,0.0273,28608,36664
+121,360,478,0,196,264,145,214,4692,0.0273,28704,36664
+122,360,478,1,348,416,125,193,4624,0.0269,28704,36664
+123,360,478,0,210,278,152,221,4692,0.0273,28800,36664
+124,360,478,1,341,409,118,186,4624,0.0269,28800,36664
+125,360,478,0,237,306,152,221,4761,0.0277,28896,36664
+126,360,478,1,341,409,138,207,4692,0.0273,28896,36664
+127,360,478,0,129,270,117,258,19881,0.1155,28992,36664
+128,360,478,0,140,258,142,260,13924,0.0809,29088,36664
+129,360,478,0,128,246,130,248,13924,0.0809,29184,36664
+130,360,478,0,189,257,159,227,4624,0.0269,29280,36664
+131,360,478,0,189,257,159,227,4624,0.0269,29376,36664
+132,360,478,1,341,409,152,221,4692,0.0273,29376,36664
+133,360,478,0,217,285,166,234,4624,0.0269,29472,36664
+134,360,478,0,364,421,194,251,3249,0.0189,30144,36664
+135,360,478,1,123,179,39,96,3192,0.0185,30144,36664
+136,360,478,0,347,404,217,274,3249,0.0189,30240,36664
+137,360,478,1,117,174,56,113,3249,0.0189,30240,36664
+138,360,478,0,359,416,229,286,3249,0.0189,30336,36664
+139,360,478,1,92,160,49,117,4624,0.0269,30336,36664
+140,360,478,0,92,160,49,117,4624,0.0269,30432,36664
+141,360,478,1,232,289,252,309,3249,0.0189,30432,36664
+142,360,478,0,261,318,85,142,3249,0.0189,30528,36664
+143,360,478,1,140,197,68,125,3249,0.0189,30528,36664
+144,360,478,0,140,197,68,125,3249,0.0189,30624,36664
+145,360,478,0,140,197,68,125,3249,0.0189,30720,36664
+146,360,478,1,278,335,73,130,3249,0.0189,30720,36664
+147,360,478,0,284,341,73,130,3249,0.0189,30816,36664
+148,360,478,1,134,202,69,138,4692,0.0273,30816,36664
+149,360,478,0,278,335,79,136,3249,0.0189,30912,36664
+150,360,478,0,134,202,62,131,4692,0.0273,31008,36664
+151,360,478,1,279,347,69,138,4692,0.0273,31008,36664
+152,360,478,0,188,306,94,212,13924,0.0809,31104,36664
+153,360,478,0,146,244,125,224,9702,0.0564,31200,36664
+154,360,478,0,152,270,130,248,13924,0.0809,31296,36664
+155,360,478,0,152,270,106,224,13924,0.0809,31392,36664
+156,360,478,0,164,282,118,236,13924,0.0809,31488,36664
+157,360,478,0,155,202,77,124,2209,0.0128,31584,36664
+158,360,478,0,92,210,82,200,13924,0.0809,31872,36664
+159,360,478,0,128,246,130,248,13924,0.0809,31968,36664
+160,360,478,0,128,246,130,248,13924,0.0809,32064,36664
+161,360,478,0,174,231,114,171,3249,0.0189,32256,36664
+162,360,478,0,180,237,108,165,3249,0.0189,32352,36664
+163,360,478,0,143,285,117,258,20022,0.1164,32448,36664
+164,360,478,0,198,245,57,105,2256,0.0131,36288,36664
+165,360,478,0,117,174,73,130,3249,0.0189,36384,36664
+166,360,478,1,380,428,240,287,2256,0.0131,36384,36664
+167,360,478,0,151,208,79,136,3249,0.0189,36480,36664
+168,360,478,1,341,398,183,240,3249,0.0189,36480,36664
+169,360,478,0,123,179,85,142,3192,0.0185,36576,36664
+170,360,478,1,341,398,194,251,3249,0.0189,36576,36664
+171,360,478,0,146,202,68,125,3192,0.0185,36672,36664
+172,360,478,1,347,394,201,249,2256,0.0131,36672,36664
+173,360,478,0,99,167,104,172,4624,0.0269,36960,36664
+174,360,478,1,348,416,228,297,4692,0.0273,36960,36664
+175,360,478,0,168,236,104,172,4624,0.0269,37056,36664
+176,360,478,1,306,375,152,221,4761,0.0277,37056,36664
+177,360,478,0,223,341,130,248,13924,0.0809,37152,36664
+178,360,478,0,140,258,190,308,13924,0.0809,37248,36664
+179,360,478,0,126,173,91,138,2209,0.0128,37824,36664
+180,360,478,1,241,288,110,158,2256,0.0131,37824,36664
+181,360,478,0,131,178,91,138,2209,0.0128,37920,36664
+182,360,478,1,246,293,105,153,2256,0.0131,37920,36664
+183,360,478,0,59,116,73,130,3249,0.0189,38016,36664
+184,360,478,1,327,375,81,129,2304,0.0134,38016,36664
+185,360,478,2,121,168,91,138,2209,0.0128,38016,36664
+186,360,478,3,241,288,110,158,2256,0.0131,38016,36664
+187,360,478,0,30,77,77,124,2209,0.0128,38208,36664
+188,360,478,1,109,148,97,137,1560,0.0091,38208,36664
+189,360,478,2,370,427,79,136,3249,0.0189,38208,36664
+190,360,478,3,215,272,85,142,3249,0.0189,38208,36664
+191,360,478,0,261,318,79,136,3249,0.0189,38304,36664
+192,360,478,0,375,423,91,138,2256,0.0131,39072,36664
+193,360,478,0,157,214,102,159,3249,0.0189,39648,36664
+194,360,478,1,76,133,91,148,3249,0.0189,39648,36664
+195,360,478,0,209,266,96,153,3249,0.0189,39744,36664
+196,360,478,1,318,375,96,153,3249,0.0189,39744,36664
+197,360,478,0,220,277,96,153,3249,0.0189,39840,36664
+198,360,478,1,100,156,91,148,3192,0.0185,39840,36664
+199,360,478,0,220,277,96,153,3249,0.0189,39936,36664
+200,360,478,0,232,289,79,136,3249,0.0189,40224,36664
+201,360,478,1,128,185,96,153,3249,0.0189,40224,36664
+202,360,478,0,299,346,91,138,2209,0.0128,40320,36664
+203,360,478,1,146,202,91,148,3192,0.0185,40320,36664
+204,360,478,0,128,185,102,159,3249,0.0189,40416,36664
+205,360,478,1,261,318,79,136,3249,0.0189,40416,36664
+206,360,478,0,123,179,96,153,3192,0.0185,40512,36664
+207,360,478,0,135,183,101,148,2256,0.0131,40608,36664
+208,360,478,1,261,318,68,125,3249,0.0189,40608,36664
+209,360,478,0,131,178,101,148,2209,0.0128,40704,36664
+210,360,478,1,249,306,73,130,3249,0.0189,40704,36664
+211,360,478,0,126,173,101,148,2209,0.0128,40800,36664
+212,360,478,1,238,295,79,136,3249,0.0189,40800,36664
+213,360,478,0,135,183,86,134,2304,0.0134,40896,36664
+214,360,478,1,294,341,72,119,2209,0.0128,40896,36664
+215,360,478,0,284,332,72,119,2256,0.0131,40992,36664
+216,360,478,1,128,185,85,142,3249,0.0189,40992,36664
+217,360,478,0,140,197,85,142,3249,0.0189,41088,36664
+218,360,478,1,272,329,62,119,3249,0.0189,41088,36664
+219,360,478,0,128,185,85,142,3249,0.0189,41184,36664
+220,360,478,1,270,317,72,119,2209,0.0128,41184,36664
+221,360,478,0,123,179,91,148,3192,0.0185,41280,36664
+222,360,478,1,284,332,81,129,2304,0.0134,41280,36664
+223,360,478,0,123,179,91,148,3192,0.0185,41376,36664
+224,360,478,1,261,318,73,130,3249,0.0189,41376,36664
+225,360,478,0,53,110,91,148,3249,0.0189,42240,36664
+226,360,478,0,173,212,77,117,1560,0.0091,42432,36664
+227,360,478,1,289,328,113,153,1560,0.0091,42432,36664
+228,360,478,0,145,184,93,133,1560,0.0091,42528,36664
+229,360,478,1,63,111,101,148,2256,0.0131,42528,36664
+230,360,478,0,265,312,115,162,2209,0.0128,42624,36664
+231,360,478,0,153,192,77,117,1560,0.0091,42720,36664
+232,360,478,1,265,304,109,149,1560,0.0091,42720,36664
+233,360,478,0,269,308,109,149,1560,0.0091,42912,36664
+234,360,478,1,145,184,73,113,1560,0.0091,42912,36664
+235,360,478,0,25,82,50,107,3249,0.0189,44256,36664
+236,360,478,1,297,336,109,149,1560,0.0091,44256,36664
+237,360,478,0,405,444,81,121,1560,0.0091,44448,36664
+238,360,478,0,385,424,77,117,1560,0.0091,46080,36664
+239,360,478,0,357,396,97,137,1560,0.0091,46752,36664
+240,360,478,0,293,375,115,197,6724,0.0391,47328,36664
+241,360,478,1,116,214,105,204,9702,0.0564,47328,36664
+242,360,478,0,285,367,98,180,6724,0.0391,47424,36664
+243,360,478,0,277,359,106,188,6724,0.0391,47520,36664
+244,360,478,0,241,288,91,138,2209,0.0128,48288,36664
+245,360,478,1,102,149,115,162,2209,0.0128,48288,36664
+246,360,478,0,140,197,91,148,3249,0.0189,48672,36664
+247,360,478,0,260,308,91,138,2256,0.0131,48768,36664
+248,360,478,1,111,159,91,138,2256,0.0131,48768,36664
+249,360,478,0,251,298,81,129,2256,0.0131,48864,36664
+250,360,478,0,145,192,91,138,2209,0.0128,48960,36664
+251,360,478,1,267,323,62,119,3192,0.0185,48960,36664
+252,360,478,0,211,329,142,260,13924,0.0809,49728,36664
+253,360,478,0,69,108,13,53,1560,0.0091,50016,36664
+254,360,478,0,211,329,94,212,13924,0.0809,50784,36664
+255,360,478,0,297,336,73,113,1560,0.0091,51456,36664
+256,360,478,0,325,364,105,145,1560,0.0091,52032,36664
+257,360,478,0,207,255,158,206,2304,0.0134,52128,36664
+258,360,478,1,82,139,108,165,3249,0.0189,52128,36664
+259,360,478,0,341,398,73,130,3249,0.0189,52224,36664
+260,360,478,1,220,277,148,205,3249,0.0189,52224,36664
+261,360,478,0,347,404,79,136,3249,0.0189,52320,36664
+262,360,478,1,222,269,158,206,2256,0.0131,52320,36664
+263,360,478,0,220,277,148,205,3249,0.0189,52416,36664
+264,360,478,1,320,389,69,138,4761,0.0277,52416,36664
+265,360,478,0,226,283,148,205,3249,0.0189,52512,36664
+266,360,478,1,347,404,91,148,3249,0.0189,52512,36664
+267,360,478,2,278,335,91,148,3249,0.0189,52512,36664
+268,360,478,0,341,398,79,136,3249,0.0189,52608,36664
+269,360,478,1,215,272,148,205,3249,0.0189,52608,36664
+270,360,478,2,278,335,85,142,3249,0.0189,52608,36664
+271,360,478,0,222,269,149,196,2209,0.0128,52896,36664
+272,360,478,1,100,156,96,153,3192,0.0185,52896,36664
+273,360,478,2,359,416,73,130,3249,0.0189,52896,36664
+274,360,478,0,359,416,85,142,3249,0.0189,52992,36664
+275,360,478,1,236,284,163,210,2256,0.0131,52992,36664
+276,360,478,0,355,423,76,145,4692,0.0273,53088,36664
+277,360,478,0,336,393,114,171,3249,0.0189,53568,36664
+278,360,478,1,196,264,56,124,4624,0.0269,53568,36664
+279,360,478,0,203,260,73,130,3249,0.0189,53664,36664
+280,360,478,1,370,427,131,188,3249,0.0189,53664,36664
+281,360,478,2,37,105,56,124,4624,0.0269,53664,36664
+282,360,478,0,196,264,62,131,4692,0.0273,53760,36664
+283,360,478,1,370,427,131,188,3249,0.0189,53760,36664
+284,360,478,2,44,112,56,124,4624,0.0269,53760,36664
+285,360,478,0,370,427,131,188,3249,0.0189,53856,36664
+286,360,478,1,37,105,56,124,4624,0.0269,53856,36664
+287,360,478,0,30,98,69,138,4692,0.0273,53952,36664
+288,360,478,1,359,416,137,194,3249,0.0189,53952,36664
+289,360,478,2,224,292,76,145,4692,0.0273,53952,36664
+290,360,478,0,30,98,62,131,4692,0.0273,54048,36664
+291,360,478,1,362,430,132,200,4624,0.0269,54048,36664
+292,360,478,2,224,292,83,151,4624,0.0269,54048,36664
+293,360,478,0,57,96,85,125,1560,0.0091,54336,36664
+294,360,478,0,49,88,89,129,1560,0.0091,54432,36664
+295,360,478,1,189,228,97,137,1560,0.0091,54432,36664
+296,360,478,2,342,389,134,182,2256,0.0131,54432,36664
+297,360,478,0,189,228,93,133,1560,0.0091,54528,36664
+298,360,478,0,196,294,105,204,9702,0.0564,54912,36664
+299,360,478,0,219,301,123,205,6724,0.0391,55008,36664
+300,360,478,0,196,294,115,214,9702,0.0564,55104,36664
+301,360,478,0,174,221,86,134,2256,0.0131,55200,36664
+302,360,478,0,193,232,101,141,1560,0.0091,55296,36664
+303,360,478,0,203,260,73,130,3249,0.0189,56448,36664
+304,360,478,0,249,288,101,141,1560,0.0091,56544,36664
+305,360,478,1,361,408,81,129,2256,0.0131,56544,36664
+306,360,478,2,205,244,41,81,1560,0.0091,56544,36664
+307,360,478,3,325,364,69,109,1560,0.0091,56544,36664
+308,360,478,0,337,384,91,138,2209,0.0128,56640,36664
+309,360,478,1,241,280,101,141,1560,0.0091,56640,36664
+310,360,478,2,205,244,41,81,1560,0.0091,56640,36664
+311,360,478,0,370,427,73,130,3249,0.0189,56736,36664
+312,360,478,1,241,280,97,137,1560,0.0091,56736,36664
+313,360,478,0,238,295,68,125,3249,0.0189,56832,36664
+314,360,478,0,249,306,68,125,3249,0.0189,56928,36664
+315,360,478,0,163,220,73,130,3249,0.0189,57024,36664
+316,360,478,0,176,274,105,204,9702,0.0564,57312,36664
+317,360,478,0,157,214,73,130,3249,0.0189,57888,36664
+318,360,478,0,146,202,62,119,3192,0.0185,57984,36664
+319,360,478,0,163,220,68,125,3249,0.0189,58080,36664
+320,360,478,0,157,214,68,125,3249,0.0189,58176,36664
+321,360,478,0,286,354,97,165,4624,0.0269,59136,36664
+322,360,478,0,313,370,102,159,3249,0.0189,59328,36664
+323,360,478,0,293,361,83,151,4624,0.0269,59616,36664
+324,360,478,0,301,358,91,148,3249,0.0189,59808,36664
+325,360,478,0,284,341,96,153,3249,0.0189,60096,36664
+326,360,478,0,306,375,83,151,4692,0.0273,60192,36664
+327,360,478,0,318,375,108,165,3249,0.0189,60864,36664
+328,360,478,0,353,410,79,136,3249,0.0189,62976,36664
+329,360,478,1,241,280,89,129,1560,0.0091,62976,36664
+330,360,478,0,210,278,173,241,4624,0.0269,63072,36664
+331,360,478,1,48,105,131,188,3249,0.0189,63072,36664
+332,360,478,0,202,284,140,221,6642,0.0386,63168,36664
+333,360,478,0,244,326,198,279,6642,0.0386,63360,36664
+334,360,478,1,53,110,131,188,3249,0.0189,63360,36664
+335,360,478,0,164,282,118,236,13924,0.0809,63456,36664
+336,360,478,0,116,214,105,204,9702,0.0564,63552,36664
+337,360,478,0,166,264,76,174,9604,0.0558,63840,36664
+338,360,478,0,246,344,115,214,9702,0.0564,63936,36664
+339,360,478,0,197,236,53,93,1560,0.0091,64512,36664
+340,360,478,1,207,255,110,158,2304,0.0134,64512,36664
+341,360,478,0,59,116,137,194,3249,0.0189,65088,36664
+342,360,478,0,78,147,173,241,4692,0.0273,65184,36664
+343,360,478,0,134,202,145,214,4692,0.0273,65280,36664
+344,360,478,0,168,236,125,193,4624,0.0269,65376,36664
+345,360,478,0,217,285,69,138,4692,0.0273,65664,36664
+346,360,478,0,255,312,68,125,3249,0.0189,65760,36664
+347,360,478,0,244,300,73,130,3192,0.0185,65856,36664
+348,360,478,0,192,249,79,136,3249,0.0189,65952,36664
+349,360,478,0,366,413,129,177,2256,0.0131,66048,36664
+350,360,478,1,251,298,134,182,2256,0.0131,66048,36664
+351,360,478,2,37,76,105,145,1560,0.0091,66048,36664
+352,360,478,0,366,413,129,177,2256,0.0131,66144,36664
+353,360,478,1,37,76,105,145,1560,0.0091,66144,36664
+354,360,478,2,251,298,134,182,2256,0.0131,66144,36664
+355,360,478,0,45,84,145,185,1560,0.0091,66240,36664
+356,360,478,1,117,156,173,213,1560,0.0091,66240,36664
+357,360,478,2,133,172,129,169,1560,0.0091,66240,36664
+358,360,478,0,33,72,153,193,1560,0.0091,66336,36664
+359,360,478,1,251,298,177,225,2256,0.0131,66336,36664
+360,360,478,2,327,375,197,244,2256,0.0131,66336,36664
+361,360,478,3,227,274,43,90,2209,0.0128,66336,36664
+362,360,478,0,341,398,166,222,3192,0.0185,66432,36664
+363,360,478,1,246,293,158,206,2256,0.0131,66432,36664
+364,360,478,2,37,76,133,173,1560,0.0091,66432,36664
+365,360,478,3,409,456,129,177,2256,0.0131,66432,36664
+366,360,478,0,226,283,91,148,3249,0.0189,66528,36664
+367,360,478,0,182,250,83,151,4624,0.0269,66624,36664
+368,360,478,0,182,250,90,158,4624,0.0269,66720,36664
+369,360,478,0,220,277,85,142,3249,0.0189,66816,36664
+370,360,478,0,341,380,157,197,1560,0.0091,67488,36664
+371,360,478,1,137,176,149,189,1560,0.0091,67488,36664
+372,360,478,2,417,456,145,185,1560,0.0091,67488,36664
+373,360,478,3,293,332,165,205,1560,0.0091,67488,36664
+374,360,478,0,332,380,201,249,2304,0.0134,67584,36664
+375,360,478,0,109,148,93,133,1560,0.0091,67680,36664
+376,360,478,1,393,432,97,137,1560,0.0091,67680,36664
+377,360,478,0,213,252,125,165,1560,0.0091,67776,36664
+378,360,478,1,397,436,101,141,1560,0.0091,67776,36664
+379,360,478,2,111,159,91,138,2256,0.0131,67776,36664
+380,360,478,0,70,151,73,155,6642,0.0386,67872,36664
+381,360,478,0,119,323,117,321,41616,0.2418,68736,36664
+382,360,478,0,443,478,91,138,1645,0.0096,68832,36664
+383,360,478,1,361,400,105,145,1560,0.0091,68832,36664
+384,360,478,0,315,414,96,194,9702,0.0564,69024,36664
+385,360,478,1,56,174,118,236,13924,0.0809,69024,36664
+386,360,478,0,200,342,131,273,20164,0.1172,69120,36664
+387,360,478,0,213,383,158,327,28730,0.167,69216,36664
+388,360,478,0,227,309,106,188,6724,0.0391,69312,36664
+389,360,478,0,226,283,91,148,3249,0.0189,69408,36664
+390,360,478,0,193,232,97,137,1560,0.0091,69504,36664
+391,360,478,0,341,380,121,161,1560,0.0091,69600,36664
+392,360,478,0,345,384,117,157,1560,0.0091,69696,36664
+393,360,478,0,173,212,97,137,1560,0.0091,69792,36664
+394,360,478,0,169,208,105,145,1560,0.0091,69984,36664
+395,360,478,0,169,208,105,145,1560,0.0091,70080,36664
+396,360,478,0,345,384,113,153,1560,0.0091,70176,36664
+397,360,478,1,173,212,105,145,1560,0.0091,70176,36664
+398,360,478,0,349,388,105,145,1560,0.0091,70272,36664
+399,360,478,1,165,204,101,141,1560,0.0091,70272,36664
+400,360,478,0,347,394,101,148,2209,0.0128,70368,36664
+401,360,478,1,87,135,91,138,2256,0.0131,70368,36664
+402,360,478,0,7,64,96,153,3249,0.0189,70464,36664
+403,360,478,0,345,384,105,145,1560,0.0091,70560,36664
+404,360,478,1,157,196,101,141,1560,0.0091,70560,36664
+405,360,478,0,157,196,97,137,1560,0.0091,70656,36664
+406,360,478,0,347,394,101,148,2209,0.0128,70752,36664
+407,360,478,1,157,196,101,141,1560,0.0091,70752,36664
+408,360,478,2,44,92,96,143,2256,0.0131,70752,36664
+409,360,478,0,157,196,101,141,1560,0.0091,70848,36664
+410,360,478,1,349,388,101,141,1560,0.0091,70848,36664
+411,360,478,2,49,96,96,143,2209,0.0128,70848,36664
+412,360,478,0,345,384,109,149,1560,0.0091,70944,36664
+413,360,478,1,157,196,101,141,1560,0.0091,70944,36664
+414,360,478,0,385,432,96,143,2209,0.0128,71040,36664
+415,360,478,1,205,244,157,197,1560,0.0091,71040,36664
+416,360,478,2,30,77,110,158,2256,0.0131,71040,36664
+417,360,478,0,366,413,101,148,2209,0.0128,71136,36664
+418,360,478,0,366,413,105,153,2256,0.0131,71232,36664
+419,360,478,1,183,231,158,206,2304,0.0134,71232,36664
+420,360,478,0,371,418,101,148,2209,0.0128,71328,36664
+421,360,478,1,35,82,115,162,2209,0.0128,71328,36664
+422,360,478,0,61,100,197,237,1560,0.0091,71424,36664
+423,360,478,1,145,184,49,89,1560,0.0091,71424,36664
+424,360,478,2,279,327,173,220,2256,0.0131,71424,36664
+425,360,478,0,201,240,177,217,1560,0.0091,71520,36664
+426,360,478,0,375,423,48,95,2256,0.0131,71616,36664
+427,360,478,1,313,352,65,105,1560,0.0091,71616,36664
+428,360,478,0,377,416,53,93,1560,0.0091,71712,36664
+429,360,478,0,21,60,189,229,1560,0.0091,71808,36664
+430,360,478,0,373,412,57,97,1560,0.0091,71904,36664
+431,360,478,1,317,356,57,97,1560,0.0091,71904,36664
+432,360,478,0,381,420,57,97,1560,0.0091,72000,36664
+433,360,478,0,186,284,96,194,9604,0.0558,72096,36664
+434,360,478,0,186,284,86,184,9604,0.0558,72192,36664
+435,360,478,0,285,367,173,255,6724,0.0391,72288,36664
+436,360,478,1,71,140,76,145,4761,0.0277,72288,36664
+437,360,478,0,85,154,83,151,4692,0.0273,72384,36664
+438,360,478,1,285,367,173,255,6724,0.0391,72384,36664
+439,360,478,0,211,292,90,172,6642,0.0386,72480,36664
+440,360,478,0,194,276,81,163,6724,0.0391,72576,36664
+441,360,478,0,385,424,57,97,1560,0.0091,72864,36664
+442,360,478,0,317,356,65,105,1560,0.0091,73056,36664
+443,360,478,0,385,424,57,97,1560,0.0091,73248,36664
+444,360,478,0,313,352,69,109,1560,0.0091,73440,36664
+445,360,478,0,193,240,67,114,2209,0.0128,74016,36664
+446,360,478,1,59,106,125,172,2209,0.0128,74016,36664
+447,360,478,0,275,322,67,114,2209,0.0128,74112,36664
+448,360,478,0,294,341,77,124,2209,0.0128,74208,36664
+449,360,478,0,330,387,85,142,3249,0.0189,74304,36664
+450,360,478,0,111,159,129,177,2304,0.0134,74400,36664
+451,360,478,0,121,168,139,186,2209,0.0128,74496,36664
+452,360,478,0,97,144,120,167,2209,0.0128,74784,36664
+453,360,478,0,277,316,149,189,1560,0.0091,74976,36664
+454,360,478,0,189,228,149,189,1560,0.0091,75264,36664
+455,360,478,0,173,212,45,85,1560,0.0091,75360,36664
+456,360,478,1,233,272,173,213,1560,0.0091,75360,36664
+457,360,478,0,165,204,45,85,1560,0.0091,79296,36664
+458,360,478,0,175,243,90,158,4624,0.0269,80160,36664
+459,360,478,0,189,257,97,165,4624,0.0269,80256,36664
+460,360,478,0,154,223,97,165,4692,0.0273,80352,36664
+461,360,478,0,169,226,91,148,3249,0.0189,80640,36664
+462,360,478,0,154,223,83,151,4692,0.0273,80736,36664
+463,360,478,0,163,220,85,142,3249,0.0189,80832,36664
+464,360,478,0,161,230,83,151,4692,0.0273,81216,36664
+465,360,478,0,127,195,90,158,4624,0.0269,81312,36664
+466,360,478,0,186,243,85,142,3249,0.0189,81600,36664
+467,360,478,0,169,226,85,142,3249,0.0189,81888,36664
+468,360,478,0,157,214,85,142,3249,0.0189,82080,36664
+469,360,478,0,168,236,83,151,4624,0.0269,82176,36664
+470,360,478,0,147,216,90,158,4692,0.0273,82272,36664
+471,360,478,0,313,352,81,121,1560,0.0091,86208,36664
+472,360,478,0,122,366,107,351,59536,0.346,86976,36664
+473,360,478,0,181,385,117,321,41616,0.2418,87072,36664
+474,360,478,0,269,308,69,109,1560,0.0091,89664,36664
+475,360,478,0,169,208,69,109,1560,0.0091,90720,36664
+476,360,478,0,317,356,65,105,1560,0.0091,90816,36664
+477,360,478,1,117,156,49,89,1560,0.0091,90816,36664
+478,360,478,0,321,360,49,89,1560,0.0091,91008,36664
+479,360,478,0,185,224,185,225,1560,0.0091,92064,36664
+480,360,478,0,265,312,120,167,2209,0.0128,93216,36664
+481,360,478,0,217,256,113,153,1560,0.0091,93408,36664
+482,360,478,0,121,160,105,145,1560,0.0091,96192,36664
+483,360,478,0,179,226,57,105,2256,0.0131,97248,36664
+484,360,478,0,251,298,91,138,2209,0.0128,97344,36664
+485,360,478,0,299,346,14,61,2209,0.0128,98016,36664

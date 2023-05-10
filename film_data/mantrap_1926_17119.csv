@@ -1,557 +1,557 @@
-,img_height,img_width,face_num,x1,x2,y1,y2,area,pct_of_frame,frame_num,video_src
-0,360,480,0,177,259,115,197,6724,0.0389,2057,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-1,360,480,0,169,251,131,213,6724,0.0389,2420,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-2,360,480,0,224,292,97,165,4624,0.0268,3267,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-3,360,480,0,226,283,73,130,3249,0.0188,3509,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-4,360,480,0,182,250,118,186,4624,0.0268,3630,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-5,360,480,0,186,268,106,188,6724,0.0389,3751,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-6,360,480,0,198,245,67,114,2209,0.0128,3872,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-7,360,480,1,53,110,154,211,3249,0.0188,3872,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-8,360,480,2,351,399,134,182,2304,0.0133,3872,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-9,360,480,3,295,352,229,286,3249,0.0188,3872,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-10,360,480,4,76,133,39,96,3249,0.0188,3872,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-11,360,480,5,140,197,143,199,3192,0.0185,3872,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-12,360,480,6,174,231,200,257,3249,0.0188,3872,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-13,360,480,7,324,381,62,119,3249,0.0188,3872,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-14,360,480,8,111,168,235,292,3249,0.0188,3872,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-15,360,480,0,290,346,223,280,3192,0.0185,3993,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-16,360,480,1,174,231,200,257,3249,0.0188,3993,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-17,360,480,2,186,243,56,113,3249,0.0188,3993,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-18,360,480,3,121,168,240,287,2209,0.0128,3993,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-19,360,480,4,48,105,160,217,3249,0.0188,3993,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-20,360,480,5,324,381,137,194,3249,0.0188,3993,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-21,360,480,6,76,133,39,96,3249,0.0188,3993,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-22,360,480,7,318,375,68,125,3249,0.0188,3993,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-23,360,480,8,255,312,79,136,3249,0.0188,3993,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-24,360,480,0,203,271,111,179,4624,0.0268,4235,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-25,360,480,0,244,326,98,180,6724,0.0389,4356,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-26,360,480,0,209,248,97,137,1560,0.009,4961,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-27,360,480,0,201,240,101,141,1560,0.009,5082,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-28,360,480,0,145,184,129,169,1560,0.009,5929,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-29,360,480,0,177,259,90,172,6724,0.0389,6050,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-30,360,480,0,186,268,98,180,6724,0.0389,6413,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-31,360,480,0,309,348,53,93,1560,0.009,7260,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-32,360,480,1,173,212,85,125,1560,0.009,7260,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-33,360,480,0,249,288,57,97,1560,0.009,7381,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-34,360,480,1,157,196,81,121,1560,0.009,7381,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-35,360,480,0,341,380,57,97,1560,0.009,7502,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-36,360,480,0,172,270,86,184,9604,0.0556,8470,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-37,360,480,0,194,276,106,188,6724,0.0389,8591,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-38,360,480,0,265,304,93,133,1560,0.009,8712,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-39,360,480,0,252,334,106,188,6724,0.0389,9075,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-40,360,480,0,186,268,115,197,6724,0.0389,9559,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-41,360,480,0,233,272,101,141,1560,0.009,9680,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-42,360,480,0,229,268,65,105,1560,0.009,10285,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-43,360,480,0,169,208,77,117,1560,0.009,10406,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-44,360,480,0,215,272,119,176,3249,0.0188,11132,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-45,360,480,0,203,260,119,176,3249,0.0188,11253,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-46,360,480,0,125,164,101,141,1560,0.009,11374,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-47,360,480,0,212,260,144,191,2256,0.0131,11495,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-48,360,480,0,192,249,137,194,3249,0.0188,11737,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-49,360,480,0,209,266,119,176,3249,0.0188,11858,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-50,360,480,0,203,250,91,138,2209,0.0128,12221,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-51,360,480,0,203,250,77,124,2209,0.0128,12342,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-52,360,480,0,210,278,104,172,4624,0.0268,14036,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-53,360,480,0,192,249,91,148,3249,0.0188,14399,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-54,360,480,0,225,264,101,141,1560,0.009,14762,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-55,360,480,0,188,236,86,134,2304,0.0133,15004,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-56,360,480,0,225,264,105,145,1560,0.009,15125,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-57,360,480,0,232,289,91,148,3249,0.0188,15246,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-58,360,480,1,151,208,96,153,3249,0.0188,15246,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-59,360,480,0,220,277,91,148,3249,0.0188,15367,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-60,360,480,1,174,221,125,172,2209,0.0128,15367,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-61,360,480,0,179,226,105,153,2256,0.0131,15488,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-62,360,480,1,279,327,96,143,2256,0.0131,15488,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-63,360,480,0,303,351,105,153,2304,0.0133,15609,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-64,360,480,1,159,207,105,153,2304,0.0133,15609,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-65,360,480,0,261,318,96,153,3249,0.0188,15851,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-66,360,480,1,140,197,79,136,3249,0.0188,15851,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-67,360,480,0,169,208,69,109,1560,0.009,15972,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-68,360,480,0,221,260,109,149,1560,0.009,16819,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-69,360,480,0,197,236,93,133,1560,0.009,16940,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-70,360,480,1,277,316,85,125,1560,0.009,16940,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-71,360,480,0,172,270,105,204,9702,0.0561,17303,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-72,360,480,0,152,251,125,224,9801,0.0567,17424,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-73,360,480,0,261,300,121,161,1560,0.009,18634,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-74,360,480,0,201,240,77,117,1560,0.009,20086,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-75,360,480,0,186,268,131,213,6724,0.0389,20449,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-76,360,480,0,129,168,113,153,1560,0.009,20812,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-77,360,480,0,318,400,123,205,6724,0.0389,20933,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-78,360,480,0,137,176,81,121,1560,0.009,21538,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-79,360,480,0,249,288,77,117,1560,0.009,21659,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-80,360,480,0,249,288,81,121,1560,0.009,22627,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-81,360,480,1,149,188,109,149,1560,0.009,22627,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-82,360,480,0,261,300,85,125,1560,0.009,22748,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-83,360,480,1,137,176,113,153,1560,0.009,22748,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-84,360,480,0,233,272,85,125,1560,0.009,22869,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-85,360,480,0,229,268,89,129,1560,0.009,24079,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-86,360,480,1,389,428,113,153,1560,0.009,24079,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-87,360,480,0,361,400,113,153,1560,0.009,24442,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-88,360,480,0,153,192,85,125,1560,0.009,24684,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-89,360,480,0,173,212,81,121,1560,0.009,24805,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-90,360,480,0,249,306,160,217,3249,0.0188,25531,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-91,360,480,1,174,221,101,148,2209,0.0128,25531,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-92,360,480,0,244,312,145,214,4692,0.0272,25652,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-93,360,480,1,203,260,96,153,3249,0.0188,25652,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-94,360,480,0,251,319,152,221,4692,0.0272,25894,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-95,360,480,1,174,221,96,143,2209,0.0128,25894,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-96,360,480,0,255,312,160,217,3249,0.0188,26015,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-97,360,480,1,163,220,102,159,3249,0.0188,26015,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-98,360,480,0,309,348,113,153,1560,0.009,26136,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-99,360,480,0,137,176,73,113,1560,0.009,26257,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-100,360,480,1,222,269,115,162,2209,0.0128,26257,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-101,360,480,0,132,231,155,254,9801,0.0567,26620,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-102,360,480,0,172,270,135,234,9702,0.0561,26862,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-103,360,480,0,297,336,81,121,1560,0.009,26983,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-104,360,480,1,318,365,125,172,2209,0.0128,26983,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-105,360,480,2,153,192,105,145,1560,0.009,26983,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-106,360,480,0,308,356,125,172,2256,0.0131,27225,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-107,360,480,1,241,280,97,137,1560,0.009,27225,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-108,360,480,0,182,280,105,204,9702,0.0561,27346,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-109,360,480,0,353,392,69,109,1560,0.009,27467,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-110,360,480,1,294,341,125,172,2209,0.0128,27467,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-111,360,480,0,275,322,125,172,2209,0.0128,27588,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-112,360,480,0,275,322,129,177,2256,0.0131,27709,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-113,360,480,0,255,303,105,153,2304,0.0133,27830,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-114,360,480,0,303,351,91,138,2256,0.0131,27951,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-115,360,480,1,149,188,129,169,1560,0.009,27951,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-116,360,480,0,172,270,115,214,9702,0.0561,28193,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-117,360,480,0,329,368,97,137,1560,0.009,28314,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-118,360,480,1,129,168,133,173,1560,0.009,28314,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-119,360,480,0,182,280,135,234,9702,0.0561,28556,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-120,360,480,0,192,290,105,204,9702,0.0561,28677,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-121,360,480,0,345,384,97,137,1560,0.009,28919,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-122,360,480,1,265,312,153,201,2256,0.0131,28919,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-123,360,480,0,150,197,101,148,2209,0.0128,30371,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-124,360,480,1,284,332,101,148,2256,0.0131,30371,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-125,360,480,0,140,188,91,138,2256,0.0131,30492,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-126,360,480,0,202,284,115,197,6724,0.0389,30613,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-127,360,480,0,211,292,106,188,6642,0.0384,30734,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-128,360,480,0,203,271,125,193,4624,0.0268,30855,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-129,360,480,0,194,276,115,197,6724,0.0389,30976,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-130,360,480,0,189,257,125,193,4624,0.0268,31218,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-131,360,480,0,177,259,140,221,6642,0.0384,31339,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-132,360,480,0,196,264,138,207,4692,0.0272,31460,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-133,360,480,0,202,284,98,180,6724,0.0389,31581,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-134,360,480,0,219,301,106,188,6724,0.0389,31823,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-135,360,480,0,230,299,125,193,4692,0.0272,31944,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-136,360,480,0,227,309,115,197,6724,0.0389,32186,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-137,360,480,0,230,299,132,200,4692,0.0272,32307,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-138,360,480,0,211,292,123,205,6642,0.0384,32549,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-139,360,480,0,224,292,132,200,4624,0.0268,32670,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-140,360,480,0,135,183,96,143,2256,0.0131,32791,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-141,360,480,0,207,255,101,148,2256,0.0131,33275,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-142,360,480,0,207,255,86,134,2304,0.0133,33396,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-143,360,480,0,226,283,102,159,3249,0.0188,34606,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-144,360,480,0,321,360,113,153,1560,0.009,35090,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-145,360,480,0,203,260,114,171,3249,0.0188,35574,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-146,360,480,0,203,250,101,148,2209,0.0128,35695,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-147,360,480,0,221,260,109,149,1560,0.009,36058,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-148,360,480,0,227,274,72,119,2209,0.0128,36179,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-149,360,480,0,233,272,101,141,1560,0.009,36300,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-150,360,480,0,257,296,97,137,1560,0.009,36663,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-151,360,480,0,277,316,97,137,1560,0.009,37026,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-152,360,480,0,253,292,113,153,1560,0.009,38478,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-153,360,480,1,174,221,91,138,2209,0.0128,38478,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-154,360,480,0,182,280,96,194,9604,0.0556,38720,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-155,360,480,0,211,292,131,213,6642,0.0384,38841,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-156,360,480,0,277,316,105,145,1560,0.009,38962,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-157,360,480,0,257,296,105,145,1560,0.009,39204,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-158,360,480,1,140,188,91,138,2256,0.0131,39204,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-159,360,480,0,245,284,105,145,1560,0.009,39325,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-160,360,480,1,161,200,97,137,1560,0.009,39325,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-161,360,480,0,249,288,105,145,1560,0.009,39567,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-162,360,480,1,173,212,97,137,1560,0.009,39567,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-163,360,480,0,265,312,105,153,2256,0.0131,39688,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-164,360,480,1,131,178,139,186,2209,0.0128,39688,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-165,360,480,0,165,204,117,157,1560,0.009,39809,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-166,360,480,0,173,212,117,157,1560,0.009,40172,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-167,360,480,0,180,237,148,205,3249,0.0188,41382,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-168,360,480,0,202,284,140,221,6642,0.0384,41503,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-169,360,480,0,273,312,101,141,1560,0.009,42108,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-170,360,480,1,137,176,105,145,1560,0.009,42108,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-171,360,480,0,203,250,110,158,2256,0.0131,42471,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-172,360,480,0,157,196,93,133,1560,0.009,42955,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-173,360,480,1,285,324,93,133,1560,0.009,42955,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-174,360,480,0,249,288,85,125,1560,0.009,44044,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-175,360,480,0,213,252,89,129,1560,0.009,44286,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-176,360,480,0,210,278,111,179,4624,0.0268,44528,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-177,360,480,0,203,271,111,179,4624,0.0268,44649,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-178,360,480,0,175,243,111,179,4624,0.0268,44891,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-179,360,480,0,201,240,97,137,1560,0.009,45012,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-180,360,480,0,201,240,93,133,1560,0.009,45133,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-181,360,480,0,237,276,89,129,1560,0.009,45617,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-182,360,480,0,185,224,89,129,1560,0.009,45738,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-183,360,480,0,201,240,85,125,1560,0.009,45859,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-184,360,480,0,260,308,120,167,2256,0.0131,45980,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-185,360,480,0,169,251,131,213,6724,0.0389,46343,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-186,360,480,0,265,304,125,165,1560,0.009,46585,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-187,360,480,0,161,230,104,172,4692,0.0272,46706,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-188,360,480,0,217,256,101,141,1560,0.009,47069,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-189,360,480,0,293,332,141,181,1560,0.009,47190,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-190,360,480,0,281,320,149,189,1560,0.009,47311,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-191,360,480,0,225,264,89,129,1560,0.009,47553,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-192,360,480,0,227,274,86,134,2256,0.0131,47674,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-193,360,480,0,201,240,89,129,1560,0.009,47916,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-194,360,480,1,245,284,133,173,1560,0.009,47916,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-195,360,480,0,227,274,96,143,2209,0.0128,48158,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-196,360,480,0,186,268,98,180,6724,0.0389,49005,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-197,360,480,0,182,250,145,214,4692,0.0272,49126,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-198,360,480,0,290,346,131,188,3192,0.0185,49247,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-199,360,480,1,157,214,119,176,3249,0.0188,49247,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-200,360,480,0,324,381,137,194,3249,0.0188,49368,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-201,360,480,1,159,207,134,182,2304,0.0133,49368,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-202,360,480,0,209,248,85,125,1560,0.009,49489,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-203,360,480,0,217,264,101,148,2209,0.0128,49852,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-204,360,480,0,229,268,101,141,1560,0.009,49973,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-205,360,480,0,217,256,93,133,1560,0.009,50094,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-206,360,480,0,111,168,125,182,3249,0.0188,50215,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-207,360,480,1,241,288,96,143,2209,0.0128,50215,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-208,360,480,0,174,221,125,172,2209,0.0128,50336,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-209,360,480,1,275,322,101,148,2209,0.0128,50336,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-210,360,480,0,174,221,129,177,2256,0.0131,50457,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-211,360,480,1,275,322,101,148,2209,0.0128,50457,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-212,360,480,0,174,221,125,172,2209,0.0128,50578,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-213,360,480,1,278,335,85,142,3249,0.0188,50578,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-214,360,480,0,201,240,93,133,1560,0.009,50699,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-215,360,480,0,235,317,123,205,6724,0.0389,50820,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-216,360,480,0,189,257,132,200,4624,0.0268,50941,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-217,360,480,0,197,236,81,121,1560,0.009,51304,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-218,360,480,0,189,228,85,125,1560,0.009,51425,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-219,360,480,0,177,216,85,125,1560,0.009,51546,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-220,360,480,0,289,336,77,124,2209,0.0128,52030,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-221,360,480,1,164,212,101,148,2256,0.0131,52030,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-222,360,480,0,153,192,149,189,1560,0.009,52151,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-223,360,480,0,181,220,113,153,1560,0.009,52272,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-224,360,480,1,260,308,91,138,2256,0.0131,52272,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-225,360,480,0,269,308,97,137,1560,0.009,52393,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-226,360,480,1,131,178,125,172,2209,0.0128,52393,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-227,360,480,0,161,200,81,121,1560,0.009,52514,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-228,360,480,1,201,240,93,133,1560,0.009,52514,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-229,360,480,0,221,260,97,137,1560,0.009,52635,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-230,360,480,0,174,221,105,153,2256,0.0131,52756,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-231,360,480,1,260,308,96,143,2256,0.0131,52756,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-232,360,480,0,261,300,213,253,1560,0.009,52877,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-233,360,480,1,205,244,73,113,1560,0.009,52877,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-234,360,480,0,356,404,216,263,2256,0.0131,52998,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-235,360,480,1,236,284,216,263,2256,0.0131,52998,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-236,360,480,0,269,308,213,253,1560,0.009,53119,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-237,360,480,0,249,306,91,148,3249,0.0188,53240,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-238,360,480,1,100,156,96,153,3192,0.0185,53240,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-239,360,480,0,169,216,96,143,2209,0.0128,53361,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-240,360,480,0,245,284,93,133,1560,0.009,53482,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-241,360,480,0,193,232,165,205,1560,0.009,53603,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-242,360,480,1,265,304,177,217,1560,0.009,53603,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-243,360,480,0,265,304,177,217,1560,0.009,53724,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-244,360,480,1,329,368,169,209,1560,0.009,53724,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-245,360,480,0,189,228,121,161,1560,0.009,53966,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-246,360,480,0,177,216,85,125,1560,0.009,55055,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-247,360,480,1,245,284,101,141,1560,0.009,55055,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-248,360,480,0,209,248,113,153,1560,0.009,55176,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-249,360,480,0,293,332,97,137,1560,0.009,55539,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-250,360,480,1,135,183,105,153,2304,0.0133,55539,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-251,360,480,0,273,312,101,141,1560,0.009,56023,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-252,360,480,1,131,178,105,153,2256,0.0131,56023,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-253,360,480,0,202,284,140,221,6642,0.0384,56386,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-254,360,480,0,109,148,157,197,1560,0.009,56749,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-255,360,480,0,194,276,106,188,6724,0.0389,57112,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-256,360,480,0,189,257,138,207,4692,0.0272,57233,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-257,360,480,0,211,292,106,188,6642,0.0384,57838,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-258,360,480,0,154,223,90,158,4692,0.0272,57959,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-259,360,480,1,116,164,158,206,2304,0.0133,57959,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-260,360,480,0,193,240,105,153,2256,0.0131,58443,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-261,360,480,0,201,240,125,165,1560,0.009,59411,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-262,360,480,0,229,268,101,141,1560,0.009,60137,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-263,360,480,1,285,324,109,149,1560,0.009,60137,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-264,360,480,0,269,308,97,137,1560,0.009,60500,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-265,360,480,1,205,244,89,129,1560,0.009,60500,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-266,360,480,0,285,324,89,129,1560,0.009,60621,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-267,360,480,1,213,252,97,137,1560,0.009,60621,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-268,360,480,0,205,244,93,133,1560,0.009,60863,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-269,360,480,1,281,320,101,141,1560,0.009,60863,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-270,360,480,0,257,296,105,145,1560,0.009,60984,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-271,360,480,0,265,304,93,133,1560,0.009,61105,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-272,360,480,0,241,280,105,145,1560,0.009,61468,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-273,360,480,0,217,256,133,173,1560,0.009,61589,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-274,360,480,0,227,274,110,158,2256,0.0131,61831,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-275,360,480,0,230,299,118,186,4692,0.0272,62073,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-276,360,480,0,196,264,125,193,4624,0.0268,62315,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-277,360,480,0,251,298,81,129,2256,0.0131,63283,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-278,360,480,1,157,196,101,141,1560,0.009,63283,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-279,360,480,0,255,303,105,153,2304,0.0133,63525,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-280,360,480,1,181,220,109,149,1560,0.009,63525,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-281,360,480,0,253,292,101,141,1560,0.009,63646,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-282,360,480,1,189,228,109,149,1560,0.009,63646,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-283,360,480,0,241,288,91,138,2209,0.0128,63767,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-284,360,480,1,189,228,105,145,1560,0.009,63767,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-285,360,480,0,289,336,105,153,2256,0.0131,63888,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-286,360,480,1,197,236,105,145,1560,0.009,63888,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-287,360,480,0,217,285,111,179,4624,0.0268,64372,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-288,360,480,1,140,197,125,182,3249,0.0188,64372,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-289,360,480,0,172,270,135,234,9702,0.0561,64493,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-290,360,480,0,172,270,135,234,9702,0.0561,64735,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-291,360,480,0,202,300,145,244,9702,0.0561,64856,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-292,360,480,0,172,270,155,254,9702,0.0561,64977,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-293,360,480,0,186,268,148,230,6724,0.0389,65098,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-294,360,480,0,182,280,145,244,9702,0.0561,65219,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-295,360,480,0,182,280,145,244,9702,0.0561,65340,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-296,360,480,0,182,280,135,234,9702,0.0561,65461,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-297,360,480,0,182,280,135,234,9702,0.0561,65582,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-298,360,480,0,172,270,145,244,9702,0.0561,65703,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-299,360,480,0,172,270,155,254,9702,0.0561,65824,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-300,360,480,0,202,300,125,224,9702,0.0561,66187,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-301,360,480,0,279,347,111,179,4624,0.0268,66308,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-302,360,480,1,151,208,119,176,3249,0.0188,66308,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-303,360,480,0,265,333,104,172,4624,0.0268,66429,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-304,360,480,1,197,254,125,182,3249,0.0188,66429,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-305,360,480,0,231,279,149,196,2256,0.0131,66671,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-306,360,480,1,265,333,90,158,4624,0.0268,66671,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-307,360,480,0,251,319,90,158,4624,0.0268,66792,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-308,360,480,1,238,295,148,205,3249,0.0188,66792,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-309,360,480,0,258,326,90,158,4624,0.0268,66913,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-310,360,480,1,244,300,160,217,3192,0.0185,66913,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-311,360,480,0,217,256,105,145,1560,0.009,67881,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-312,360,480,0,157,196,65,105,1560,0.009,68002,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-313,360,480,0,232,289,102,159,3249,0.0188,68244,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-314,360,480,0,182,280,125,224,9702,0.0561,68607,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-315,360,480,0,163,220,148,205,3249,0.0188,69091,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-316,360,480,1,237,306,132,200,4692,0.0272,69091,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-317,360,480,0,237,306,125,193,4692,0.0272,69212,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-318,360,480,0,180,237,154,211,3249,0.0188,69333,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-319,360,480,1,237,306,125,193,4692,0.0272,69333,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-320,360,480,0,197,236,89,129,1560,0.009,69454,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-321,360,480,0,162,261,125,224,9801,0.0567,69696,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-322,360,480,0,162,261,145,244,9801,0.0567,69817,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-323,360,480,0,123,179,148,205,3192,0.0185,69938,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-324,360,480,1,251,319,104,172,4624,0.0268,69938,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-325,360,480,0,165,204,109,149,1560,0.009,70180,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-326,360,480,0,169,251,115,197,6724,0.0389,70422,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-327,360,480,0,142,241,115,214,9801,0.0567,70664,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-328,360,480,0,182,280,115,214,9702,0.0561,70785,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-329,360,480,0,162,261,125,224,9801,0.0567,70906,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-330,360,480,0,182,300,94,212,13924,0.0806,71148,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-331,360,480,0,172,270,105,204,9702,0.0561,71390,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-332,360,480,0,222,269,91,138,2209,0.0128,71874,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-333,360,480,0,212,260,91,138,2256,0.0131,72116,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-334,360,480,0,222,269,105,153,2256,0.0131,72237,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-335,360,480,0,193,240,110,158,2256,0.0131,72358,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-336,360,480,0,203,260,102,159,3249,0.0188,72479,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-337,360,480,0,203,250,105,153,2256,0.0131,72721,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-338,360,480,0,217,264,86,134,2256,0.0131,72842,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-339,360,480,0,222,269,86,134,2256,0.0131,72963,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-340,360,480,0,193,232,129,169,1560,0.009,73447,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-341,360,480,0,189,228,89,129,1560,0.009,73568,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-342,360,480,1,275,322,91,138,2209,0.0128,73568,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-343,360,480,0,193,232,137,177,1560,0.009,73689,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-344,360,480,1,117,156,85,125,1560,0.009,73689,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-345,360,480,0,179,226,91,138,2209,0.0128,74173,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-346,360,480,1,270,317,105,153,2256,0.0131,74173,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-347,360,480,2,117,156,117,157,1560,0.009,74173,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-348,360,480,0,253,292,73,113,1560,0.009,74415,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-349,360,480,1,155,202,86,134,2256,0.0131,74415,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-350,360,480,0,211,292,123,205,6642,0.0384,74657,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-351,360,480,0,245,284,89,129,1560,0.009,74778,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-352,360,480,1,141,180,93,133,1560,0.009,74778,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-353,360,480,0,217,256,93,133,1560,0.009,74899,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-354,360,480,1,165,204,101,141,1560,0.009,74899,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-355,360,480,0,155,202,96,143,2209,0.0128,75141,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-356,360,480,1,217,256,97,137,1560,0.009,75141,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-357,360,480,0,209,248,97,137,1560,0.009,75383,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-358,360,480,0,236,284,72,119,2256,0.0131,75988,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-359,360,480,0,169,208,73,113,1560,0.009,77319,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-360,360,480,0,210,278,97,165,4624,0.0268,77440,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-361,360,480,0,186,268,115,197,6724,0.0389,77561,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-362,360,480,0,196,264,111,179,4624,0.0268,77682,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-363,360,480,0,182,280,125,224,9702,0.0561,78771,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-364,360,480,0,224,292,97,165,4624,0.0268,78892,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-365,360,480,0,203,250,86,134,2256,0.0131,79860,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-366,360,480,0,185,224,61,101,1560,0.009,80102,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-367,360,480,0,194,276,115,197,6724,0.0389,80465,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-368,360,480,0,241,280,141,181,1560,0.009,80949,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-369,360,480,1,155,202,101,148,2209,0.0128,80949,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-370,360,480,0,245,284,133,173,1560,0.009,81191,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-371,360,480,1,185,224,97,137,1560,0.009,81191,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-372,360,480,0,253,292,149,189,1560,0.009,81312,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-373,360,480,0,177,259,115,197,6724,0.0389,81554,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-374,360,480,0,186,268,131,213,6724,0.0389,81675,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-375,360,480,0,169,216,96,143,2209,0.0128,81796,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-376,360,480,1,249,288,137,177,1560,0.009,81796,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-377,360,480,0,164,212,91,138,2256,0.0131,81917,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-378,360,480,1,245,284,133,173,1560,0.009,81917,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-379,360,480,0,309,348,85,125,1560,0.009,83369,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-380,360,480,0,177,216,97,137,1560,0.009,83490,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-381,360,480,0,219,301,115,197,6724,0.0389,83732,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-382,360,480,0,205,244,93,133,1560,0.009,84095,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-383,360,480,0,221,260,97,137,1560,0.009,84337,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-384,360,480,0,225,264,93,133,1560,0.009,84458,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-385,360,480,0,169,251,73,155,6724,0.0389,86878,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-386,360,480,0,168,236,76,145,4692,0.0272,87604,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-387,360,480,0,217,285,111,179,4624,0.0268,87846,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-388,360,480,0,205,244,89,129,1560,0.009,88451,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-389,360,480,0,213,252,93,133,1560,0.009,88572,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-390,360,480,0,217,256,93,133,1560,0.009,88693,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-391,360,480,0,212,260,81,129,2304,0.0133,88814,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-392,360,480,0,231,279,86,134,2304,0.0133,89298,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-393,360,480,0,212,260,91,138,2256,0.0131,89540,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-394,360,480,0,241,280,109,149,1560,0.009,89661,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-395,360,480,0,186,243,96,153,3249,0.0188,89903,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-396,360,480,0,180,237,96,153,3249,0.0188,90145,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-397,360,480,0,192,249,102,159,3249,0.0188,90387,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-398,360,480,0,183,231,96,143,2256,0.0131,90508,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-399,360,480,0,210,278,104,172,4624,0.0268,90629,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-400,360,480,0,203,250,105,153,2256,0.0131,90750,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-401,360,480,0,210,278,125,193,4624,0.0268,90871,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-402,360,480,0,203,250,101,148,2209,0.0128,91234,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-403,360,480,0,186,243,108,165,3249,0.0188,91597,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-404,360,480,0,209,266,96,153,3249,0.0188,91839,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-405,360,480,0,215,272,96,153,3249,0.0188,91960,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-406,360,480,0,285,324,169,209,1560,0.009,92202,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-407,360,480,0,192,290,115,214,9702,0.0561,92444,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-408,360,480,0,212,260,91,138,2256,0.0131,93049,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-409,360,480,1,145,192,134,182,2256,0.0131,93049,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-410,360,480,0,227,274,91,138,2209,0.0128,93170,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-411,360,480,1,161,200,141,181,1560,0.009,93170,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-412,360,480,0,236,284,91,138,2256,0.0131,93291,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-413,360,480,1,173,212,137,177,1560,0.009,93291,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-414,360,480,0,158,276,106,224,13924,0.0806,93412,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-415,360,480,0,146,264,118,236,13924,0.0806,93533,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-416,360,480,0,170,288,130,248,13924,0.0806,93775,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-417,360,480,0,158,276,106,224,13924,0.0806,93896,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-418,360,480,0,203,250,105,153,2256,0.0131,94138,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-419,360,480,0,131,178,144,191,2209,0.0128,94259,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-420,360,480,1,220,277,91,148,3249,0.0188,94259,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-421,360,480,0,182,300,142,260,13924,0.0806,94501,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-422,360,480,0,182,300,130,248,13924,0.0806,94622,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-423,360,480,0,232,289,96,153,3249,0.0188,94864,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-424,360,480,1,174,221,139,186,2209,0.0128,94864,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-425,360,480,0,169,208,145,185,1560,0.009,94985,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-426,360,480,0,201,240,145,185,1560,0.009,95953,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-427,360,480,0,198,245,86,134,2256,0.0131,98373,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-428,360,480,0,205,244,93,133,1560,0.009,98978,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-429,360,480,1,285,324,141,181,1560,0.009,98978,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-430,360,480,0,229,268,101,141,1560,0.009,99220,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-431,360,480,0,231,279,81,129,2304,0.0133,99946,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-432,360,480,0,236,284,86,134,2304,0.0133,100067,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-433,360,480,0,152,251,145,244,9801,0.0567,100309,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-434,360,480,0,122,221,145,244,9801,0.0567,100430,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-435,360,480,0,172,270,115,214,9702,0.0561,100551,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-436,360,480,0,169,251,123,205,6724,0.0389,100672,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-437,360,480,0,173,212,141,181,1560,0.009,101156,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-438,360,480,0,158,276,106,224,13924,0.0806,101398,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-439,360,480,0,179,226,197,244,2209,0.0128,101761,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-440,360,480,0,159,207,197,244,2256,0.0131,101882,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-441,360,480,0,255,312,79,136,3249,0.0188,102003,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-442,360,480,1,120,188,152,221,4692,0.0272,102003,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-443,360,480,0,258,326,76,145,4692,0.0272,102124,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-444,360,480,0,209,248,85,125,1560,0.009,104302,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-445,360,480,0,213,252,89,129,1560,0.009,104544,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-446,360,480,0,193,240,110,158,2256,0.0131,104665,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-447,360,480,0,222,269,96,143,2209,0.0128,104786,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-448,360,480,0,177,259,115,197,6724,0.0389,105028,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-449,360,480,0,165,204,77,117,1560,0.009,105149,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-450,360,480,0,153,192,81,121,1560,0.009,105270,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-451,360,480,0,213,252,97,137,1560,0.009,105391,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-452,360,480,0,194,276,148,230,6724,0.0389,105512,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-453,360,480,0,162,261,105,204,9801,0.0567,105633,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-454,360,480,0,196,264,125,193,4624,0.0268,105875,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-455,360,480,1,93,132,85,125,1560,0.009,105875,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-456,360,480,0,172,270,125,224,9702,0.0561,106117,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-457,360,480,0,189,257,138,207,4692,0.0272,106238,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-458,360,480,1,97,136,89,129,1560,0.009,106238,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-459,360,480,0,142,241,135,234,9801,0.0567,106359,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-460,360,480,0,203,250,91,138,2209,0.0128,106480,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-461,360,480,0,189,228,113,153,1560,0.009,107327,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-462,360,480,0,173,212,89,129,1560,0.009,108053,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-463,360,480,0,212,260,101,148,2256,0.0131,108295,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-464,360,480,0,246,293,91,138,2209,0.0128,108416,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-465,360,480,0,212,260,105,153,2304,0.0133,108537,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-466,360,480,0,238,295,96,153,3249,0.0188,108779,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-467,360,480,0,203,250,105,153,2256,0.0131,109263,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-468,360,480,0,220,277,85,142,3249,0.0188,109384,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-469,360,480,0,198,245,110,158,2256,0.0131,109505,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-470,360,480,0,189,228,113,153,1560,0.009,110715,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-471,360,480,0,174,221,105,153,2256,0.0131,110836,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-472,360,480,0,185,224,105,145,1560,0.009,111078,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-473,360,480,0,229,268,105,145,1560,0.009,111925,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-474,360,480,0,245,284,89,129,1560,0.009,112046,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-475,360,480,0,217,264,81,129,2256,0.0131,112167,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-476,360,480,0,189,228,73,113,1560,0.009,112530,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-477,360,480,0,177,216,81,121,1560,0.009,112651,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-478,360,480,0,174,221,72,119,2209,0.0128,112772,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-479,360,480,0,181,220,93,133,1560,0.009,112893,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-480,360,480,0,201,240,77,117,1560,0.009,113014,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-481,360,480,0,217,256,113,153,1560,0.009,113135,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-482,360,480,0,185,224,93,133,1560,0.009,113377,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-483,360,480,0,249,306,96,153,3249,0.0188,113861,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-484,360,480,0,150,197,81,129,2256,0.0131,114103,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-485,360,480,1,265,304,153,193,1560,0.009,114103,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-486,360,480,0,209,266,102,159,3249,0.0188,114345,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-487,360,480,0,193,240,96,143,2209,0.0128,114708,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-488,360,480,1,245,284,141,181,1560,0.009,114708,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-489,360,480,0,203,250,105,153,2256,0.0131,114829,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-490,360,480,0,203,250,105,153,2256,0.0131,114950,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-491,360,480,0,183,231,91,138,2256,0.0131,115071,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-492,360,480,1,249,288,161,201,1560,0.009,115071,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-493,360,480,0,249,288,173,213,1560,0.009,115192,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-494,360,480,1,135,183,101,148,2256,0.0131,115192,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-495,360,480,0,155,202,101,148,2209,0.0128,115434,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-496,360,480,0,212,260,110,158,2304,0.0133,115797,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-497,360,480,0,140,188,91,138,2256,0.0131,115918,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-498,360,480,1,279,327,101,148,2256,0.0131,115918,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-499,360,480,0,261,300,109,149,1560,0.009,116281,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-500,360,480,1,169,208,101,141,1560,0.009,116281,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-501,360,480,0,269,308,109,149,1560,0.009,116402,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-502,360,480,1,169,208,101,141,1560,0.009,116402,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-503,360,480,0,265,304,109,149,1560,0.009,116523,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-504,360,480,1,164,212,96,143,2256,0.0131,116523,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-505,360,480,0,236,284,96,143,2256,0.0131,116765,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-506,360,480,0,255,303,115,162,2256,0.0131,116886,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-507,360,480,1,169,216,101,148,2209,0.0128,116886,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-508,360,480,0,157,214,102,159,3249,0.0188,117370,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-509,360,480,1,270,317,101,148,2209,0.0128,117370,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-510,360,480,0,179,226,105,153,2256,0.0131,117491,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-511,360,480,1,255,303,110,158,2304,0.0133,117491,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-512,360,480,0,169,226,108,165,3249,0.0188,117854,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-513,360,480,1,246,293,115,162,2209,0.0128,117854,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-514,360,480,0,255,303,105,153,2304,0.0133,117975,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-515,360,480,1,155,202,105,153,2256,0.0131,117975,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-516,360,480,0,182,280,135,234,9702,0.0561,118096,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-517,360,480,0,164,212,110,158,2304,0.0133,118217,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-518,360,480,1,246,293,110,158,2256,0.0131,118217,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-519,360,480,0,198,245,96,143,2209,0.0128,118459,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-520,360,480,0,185,224,101,141,1560,0.009,118580,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-521,360,480,1,257,296,101,141,1560,0.009,118580,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-522,360,480,0,180,237,125,182,3249,0.0188,118943,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-523,360,480,0,267,323,96,153,3192,0.0185,119306,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-524,360,480,1,134,191,102,159,3249,0.0188,119306,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-525,360,480,0,192,249,108,165,3249,0.0188,119548,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-526,360,480,0,238,295,96,153,3249,0.0188,119669,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-527,360,480,1,146,202,108,165,3192,0.0185,119669,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-528,360,480,0,188,236,120,167,2256,0.0131,119790,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-529,360,480,0,244,300,96,153,3192,0.0185,120153,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-530,360,480,1,146,202,102,159,3192,0.0185,120153,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-531,360,480,0,177,216,133,173,1560,0.009,120516,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-532,360,480,1,269,308,129,169,1560,0.009,120516,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-533,360,480,0,221,260,89,129,1560,0.009,120637,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-534,360,480,0,196,264,104,172,4624,0.0268,121121,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-535,360,480,0,246,293,96,143,2209,0.0128,121242,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-536,360,480,0,157,196,121,161,1560,0.009,121968,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-537,360,480,0,145,184,85,125,1560,0.009,122210,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-538,360,480,0,197,236,93,133,1560,0.009,122452,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-539,360,480,0,181,220,77,117,1560,0.009,122573,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-540,360,480,0,177,216,81,121,1560,0.009,122694,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-541,360,480,0,207,255,57,105,2304,0.0133,123057,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-542,360,480,0,145,184,93,133,1560,0.009,123178,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-543,360,480,0,185,224,89,129,1560,0.009,123541,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-544,360,480,0,173,212,97,137,1560,0.009,123783,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-545,360,480,1,289,336,115,162,2209,0.0128,123783,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-546,360,480,0,229,268,97,137,1560,0.009,124146,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-547,360,480,0,249,288,137,177,1560,0.009,125477,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-548,360,480,1,145,192,96,143,2209,0.0128,125477,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-549,360,480,0,203,260,96,153,3249,0.0188,125598,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-550,360,480,0,182,300,130,248,13924,0.0806,126203,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-551,360,480,0,197,236,89,129,1560,0.009,126324,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-552,360,480,0,221,260,85,125,1560,0.009,126445,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-553,360,480,0,209,266,114,171,3249,0.0188,126566,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-554,360,480,1,177,216,165,205,1560,0.009,126566,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
-555,360,480,0,209,266,79,136,3249,0.0188,126929,/home/amos/server/media/movies/Mantrap (1926)/Mantrap (1926).mp4
+,img_height,img_width,face_num,x1,x2,y1,y2,area,pct_of_frame,frame_num,imdb_id
+0,360,480,0,177,259,115,197,6724,0.0389,2057,17119
+1,360,480,0,169,251,131,213,6724,0.0389,2420,17119
+2,360,480,0,224,292,97,165,4624,0.0268,3267,17119
+3,360,480,0,226,283,73,130,3249,0.0188,3509,17119
+4,360,480,0,182,250,118,186,4624,0.0268,3630,17119
+5,360,480,0,186,268,106,188,6724,0.0389,3751,17119
+6,360,480,0,198,245,67,114,2209,0.0128,3872,17119
+7,360,480,1,53,110,154,211,3249,0.0188,3872,17119
+8,360,480,2,351,399,134,182,2304,0.0133,3872,17119
+9,360,480,3,295,352,229,286,3249,0.0188,3872,17119
+10,360,480,4,76,133,39,96,3249,0.0188,3872,17119
+11,360,480,5,140,197,143,199,3192,0.0185,3872,17119
+12,360,480,6,174,231,200,257,3249,0.0188,3872,17119
+13,360,480,7,324,381,62,119,3249,0.0188,3872,17119
+14,360,480,8,111,168,235,292,3249,0.0188,3872,17119
+15,360,480,0,290,346,223,280,3192,0.0185,3993,17119
+16,360,480,1,174,231,200,257,3249,0.0188,3993,17119
+17,360,480,2,186,243,56,113,3249,0.0188,3993,17119
+18,360,480,3,121,168,240,287,2209,0.0128,3993,17119
+19,360,480,4,48,105,160,217,3249,0.0188,3993,17119
+20,360,480,5,324,381,137,194,3249,0.0188,3993,17119
+21,360,480,6,76,133,39,96,3249,0.0188,3993,17119
+22,360,480,7,318,375,68,125,3249,0.0188,3993,17119
+23,360,480,8,255,312,79,136,3249,0.0188,3993,17119
+24,360,480,0,203,271,111,179,4624,0.0268,4235,17119
+25,360,480,0,244,326,98,180,6724,0.0389,4356,17119
+26,360,480,0,209,248,97,137,1560,0.009,4961,17119
+27,360,480,0,201,240,101,141,1560,0.009,5082,17119
+28,360,480,0,145,184,129,169,1560,0.009,5929,17119
+29,360,480,0,177,259,90,172,6724,0.0389,6050,17119
+30,360,480,0,186,268,98,180,6724,0.0389,6413,17119
+31,360,480,0,309,348,53,93,1560,0.009,7260,17119
+32,360,480,1,173,212,85,125,1560,0.009,7260,17119
+33,360,480,0,249,288,57,97,1560,0.009,7381,17119
+34,360,480,1,157,196,81,121,1560,0.009,7381,17119
+35,360,480,0,341,380,57,97,1560,0.009,7502,17119
+36,360,480,0,172,270,86,184,9604,0.0556,8470,17119
+37,360,480,0,194,276,106,188,6724,0.0389,8591,17119
+38,360,480,0,265,304,93,133,1560,0.009,8712,17119
+39,360,480,0,252,334,106,188,6724,0.0389,9075,17119
+40,360,480,0,186,268,115,197,6724,0.0389,9559,17119
+41,360,480,0,233,272,101,141,1560,0.009,9680,17119
+42,360,480,0,229,268,65,105,1560,0.009,10285,17119
+43,360,480,0,169,208,77,117,1560,0.009,10406,17119
+44,360,480,0,215,272,119,176,3249,0.0188,11132,17119
+45,360,480,0,203,260,119,176,3249,0.0188,11253,17119
+46,360,480,0,125,164,101,141,1560,0.009,11374,17119
+47,360,480,0,212,260,144,191,2256,0.0131,11495,17119
+48,360,480,0,192,249,137,194,3249,0.0188,11737,17119
+49,360,480,0,209,266,119,176,3249,0.0188,11858,17119
+50,360,480,0,203,250,91,138,2209,0.0128,12221,17119
+51,360,480,0,203,250,77,124,2209,0.0128,12342,17119
+52,360,480,0,210,278,104,172,4624,0.0268,14036,17119
+53,360,480,0,192,249,91,148,3249,0.0188,14399,17119
+54,360,480,0,225,264,101,141,1560,0.009,14762,17119
+55,360,480,0,188,236,86,134,2304,0.0133,15004,17119
+56,360,480,0,225,264,105,145,1560,0.009,15125,17119
+57,360,480,0,232,289,91,148,3249,0.0188,15246,17119
+58,360,480,1,151,208,96,153,3249,0.0188,15246,17119
+59,360,480,0,220,277,91,148,3249,0.0188,15367,17119
+60,360,480,1,174,221,125,172,2209,0.0128,15367,17119
+61,360,480,0,179,226,105,153,2256,0.0131,15488,17119
+62,360,480,1,279,327,96,143,2256,0.0131,15488,17119
+63,360,480,0,303,351,105,153,2304,0.0133,15609,17119
+64,360,480,1,159,207,105,153,2304,0.0133,15609,17119
+65,360,480,0,261,318,96,153,3249,0.0188,15851,17119
+66,360,480,1,140,197,79,136,3249,0.0188,15851,17119
+67,360,480,0,169,208,69,109,1560,0.009,15972,17119
+68,360,480,0,221,260,109,149,1560,0.009,16819,17119
+69,360,480,0,197,236,93,133,1560,0.009,16940,17119
+70,360,480,1,277,316,85,125,1560,0.009,16940,17119
+71,360,480,0,172,270,105,204,9702,0.0561,17303,17119
+72,360,480,0,152,251,125,224,9801,0.0567,17424,17119
+73,360,480,0,261,300,121,161,1560,0.009,18634,17119
+74,360,480,0,201,240,77,117,1560,0.009,20086,17119
+75,360,480,0,186,268,131,213,6724,0.0389,20449,17119
+76,360,480,0,129,168,113,153,1560,0.009,20812,17119
+77,360,480,0,318,400,123,205,6724,0.0389,20933,17119
+78,360,480,0,137,176,81,121,1560,0.009,21538,17119
+79,360,480,0,249,288,77,117,1560,0.009,21659,17119
+80,360,480,0,249,288,81,121,1560,0.009,22627,17119
+81,360,480,1,149,188,109,149,1560,0.009,22627,17119
+82,360,480,0,261,300,85,125,1560,0.009,22748,17119
+83,360,480,1,137,176,113,153,1560,0.009,22748,17119
+84,360,480,0,233,272,85,125,1560,0.009,22869,17119
+85,360,480,0,229,268,89,129,1560,0.009,24079,17119
+86,360,480,1,389,428,113,153,1560,0.009,24079,17119
+87,360,480,0,361,400,113,153,1560,0.009,24442,17119
+88,360,480,0,153,192,85,125,1560,0.009,24684,17119
+89,360,480,0,173,212,81,121,1560,0.009,24805,17119
+90,360,480,0,249,306,160,217,3249,0.0188,25531,17119
+91,360,480,1,174,221,101,148,2209,0.0128,25531,17119
+92,360,480,0,244,312,145,214,4692,0.0272,25652,17119
+93,360,480,1,203,260,96,153,3249,0.0188,25652,17119
+94,360,480,0,251,319,152,221,4692,0.0272,25894,17119
+95,360,480,1,174,221,96,143,2209,0.0128,25894,17119
+96,360,480,0,255,312,160,217,3249,0.0188,26015,17119
+97,360,480,1,163,220,102,159,3249,0.0188,26015,17119
+98,360,480,0,309,348,113,153,1560,0.009,26136,17119
+99,360,480,0,137,176,73,113,1560,0.009,26257,17119
+100,360,480,1,222,269,115,162,2209,0.0128,26257,17119
+101,360,480,0,132,231,155,254,9801,0.0567,26620,17119
+102,360,480,0,172,270,135,234,9702,0.0561,26862,17119
+103,360,480,0,297,336,81,121,1560,0.009,26983,17119
+104,360,480,1,318,365,125,172,2209,0.0128,26983,17119
+105,360,480,2,153,192,105,145,1560,0.009,26983,17119
+106,360,480,0,308,356,125,172,2256,0.0131,27225,17119
+107,360,480,1,241,280,97,137,1560,0.009,27225,17119
+108,360,480,0,182,280,105,204,9702,0.0561,27346,17119
+109,360,480,0,353,392,69,109,1560,0.009,27467,17119
+110,360,480,1,294,341,125,172,2209,0.0128,27467,17119
+111,360,480,0,275,322,125,172,2209,0.0128,27588,17119
+112,360,480,0,275,322,129,177,2256,0.0131,27709,17119
+113,360,480,0,255,303,105,153,2304,0.0133,27830,17119
+114,360,480,0,303,351,91,138,2256,0.0131,27951,17119
+115,360,480,1,149,188,129,169,1560,0.009,27951,17119
+116,360,480,0,172,270,115,214,9702,0.0561,28193,17119
+117,360,480,0,329,368,97,137,1560,0.009,28314,17119
+118,360,480,1,129,168,133,173,1560,0.009,28314,17119
+119,360,480,0,182,280,135,234,9702,0.0561,28556,17119
+120,360,480,0,192,290,105,204,9702,0.0561,28677,17119
+121,360,480,0,345,384,97,137,1560,0.009,28919,17119
+122,360,480,1,265,312,153,201,2256,0.0131,28919,17119
+123,360,480,0,150,197,101,148,2209,0.0128,30371,17119
+124,360,480,1,284,332,101,148,2256,0.0131,30371,17119
+125,360,480,0,140,188,91,138,2256,0.0131,30492,17119
+126,360,480,0,202,284,115,197,6724,0.0389,30613,17119
+127,360,480,0,211,292,106,188,6642,0.0384,30734,17119
+128,360,480,0,203,271,125,193,4624,0.0268,30855,17119
+129,360,480,0,194,276,115,197,6724,0.0389,30976,17119
+130,360,480,0,189,257,125,193,4624,0.0268,31218,17119
+131,360,480,0,177,259,140,221,6642,0.0384,31339,17119
+132,360,480,0,196,264,138,207,4692,0.0272,31460,17119
+133,360,480,0,202,284,98,180,6724,0.0389,31581,17119
+134,360,480,0,219,301,106,188,6724,0.0389,31823,17119
+135,360,480,0,230,299,125,193,4692,0.0272,31944,17119
+136,360,480,0,227,309,115,197,6724,0.0389,32186,17119
+137,360,480,0,230,299,132,200,4692,0.0272,32307,17119
+138,360,480,0,211,292,123,205,6642,0.0384,32549,17119
+139,360,480,0,224,292,132,200,4624,0.0268,32670,17119
+140,360,480,0,135,183,96,143,2256,0.0131,32791,17119
+141,360,480,0,207,255,101,148,2256,0.0131,33275,17119
+142,360,480,0,207,255,86,134,2304,0.0133,33396,17119
+143,360,480,0,226,283,102,159,3249,0.0188,34606,17119
+144,360,480,0,321,360,113,153,1560,0.009,35090,17119
+145,360,480,0,203,260,114,171,3249,0.0188,35574,17119
+146,360,480,0,203,250,101,148,2209,0.0128,35695,17119
+147,360,480,0,221,260,109,149,1560,0.009,36058,17119
+148,360,480,0,227,274,72,119,2209,0.0128,36179,17119
+149,360,480,0,233,272,101,141,1560,0.009,36300,17119
+150,360,480,0,257,296,97,137,1560,0.009,36663,17119
+151,360,480,0,277,316,97,137,1560,0.009,37026,17119
+152,360,480,0,253,292,113,153,1560,0.009,38478,17119
+153,360,480,1,174,221,91,138,2209,0.0128,38478,17119
+154,360,480,0,182,280,96,194,9604,0.0556,38720,17119
+155,360,480,0,211,292,131,213,6642,0.0384,38841,17119
+156,360,480,0,277,316,105,145,1560,0.009,38962,17119
+157,360,480,0,257,296,105,145,1560,0.009,39204,17119
+158,360,480,1,140,188,91,138,2256,0.0131,39204,17119
+159,360,480,0,245,284,105,145,1560,0.009,39325,17119
+160,360,480,1,161,200,97,137,1560,0.009,39325,17119
+161,360,480,0,249,288,105,145,1560,0.009,39567,17119
+162,360,480,1,173,212,97,137,1560,0.009,39567,17119
+163,360,480,0,265,312,105,153,2256,0.0131,39688,17119
+164,360,480,1,131,178,139,186,2209,0.0128,39688,17119
+165,360,480,0,165,204,117,157,1560,0.009,39809,17119
+166,360,480,0,173,212,117,157,1560,0.009,40172,17119
+167,360,480,0,180,237,148,205,3249,0.0188,41382,17119
+168,360,480,0,202,284,140,221,6642,0.0384,41503,17119
+169,360,480,0,273,312,101,141,1560,0.009,42108,17119
+170,360,480,1,137,176,105,145,1560,0.009,42108,17119
+171,360,480,0,203,250,110,158,2256,0.0131,42471,17119
+172,360,480,0,157,196,93,133,1560,0.009,42955,17119
+173,360,480,1,285,324,93,133,1560,0.009,42955,17119
+174,360,480,0,249,288,85,125,1560,0.009,44044,17119
+175,360,480,0,213,252,89,129,1560,0.009,44286,17119
+176,360,480,0,210,278,111,179,4624,0.0268,44528,17119
+177,360,480,0,203,271,111,179,4624,0.0268,44649,17119
+178,360,480,0,175,243,111,179,4624,0.0268,44891,17119
+179,360,480,0,201,240,97,137,1560,0.009,45012,17119
+180,360,480,0,201,240,93,133,1560,0.009,45133,17119
+181,360,480,0,237,276,89,129,1560,0.009,45617,17119
+182,360,480,0,185,224,89,129,1560,0.009,45738,17119
+183,360,480,0,201,240,85,125,1560,0.009,45859,17119
+184,360,480,0,260,308,120,167,2256,0.0131,45980,17119
+185,360,480,0,169,251,131,213,6724,0.0389,46343,17119
+186,360,480,0,265,304,125,165,1560,0.009,46585,17119
+187,360,480,0,161,230,104,172,4692,0.0272,46706,17119
+188,360,480,0,217,256,101,141,1560,0.009,47069,17119
+189,360,480,0,293,332,141,181,1560,0.009,47190,17119
+190,360,480,0,281,320,149,189,1560,0.009,47311,17119
+191,360,480,0,225,264,89,129,1560,0.009,47553,17119
+192,360,480,0,227,274,86,134,2256,0.0131,47674,17119
+193,360,480,0,201,240,89,129,1560,0.009,47916,17119
+194,360,480,1,245,284,133,173,1560,0.009,47916,17119
+195,360,480,0,227,274,96,143,2209,0.0128,48158,17119
+196,360,480,0,186,268,98,180,6724,0.0389,49005,17119
+197,360,480,0,182,250,145,214,4692,0.0272,49126,17119
+198,360,480,0,290,346,131,188,3192,0.0185,49247,17119
+199,360,480,1,157,214,119,176,3249,0.0188,49247,17119
+200,360,480,0,324,381,137,194,3249,0.0188,49368,17119
+201,360,480,1,159,207,134,182,2304,0.0133,49368,17119
+202,360,480,0,209,248,85,125,1560,0.009,49489,17119
+203,360,480,0,217,264,101,148,2209,0.0128,49852,17119
+204,360,480,0,229,268,101,141,1560,0.009,49973,17119
+205,360,480,0,217,256,93,133,1560,0.009,50094,17119
+206,360,480,0,111,168,125,182,3249,0.0188,50215,17119
+207,360,480,1,241,288,96,143,2209,0.0128,50215,17119
+208,360,480,0,174,221,125,172,2209,0.0128,50336,17119
+209,360,480,1,275,322,101,148,2209,0.0128,50336,17119
+210,360,480,0,174,221,129,177,2256,0.0131,50457,17119
+211,360,480,1,275,322,101,148,2209,0.0128,50457,17119
+212,360,480,0,174,221,125,172,2209,0.0128,50578,17119
+213,360,480,1,278,335,85,142,3249,0.0188,50578,17119
+214,360,480,0,201,240,93,133,1560,0.009,50699,17119
+215,360,480,0,235,317,123,205,6724,0.0389,50820,17119
+216,360,480,0,189,257,132,200,4624,0.0268,50941,17119
+217,360,480,0,197,236,81,121,1560,0.009,51304,17119
+218,360,480,0,189,228,85,125,1560,0.009,51425,17119
+219,360,480,0,177,216,85,125,1560,0.009,51546,17119
+220,360,480,0,289,336,77,124,2209,0.0128,52030,17119
+221,360,480,1,164,212,101,148,2256,0.0131,52030,17119
+222,360,480,0,153,192,149,189,1560,0.009,52151,17119
+223,360,480,0,181,220,113,153,1560,0.009,52272,17119
+224,360,480,1,260,308,91,138,2256,0.0131,52272,17119
+225,360,480,0,269,308,97,137,1560,0.009,52393,17119
+226,360,480,1,131,178,125,172,2209,0.0128,52393,17119
+227,360,480,0,161,200,81,121,1560,0.009,52514,17119
+228,360,480,1,201,240,93,133,1560,0.009,52514,17119
+229,360,480,0,221,260,97,137,1560,0.009,52635,17119
+230,360,480,0,174,221,105,153,2256,0.0131,52756,17119
+231,360,480,1,260,308,96,143,2256,0.0131,52756,17119
+232,360,480,0,261,300,213,253,1560,0.009,52877,17119
+233,360,480,1,205,244,73,113,1560,0.009,52877,17119
+234,360,480,0,356,404,216,263,2256,0.0131,52998,17119
+235,360,480,1,236,284,216,263,2256,0.0131,52998,17119
+236,360,480,0,269,308,213,253,1560,0.009,53119,17119
+237,360,480,0,249,306,91,148,3249,0.0188,53240,17119
+238,360,480,1,100,156,96,153,3192,0.0185,53240,17119
+239,360,480,0,169,216,96,143,2209,0.0128,53361,17119
+240,360,480,0,245,284,93,133,1560,0.009,53482,17119
+241,360,480,0,193,232,165,205,1560,0.009,53603,17119
+242,360,480,1,265,304,177,217,1560,0.009,53603,17119
+243,360,480,0,265,304,177,217,1560,0.009,53724,17119
+244,360,480,1,329,368,169,209,1560,0.009,53724,17119
+245,360,480,0,189,228,121,161,1560,0.009,53966,17119
+246,360,480,0,177,216,85,125,1560,0.009,55055,17119
+247,360,480,1,245,284,101,141,1560,0.009,55055,17119
+248,360,480,0,209,248,113,153,1560,0.009,55176,17119
+249,360,480,0,293,332,97,137,1560,0.009,55539,17119
+250,360,480,1,135,183,105,153,2304,0.0133,55539,17119
+251,360,480,0,273,312,101,141,1560,0.009,56023,17119
+252,360,480,1,131,178,105,153,2256,0.0131,56023,17119
+253,360,480,0,202,284,140,221,6642,0.0384,56386,17119
+254,360,480,0,109,148,157,197,1560,0.009,56749,17119
+255,360,480,0,194,276,106,188,6724,0.0389,57112,17119
+256,360,480,0,189,257,138,207,4692,0.0272,57233,17119
+257,360,480,0,211,292,106,188,6642,0.0384,57838,17119
+258,360,480,0,154,223,90,158,4692,0.0272,57959,17119
+259,360,480,1,116,164,158,206,2304,0.0133,57959,17119
+260,360,480,0,193,240,105,153,2256,0.0131,58443,17119
+261,360,480,0,201,240,125,165,1560,0.009,59411,17119
+262,360,480,0,229,268,101,141,1560,0.009,60137,17119
+263,360,480,1,285,324,109,149,1560,0.009,60137,17119
+264,360,480,0,269,308,97,137,1560,0.009,60500,17119
+265,360,480,1,205,244,89,129,1560,0.009,60500,17119
+266,360,480,0,285,324,89,129,1560,0.009,60621,17119
+267,360,480,1,213,252,97,137,1560,0.009,60621,17119
+268,360,480,0,205,244,93,133,1560,0.009,60863,17119
+269,360,480,1,281,320,101,141,1560,0.009,60863,17119
+270,360,480,0,257,296,105,145,1560,0.009,60984,17119
+271,360,480,0,265,304,93,133,1560,0.009,61105,17119
+272,360,480,0,241,280,105,145,1560,0.009,61468,17119
+273,360,480,0,217,256,133,173,1560,0.009,61589,17119
+274,360,480,0,227,274,110,158,2256,0.0131,61831,17119
+275,360,480,0,230,299,118,186,4692,0.0272,62073,17119
+276,360,480,0,196,264,125,193,4624,0.0268,62315,17119
+277,360,480,0,251,298,81,129,2256,0.0131,63283,17119
+278,360,480,1,157,196,101,141,1560,0.009,63283,17119
+279,360,480,0,255,303,105,153,2304,0.0133,63525,17119
+280,360,480,1,181,220,109,149,1560,0.009,63525,17119
+281,360,480,0,253,292,101,141,1560,0.009,63646,17119
+282,360,480,1,189,228,109,149,1560,0.009,63646,17119
+283,360,480,0,241,288,91,138,2209,0.0128,63767,17119
+284,360,480,1,189,228,105,145,1560,0.009,63767,17119
+285,360,480,0,289,336,105,153,2256,0.0131,63888,17119
+286,360,480,1,197,236,105,145,1560,0.009,63888,17119
+287,360,480,0,217,285,111,179,4624,0.0268,64372,17119
+288,360,480,1,140,197,125,182,3249,0.0188,64372,17119
+289,360,480,0,172,270,135,234,9702,0.0561,64493,17119
+290,360,480,0,172,270,135,234,9702,0.0561,64735,17119
+291,360,480,0,202,300,145,244,9702,0.0561,64856,17119
+292,360,480,0,172,270,155,254,9702,0.0561,64977,17119
+293,360,480,0,186,268,148,230,6724,0.0389,65098,17119
+294,360,480,0,182,280,145,244,9702,0.0561,65219,17119
+295,360,480,0,182,280,145,244,9702,0.0561,65340,17119
+296,360,480,0,182,280,135,234,9702,0.0561,65461,17119
+297,360,480,0,182,280,135,234,9702,0.0561,65582,17119
+298,360,480,0,172,270,145,244,9702,0.0561,65703,17119
+299,360,480,0,172,270,155,254,9702,0.0561,65824,17119
+300,360,480,0,202,300,125,224,9702,0.0561,66187,17119
+301,360,480,0,279,347,111,179,4624,0.0268,66308,17119
+302,360,480,1,151,208,119,176,3249,0.0188,66308,17119
+303,360,480,0,265,333,104,172,4624,0.0268,66429,17119
+304,360,480,1,197,254,125,182,3249,0.0188,66429,17119
+305,360,480,0,231,279,149,196,2256,0.0131,66671,17119
+306,360,480,1,265,333,90,158,4624,0.0268,66671,17119
+307,360,480,0,251,319,90,158,4624,0.0268,66792,17119
+308,360,480,1,238,295,148,205,3249,0.0188,66792,17119
+309,360,480,0,258,326,90,158,4624,0.0268,66913,17119
+310,360,480,1,244,300,160,217,3192,0.0185,66913,17119
+311,360,480,0,217,256,105,145,1560,0.009,67881,17119
+312,360,480,0,157,196,65,105,1560,0.009,68002,17119
+313,360,480,0,232,289,102,159,3249,0.0188,68244,17119
+314,360,480,0,182,280,125,224,9702,0.0561,68607,17119
+315,360,480,0,163,220,148,205,3249,0.0188,69091,17119
+316,360,480,1,237,306,132,200,4692,0.0272,69091,17119
+317,360,480,0,237,306,125,193,4692,0.0272,69212,17119
+318,360,480,0,180,237,154,211,3249,0.0188,69333,17119
+319,360,480,1,237,306,125,193,4692,0.0272,69333,17119
+320,360,480,0,197,236,89,129,1560,0.009,69454,17119
+321,360,480,0,162,261,125,224,9801,0.0567,69696,17119
+322,360,480,0,162,261,145,244,9801,0.0567,69817,17119
+323,360,480,0,123,179,148,205,3192,0.0185,69938,17119
+324,360,480,1,251,319,104,172,4624,0.0268,69938,17119
+325,360,480,0,165,204,109,149,1560,0.009,70180,17119
+326,360,480,0,169,251,115,197,6724,0.0389,70422,17119
+327,360,480,0,142,241,115,214,9801,0.0567,70664,17119
+328,360,480,0,182,280,115,214,9702,0.0561,70785,17119
+329,360,480,0,162,261,125,224,9801,0.0567,70906,17119
+330,360,480,0,182,300,94,212,13924,0.0806,71148,17119
+331,360,480,0,172,270,105,204,9702,0.0561,71390,17119
+332,360,480,0,222,269,91,138,2209,0.0128,71874,17119
+333,360,480,0,212,260,91,138,2256,0.0131,72116,17119
+334,360,480,0,222,269,105,153,2256,0.0131,72237,17119
+335,360,480,0,193,240,110,158,2256,0.0131,72358,17119
+336,360,480,0,203,260,102,159,3249,0.0188,72479,17119
+337,360,480,0,203,250,105,153,2256,0.0131,72721,17119
+338,360,480,0,217,264,86,134,2256,0.0131,72842,17119
+339,360,480,0,222,269,86,134,2256,0.0131,72963,17119
+340,360,480,0,193,232,129,169,1560,0.009,73447,17119
+341,360,480,0,189,228,89,129,1560,0.009,73568,17119
+342,360,480,1,275,322,91,138,2209,0.0128,73568,17119
+343,360,480,0,193,232,137,177,1560,0.009,73689,17119
+344,360,480,1,117,156,85,125,1560,0.009,73689,17119
+345,360,480,0,179,226,91,138,2209,0.0128,74173,17119
+346,360,480,1,270,317,105,153,2256,0.0131,74173,17119
+347,360,480,2,117,156,117,157,1560,0.009,74173,17119
+348,360,480,0,253,292,73,113,1560,0.009,74415,17119
+349,360,480,1,155,202,86,134,2256,0.0131,74415,17119
+350,360,480,0,211,292,123,205,6642,0.0384,74657,17119
+351,360,480,0,245,284,89,129,1560,0.009,74778,17119
+352,360,480,1,141,180,93,133,1560,0.009,74778,17119
+353,360,480,0,217,256,93,133,1560,0.009,74899,17119
+354,360,480,1,165,204,101,141,1560,0.009,74899,17119
+355,360,480,0,155,202,96,143,2209,0.0128,75141,17119
+356,360,480,1,217,256,97,137,1560,0.009,75141,17119
+357,360,480,0,209,248,97,137,1560,0.009,75383,17119
+358,360,480,0,236,284,72,119,2256,0.0131,75988,17119
+359,360,480,0,169,208,73,113,1560,0.009,77319,17119
+360,360,480,0,210,278,97,165,4624,0.0268,77440,17119
+361,360,480,0,186,268,115,197,6724,0.0389,77561,17119
+362,360,480,0,196,264,111,179,4624,0.0268,77682,17119
+363,360,480,0,182,280,125,224,9702,0.0561,78771,17119
+364,360,480,0,224,292,97,165,4624,0.0268,78892,17119
+365,360,480,0,203,250,86,134,2256,0.0131,79860,17119
+366,360,480,0,185,224,61,101,1560,0.009,80102,17119
+367,360,480,0,194,276,115,197,6724,0.0389,80465,17119
+368,360,480,0,241,280,141,181,1560,0.009,80949,17119
+369,360,480,1,155,202,101,148,2209,0.0128,80949,17119
+370,360,480,0,245,284,133,173,1560,0.009,81191,17119
+371,360,480,1,185,224,97,137,1560,0.009,81191,17119
+372,360,480,0,253,292,149,189,1560,0.009,81312,17119
+373,360,480,0,177,259,115,197,6724,0.0389,81554,17119
+374,360,480,0,186,268,131,213,6724,0.0389,81675,17119
+375,360,480,0,169,216,96,143,2209,0.0128,81796,17119
+376,360,480,1,249,288,137,177,1560,0.009,81796,17119
+377,360,480,0,164,212,91,138,2256,0.0131,81917,17119
+378,360,480,1,245,284,133,173,1560,0.009,81917,17119
+379,360,480,0,309,348,85,125,1560,0.009,83369,17119
+380,360,480,0,177,216,97,137,1560,0.009,83490,17119
+381,360,480,0,219,301,115,197,6724,0.0389,83732,17119
+382,360,480,0,205,244,93,133,1560,0.009,84095,17119
+383,360,480,0,221,260,97,137,1560,0.009,84337,17119
+384,360,480,0,225,264,93,133,1560,0.009,84458,17119
+385,360,480,0,169,251,73,155,6724,0.0389,86878,17119
+386,360,480,0,168,236,76,145,4692,0.0272,87604,17119
+387,360,480,0,217,285,111,179,4624,0.0268,87846,17119
+388,360,480,0,205,244,89,129,1560,0.009,88451,17119
+389,360,480,0,213,252,93,133,1560,0.009,88572,17119
+390,360,480,0,217,256,93,133,1560,0.009,88693,17119
+391,360,480,0,212,260,81,129,2304,0.0133,88814,17119
+392,360,480,0,231,279,86,134,2304,0.0133,89298,17119
+393,360,480,0,212,260,91,138,2256,0.0131,89540,17119
+394,360,480,0,241,280,109,149,1560,0.009,89661,17119
+395,360,480,0,186,243,96,153,3249,0.0188,89903,17119
+396,360,480,0,180,237,96,153,3249,0.0188,90145,17119
+397,360,480,0,192,249,102,159,3249,0.0188,90387,17119
+398,360,480,0,183,231,96,143,2256,0.0131,90508,17119
+399,360,480,0,210,278,104,172,4624,0.0268,90629,17119
+400,360,480,0,203,250,105,153,2256,0.0131,90750,17119
+401,360,480,0,210,278,125,193,4624,0.0268,90871,17119
+402,360,480,0,203,250,101,148,2209,0.0128,91234,17119
+403,360,480,0,186,243,108,165,3249,0.0188,91597,17119
+404,360,480,0,209,266,96,153,3249,0.0188,91839,17119
+405,360,480,0,215,272,96,153,3249,0.0188,91960,17119
+406,360,480,0,285,324,169,209,1560,0.009,92202,17119
+407,360,480,0,192,290,115,214,9702,0.0561,92444,17119
+408,360,480,0,212,260,91,138,2256,0.0131,93049,17119
+409,360,480,1,145,192,134,182,2256,0.0131,93049,17119
+410,360,480,0,227,274,91,138,2209,0.0128,93170,17119
+411,360,480,1,161,200,141,181,1560,0.009,93170,17119
+412,360,480,0,236,284,91,138,2256,0.0131,93291,17119
+413,360,480,1,173,212,137,177,1560,0.009,93291,17119
+414,360,480,0,158,276,106,224,13924,0.0806,93412,17119
+415,360,480,0,146,264,118,236,13924,0.0806,93533,17119
+416,360,480,0,170,288,130,248,13924,0.0806,93775,17119
+417,360,480,0,158,276,106,224,13924,0.0806,93896,17119
+418,360,480,0,203,250,105,153,2256,0.0131,94138,17119
+419,360,480,0,131,178,144,191,2209,0.0128,94259,17119
+420,360,480,1,220,277,91,148,3249,0.0188,94259,17119
+421,360,480,0,182,300,142,260,13924,0.0806,94501,17119
+422,360,480,0,182,300,130,248,13924,0.0806,94622,17119
+423,360,480,0,232,289,96,153,3249,0.0188,94864,17119
+424,360,480,1,174,221,139,186,2209,0.0128,94864,17119
+425,360,480,0,169,208,145,185,1560,0.009,94985,17119
+426,360,480,0,201,240,145,185,1560,0.009,95953,17119
+427,360,480,0,198,245,86,134,2256,0.0131,98373,17119
+428,360,480,0,205,244,93,133,1560,0.009,98978,17119
+429,360,480,1,285,324,141,181,1560,0.009,98978,17119
+430,360,480,0,229,268,101,141,1560,0.009,99220,17119
+431,360,480,0,231,279,81,129,2304,0.0133,99946,17119
+432,360,480,0,236,284,86,134,2304,0.0133,100067,17119
+433,360,480,0,152,251,145,244,9801,0.0567,100309,17119
+434,360,480,0,122,221,145,244,9801,0.0567,100430,17119
+435,360,480,0,172,270,115,214,9702,0.0561,100551,17119
+436,360,480,0,169,251,123,205,6724,0.0389,100672,17119
+437,360,480,0,173,212,141,181,1560,0.009,101156,17119
+438,360,480,0,158,276,106,224,13924,0.0806,101398,17119
+439,360,480,0,179,226,197,244,2209,0.0128,101761,17119
+440,360,480,0,159,207,197,244,2256,0.0131,101882,17119
+441,360,480,0,255,312,79,136,3249,0.0188,102003,17119
+442,360,480,1,120,188,152,221,4692,0.0272,102003,17119
+443,360,480,0,258,326,76,145,4692,0.0272,102124,17119
+444,360,480,0,209,248,85,125,1560,0.009,104302,17119
+445,360,480,0,213,252,89,129,1560,0.009,104544,17119
+446,360,480,0,193,240,110,158,2256,0.0131,104665,17119
+447,360,480,0,222,269,96,143,2209,0.0128,104786,17119
+448,360,480,0,177,259,115,197,6724,0.0389,105028,17119
+449,360,480,0,165,204,77,117,1560,0.009,105149,17119
+450,360,480,0,153,192,81,121,1560,0.009,105270,17119
+451,360,480,0,213,252,97,137,1560,0.009,105391,17119
+452,360,480,0,194,276,148,230,6724,0.0389,105512,17119
+453,360,480,0,162,261,105,204,9801,0.0567,105633,17119
+454,360,480,0,196,264,125,193,4624,0.0268,105875,17119
+455,360,480,1,93,132,85,125,1560,0.009,105875,17119
+456,360,480,0,172,270,125,224,9702,0.0561,106117,17119
+457,360,480,0,189,257,138,207,4692,0.0272,106238,17119
+458,360,480,1,97,136,89,129,1560,0.009,106238,17119
+459,360,480,0,142,241,135,234,9801,0.0567,106359,17119
+460,360,480,0,203,250,91,138,2209,0.0128,106480,17119
+461,360,480,0,189,228,113,153,1560,0.009,107327,17119
+462,360,480,0,173,212,89,129,1560,0.009,108053,17119
+463,360,480,0,212,260,101,148,2256,0.0131,108295,17119
+464,360,480,0,246,293,91,138,2209,0.0128,108416,17119
+465,360,480,0,212,260,105,153,2304,0.0133,108537,17119
+466,360,480,0,238,295,96,153,3249,0.0188,108779,17119
+467,360,480,0,203,250,105,153,2256,0.0131,109263,17119
+468,360,480,0,220,277,85,142,3249,0.0188,109384,17119
+469,360,480,0,198,245,110,158,2256,0.0131,109505,17119
+470,360,480,0,189,228,113,153,1560,0.009,110715,17119
+471,360,480,0,174,221,105,153,2256,0.0131,110836,17119
+472,360,480,0,185,224,105,145,1560,0.009,111078,17119
+473,360,480,0,229,268,105,145,1560,0.009,111925,17119
+474,360,480,0,245,284,89,129,1560,0.009,112046,17119
+475,360,480,0,217,264,81,129,2256,0.0131,112167,17119
+476,360,480,0,189,228,73,113,1560,0.009,112530,17119
+477,360,480,0,177,216,81,121,1560,0.009,112651,17119
+478,360,480,0,174,221,72,119,2209,0.0128,112772,17119
+479,360,480,0,181,220,93,133,1560,0.009,112893,17119
+480,360,480,0,201,240,77,117,1560,0.009,113014,17119
+481,360,480,0,217,256,113,153,1560,0.009,113135,17119
+482,360,480,0,185,224,93,133,1560,0.009,113377,17119
+483,360,480,0,249,306,96,153,3249,0.0188,113861,17119
+484,360,480,0,150,197,81,129,2256,0.0131,114103,17119
+485,360,480,1,265,304,153,193,1560,0.009,114103,17119
+486,360,480,0,209,266,102,159,3249,0.0188,114345,17119
+487,360,480,0,193,240,96,143,2209,0.0128,114708,17119
+488,360,480,1,245,284,141,181,1560,0.009,114708,17119
+489,360,480,0,203,250,105,153,2256,0.0131,114829,17119
+490,360,480,0,203,250,105,153,2256,0.0131,114950,17119
+491,360,480,0,183,231,91,138,2256,0.0131,115071,17119
+492,360,480,1,249,288,161,201,1560,0.009,115071,17119
+493,360,480,0,249,288,173,213,1560,0.009,115192,17119
+494,360,480,1,135,183,101,148,2256,0.0131,115192,17119
+495,360,480,0,155,202,101,148,2209,0.0128,115434,17119
+496,360,480,0,212,260,110,158,2304,0.0133,115797,17119
+497,360,480,0,140,188,91,138,2256,0.0131,115918,17119
+498,360,480,1,279,327,101,148,2256,0.0131,115918,17119
+499,360,480,0,261,300,109,149,1560,0.009,116281,17119
+500,360,480,1,169,208,101,141,1560,0.009,116281,17119
+501,360,480,0,269,308,109,149,1560,0.009,116402,17119
+502,360,480,1,169,208,101,141,1560,0.009,116402,17119
+503,360,480,0,265,304,109,149,1560,0.009,116523,17119
+504,360,480,1,164,212,96,143,2256,0.0131,116523,17119
+505,360,480,0,236,284,96,143,2256,0.0131,116765,17119
+506,360,480,0,255,303,115,162,2256,0.0131,116886,17119
+507,360,480,1,169,216,101,148,2209,0.0128,116886,17119
+508,360,480,0,157,214,102,159,3249,0.0188,117370,17119
+509,360,480,1,270,317,101,148,2209,0.0128,117370,17119
+510,360,480,0,179,226,105,153,2256,0.0131,117491,17119
+511,360,480,1,255,303,110,158,2304,0.0133,117491,17119
+512,360,480,0,169,226,108,165,3249,0.0188,117854,17119
+513,360,480,1,246,293,115,162,2209,0.0128,117854,17119
+514,360,480,0,255,303,105,153,2304,0.0133,117975,17119
+515,360,480,1,155,202,105,153,2256,0.0131,117975,17119
+516,360,480,0,182,280,135,234,9702,0.0561,118096,17119
+517,360,480,0,164,212,110,158,2304,0.0133,118217,17119
+518,360,480,1,246,293,110,158,2256,0.0131,118217,17119
+519,360,480,0,198,245,96,143,2209,0.0128,118459,17119
+520,360,480,0,185,224,101,141,1560,0.009,118580,17119
+521,360,480,1,257,296,101,141,1560,0.009,118580,17119
+522,360,480,0,180,237,125,182,3249,0.0188,118943,17119
+523,360,480,0,267,323,96,153,3192,0.0185,119306,17119
+524,360,480,1,134,191,102,159,3249,0.0188,119306,17119
+525,360,480,0,192,249,108,165,3249,0.0188,119548,17119
+526,360,480,0,238,295,96,153,3249,0.0188,119669,17119
+527,360,480,1,146,202,108,165,3192,0.0185,119669,17119
+528,360,480,0,188,236,120,167,2256,0.0131,119790,17119
+529,360,480,0,244,300,96,153,3192,0.0185,120153,17119
+530,360,480,1,146,202,102,159,3192,0.0185,120153,17119
+531,360,480,0,177,216,133,173,1560,0.009,120516,17119
+532,360,480,1,269,308,129,169,1560,0.009,120516,17119
+533,360,480,0,221,260,89,129,1560,0.009,120637,17119
+534,360,480,0,196,264,104,172,4624,0.0268,121121,17119
+535,360,480,0,246,293,96,143,2209,0.0128,121242,17119
+536,360,480,0,157,196,121,161,1560,0.009,121968,17119
+537,360,480,0,145,184,85,125,1560,0.009,122210,17119
+538,360,480,0,197,236,93,133,1560,0.009,122452,17119
+539,360,480,0,181,220,77,117,1560,0.009,122573,17119
+540,360,480,0,177,216,81,121,1560,0.009,122694,17119
+541,360,480,0,207,255,57,105,2304,0.0133,123057,17119
+542,360,480,0,145,184,93,133,1560,0.009,123178,17119
+543,360,480,0,185,224,89,129,1560,0.009,123541,17119
+544,360,480,0,173,212,97,137,1560,0.009,123783,17119
+545,360,480,1,289,336,115,162,2209,0.0128,123783,17119
+546,360,480,0,229,268,97,137,1560,0.009,124146,17119
+547,360,480,0,249,288,137,177,1560,0.009,125477,17119
+548,360,480,1,145,192,96,143,2209,0.0128,125477,17119
+549,360,480,0,203,260,96,153,3249,0.0188,125598,17119
+550,360,480,0,182,300,130,248,13924,0.0806,126203,17119
+551,360,480,0,197,236,89,129,1560,0.009,126324,17119
+552,360,480,0,221,260,85,125,1560,0.009,126445,17119
+553,360,480,0,209,266,114,171,3249,0.0188,126566,17119
+554,360,480,1,177,216,165,205,1560,0.009,126566,17119
+555,360,480,0,209,266,79,136,3249,0.0188,126929,17119

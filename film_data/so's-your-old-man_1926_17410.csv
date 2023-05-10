@@ -1,310 +1,310 @@
-,img_height,img_width,face_num,x1,x2,y1,y2,area,pct_of_frame,frame_num,video_src
-0,240,320,0,78,125,57,105,2256,0.0294,901,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-1,240,320,0,116,164,72,119,2256,0.0294,954,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-2,240,320,0,76,133,79,136,3249,0.0423,1537,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-3,240,320,0,151,208,68,125,3249,0.0423,1590,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-4,240,320,0,129,168,45,85,1560,0.0203,1961,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-5,240,320,0,163,220,50,107,3249,0.0423,2067,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-6,240,320,0,111,168,56,113,3249,0.0423,2120,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-7,240,320,0,134,191,45,101,3192,0.0416,2173,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-8,240,320,0,100,156,62,119,3192,0.0416,2226,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-9,240,320,0,157,214,45,101,3192,0.0416,2279,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-10,240,320,0,121,160,41,81,1560,0.0203,2332,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-11,240,320,0,153,192,41,81,1560,0.0203,2438,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-12,240,320,0,109,148,57,97,1560,0.0203,2862,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-13,240,320,0,117,156,45,85,1560,0.0203,2915,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-14,240,320,0,209,248,49,89,1560,0.0203,3021,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-15,240,320,1,97,136,93,133,1560,0.0203,3021,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-16,240,320,0,198,245,48,95,2209,0.0288,3074,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-17,240,320,1,87,135,67,114,2256,0.0294,3074,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-18,240,320,0,77,116,49,89,1560,0.0203,3180,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-19,240,320,0,207,255,53,100,2256,0.0294,3604,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-20,240,320,0,73,112,53,93,1560,0.0203,3657,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-21,240,320,1,207,255,57,105,2304,0.03,3657,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-22,240,320,0,209,248,61,101,1560,0.0203,3710,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-23,240,320,1,81,120,73,113,1560,0.0203,3710,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-24,240,320,0,155,202,53,100,2209,0.0288,3763,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-25,240,320,0,146,202,45,101,3136,0.0408,3922,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-26,240,320,0,117,174,39,96,3249,0.0423,4452,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-27,240,320,0,105,144,65,105,1560,0.0203,4558,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-28,240,320,0,225,264,73,113,1560,0.0203,4717,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-29,240,320,1,105,144,61,101,1560,0.0203,4717,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-30,240,320,0,221,260,69,109,1560,0.0203,4770,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-31,240,320,0,237,276,65,105,1560,0.0203,4929,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-32,240,320,0,97,136,61,101,1560,0.0203,4982,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-33,240,320,1,213,252,69,109,1560,0.0203,4982,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-34,240,320,0,213,252,65,105,1560,0.0203,5035,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-35,240,320,0,189,228,73,113,1560,0.0203,5194,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-36,240,320,0,197,236,73,113,1560,0.0203,5247,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-37,240,320,1,89,128,61,101,1560,0.0203,5247,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-38,240,320,0,217,256,65,105,1560,0.0203,6625,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-39,240,320,0,73,112,49,89,1560,0.0203,6837,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-40,240,320,0,217,256,53,93,1560,0.0203,6943,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-41,240,320,1,81,120,53,93,1560,0.0203,6943,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-42,240,320,0,161,200,41,81,1560,0.0203,7367,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-43,240,320,0,125,164,33,73,1560,0.0203,7579,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-44,240,320,0,137,176,37,77,1560,0.0203,8851,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-45,240,320,0,213,252,61,101,1560,0.0203,8904,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-46,240,320,0,233,272,57,97,1560,0.0203,8957,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-47,240,320,0,73,112,33,73,1560,0.0203,9010,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-48,240,320,0,133,172,37,77,1560,0.0203,9116,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-49,240,320,0,233,272,57,97,1560,0.0203,9169,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-50,240,320,0,113,152,29,69,1560,0.0203,9222,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-51,240,320,0,105,144,37,77,1560,0.0203,9275,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-52,240,320,0,141,180,33,73,1560,0.0203,9328,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-53,240,320,0,157,196,33,73,1560,0.0203,9434,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-54,240,320,0,189,257,62,130,4624,0.0602,9646,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-55,240,320,1,42,99,79,136,3249,0.0423,9646,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-56,240,320,0,185,224,69,109,1560,0.0203,9858,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-57,240,320,0,129,168,33,73,1560,0.0203,10070,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-58,240,320,0,181,220,33,73,1560,0.0203,10441,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-59,240,320,1,97,136,37,77,1560,0.0203,10441,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-60,240,320,0,93,132,33,73,1560,0.0203,10600,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-61,240,320,0,209,248,37,77,1560,0.0203,10653,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-62,240,320,0,137,176,21,61,1560,0.0203,10812,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-63,240,320,0,134,202,48,116,4624,0.0602,11395,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-64,240,320,0,161,230,62,130,4692,0.0611,12773,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-65,240,320,0,92,160,68,137,4692,0.0611,15370,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-66,240,320,0,249,288,61,101,1560,0.0203,15529,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-67,240,320,0,144,226,42,124,6724,0.0876,15582,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-68,240,320,0,129,168,33,73,1560,0.0203,17596,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-69,240,320,0,131,178,53,100,2209,0.0288,18285,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-70,240,320,0,207,255,53,100,2256,0.0294,18603,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-71,240,320,0,49,96,62,110,2256,0.0294,19504,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-72,240,320,0,129,168,29,69,1560,0.0203,19557,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-73,240,320,0,126,173,24,71,2209,0.0288,19610,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-74,240,320,0,126,173,28,76,2256,0.0294,19716,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-75,240,320,0,165,204,49,89,1560,0.0203,20034,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-76,240,320,0,141,180,41,81,1560,0.0203,20087,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-77,240,320,0,145,184,85,125,1560,0.0203,20458,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-78,240,320,0,94,151,91,148,3249,0.0423,20511,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-79,240,320,0,111,168,79,136,3249,0.0423,20564,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-80,240,320,0,126,173,48,95,2209,0.0288,20617,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-81,240,320,0,140,188,57,105,2304,0.03,20829,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-82,240,320,0,121,160,57,97,1560,0.0203,20935,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-83,240,320,0,133,172,45,85,1560,0.0203,20988,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-84,240,320,0,133,172,53,93,1560,0.0203,21094,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-85,240,320,0,140,188,38,86,2304,0.03,21253,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-86,240,320,0,163,220,50,107,3249,0.0423,21306,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-87,240,320,0,120,188,48,116,4624,0.0602,21571,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-88,240,320,0,193,240,53,100,2209,0.0288,22525,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-89,240,320,0,117,174,39,96,3249,0.0423,23161,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-90,240,320,0,164,212,62,110,2304,0.03,23214,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-91,240,320,0,105,144,49,89,1560,0.0203,23320,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-92,240,320,0,93,132,49,89,1560,0.0203,23373,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-93,240,320,0,174,221,62,110,2256,0.0294,23532,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-94,240,320,0,164,212,67,114,2256,0.0294,23638,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-95,240,320,0,134,191,73,130,3249,0.0423,23691,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-96,240,320,0,77,116,41,81,1560,0.0203,24221,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-97,240,320,0,128,185,22,78,3192,0.0416,24433,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-98,240,320,0,128,185,45,101,3192,0.0416,24592,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-99,240,320,0,93,132,69,109,1560,0.0203,25069,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-100,240,320,0,73,112,61,101,1560,0.0203,25122,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-101,240,320,0,77,116,73,113,1560,0.0203,25175,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-102,240,320,0,81,120,73,113,1560,0.0203,25228,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-103,240,320,0,164,212,43,90,2256,0.0294,25334,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-104,240,320,0,164,212,43,90,2256,0.0294,25599,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-105,240,320,0,126,173,38,86,2256,0.0294,25652,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-106,240,320,0,78,125,28,76,2256,0.0294,25705,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-107,240,320,0,59,106,43,90,2209,0.0288,25970,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-108,240,320,0,73,120,38,86,2256,0.0294,26023,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-109,240,320,0,73,112,65,105,1560,0.0203,26606,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-110,240,320,0,89,128,69,109,1560,0.0203,27560,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-111,240,320,0,141,180,41,81,1560,0.0203,27878,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-112,240,320,0,145,184,73,113,1560,0.0203,27931,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-113,240,320,0,117,156,65,105,1560,0.0203,27984,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-114,240,320,0,149,188,81,121,1560,0.0203,28037,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-115,240,320,0,157,196,81,121,1560,0.0203,28143,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-116,240,320,0,69,108,53,93,1560,0.0203,29521,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-117,240,320,0,133,172,33,73,1560,0.0203,29574,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-118,240,320,1,53,92,45,85,1560,0.0203,29574,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-119,240,320,0,49,88,45,85,1560,0.0203,29733,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-120,240,320,1,129,168,41,81,1560,0.0203,29733,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-121,240,320,0,57,96,53,93,1560,0.0203,29786,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-122,240,320,0,73,112,53,93,1560,0.0203,29839,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-123,240,320,0,131,178,67,114,2209,0.0288,30475,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-124,240,320,0,102,149,81,129,2256,0.0294,30581,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-125,240,320,0,107,154,72,119,2209,0.0288,30634,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-126,240,320,0,140,197,50,107,3249,0.0423,30740,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-127,240,320,0,134,191,56,113,3249,0.0423,30793,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-128,240,320,0,135,183,53,100,2256,0.0294,30846,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-129,240,320,0,135,183,57,105,2304,0.03,30899,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-130,240,320,0,123,179,50,107,3192,0.0416,30952,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-131,240,320,0,100,156,33,90,3192,0.0416,31005,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-132,240,320,0,164,212,105,153,2304,0.03,31535,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-133,240,320,0,65,104,45,85,1560,0.0203,32224,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-134,240,320,0,57,96,21,61,1560,0.0203,32913,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-135,240,320,0,105,144,29,69,1560,0.0203,33072,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-136,240,320,1,65,104,45,85,1560,0.0203,33072,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-137,240,320,0,192,249,45,101,3192,0.0416,33125,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-138,240,320,1,59,116,33,90,3249,0.0423,33125,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-139,240,320,2,123,179,56,113,3192,0.0416,33125,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-140,240,320,0,237,276,73,113,1560,0.0203,33231,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-141,240,320,0,229,268,89,129,1560,0.0203,33284,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-142,240,320,1,17,56,69,109,1560,0.0203,33284,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-143,240,320,0,222,269,57,105,2256,0.0294,33337,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-144,240,320,1,65,122,45,101,3192,0.0416,33337,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-145,240,320,2,0,64,20,88,4352,0.0567,33337,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-146,240,320,0,237,276,41,81,1560,0.0203,33443,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-147,240,320,0,227,274,28,76,2256,0.0294,33496,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-148,240,320,1,153,192,29,69,1560,0.0203,33496,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-149,240,320,2,126,173,77,124,2209,0.0288,33496,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-150,240,320,0,226,283,39,96,3249,0.0423,33655,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-151,240,320,1,150,197,28,76,2256,0.0294,33655,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-152,240,320,0,57,96,37,77,1560,0.0203,33814,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-153,240,320,0,61,100,37,77,1560,0.0203,34344,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-154,240,320,0,44,92,33,81,2304,0.03,34768,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-155,240,320,1,241,280,49,89,1560,0.0203,34768,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-156,240,320,2,153,192,49,89,1560,0.0203,34768,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-157,240,320,0,140,188,43,90,2256,0.0294,34821,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-158,240,320,1,69,108,33,73,1560,0.0203,34821,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-159,240,320,2,229,268,45,85,1560,0.0203,34821,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-160,240,320,0,161,200,49,89,1560,0.0203,35139,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-161,240,320,1,73,120,33,81,2256,0.0294,35139,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-162,240,320,2,227,274,48,95,2209,0.0288,35139,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-163,240,320,0,164,212,43,90,2256,0.0294,35192,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-164,240,320,1,87,135,33,81,2304,0.03,35192,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-165,240,320,2,241,288,48,95,2209,0.0288,35192,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-166,240,320,0,63,111,33,81,2304,0.03,35245,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-167,240,320,1,236,284,43,90,2256,0.0294,35245,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-168,240,320,2,150,197,43,90,2209,0.0288,35245,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-169,240,320,0,69,108,41,81,1560,0.0203,35934,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-170,240,320,1,205,244,33,73,1560,0.0203,35934,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-171,240,320,0,217,256,37,77,1560,0.0203,36411,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-172,240,320,1,149,188,41,81,1560,0.0203,36411,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-173,240,320,0,165,204,49,89,1560,0.0203,36464,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-174,240,320,0,217,264,24,71,2209,0.0288,36570,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-175,240,320,1,121,168,48,95,2209,0.0288,36570,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-176,240,320,2,37,76,37,77,1560,0.0203,36570,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-177,240,320,0,54,101,53,100,2209,0.0288,36623,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-178,240,320,1,193,240,38,86,2256,0.0294,36623,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-179,240,320,0,119,201,67,149,6724,0.0876,36676,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-180,240,320,1,210,278,55,123,4624,0.0602,36676,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-181,240,320,0,128,210,67,149,6724,0.0876,36729,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-182,240,320,1,217,285,55,123,4624,0.0602,36729,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-183,240,320,0,150,197,62,110,2256,0.0294,36782,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-184,240,320,1,212,260,24,71,2256,0.0294,36782,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-185,240,320,2,45,84,33,73,1560,0.0203,36782,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-186,240,320,0,213,252,41,81,1560,0.0203,36941,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-187,240,320,0,183,231,57,105,2304,0.03,36994,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-188,240,320,0,209,248,45,85,1560,0.0203,37100,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-189,240,320,0,201,240,49,89,1560,0.0203,37153,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-190,240,320,0,181,220,49,89,1560,0.0203,37259,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-191,240,320,0,173,212,41,81,1560,0.0203,38796,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-192,240,320,0,181,220,41,81,1560,0.0203,38849,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-193,240,320,0,5,44,33,73,1560,0.0203,38902,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-194,240,320,0,255,303,62,110,2304,0.03,39008,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-195,240,320,1,0,36,45,85,1440,0.0187,39008,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-196,240,320,2,217,256,77,117,1560,0.0203,39008,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-197,240,320,3,129,168,57,97,1560,0.0203,39008,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-198,240,320,4,59,106,72,119,2209,0.0288,39008,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-199,240,320,0,189,228,77,117,1560,0.0203,39061,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-200,240,320,1,212,260,43,90,2256,0.0294,39061,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-201,240,320,2,117,156,57,97,1560,0.0203,39061,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-202,240,320,0,203,250,43,90,2209,0.0288,39220,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-203,240,320,1,109,148,61,101,1560,0.0203,39220,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-204,240,320,0,197,254,39,96,3249,0.0423,39273,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-205,240,320,1,121,160,61,101,1560,0.0203,39273,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-206,240,320,0,140,197,56,113,3249,0.0423,39326,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-207,240,320,0,197,254,45,101,3192,0.0416,39379,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-208,240,320,1,17,56,93,133,1560,0.0203,39379,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-209,240,320,0,265,304,69,109,1560,0.0203,39485,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-210,240,320,1,180,237,45,101,3192,0.0416,39485,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-211,240,320,0,137,176,65,105,1560,0.0203,39538,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-212,240,320,1,188,236,67,114,2256,0.0294,39538,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-213,240,320,0,78,125,33,81,2256,0.0294,40174,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-214,240,320,1,149,188,61,101,1560,0.0203,40174,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-215,240,320,0,197,254,45,101,3192,0.0416,40757,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-216,240,320,1,30,87,39,96,3249,0.0423,40757,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-217,240,320,2,113,152,73,113,1560,0.0203,40757,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-218,240,320,0,25,72,43,90,2209,0.0288,40810,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-219,240,320,1,203,260,45,101,3192,0.0416,40810,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-220,240,320,0,111,168,45,101,3192,0.0416,40863,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-221,240,320,1,59,106,43,90,2209,0.0288,40863,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-222,240,320,0,203,260,45,101,3192,0.0416,40969,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-223,240,320,1,68,116,53,100,2256,0.0294,40969,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-224,240,320,2,125,164,73,113,1560,0.0203,40969,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-225,240,320,3,273,312,69,109,1560,0.0203,40969,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-226,240,320,0,30,98,55,123,4624,0.0602,41022,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-227,240,320,1,192,249,85,142,3249,0.0423,41022,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-228,240,320,0,65,122,56,113,3249,0.0423,41075,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-229,240,320,1,169,226,73,130,3249,0.0423,41075,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-230,240,320,0,65,133,55,123,4624,0.0602,41181,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-231,240,320,1,180,237,73,130,3249,0.0423,41181,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-232,240,320,0,102,149,62,110,2256,0.0294,41234,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-233,240,320,1,222,269,91,138,2209,0.0288,41234,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-234,240,320,2,165,204,117,157,1560,0.0203,41234,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-235,240,320,0,63,111,86,134,2304,0.03,41287,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-236,240,320,1,154,223,62,130,4692,0.0611,41287,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-237,240,320,0,213,252,29,69,1560,0.0203,41340,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-238,240,320,0,59,106,43,90,2209,0.0288,41446,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-239,240,320,1,203,250,53,100,2209,0.0288,41446,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-240,240,320,0,53,92,81,121,1560,0.0203,41499,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-241,240,320,1,85,154,41,109,4692,0.0611,41499,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-242,240,320,0,150,197,38,86,2256,0.0294,41552,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-243,240,320,1,227,274,48,95,2209,0.0288,41552,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-244,240,320,0,53,92,81,121,1560,0.0203,41605,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-245,240,320,1,92,160,41,109,4624,0.0602,41605,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-246,240,320,0,222,269,53,100,2209,0.0288,41658,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-247,240,320,1,153,192,49,89,1560,0.0203,41658,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-248,240,320,0,106,174,62,130,4624,0.0602,41711,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-249,240,320,1,49,96,81,129,2256,0.0294,41711,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-250,240,320,0,25,72,77,124,2209,0.0288,41764,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-251,240,320,1,147,216,41,109,4692,0.0611,41764,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-252,240,320,0,222,269,48,95,2209,0.0288,41817,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-253,240,320,1,153,192,45,85,1560,0.0203,41817,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-254,240,320,0,233,272,21,61,1560,0.0203,41976,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-255,240,320,0,203,250,43,90,2209,0.0288,42029,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-256,240,320,0,203,250,57,105,2256,0.0294,42082,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-257,240,320,1,149,188,45,85,1560,0.0203,42082,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-258,240,320,2,87,135,53,100,2256,0.0294,42082,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-259,240,320,0,193,232,45,85,1560,0.0203,42135,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-260,240,320,0,140,188,38,86,2304,0.03,42294,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-261,240,320,1,97,136,41,81,1560,0.0203,42294,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-262,240,320,0,174,221,38,86,2256,0.0294,42347,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-263,240,320,0,185,224,37,77,1560,0.0203,42400,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-264,240,320,1,45,84,53,93,1560,0.0203,42400,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-265,240,320,0,189,228,61,101,1560,0.0203,42453,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-266,240,320,1,137,176,53,93,1560,0.0203,42453,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-267,240,320,0,174,221,48,95,2209,0.0288,42506,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-268,240,320,1,33,72,57,97,1560,0.0203,42506,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-269,240,320,0,179,226,38,86,2256,0.0294,42718,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-270,240,320,0,137,176,45,85,1560,0.0203,42771,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-271,240,320,1,205,244,49,89,1560,0.0203,42771,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-272,240,320,0,153,192,41,81,1560,0.0203,42877,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-273,240,320,0,149,188,41,81,1560,0.0203,42930,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-274,240,320,0,193,232,65,105,1560,0.0203,44997,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-275,240,320,1,83,130,48,95,2209,0.0288,44997,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-276,240,320,0,53,110,45,101,3192,0.0416,45050,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-277,240,320,1,188,236,57,105,2304,0.03,45050,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-278,240,320,2,1,40,49,89,1560,0.0203,45050,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-279,240,320,0,185,224,61,101,1560,0.0203,45156,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-280,240,320,1,92,140,43,90,2256,0.0294,45156,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-281,240,320,0,111,159,57,105,2304,0.03,45739,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-282,240,320,0,101,200,82,180,9702,0.1263,46587,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-283,240,320,0,131,178,62,110,2256,0.0294,46905,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-284,240,320,0,73,112,45,85,1560,0.0203,47117,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-285,240,320,1,177,216,41,81,1560,0.0203,47117,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-286,240,320,0,63,111,43,90,2256,0.0294,47170,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-287,240,320,1,181,220,45,85,1560,0.0203,47170,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-288,240,320,0,135,183,48,95,2256,0.0294,47594,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-289,240,320,1,15,63,28,76,2304,0.03,47594,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-290,240,320,2,73,120,67,114,2209,0.0288,47594,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-291,240,320,0,145,192,33,81,2256,0.0294,48548,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-292,240,320,1,6,53,28,76,2256,0.0294,48548,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-293,240,320,2,65,104,61,101,1560,0.0203,48548,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-294,240,320,0,155,202,67,114,2209,0.0288,49502,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-295,240,320,0,205,244,57,97,1560,0.0203,51145,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-296,240,320,0,165,204,85,125,1560,0.0203,51887,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-297,240,320,0,121,168,33,81,2256,0.0294,52046,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-298,240,320,0,116,164,33,81,2304,0.03,52311,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-299,240,320,0,121,168,24,71,2209,0.0288,52576,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-300,240,320,0,193,232,33,73,1560,0.0203,53318,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-301,240,320,1,109,148,49,89,1560,0.0203,53318,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-302,240,320,0,185,224,37,77,1560,0.0203,53424,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-303,240,320,0,177,216,61,101,1560,0.0203,53477,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-304,240,320,0,101,140,53,93,1560,0.0203,53689,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-305,240,320,0,59,106,48,95,2209,0.0288,53795,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-306,240,320,1,101,140,49,89,1560,0.0203,53795,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-307,240,320,0,73,120,53,100,2209,0.0288,53901,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
-308,240,320,0,82,139,45,101,3192,0.0416,54272,/home/amos/server/media/movies/Sos Your Old Man (1926)/Sos Your Old Man (1926).mp4
+,img_height,img_width,face_num,x1,x2,y1,y2,area,pct_of_frame,frame_num,imdb_id
+0,240,320,0,78,125,57,105,2256,0.0294,901,17410
+1,240,320,0,116,164,72,119,2256,0.0294,954,17410
+2,240,320,0,76,133,79,136,3249,0.0423,1537,17410
+3,240,320,0,151,208,68,125,3249,0.0423,1590,17410
+4,240,320,0,129,168,45,85,1560,0.0203,1961,17410
+5,240,320,0,163,220,50,107,3249,0.0423,2067,17410
+6,240,320,0,111,168,56,113,3249,0.0423,2120,17410
+7,240,320,0,134,191,45,101,3192,0.0416,2173,17410
+8,240,320,0,100,156,62,119,3192,0.0416,2226,17410
+9,240,320,0,157,214,45,101,3192,0.0416,2279,17410
+10,240,320,0,121,160,41,81,1560,0.0203,2332,17410
+11,240,320,0,153,192,41,81,1560,0.0203,2438,17410
+12,240,320,0,109,148,57,97,1560,0.0203,2862,17410
+13,240,320,0,117,156,45,85,1560,0.0203,2915,17410
+14,240,320,0,209,248,49,89,1560,0.0203,3021,17410
+15,240,320,1,97,136,93,133,1560,0.0203,3021,17410
+16,240,320,0,198,245,48,95,2209,0.0288,3074,17410
+17,240,320,1,87,135,67,114,2256,0.0294,3074,17410
+18,240,320,0,77,116,49,89,1560,0.0203,3180,17410
+19,240,320,0,207,255,53,100,2256,0.0294,3604,17410
+20,240,320,0,73,112,53,93,1560,0.0203,3657,17410
+21,240,320,1,207,255,57,105,2304,0.03,3657,17410
+22,240,320,0,209,248,61,101,1560,0.0203,3710,17410
+23,240,320,1,81,120,73,113,1560,0.0203,3710,17410
+24,240,320,0,155,202,53,100,2209,0.0288,3763,17410
+25,240,320,0,146,202,45,101,3136,0.0408,3922,17410
+26,240,320,0,117,174,39,96,3249,0.0423,4452,17410
+27,240,320,0,105,144,65,105,1560,0.0203,4558,17410
+28,240,320,0,225,264,73,113,1560,0.0203,4717,17410
+29,240,320,1,105,144,61,101,1560,0.0203,4717,17410
+30,240,320,0,221,260,69,109,1560,0.0203,4770,17410
+31,240,320,0,237,276,65,105,1560,0.0203,4929,17410
+32,240,320,0,97,136,61,101,1560,0.0203,4982,17410
+33,240,320,1,213,252,69,109,1560,0.0203,4982,17410
+34,240,320,0,213,252,65,105,1560,0.0203,5035,17410
+35,240,320,0,189,228,73,113,1560,0.0203,5194,17410
+36,240,320,0,197,236,73,113,1560,0.0203,5247,17410
+37,240,320,1,89,128,61,101,1560,0.0203,5247,17410
+38,240,320,0,217,256,65,105,1560,0.0203,6625,17410
+39,240,320,0,73,112,49,89,1560,0.0203,6837,17410
+40,240,320,0,217,256,53,93,1560,0.0203,6943,17410
+41,240,320,1,81,120,53,93,1560,0.0203,6943,17410
+42,240,320,0,161,200,41,81,1560,0.0203,7367,17410
+43,240,320,0,125,164,33,73,1560,0.0203,7579,17410
+44,240,320,0,137,176,37,77,1560,0.0203,8851,17410
+45,240,320,0,213,252,61,101,1560,0.0203,8904,17410
+46,240,320,0,233,272,57,97,1560,0.0203,8957,17410
+47,240,320,0,73,112,33,73,1560,0.0203,9010,17410
+48,240,320,0,133,172,37,77,1560,0.0203,9116,17410
+49,240,320,0,233,272,57,97,1560,0.0203,9169,17410
+50,240,320,0,113,152,29,69,1560,0.0203,9222,17410
+51,240,320,0,105,144,37,77,1560,0.0203,9275,17410
+52,240,320,0,141,180,33,73,1560,0.0203,9328,17410
+53,240,320,0,157,196,33,73,1560,0.0203,9434,17410
+54,240,320,0,189,257,62,130,4624,0.0602,9646,17410
+55,240,320,1,42,99,79,136,3249,0.0423,9646,17410
+56,240,320,0,185,224,69,109,1560,0.0203,9858,17410
+57,240,320,0,129,168,33,73,1560,0.0203,10070,17410
+58,240,320,0,181,220,33,73,1560,0.0203,10441,17410
+59,240,320,1,97,136,37,77,1560,0.0203,10441,17410
+60,240,320,0,93,132,33,73,1560,0.0203,10600,17410
+61,240,320,0,209,248,37,77,1560,0.0203,10653,17410
+62,240,320,0,137,176,21,61,1560,0.0203,10812,17410
+63,240,320,0,134,202,48,116,4624,0.0602,11395,17410
+64,240,320,0,161,230,62,130,4692,0.0611,12773,17410
+65,240,320,0,92,160,68,137,4692,0.0611,15370,17410
+66,240,320,0,249,288,61,101,1560,0.0203,15529,17410
+67,240,320,0,144,226,42,124,6724,0.0876,15582,17410
+68,240,320,0,129,168,33,73,1560,0.0203,17596,17410
+69,240,320,0,131,178,53,100,2209,0.0288,18285,17410
+70,240,320,0,207,255,53,100,2256,0.0294,18603,17410
+71,240,320,0,49,96,62,110,2256,0.0294,19504,17410
+72,240,320,0,129,168,29,69,1560,0.0203,19557,17410
+73,240,320,0,126,173,24,71,2209,0.0288,19610,17410
+74,240,320,0,126,173,28,76,2256,0.0294,19716,17410
+75,240,320,0,165,204,49,89,1560,0.0203,20034,17410
+76,240,320,0,141,180,41,81,1560,0.0203,20087,17410
+77,240,320,0,145,184,85,125,1560,0.0203,20458,17410
+78,240,320,0,94,151,91,148,3249,0.0423,20511,17410
+79,240,320,0,111,168,79,136,3249,0.0423,20564,17410
+80,240,320,0,126,173,48,95,2209,0.0288,20617,17410
+81,240,320,0,140,188,57,105,2304,0.03,20829,17410
+82,240,320,0,121,160,57,97,1560,0.0203,20935,17410
+83,240,320,0,133,172,45,85,1560,0.0203,20988,17410
+84,240,320,0,133,172,53,93,1560,0.0203,21094,17410
+85,240,320,0,140,188,38,86,2304,0.03,21253,17410
+86,240,320,0,163,220,50,107,3249,0.0423,21306,17410
+87,240,320,0,120,188,48,116,4624,0.0602,21571,17410
+88,240,320,0,193,240,53,100,2209,0.0288,22525,17410
+89,240,320,0,117,174,39,96,3249,0.0423,23161,17410
+90,240,320,0,164,212,62,110,2304,0.03,23214,17410
+91,240,320,0,105,144,49,89,1560,0.0203,23320,17410
+92,240,320,0,93,132,49,89,1560,0.0203,23373,17410
+93,240,320,0,174,221,62,110,2256,0.0294,23532,17410
+94,240,320,0,164,212,67,114,2256,0.0294,23638,17410
+95,240,320,0,134,191,73,130,3249,0.0423,23691,17410
+96,240,320,0,77,116,41,81,1560,0.0203,24221,17410
+97,240,320,0,128,185,22,78,3192,0.0416,24433,17410
+98,240,320,0,128,185,45,101,3192,0.0416,24592,17410
+99,240,320,0,93,132,69,109,1560,0.0203,25069,17410
+100,240,320,0,73,112,61,101,1560,0.0203,25122,17410
+101,240,320,0,77,116,73,113,1560,0.0203,25175,17410
+102,240,320,0,81,120,73,113,1560,0.0203,25228,17410
+103,240,320,0,164,212,43,90,2256,0.0294,25334,17410
+104,240,320,0,164,212,43,90,2256,0.0294,25599,17410
+105,240,320,0,126,173,38,86,2256,0.0294,25652,17410
+106,240,320,0,78,125,28,76,2256,0.0294,25705,17410
+107,240,320,0,59,106,43,90,2209,0.0288,25970,17410
+108,240,320,0,73,120,38,86,2256,0.0294,26023,17410
+109,240,320,0,73,112,65,105,1560,0.0203,26606,17410
+110,240,320,0,89,128,69,109,1560,0.0203,27560,17410
+111,240,320,0,141,180,41,81,1560,0.0203,27878,17410
+112,240,320,0,145,184,73,113,1560,0.0203,27931,17410
+113,240,320,0,117,156,65,105,1560,0.0203,27984,17410
+114,240,320,0,149,188,81,121,1560,0.0203,28037,17410
+115,240,320,0,157,196,81,121,1560,0.0203,28143,17410
+116,240,320,0,69,108,53,93,1560,0.0203,29521,17410
+117,240,320,0,133,172,33,73,1560,0.0203,29574,17410
+118,240,320,1,53,92,45,85,1560,0.0203,29574,17410
+119,240,320,0,49,88,45,85,1560,0.0203,29733,17410
+120,240,320,1,129,168,41,81,1560,0.0203,29733,17410
+121,240,320,0,57,96,53,93,1560,0.0203,29786,17410
+122,240,320,0,73,112,53,93,1560,0.0203,29839,17410
+123,240,320,0,131,178,67,114,2209,0.0288,30475,17410
+124,240,320,0,102,149,81,129,2256,0.0294,30581,17410
+125,240,320,0,107,154,72,119,2209,0.0288,30634,17410
+126,240,320,0,140,197,50,107,3249,0.0423,30740,17410
+127,240,320,0,134,191,56,113,3249,0.0423,30793,17410
+128,240,320,0,135,183,53,100,2256,0.0294,30846,17410
+129,240,320,0,135,183,57,105,2304,0.03,30899,17410
+130,240,320,0,123,179,50,107,3192,0.0416,30952,17410
+131,240,320,0,100,156,33,90,3192,0.0416,31005,17410
+132,240,320,0,164,212,105,153,2304,0.03,31535,17410
+133,240,320,0,65,104,45,85,1560,0.0203,32224,17410
+134,240,320,0,57,96,21,61,1560,0.0203,32913,17410
+135,240,320,0,105,144,29,69,1560,0.0203,33072,17410
+136,240,320,1,65,104,45,85,1560,0.0203,33072,17410
+137,240,320,0,192,249,45,101,3192,0.0416,33125,17410
+138,240,320,1,59,116,33,90,3249,0.0423,33125,17410
+139,240,320,2,123,179,56,113,3192,0.0416,33125,17410
+140,240,320,0,237,276,73,113,1560,0.0203,33231,17410
+141,240,320,0,229,268,89,129,1560,0.0203,33284,17410
+142,240,320,1,17,56,69,109,1560,0.0203,33284,17410
+143,240,320,0,222,269,57,105,2256,0.0294,33337,17410
+144,240,320,1,65,122,45,101,3192,0.0416,33337,17410
+145,240,320,2,0,64,20,88,4352,0.0567,33337,17410
+146,240,320,0,237,276,41,81,1560,0.0203,33443,17410
+147,240,320,0,227,274,28,76,2256,0.0294,33496,17410
+148,240,320,1,153,192,29,69,1560,0.0203,33496,17410
+149,240,320,2,126,173,77,124,2209,0.0288,33496,17410
+150,240,320,0,226,283,39,96,3249,0.0423,33655,17410
+151,240,320,1,150,197,28,76,2256,0.0294,33655,17410
+152,240,320,0,57,96,37,77,1560,0.0203,33814,17410
+153,240,320,0,61,100,37,77,1560,0.0203,34344,17410
+154,240,320,0,44,92,33,81,2304,0.03,34768,17410
+155,240,320,1,241,280,49,89,1560,0.0203,34768,17410
+156,240,320,2,153,192,49,89,1560,0.0203,34768,17410
+157,240,320,0,140,188,43,90,2256,0.0294,34821,17410
+158,240,320,1,69,108,33,73,1560,0.0203,34821,17410
+159,240,320,2,229,268,45,85,1560,0.0203,34821,17410
+160,240,320,0,161,200,49,89,1560,0.0203,35139,17410
+161,240,320,1,73,120,33,81,2256,0.0294,35139,17410
+162,240,320,2,227,274,48,95,2209,0.0288,35139,17410
+163,240,320,0,164,212,43,90,2256,0.0294,35192,17410
+164,240,320,1,87,135,33,81,2304,0.03,35192,17410
+165,240,320,2,241,288,48,95,2209,0.0288,35192,17410
+166,240,320,0,63,111,33,81,2304,0.03,35245,17410
+167,240,320,1,236,284,43,90,2256,0.0294,35245,17410
+168,240,320,2,150,197,43,90,2209,0.0288,35245,17410
+169,240,320,0,69,108,41,81,1560,0.0203,35934,17410
+170,240,320,1,205,244,33,73,1560,0.0203,35934,17410
+171,240,320,0,217,256,37,77,1560,0.0203,36411,17410
+172,240,320,1,149,188,41,81,1560,0.0203,36411,17410
+173,240,320,0,165,204,49,89,1560,0.0203,36464,17410
+174,240,320,0,217,264,24,71,2209,0.0288,36570,17410
+175,240,320,1,121,168,48,95,2209,0.0288,36570,17410
+176,240,320,2,37,76,37,77,1560,0.0203,36570,17410
+177,240,320,0,54,101,53,100,2209,0.0288,36623,17410
+178,240,320,1,193,240,38,86,2256,0.0294,36623,17410
+179,240,320,0,119,201,67,149,6724,0.0876,36676,17410
+180,240,320,1,210,278,55,123,4624,0.0602,36676,17410
+181,240,320,0,128,210,67,149,6724,0.0876,36729,17410
+182,240,320,1,217,285,55,123,4624,0.0602,36729,17410
+183,240,320,0,150,197,62,110,2256,0.0294,36782,17410
+184,240,320,1,212,260,24,71,2256,0.0294,36782,17410
+185,240,320,2,45,84,33,73,1560,0.0203,36782,17410
+186,240,320,0,213,252,41,81,1560,0.0203,36941,17410
+187,240,320,0,183,231,57,105,2304,0.03,36994,17410
+188,240,320,0,209,248,45,85,1560,0.0203,37100,17410
+189,240,320,0,201,240,49,89,1560,0.0203,37153,17410
+190,240,320,0,181,220,49,89,1560,0.0203,37259,17410
+191,240,320,0,173,212,41,81,1560,0.0203,38796,17410
+192,240,320,0,181,220,41,81,1560,0.0203,38849,17410
+193,240,320,0,5,44,33,73,1560,0.0203,38902,17410
+194,240,320,0,255,303,62,110,2304,0.03,39008,17410
+195,240,320,1,0,36,45,85,1440,0.0187,39008,17410
+196,240,320,2,217,256,77,117,1560,0.0203,39008,17410
+197,240,320,3,129,168,57,97,1560,0.0203,39008,17410
+198,240,320,4,59,106,72,119,2209,0.0288,39008,17410
+199,240,320,0,189,228,77,117,1560,0.0203,39061,17410
+200,240,320,1,212,260,43,90,2256,0.0294,39061,17410
+201,240,320,2,117,156,57,97,1560,0.0203,39061,17410
+202,240,320,0,203,250,43,90,2209,0.0288,39220,17410
+203,240,320,1,109,148,61,101,1560,0.0203,39220,17410
+204,240,320,0,197,254,39,96,3249,0.0423,39273,17410
+205,240,320,1,121,160,61,101,1560,0.0203,39273,17410
+206,240,320,0,140,197,56,113,3249,0.0423,39326,17410
+207,240,320,0,197,254,45,101,3192,0.0416,39379,17410
+208,240,320,1,17,56,93,133,1560,0.0203,39379,17410
+209,240,320,0,265,304,69,109,1560,0.0203,39485,17410
+210,240,320,1,180,237,45,101,3192,0.0416,39485,17410
+211,240,320,0,137,176,65,105,1560,0.0203,39538,17410
+212,240,320,1,188,236,67,114,2256,0.0294,39538,17410
+213,240,320,0,78,125,33,81,2256,0.0294,40174,17410
+214,240,320,1,149,188,61,101,1560,0.0203,40174,17410
+215,240,320,0,197,254,45,101,3192,0.0416,40757,17410
+216,240,320,1,30,87,39,96,3249,0.0423,40757,17410
+217,240,320,2,113,152,73,113,1560,0.0203,40757,17410
+218,240,320,0,25,72,43,90,2209,0.0288,40810,17410
+219,240,320,1,203,260,45,101,3192,0.0416,40810,17410
+220,240,320,0,111,168,45,101,3192,0.0416,40863,17410
+221,240,320,1,59,106,43,90,2209,0.0288,40863,17410
+222,240,320,0,203,260,45,101,3192,0.0416,40969,17410
+223,240,320,1,68,116,53,100,2256,0.0294,40969,17410
+224,240,320,2,125,164,73,113,1560,0.0203,40969,17410
+225,240,320,3,273,312,69,109,1560,0.0203,40969,17410
+226,240,320,0,30,98,55,123,4624,0.0602,41022,17410
+227,240,320,1,192,249,85,142,3249,0.0423,41022,17410
+228,240,320,0,65,122,56,113,3249,0.0423,41075,17410
+229,240,320,1,169,226,73,130,3249,0.0423,41075,17410
+230,240,320,0,65,133,55,123,4624,0.0602,41181,17410
+231,240,320,1,180,237,73,130,3249,0.0423,41181,17410
+232,240,320,0,102,149,62,110,2256,0.0294,41234,17410
+233,240,320,1,222,269,91,138,2209,0.0288,41234,17410
+234,240,320,2,165,204,117,157,1560,0.0203,41234,17410
+235,240,320,0,63,111,86,134,2304,0.03,41287,17410
+236,240,320,1,154,223,62,130,4692,0.0611,41287,17410
+237,240,320,0,213,252,29,69,1560,0.0203,41340,17410
+238,240,320,0,59,106,43,90,2209,0.0288,41446,17410
+239,240,320,1,203,250,53,100,2209,0.0288,41446,17410
+240,240,320,0,53,92,81,121,1560,0.0203,41499,17410
+241,240,320,1,85,154,41,109,4692,0.0611,41499,17410
+242,240,320,0,150,197,38,86,2256,0.0294,41552,17410
+243,240,320,1,227,274,48,95,2209,0.0288,41552,17410
+244,240,320,0,53,92,81,121,1560,0.0203,41605,17410
+245,240,320,1,92,160,41,109,4624,0.0602,41605,17410
+246,240,320,0,222,269,53,100,2209,0.0288,41658,17410
+247,240,320,1,153,192,49,89,1560,0.0203,41658,17410
+248,240,320,0,106,174,62,130,4624,0.0602,41711,17410
+249,240,320,1,49,96,81,129,2256,0.0294,41711,17410
+250,240,320,0,25,72,77,124,2209,0.0288,41764,17410
+251,240,320,1,147,216,41,109,4692,0.0611,41764,17410
+252,240,320,0,222,269,48,95,2209,0.0288,41817,17410
+253,240,320,1,153,192,45,85,1560,0.0203,41817,17410
+254,240,320,0,233,272,21,61,1560,0.0203,41976,17410
+255,240,320,0,203,250,43,90,2209,0.0288,42029,17410
+256,240,320,0,203,250,57,105,2256,0.0294,42082,17410
+257,240,320,1,149,188,45,85,1560,0.0203,42082,17410
+258,240,320,2,87,135,53,100,2256,0.0294,42082,17410
+259,240,320,0,193,232,45,85,1560,0.0203,42135,17410
+260,240,320,0,140,188,38,86,2304,0.03,42294,17410
+261,240,320,1,97,136,41,81,1560,0.0203,42294,17410
+262,240,320,0,174,221,38,86,2256,0.0294,42347,17410
+263,240,320,0,185,224,37,77,1560,0.0203,42400,17410
+264,240,320,1,45,84,53,93,1560,0.0203,42400,17410
+265,240,320,0,189,228,61,101,1560,0.0203,42453,17410
+266,240,320,1,137,176,53,93,1560,0.0203,42453,17410
+267,240,320,0,174,221,48,95,2209,0.0288,42506,17410
+268,240,320,1,33,72,57,97,1560,0.0203,42506,17410
+269,240,320,0,179,226,38,86,2256,0.0294,42718,17410
+270,240,320,0,137,176,45,85,1560,0.0203,42771,17410
+271,240,320,1,205,244,49,89,1560,0.0203,42771,17410
+272,240,320,0,153,192,41,81,1560,0.0203,42877,17410
+273,240,320,0,149,188,41,81,1560,0.0203,42930,17410
+274,240,320,0,193,232,65,105,1560,0.0203,44997,17410
+275,240,320,1,83,130,48,95,2209,0.0288,44997,17410
+276,240,320,0,53,110,45,101,3192,0.0416,45050,17410
+277,240,320,1,188,236,57,105,2304,0.03,45050,17410
+278,240,320,2,1,40,49,89,1560,0.0203,45050,17410
+279,240,320,0,185,224,61,101,1560,0.0203,45156,17410
+280,240,320,1,92,140,43,90,2256,0.0294,45156,17410
+281,240,320,0,111,159,57,105,2304,0.03,45739,17410
+282,240,320,0,101,200,82,180,9702,0.1263,46587,17410
+283,240,320,0,131,178,62,110,2256,0.0294,46905,17410
+284,240,320,0,73,112,45,85,1560,0.0203,47117,17410
+285,240,320,1,177,216,41,81,1560,0.0203,47117,17410
+286,240,320,0,63,111,43,90,2256,0.0294,47170,17410
+287,240,320,1,181,220,45,85,1560,0.0203,47170,17410
+288,240,320,0,135,183,48,95,2256,0.0294,47594,17410
+289,240,320,1,15,63,28,76,2304,0.03,47594,17410
+290,240,320,2,73,120,67,114,2209,0.0288,47594,17410
+291,240,320,0,145,192,33,81,2256,0.0294,48548,17410
+292,240,320,1,6,53,28,76,2256,0.0294,48548,17410
+293,240,320,2,65,104,61,101,1560,0.0203,48548,17410
+294,240,320,0,155,202,67,114,2209,0.0288,49502,17410
+295,240,320,0,205,244,57,97,1560,0.0203,51145,17410
+296,240,320,0,165,204,85,125,1560,0.0203,51887,17410
+297,240,320,0,121,168,33,81,2256,0.0294,52046,17410
+298,240,320,0,116,164,33,81,2304,0.03,52311,17410
+299,240,320,0,121,168,24,71,2209,0.0288,52576,17410
+300,240,320,0,193,232,33,73,1560,0.0203,53318,17410
+301,240,320,1,109,148,49,89,1560,0.0203,53318,17410
+302,240,320,0,185,224,37,77,1560,0.0203,53424,17410
+303,240,320,0,177,216,61,101,1560,0.0203,53477,17410
+304,240,320,0,101,140,53,93,1560,0.0203,53689,17410
+305,240,320,0,59,106,48,95,2209,0.0288,53795,17410
+306,240,320,1,101,140,49,89,1560,0.0203,53795,17410
+307,240,320,0,73,120,53,100,2209,0.0288,53901,17410
+308,240,320,0,82,139,45,101,3192,0.0416,54272,17410

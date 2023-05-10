@@ -1,512 +1,512 @@
-,img_height,img_width,face_num,x1,x2,y1,y2,area,pct_of_frame,frame_num,video_src
-0,360,480,0,198,245,221,268,2209,0.0128,3657,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-1,360,480,1,137,176,189,229,1560,0.009,3657,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-2,360,480,2,419,466,211,258,2209,0.0128,3657,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-3,360,480,3,179,226,292,340,2256,0.0131,3657,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-4,360,480,0,38,156,166,284,13924,0.0806,6837,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-5,360,480,0,279,327,77,124,2256,0.0131,7155,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-6,360,480,1,157,214,56,113,3249,0.0188,7155,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-7,360,480,0,284,332,72,119,2256,0.0131,7314,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-8,360,480,1,157,214,50,107,3249,0.0188,7314,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-9,360,480,0,284,341,91,148,3249,0.0188,7473,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-10,360,480,1,157,214,56,113,3249,0.0188,7473,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-11,360,480,0,169,226,56,113,3249,0.0188,7632,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-12,360,480,1,284,341,68,125,3249,0.0188,7632,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-13,360,480,0,267,323,79,136,3192,0.0185,7791,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-14,360,480,1,174,231,62,119,3249,0.0188,7791,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-15,360,480,0,289,336,81,129,2256,0.0131,8109,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-16,360,480,0,193,240,72,119,2209,0.0128,8268,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-17,360,480,1,313,370,79,136,3249,0.0188,8268,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-18,360,480,0,313,370,85,142,3249,0.0188,8427,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-19,360,480,1,192,249,62,119,3249,0.0188,8427,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-20,360,480,0,313,370,85,142,3249,0.0188,8586,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-21,360,480,1,174,231,56,113,3249,0.0188,8586,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-22,360,480,0,313,370,85,142,3249,0.0188,8745,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-23,360,480,1,180,237,56,113,3249,0.0188,8745,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-24,360,480,0,313,370,68,125,3249,0.0188,8904,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-25,360,480,1,174,231,50,107,3249,0.0188,8904,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-26,360,480,0,332,380,91,138,2256,0.0131,9063,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-27,360,480,1,180,237,62,119,3249,0.0188,9063,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-28,360,480,0,301,358,79,136,3249,0.0188,9222,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-29,360,480,1,186,243,56,113,3249,0.0188,9222,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-30,360,480,0,180,237,45,101,3192,0.0185,9381,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-31,360,480,1,308,356,77,124,2256,0.0131,9381,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-32,360,480,0,226,283,56,113,3249,0.0188,9540,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-33,360,480,1,318,365,77,124,2209,0.0128,9540,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-34,360,480,0,308,356,81,129,2304,0.0133,9699,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-35,360,480,0,330,387,62,119,3249,0.0188,9858,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-36,360,480,0,279,327,67,114,2256,0.0131,10017,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-37,360,480,1,217,264,81,129,2256,0.0131,10017,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-38,360,480,0,267,323,62,119,3192,0.0185,10176,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-39,360,480,1,150,197,96,143,2209,0.0128,10176,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-40,360,480,0,255,312,56,113,3249,0.0188,10335,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-41,360,480,1,140,188,96,143,2256,0.0131,10335,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-42,360,480,0,222,269,67,114,2209,0.0128,10494,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-43,360,480,1,116,164,91,138,2256,0.0131,10494,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-44,360,480,0,126,173,96,143,2209,0.0128,10653,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-45,360,480,1,192,249,68,125,3249,0.0188,10653,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-46,360,480,0,226,283,56,113,3249,0.0188,10812,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-47,360,480,1,111,159,86,134,2304,0.0133,10812,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-48,360,480,0,209,266,56,113,3249,0.0188,10971,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-49,360,480,1,83,130,86,134,2256,0.0131,10971,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-50,360,480,0,113,152,93,133,1560,0.009,11130,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-51,360,480,1,232,289,62,119,3249,0.0188,11130,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-52,360,480,0,131,178,91,138,2209,0.0128,11289,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-53,360,480,1,217,264,67,114,2209,0.0128,11289,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-54,360,480,0,155,202,91,138,2209,0.0128,11448,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-55,360,480,1,226,283,62,119,3249,0.0188,11448,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-56,360,480,0,241,288,67,114,2209,0.0128,11607,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-57,360,480,1,157,214,85,142,3249,0.0188,11607,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-58,360,480,0,164,212,101,148,2256,0.0131,11766,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-59,360,480,1,249,306,62,119,3249,0.0188,11766,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-60,360,480,0,150,197,96,143,2209,0.0128,11925,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-61,360,480,1,249,306,62,119,3249,0.0188,11925,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-62,360,480,0,140,188,91,138,2256,0.0131,12084,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-63,360,480,1,260,308,53,100,2256,0.0131,12084,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-64,360,480,0,140,188,86,134,2304,0.0133,12243,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-65,360,480,1,299,346,67,114,2209,0.0128,12243,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-66,360,480,0,244,300,56,113,3192,0.0185,12402,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-67,360,480,1,126,173,86,134,2256,0.0131,12402,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-68,360,480,0,220,277,62,119,3249,0.0188,12561,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-69,360,480,1,116,164,96,143,2256,0.0131,12561,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-70,360,480,0,140,188,91,138,2256,0.0131,12720,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-71,360,480,1,220,277,62,119,3249,0.0188,12720,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-72,360,480,0,159,207,86,134,2304,0.0133,12879,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-73,360,480,1,232,289,62,119,3249,0.0188,12879,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-74,360,480,0,232,289,62,119,3249,0.0188,13038,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-75,360,480,1,107,154,96,143,2209,0.0128,13038,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-76,360,480,0,238,295,62,119,3249,0.0188,13197,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-77,360,480,1,97,144,96,143,2209,0.0128,13197,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-78,360,480,0,116,164,81,129,2304,0.0133,13356,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-79,360,480,1,236,284,62,110,2304,0.0133,13356,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-80,360,480,0,23,91,69,138,4692,0.0272,14310,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-81,360,480,0,45,127,81,163,6724,0.0389,14469,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-82,360,480,0,293,361,56,124,4624,0.0268,14628,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-83,360,480,1,71,140,49,117,4692,0.0272,14628,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-84,360,480,0,94,176,57,138,6642,0.0384,14787,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-85,360,480,1,279,347,97,165,4624,0.0268,14787,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-86,360,480,0,321,420,115,214,9801,0.0567,15582,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-87,360,480,0,106,174,83,151,4624,0.0268,15741,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-88,360,480,0,92,160,83,151,4624,0.0268,15900,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-89,360,480,0,99,167,83,151,4624,0.0268,16059,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-90,360,480,0,71,140,83,151,4692,0.0272,16218,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-91,360,480,0,78,147,83,151,4692,0.0272,16377,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-92,360,480,0,182,280,105,204,9702,0.0561,16536,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-93,360,480,0,172,270,115,214,9702,0.0561,16695,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-94,360,480,0,202,300,105,204,9702,0.0561,16854,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-95,360,480,0,211,292,140,221,6561,0.038,17013,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-96,360,480,0,186,268,123,205,6724,0.0389,17172,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-97,360,480,0,122,221,115,214,9801,0.0567,17331,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-98,360,480,0,211,292,131,213,6642,0.0384,17490,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-99,360,480,0,142,241,135,234,9801,0.0567,17649,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-100,360,480,0,172,270,125,224,9702,0.0561,17808,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-101,360,480,0,242,340,96,194,9604,0.0556,17967,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-102,360,480,0,232,330,96,194,9604,0.0556,18126,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-103,360,480,0,106,174,69,138,4692,0.0272,18285,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-104,360,480,0,85,154,83,151,4692,0.0272,18444,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-105,360,480,0,92,160,83,151,4624,0.0268,18603,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-106,360,480,1,251,319,111,179,4624,0.0268,18603,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-107,360,480,0,92,160,69,138,4692,0.0272,18762,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-108,360,480,1,237,306,118,186,4692,0.0272,18762,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-109,360,480,0,92,160,83,151,4624,0.0268,18921,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-110,360,480,1,261,318,114,171,3249,0.0188,18921,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-111,360,480,0,82,139,91,148,3249,0.0188,19080,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-112,360,480,1,255,312,119,176,3249,0.0188,19080,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-113,360,480,0,92,160,69,138,4692,0.0272,19239,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-114,360,480,0,106,174,83,151,4624,0.0268,19398,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-115,360,480,0,99,167,83,151,4624,0.0268,19557,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-116,360,480,0,99,167,83,151,4624,0.0268,19716,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-117,360,480,1,293,361,97,165,4624,0.0268,19716,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-118,360,480,0,78,147,69,138,4761,0.0276,19875,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-119,360,480,0,99,167,76,145,4692,0.0272,20034,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-120,360,480,0,120,188,69,138,4692,0.0272,20193,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-121,360,480,1,290,346,96,153,3192,0.0185,20193,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-122,360,480,0,99,167,76,145,4692,0.0272,20352,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-123,360,480,0,318,375,119,176,3249,0.0188,20670,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-124,360,480,1,128,185,108,165,3249,0.0188,20670,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-125,360,480,0,278,335,131,188,3249,0.0188,20829,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-126,360,480,1,140,197,102,159,3249,0.0188,20829,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-127,360,480,0,284,341,131,188,3249,0.0188,20988,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-128,360,480,0,128,185,102,159,3249,0.0188,21147,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-129,360,480,1,299,346,139,186,2209,0.0128,21147,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-130,360,480,0,308,356,115,162,2256,0.0131,21306,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-131,360,480,0,342,389,129,177,2256,0.0131,21465,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-132,360,480,0,150,197,105,153,2256,0.0131,21624,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-133,360,480,1,347,394,115,162,2209,0.0128,21624,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-134,360,480,0,275,322,110,158,2256,0.0131,21942,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-135,360,480,1,105,162,91,148,3249,0.0188,21942,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-136,360,480,0,294,341,115,162,2209,0.0128,22101,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-137,360,480,1,117,174,85,142,3249,0.0188,22101,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-138,360,480,0,261,318,114,171,3249,0.0188,22260,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-139,360,480,1,128,185,96,153,3249,0.0188,22260,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-140,360,480,0,111,168,102,159,3249,0.0188,22419,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-141,360,480,0,302,400,105,204,9702,0.0561,22578,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-142,360,480,0,103,201,105,204,9702,0.0561,22737,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-143,360,480,1,272,370,115,214,9702,0.0561,22737,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-144,360,480,0,83,181,105,204,9702,0.0561,22896,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-145,360,480,1,262,360,125,224,9702,0.0561,22896,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-146,360,480,0,93,191,105,204,9702,0.0561,23055,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-147,360,480,1,262,360,125,224,9702,0.0561,23055,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-148,360,480,0,73,171,66,164,9604,0.0556,23214,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-149,360,480,1,282,380,96,194,9604,0.0556,23214,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-150,360,480,0,63,161,86,184,9604,0.0556,23373,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-151,360,480,1,313,431,58,176,13924,0.0806,23373,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-152,360,480,0,63,161,86,184,9604,0.0556,23532,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-153,360,480,1,262,360,115,214,9702,0.0561,23532,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-154,360,480,0,103,201,115,214,9702,0.0561,23691,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-155,360,480,1,343,425,123,205,6724,0.0389,23691,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-156,360,480,0,83,181,115,214,9702,0.0561,23850,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-157,360,480,1,302,384,156,238,6724,0.0389,23850,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-158,360,480,0,63,161,105,204,9702,0.0561,24009,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-159,360,480,1,277,359,156,238,6724,0.0389,24009,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-160,360,480,0,103,201,105,204,9702,0.0561,24168,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-161,360,480,0,53,151,76,174,9604,0.0556,24327,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-162,360,480,1,310,392,131,213,6724,0.0389,24327,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-163,360,480,0,302,384,65,147,6724,0.0389,24486,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-164,360,480,1,43,141,86,184,9604,0.0556,24486,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-165,360,480,0,147,216,104,172,4692,0.0272,25281,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-166,360,480,0,301,340,169,209,1560,0.009,26553,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-167,360,480,0,297,336,145,185,1560,0.009,26871,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-168,360,480,0,193,232,85,125,1560,0.009,27666,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-169,360,480,0,146,202,212,268,3136,0.0181,27984,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-170,360,480,1,140,197,108,165,3249,0.0188,27984,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-171,360,480,0,141,209,201,269,4624,0.0268,28143,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-172,360,480,0,158,276,82,200,13924,0.0806,28461,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-173,360,480,0,122,240,70,188,13924,0.0806,28779,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-174,360,480,0,161,243,57,138,6642,0.0384,28938,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-175,360,480,0,241,288,110,158,2256,0.0131,29256,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-176,360,480,0,251,298,110,158,2256,0.0131,29415,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-177,360,480,0,279,327,110,158,2304,0.0133,29574,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-178,360,480,0,131,178,129,177,2256,0.0131,29892,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-179,360,480,1,265,304,109,149,1560,0.009,29892,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-180,360,480,0,300,368,138,207,4692,0.0272,30051,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-181,360,480,1,189,257,69,138,4692,0.0272,30051,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-182,360,480,0,293,375,106,188,6724,0.0389,30528,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-183,360,480,1,120,188,56,124,4624,0.0268,30528,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-184,360,480,0,54,101,245,292,2209,0.0128,31005,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-185,360,480,0,73,120,168,215,2209,0.0128,31164,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-186,360,480,1,308,356,144,191,2256,0.0131,31164,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-187,360,480,0,53,110,194,251,3249,0.0188,31323,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-188,360,480,0,238,295,119,176,3249,0.0188,31482,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-189,360,480,1,422,479,137,194,3249,0.0188,31482,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-190,360,480,0,49,96,163,210,2209,0.0128,31641,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-191,360,480,1,334,402,194,262,4624,0.0268,31641,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-192,360,480,0,100,156,125,182,3192,0.0185,31959,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-193,360,480,1,272,329,73,130,3249,0.0188,31959,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-194,360,480,0,179,320,160,301,19881,0.1151,32436,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-195,360,480,0,215,272,85,142,3249,0.0188,32595,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-196,360,480,0,107,154,101,148,2209,0.0128,32754,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-197,360,480,0,225,264,97,137,1560,0.009,32913,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-198,360,480,1,105,144,85,125,1560,0.009,32913,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-199,360,480,0,241,288,96,143,2209,0.0128,33549,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-200,360,480,1,159,207,96,143,2256,0.0131,33549,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-201,360,480,0,227,309,81,163,6724,0.0389,34503,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-202,360,480,0,227,309,90,172,6724,0.0389,34821,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-203,360,480,0,219,301,90,172,6724,0.0389,34980,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-204,360,480,0,196,264,90,158,4624,0.0268,35139,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-205,360,480,0,230,299,104,172,4692,0.0272,35298,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-206,360,480,0,203,271,76,145,4692,0.0272,35457,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-207,360,480,0,232,289,108,165,3249,0.0188,35616,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-208,360,480,1,174,231,137,194,3249,0.0188,35616,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-209,360,480,0,150,292,131,273,20164,0.1167,35775,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-210,360,480,0,217,285,97,165,4624,0.0268,35934,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-211,360,480,0,301,358,137,194,3249,0.0188,36252,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-212,360,480,1,212,260,125,172,2256,0.0131,36252,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-213,360,480,0,122,240,142,260,13924,0.0806,36570,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-214,360,480,0,165,306,102,244,20022,0.1159,36888,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-215,360,480,0,238,295,68,125,3249,0.0188,37047,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-216,360,480,0,401,440,133,173,1560,0.009,37365,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-217,360,480,1,257,296,133,173,1560,0.009,37365,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-218,360,480,0,172,270,125,224,9702,0.0561,37524,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-219,360,480,0,182,280,125,224,9702,0.0561,37683,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-220,360,480,0,172,270,125,224,9702,0.0561,38319,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-221,360,480,0,337,376,137,177,1560,0.009,38955,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-222,360,480,0,334,402,90,158,4624,0.0268,39114,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-223,360,480,0,284,341,68,125,3249,0.0188,39432,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-224,360,480,1,168,236,42,110,4624,0.0268,39432,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-225,360,480,0,337,376,141,181,1560,0.009,39591,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-226,360,480,0,212,310,105,204,9702,0.0561,39750,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-227,360,480,0,277,359,123,205,6724,0.0389,39909,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-228,360,480,1,73,171,105,204,9702,0.0561,39909,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-229,360,480,0,285,367,123,205,6724,0.0389,40068,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-230,360,480,1,53,135,140,221,6642,0.0384,40068,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-231,360,480,0,61,143,131,213,6724,0.0389,40227,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-232,360,480,1,302,384,131,213,6724,0.0389,40227,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-233,360,480,0,310,392,123,205,6724,0.0389,40386,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-234,360,480,1,86,168,123,205,6724,0.0389,40386,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-235,360,480,0,70,151,115,197,6642,0.0384,40545,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-236,360,480,1,335,417,123,205,6724,0.0389,40545,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-237,360,480,0,318,400,123,205,6724,0.0389,40704,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-238,360,480,1,73,171,115,214,9702,0.0561,40704,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-239,360,480,0,149,188,93,133,1560,0.009,41658,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-240,360,480,0,295,352,79,136,3249,0.0188,41817,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-241,360,480,0,313,382,173,241,4692,0.0272,41976,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-242,360,480,1,189,257,118,186,4624,0.0268,41976,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-243,360,480,0,105,162,114,171,3249,0.0188,42135,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-244,360,480,1,330,387,166,222,3192,0.0185,42135,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-245,360,480,0,120,188,111,179,4624,0.0268,42294,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-246,360,480,1,279,347,83,151,4624,0.0268,42294,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-247,360,480,0,255,312,96,153,3249,0.0188,42612,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-248,360,480,1,94,151,125,182,3249,0.0188,42612,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-249,360,480,0,255,312,56,113,3249,0.0188,42771,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-250,360,480,1,131,178,77,124,2209,0.0128,42771,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-251,360,480,0,169,216,77,124,2209,0.0128,42930,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-252,360,480,0,192,249,73,130,3249,0.0188,43566,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-253,360,480,1,111,159,77,124,2256,0.0131,43566,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-254,360,480,0,179,320,102,244,20022,0.1159,44679,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-255,360,480,0,145,192,62,110,2256,0.0131,44838,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-256,360,480,1,401,440,113,153,1560,0.009,44838,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-257,360,480,2,44,92,62,110,2304,0.0133,44838,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-258,360,480,0,245,284,73,113,1560,0.009,44997,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-259,360,480,1,361,400,121,161,1560,0.009,44997,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-260,360,480,2,87,135,77,124,2256,0.0131,44997,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-261,360,480,0,161,230,69,138,4761,0.0276,45156,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-262,360,480,1,290,346,125,182,3192,0.0185,45156,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-263,360,480,0,79,220,102,244,20022,0.1159,45315,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-264,360,480,0,182,280,135,234,9702,0.0561,45633,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-265,360,480,0,170,288,118,236,13924,0.0806,45792,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-266,360,480,0,161,243,90,172,6724,0.0389,46110,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-267,360,480,0,249,306,102,159,3249,0.0188,46269,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-268,360,480,0,141,209,56,124,4624,0.0268,46587,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-269,360,480,0,181,220,105,145,1560,0.009,47064,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-270,360,480,0,217,264,5,52,2209,0.0128,47223,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-271,360,480,0,305,344,37,77,1560,0.009,47382,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-272,360,480,0,182,280,66,164,9604,0.0556,47859,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-273,360,480,0,275,322,24,71,2209,0.0128,48336,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-274,360,480,0,182,300,106,224,13924,0.0806,48495,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-275,360,480,0,224,292,69,138,4692,0.0272,49131,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-276,360,480,0,174,231,96,153,3249,0.0188,49926,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-277,360,480,1,289,336,115,162,2209,0.0128,49926,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-278,360,480,0,299,346,101,148,2209,0.0128,50085,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-279,360,480,1,197,254,91,148,3249,0.0188,50085,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-280,360,480,0,308,356,129,177,2304,0.0133,50244,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-281,360,480,1,192,249,114,171,3249,0.0188,50244,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-282,360,480,2,117,156,145,185,1560,0.009,50244,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-283,360,480,3,251,298,134,182,2256,0.0131,50244,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-284,360,480,0,285,324,97,137,1560,0.009,50721,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-285,360,480,1,209,248,93,133,1560,0.009,50721,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-286,360,480,0,232,289,62,119,3249,0.0188,52470,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-287,360,480,0,251,319,49,117,4624,0.0268,52629,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-288,360,480,0,203,260,73,130,3249,0.0188,52947,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-289,360,480,0,373,412,85,125,1560,0.009,53742,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-290,360,480,0,389,428,81,121,1560,0.009,53901,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-291,360,480,0,302,400,125,224,9702,0.0561,55014,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-292,360,480,0,113,181,90,158,4624,0.0268,56286,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-293,360,480,1,272,340,111,179,4624,0.0268,56286,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-294,360,480,0,127,195,83,151,4624,0.0268,56604,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-295,360,480,1,272,329,125,182,3249,0.0188,56604,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-296,360,480,0,192,290,125,224,9702,0.0561,57876,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-297,360,480,0,144,226,148,230,6724,0.0389,58830,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-298,360,480,0,165,306,131,273,20022,0.1159,58989,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-299,360,480,0,289,336,134,182,2256,0.0131,59148,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-300,360,480,0,136,218,81,163,6724,0.0389,59307,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-301,360,480,0,170,340,123,293,28900,0.1672,59625,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-302,360,480,0,295,352,160,217,3249,0.0188,59784,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-303,360,480,1,168,236,83,151,4624,0.0268,59784,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-304,360,480,0,103,185,81,163,6724,0.0389,59943,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-305,360,480,1,232,330,115,214,9702,0.0561,59943,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-306,360,480,2,0,69,140,221,5589,0.0323,59943,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-307,360,480,3,318,375,125,182,3249,0.0188,59943,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-308,360,480,0,119,201,73,155,6724,0.0389,60102,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-309,360,480,0,284,341,148,205,3249,0.0188,60420,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-310,360,480,0,169,251,98,180,6724,0.0389,62169,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-311,360,480,0,168,236,83,151,4624,0.0268,62646,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-312,360,480,1,343,425,57,138,6642,0.0384,62646,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-313,360,480,0,189,257,97,165,4624,0.0268,62805,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-314,360,480,0,277,395,154,272,13924,0.0806,63282,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-315,360,480,0,395,442,105,153,2256,0.0131,63441,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-316,360,480,1,217,285,125,193,4624,0.0268,63441,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-317,360,480,0,174,221,235,282,2209,0.0128,64236,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-318,360,480,0,229,268,133,173,1560,0.009,64554,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-319,360,480,0,336,393,79,136,3249,0.0188,66462,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-320,360,480,0,135,183,67,114,2256,0.0131,66939,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-321,360,480,1,270,317,91,138,2209,0.0128,66939,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-322,360,480,0,116,164,86,134,2304,0.0133,67098,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-323,360,480,1,246,293,72,119,2209,0.0128,67098,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-324,360,480,0,105,162,91,148,3249,0.0188,67416,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-325,360,480,1,231,279,77,124,2256,0.0131,67416,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-326,360,480,0,121,168,91,138,2209,0.0128,67734,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-327,360,480,1,385,432,81,129,2256,0.0131,67734,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-328,360,480,0,225,264,125,165,1560,0.009,68052,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-329,360,480,0,177,259,65,147,6724,0.0389,68370,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-330,360,480,0,161,243,73,155,6724,0.0389,68847,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-331,360,480,0,193,232,65,105,1560,0.009,69960,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-332,360,480,1,260,308,206,254,2304,0.0133,69960,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-333,360,480,0,249,288,97,137,1560,0.009,70119,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-334,360,480,0,145,192,149,196,2209,0.0128,70278,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-335,360,480,0,136,218,115,197,6724,0.0389,70437,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-336,360,480,0,170,288,70,188,13924,0.0806,72663,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-337,360,480,0,146,264,70,188,13924,0.0806,73458,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-338,360,480,0,136,305,72,241,28561,0.1653,73617,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-339,360,480,0,86,204,106,224,13924,0.0806,73935,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-340,360,480,0,158,276,118,236,13924,0.0806,74253,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-341,360,480,0,289,407,58,176,13924,0.0806,74412,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-342,360,480,0,192,290,66,164,9604,0.0556,74571,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-343,360,480,0,152,251,115,214,9801,0.0567,74889,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-344,360,480,0,251,392,102,244,20022,0.1159,75048,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-345,360,480,0,236,378,31,172,20022,0.1159,75207,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-346,360,480,0,179,320,160,301,19881,0.1151,75525,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-347,360,480,0,165,306,160,301,19881,0.1151,75843,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-348,360,480,0,158,276,82,200,13924,0.0806,76002,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-349,360,480,0,172,270,96,194,9604,0.0556,76161,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-350,360,480,0,327,375,192,239,2256,0.0131,76320,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-351,360,480,0,170,340,106,276,28900,0.1672,76797,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-352,360,480,0,134,252,82,200,13924,0.0806,76956,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-353,360,480,0,206,323,142,260,13806,0.0799,77274,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-354,360,480,0,97,144,168,215,2209,0.0128,77433,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-355,360,480,1,341,398,45,101,3192,0.0185,77433,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-356,360,480,0,162,261,86,184,9702,0.0561,77751,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-357,360,480,0,179,320,59,201,20022,0.1159,77910,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-358,360,480,0,170,340,37,207,28900,0.1672,78228,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-359,360,480,0,251,392,31,172,19881,0.1151,78387,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-360,360,480,0,208,349,31,172,19881,0.1151,78546,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-361,360,480,0,236,378,174,316,20164,0.1167,78705,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-362,360,480,0,301,358,154,211,3249,0.0188,78864,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-363,360,480,0,165,306,131,273,20022,0.1159,79977,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-364,360,480,0,165,306,131,273,20022,0.1159,80136,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-365,360,480,0,165,306,131,273,20022,0.1159,80454,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-366,360,480,0,170,340,89,259,28900,0.1672,80772,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-367,360,480,0,172,270,96,194,9604,0.0556,80931,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-368,360,480,0,136,277,117,258,19881,0.1151,81090,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-369,360,480,0,152,251,76,174,9702,0.0561,81249,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-370,360,480,0,227,309,48,130,6724,0.0389,81408,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-371,360,480,0,172,270,96,194,9604,0.0556,81726,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-372,360,480,0,117,156,49,89,1560,0.009,82521,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-373,360,480,0,210,278,118,186,4624,0.0268,82680,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-374,360,480,0,270,317,192,239,2209,0.0128,84429,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-375,360,480,0,136,277,102,244,20022,0.1159,84906,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-376,360,480,0,192,290,195,293,9604,0.0556,86019,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-377,360,480,0,182,280,175,273,9604,0.0556,86814,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-378,360,480,0,222,269,110,158,2256,0.0131,88722,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-379,360,480,0,207,255,101,148,2256,0.0131,89040,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-380,360,480,0,100,156,73,130,3192,0.0185,89517,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-381,360,480,0,78,160,81,163,6724,0.0389,89676,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-382,360,480,1,175,243,104,172,4624,0.0268,89676,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-383,360,480,0,111,193,73,155,6724,0.0389,90153,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-384,360,480,1,224,292,104,172,4624,0.0268,90153,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-385,360,480,0,267,323,148,205,3192,0.0185,90789,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-386,360,480,1,186,268,156,238,6724,0.0389,90789,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-387,360,480,2,388,444,119,176,3192,0.0185,90789,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-388,360,480,3,83,181,175,273,9604,0.0556,90789,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-389,360,480,0,165,306,131,273,20022,0.1159,91266,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-390,360,480,1,0,108,154,272,12744,0.0737,91266,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-391,360,480,0,150,292,117,258,20022,0.1159,91425,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-392,360,480,1,0,108,154,272,12744,0.0737,91425,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-393,360,480,0,161,230,97,165,4692,0.0272,92220,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-394,360,480,0,132,231,125,224,9801,0.0567,92697,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-395,360,480,0,196,264,90,158,4624,0.0268,92856,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-396,360,480,1,68,116,48,95,2256,0.0131,92856,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-397,360,480,2,11,93,272,354,6724,0.0389,92856,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-398,360,480,0,179,320,74,215,19881,0.1151,93015,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-399,360,480,0,44,112,97,165,4624,0.0268,93492,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-400,360,480,1,272,340,111,179,4624,0.0268,93492,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-401,360,480,2,33,131,265,360,9310,0.0539,93492,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-402,360,480,0,175,243,111,179,4624,0.0268,93651,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-403,360,480,0,342,389,105,153,2256,0.0131,94446,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-404,360,480,1,59,116,125,182,3249,0.0188,94446,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-405,360,480,0,284,341,114,171,3249,0.0188,95082,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-406,360,480,0,209,266,102,159,3249,0.0188,95718,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-407,360,480,0,255,303,86,134,2304,0.0133,97149,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-408,360,480,0,269,308,197,237,1560,0.009,99852,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-409,360,480,0,257,296,181,221,1560,0.009,100011,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-410,360,480,0,169,216,144,191,2209,0.0128,101124,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-411,360,480,1,83,130,177,225,2256,0.0131,101124,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-412,360,480,0,368,450,81,163,6724,0.0389,101283,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-413,360,480,0,145,192,115,162,2209,0.0128,101442,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-414,360,480,1,201,240,101,141,1560,0.009,101442,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-415,360,480,0,272,340,152,221,4692,0.0272,101601,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-416,360,480,1,78,160,115,197,6724,0.0389,101601,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-417,360,480,0,289,336,173,220,2209,0.0128,103350,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-418,360,480,0,246,293,187,234,2209,0.0128,103668,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-419,360,480,0,85,124,109,149,1560,0.009,104304,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-420,360,480,0,230,299,180,248,4692,0.0272,105258,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-421,360,480,0,237,306,235,303,4692,0.0272,105417,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-422,360,480,0,186,268,48,130,6724,0.0389,105735,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-423,360,480,0,209,266,96,153,3249,0.0188,105894,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-424,360,480,0,147,216,76,145,4761,0.0276,106689,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-425,360,480,0,203,260,68,125,3249,0.0188,109074,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-426,360,480,0,105,162,85,142,3249,0.0188,109233,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-427,360,480,0,284,341,235,292,3249,0.0188,110187,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-428,360,480,0,364,421,200,257,3249,0.0188,111300,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-429,360,480,0,272,370,26,124,9604,0.0556,112254,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-430,360,480,0,203,271,35,103,4624,0.0268,112890,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-431,360,480,0,252,334,98,180,6724,0.0389,113685,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-432,360,480,0,142,241,135,234,9801,0.0567,114798,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-433,360,480,0,252,334,131,213,6724,0.0389,115911,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-434,360,480,1,119,201,123,205,6724,0.0389,115911,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-435,360,480,0,293,375,148,230,6724,0.0389,116229,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-436,360,480,1,152,234,131,213,6724,0.0389,116229,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-437,360,480,0,152,251,86,184,9702,0.0561,116706,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-438,360,480,1,306,375,90,158,4692,0.0272,116706,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-439,360,480,0,57,96,161,201,1560,0.009,117342,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-440,360,480,1,137,176,129,169,1560,0.009,117342,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-441,360,480,0,232,330,195,293,9604,0.0556,117501,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-442,360,480,1,83,181,165,264,9702,0.0561,117501,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-443,360,480,0,93,191,165,264,9702,0.0561,117660,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-444,360,480,1,242,340,155,254,9702,0.0561,117660,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-445,360,480,0,202,284,140,221,6642,0.0384,122271,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-446,360,480,1,83,181,125,224,9702,0.0561,122271,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-447,360,480,0,192,290,135,234,9702,0.0561,122748,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-448,360,480,1,63,161,145,244,9702,0.0561,122748,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-449,360,480,0,177,259,123,205,6724,0.0389,124020,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-450,360,480,1,277,359,106,188,6724,0.0389,124020,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-451,360,480,0,272,340,90,158,4624,0.0268,125451,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-452,360,480,0,58,126,104,172,4624,0.0268,128949,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-453,360,480,1,293,375,90,172,6724,0.0389,128949,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-454,360,480,0,293,361,104,172,4624,0.0268,129267,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-455,360,480,1,352,433,106,188,6642,0.0384,129267,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-456,360,480,0,433,472,141,181,1560,0.009,129426,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-457,360,480,0,241,359,94,212,13924,0.0806,130062,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-458,360,480,0,253,371,94,212,13924,0.0806,130221,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-459,360,480,0,23,91,111,179,4624,0.0268,130539,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-460,360,480,0,7,64,73,130,3249,0.0188,131334,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-461,360,480,1,251,319,69,138,4692,0.0272,131334,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-462,360,480,2,111,168,108,165,3249,0.0188,131334,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-463,360,480,0,134,202,83,151,4624,0.0268,131811,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-464,360,480,1,251,319,76,145,4692,0.0272,131811,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-465,360,480,0,227,274,77,124,2209,0.0128,132288,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-466,360,480,1,128,185,96,153,3249,0.0188,132288,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-467,360,480,0,332,380,120,167,2256,0.0131,138489,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-468,360,480,0,182,300,94,212,13924,0.0806,138648,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-469,360,480,0,206,323,82,200,13806,0.0799,138807,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-470,360,480,0,162,261,105,204,9801,0.0567,139284,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-471,360,480,0,172,270,105,204,9702,0.0561,139443,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-472,360,480,0,86,204,130,248,13924,0.0806,139602,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-473,360,480,0,78,160,73,155,6724,0.0389,140079,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-474,360,480,1,293,361,125,193,4624,0.0268,140079,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-475,360,480,0,86,204,106,224,13924,0.0806,140238,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-476,360,480,0,112,211,125,224,9801,0.0567,140556,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-477,360,480,0,170,288,130,248,13924,0.0806,149301,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-478,360,480,0,118,288,72,241,28730,0.1663,149619,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-479,360,480,0,301,340,105,145,1560,0.009,150573,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-480,360,480,0,189,257,97,165,4624,0.0268,150891,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-481,360,480,0,120,188,69,138,4692,0.0272,151686,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-482,360,480,0,272,370,195,293,9604,0.0556,152481,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-483,360,480,1,50,168,106,224,13924,0.0806,152481,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-484,360,480,0,63,161,105,204,9702,0.0561,152799,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-485,360,480,1,272,370,155,254,9702,0.0561,152799,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-486,360,480,0,100,156,45,101,3136,0.0181,156297,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-487,360,480,0,215,272,68,125,3249,0.0188,157092,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-488,360,480,0,177,259,73,155,6724,0.0389,160908,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-489,360,480,0,395,442,158,206,2256,0.0131,163293,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-490,360,480,1,324,381,258,315,3249,0.0188,163293,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-491,360,480,2,249,306,50,107,3249,0.0188,163293,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-492,360,480,3,174,221,101,148,2209,0.0128,163293,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-493,360,480,4,111,168,108,165,3249,0.0188,163293,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-494,360,480,0,224,292,235,303,4624,0.0268,164406,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-495,360,480,1,140,197,96,153,3249,0.0188,164406,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-496,360,480,2,244,300,73,130,3192,0.0185,164406,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-497,360,480,3,364,421,27,84,3249,0.0188,164406,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-498,360,480,0,119,201,123,205,6724,0.0389,164883,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-499,360,480,1,285,367,98,180,6724,0.0389,164883,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-500,360,480,2,2,58,119,176,3192,0.0185,164883,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-501,360,480,0,93,191,26,124,9604,0.0556,165042,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-502,360,480,0,212,310,56,154,9604,0.0556,165360,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-503,360,480,1,179,320,160,301,19881,0.1151,165360,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-504,360,480,0,236,378,16,158,20164,0.1167,165519,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-505,360,480,1,208,349,217,359,20022,0.1159,165519,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-506,360,480,2,73,171,0,74,7252,0.042,165519,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-507,360,480,0,196,264,83,151,4624,0.0268,165837,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-508,360,480,0,93,132,209,249,1560,0.009,166632,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-509,360,480,1,245,284,189,229,1560,0.009,166632,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
-510,360,480,0,249,306,131,188,3249,0.0188,166950,/home/amos/server/media/movies/The Mysterious Island (1929)/The Mysterious Island (1929).mp4
+,img_height,img_width,face_num,x1,x2,y1,y2,area,pct_of_frame,frame_num,imdb_id
+0,360,480,0,198,245,221,268,2209,0.0128,3657,20198
+1,360,480,1,137,176,189,229,1560,0.009,3657,20198
+2,360,480,2,419,466,211,258,2209,0.0128,3657,20198
+3,360,480,3,179,226,292,340,2256,0.0131,3657,20198
+4,360,480,0,38,156,166,284,13924,0.0806,6837,20198
+5,360,480,0,279,327,77,124,2256,0.0131,7155,20198
+6,360,480,1,157,214,56,113,3249,0.0188,7155,20198
+7,360,480,0,284,332,72,119,2256,0.0131,7314,20198
+8,360,480,1,157,214,50,107,3249,0.0188,7314,20198
+9,360,480,0,284,341,91,148,3249,0.0188,7473,20198
+10,360,480,1,157,214,56,113,3249,0.0188,7473,20198
+11,360,480,0,169,226,56,113,3249,0.0188,7632,20198
+12,360,480,1,284,341,68,125,3249,0.0188,7632,20198
+13,360,480,0,267,323,79,136,3192,0.0185,7791,20198
+14,360,480,1,174,231,62,119,3249,0.0188,7791,20198
+15,360,480,0,289,336,81,129,2256,0.0131,8109,20198
+16,360,480,0,193,240,72,119,2209,0.0128,8268,20198
+17,360,480,1,313,370,79,136,3249,0.0188,8268,20198
+18,360,480,0,313,370,85,142,3249,0.0188,8427,20198
+19,360,480,1,192,249,62,119,3249,0.0188,8427,20198
+20,360,480,0,313,370,85,142,3249,0.0188,8586,20198
+21,360,480,1,174,231,56,113,3249,0.0188,8586,20198
+22,360,480,0,313,370,85,142,3249,0.0188,8745,20198
+23,360,480,1,180,237,56,113,3249,0.0188,8745,20198
+24,360,480,0,313,370,68,125,3249,0.0188,8904,20198
+25,360,480,1,174,231,50,107,3249,0.0188,8904,20198
+26,360,480,0,332,380,91,138,2256,0.0131,9063,20198
+27,360,480,1,180,237,62,119,3249,0.0188,9063,20198
+28,360,480,0,301,358,79,136,3249,0.0188,9222,20198
+29,360,480,1,186,243,56,113,3249,0.0188,9222,20198
+30,360,480,0,180,237,45,101,3192,0.0185,9381,20198
+31,360,480,1,308,356,77,124,2256,0.0131,9381,20198
+32,360,480,0,226,283,56,113,3249,0.0188,9540,20198
+33,360,480,1,318,365,77,124,2209,0.0128,9540,20198
+34,360,480,0,308,356,81,129,2304,0.0133,9699,20198
+35,360,480,0,330,387,62,119,3249,0.0188,9858,20198
+36,360,480,0,279,327,67,114,2256,0.0131,10017,20198
+37,360,480,1,217,264,81,129,2256,0.0131,10017,20198
+38,360,480,0,267,323,62,119,3192,0.0185,10176,20198
+39,360,480,1,150,197,96,143,2209,0.0128,10176,20198
+40,360,480,0,255,312,56,113,3249,0.0188,10335,20198
+41,360,480,1,140,188,96,143,2256,0.0131,10335,20198
+42,360,480,0,222,269,67,114,2209,0.0128,10494,20198
+43,360,480,1,116,164,91,138,2256,0.0131,10494,20198
+44,360,480,0,126,173,96,143,2209,0.0128,10653,20198
+45,360,480,1,192,249,68,125,3249,0.0188,10653,20198
+46,360,480,0,226,283,56,113,3249,0.0188,10812,20198
+47,360,480,1,111,159,86,134,2304,0.0133,10812,20198
+48,360,480,0,209,266,56,113,3249,0.0188,10971,20198
+49,360,480,1,83,130,86,134,2256,0.0131,10971,20198
+50,360,480,0,113,152,93,133,1560,0.009,11130,20198
+51,360,480,1,232,289,62,119,3249,0.0188,11130,20198
+52,360,480,0,131,178,91,138,2209,0.0128,11289,20198
+53,360,480,1,217,264,67,114,2209,0.0128,11289,20198
+54,360,480,0,155,202,91,138,2209,0.0128,11448,20198
+55,360,480,1,226,283,62,119,3249,0.0188,11448,20198
+56,360,480,0,241,288,67,114,2209,0.0128,11607,20198
+57,360,480,1,157,214,85,142,3249,0.0188,11607,20198
+58,360,480,0,164,212,101,148,2256,0.0131,11766,20198
+59,360,480,1,249,306,62,119,3249,0.0188,11766,20198
+60,360,480,0,150,197,96,143,2209,0.0128,11925,20198
+61,360,480,1,249,306,62,119,3249,0.0188,11925,20198
+62,360,480,0,140,188,91,138,2256,0.0131,12084,20198
+63,360,480,1,260,308,53,100,2256,0.0131,12084,20198
+64,360,480,0,140,188,86,134,2304,0.0133,12243,20198
+65,360,480,1,299,346,67,114,2209,0.0128,12243,20198
+66,360,480,0,244,300,56,113,3192,0.0185,12402,20198
+67,360,480,1,126,173,86,134,2256,0.0131,12402,20198
+68,360,480,0,220,277,62,119,3249,0.0188,12561,20198
+69,360,480,1,116,164,96,143,2256,0.0131,12561,20198
+70,360,480,0,140,188,91,138,2256,0.0131,12720,20198
+71,360,480,1,220,277,62,119,3249,0.0188,12720,20198
+72,360,480,0,159,207,86,134,2304,0.0133,12879,20198
+73,360,480,1,232,289,62,119,3249,0.0188,12879,20198
+74,360,480,0,232,289,62,119,3249,0.0188,13038,20198
+75,360,480,1,107,154,96,143,2209,0.0128,13038,20198
+76,360,480,0,238,295,62,119,3249,0.0188,13197,20198
+77,360,480,1,97,144,96,143,2209,0.0128,13197,20198
+78,360,480,0,116,164,81,129,2304,0.0133,13356,20198
+79,360,480,1,236,284,62,110,2304,0.0133,13356,20198
+80,360,480,0,23,91,69,138,4692,0.0272,14310,20198
+81,360,480,0,45,127,81,163,6724,0.0389,14469,20198
+82,360,480,0,293,361,56,124,4624,0.0268,14628,20198
+83,360,480,1,71,140,49,117,4692,0.0272,14628,20198
+84,360,480,0,94,176,57,138,6642,0.0384,14787,20198
+85,360,480,1,279,347,97,165,4624,0.0268,14787,20198
+86,360,480,0,321,420,115,214,9801,0.0567,15582,20198
+87,360,480,0,106,174,83,151,4624,0.0268,15741,20198
+88,360,480,0,92,160,83,151,4624,0.0268,15900,20198
+89,360,480,0,99,167,83,151,4624,0.0268,16059,20198
+90,360,480,0,71,140,83,151,4692,0.0272,16218,20198
+91,360,480,0,78,147,83,151,4692,0.0272,16377,20198
+92,360,480,0,182,280,105,204,9702,0.0561,16536,20198
+93,360,480,0,172,270,115,214,9702,0.0561,16695,20198
+94,360,480,0,202,300,105,204,9702,0.0561,16854,20198
+95,360,480,0,211,292,140,221,6561,0.038,17013,20198
+96,360,480,0,186,268,123,205,6724,0.0389,17172,20198
+97,360,480,0,122,221,115,214,9801,0.0567,17331,20198
+98,360,480,0,211,292,131,213,6642,0.0384,17490,20198
+99,360,480,0,142,241,135,234,9801,0.0567,17649,20198
+100,360,480,0,172,270,125,224,9702,0.0561,17808,20198
+101,360,480,0,242,340,96,194,9604,0.0556,17967,20198
+102,360,480,0,232,330,96,194,9604,0.0556,18126,20198
+103,360,480,0,106,174,69,138,4692,0.0272,18285,20198
+104,360,480,0,85,154,83,151,4692,0.0272,18444,20198
+105,360,480,0,92,160,83,151,4624,0.0268,18603,20198
+106,360,480,1,251,319,111,179,4624,0.0268,18603,20198
+107,360,480,0,92,160,69,138,4692,0.0272,18762,20198
+108,360,480,1,237,306,118,186,4692,0.0272,18762,20198
+109,360,480,0,92,160,83,151,4624,0.0268,18921,20198
+110,360,480,1,261,318,114,171,3249,0.0188,18921,20198
+111,360,480,0,82,139,91,148,3249,0.0188,19080,20198
+112,360,480,1,255,312,119,176,3249,0.0188,19080,20198
+113,360,480,0,92,160,69,138,4692,0.0272,19239,20198
+114,360,480,0,106,174,83,151,4624,0.0268,19398,20198
+115,360,480,0,99,167,83,151,4624,0.0268,19557,20198
+116,360,480,0,99,167,83,151,4624,0.0268,19716,20198
+117,360,480,1,293,361,97,165,4624,0.0268,19716,20198
+118,360,480,0,78,147,69,138,4761,0.0276,19875,20198
+119,360,480,0,99,167,76,145,4692,0.0272,20034,20198
+120,360,480,0,120,188,69,138,4692,0.0272,20193,20198
+121,360,480,1,290,346,96,153,3192,0.0185,20193,20198
+122,360,480,0,99,167,76,145,4692,0.0272,20352,20198
+123,360,480,0,318,375,119,176,3249,0.0188,20670,20198
+124,360,480,1,128,185,108,165,3249,0.0188,20670,20198
+125,360,480,0,278,335,131,188,3249,0.0188,20829,20198
+126,360,480,1,140,197,102,159,3249,0.0188,20829,20198
+127,360,480,0,284,341,131,188,3249,0.0188,20988,20198
+128,360,480,0,128,185,102,159,3249,0.0188,21147,20198
+129,360,480,1,299,346,139,186,2209,0.0128,21147,20198
+130,360,480,0,308,356,115,162,2256,0.0131,21306,20198
+131,360,480,0,342,389,129,177,2256,0.0131,21465,20198
+132,360,480,0,150,197,105,153,2256,0.0131,21624,20198
+133,360,480,1,347,394,115,162,2209,0.0128,21624,20198
+134,360,480,0,275,322,110,158,2256,0.0131,21942,20198
+135,360,480,1,105,162,91,148,3249,0.0188,21942,20198
+136,360,480,0,294,341,115,162,2209,0.0128,22101,20198
+137,360,480,1,117,174,85,142,3249,0.0188,22101,20198
+138,360,480,0,261,318,114,171,3249,0.0188,22260,20198
+139,360,480,1,128,185,96,153,3249,0.0188,22260,20198
+140,360,480,0,111,168,102,159,3249,0.0188,22419,20198
+141,360,480,0,302,400,105,204,9702,0.0561,22578,20198
+142,360,480,0,103,201,105,204,9702,0.0561,22737,20198
+143,360,480,1,272,370,115,214,9702,0.0561,22737,20198
+144,360,480,0,83,181,105,204,9702,0.0561,22896,20198
+145,360,480,1,262,360,125,224,9702,0.0561,22896,20198
+146,360,480,0,93,191,105,204,9702,0.0561,23055,20198
+147,360,480,1,262,360,125,224,9702,0.0561,23055,20198
+148,360,480,0,73,171,66,164,9604,0.0556,23214,20198
+149,360,480,1,282,380,96,194,9604,0.0556,23214,20198
+150,360,480,0,63,161,86,184,9604,0.0556,23373,20198
+151,360,480,1,313,431,58,176,13924,0.0806,23373,20198
+152,360,480,0,63,161,86,184,9604,0.0556,23532,20198
+153,360,480,1,262,360,115,214,9702,0.0561,23532,20198
+154,360,480,0,103,201,115,214,9702,0.0561,23691,20198
+155,360,480,1,343,425,123,205,6724,0.0389,23691,20198
+156,360,480,0,83,181,115,214,9702,0.0561,23850,20198
+157,360,480,1,302,384,156,238,6724,0.0389,23850,20198
+158,360,480,0,63,161,105,204,9702,0.0561,24009,20198
+159,360,480,1,277,359,156,238,6724,0.0389,24009,20198
+160,360,480,0,103,201,105,204,9702,0.0561,24168,20198
+161,360,480,0,53,151,76,174,9604,0.0556,24327,20198
+162,360,480,1,310,392,131,213,6724,0.0389,24327,20198
+163,360,480,0,302,384,65,147,6724,0.0389,24486,20198
+164,360,480,1,43,141,86,184,9604,0.0556,24486,20198
+165,360,480,0,147,216,104,172,4692,0.0272,25281,20198
+166,360,480,0,301,340,169,209,1560,0.009,26553,20198
+167,360,480,0,297,336,145,185,1560,0.009,26871,20198
+168,360,480,0,193,232,85,125,1560,0.009,27666,20198
+169,360,480,0,146,202,212,268,3136,0.0181,27984,20198
+170,360,480,1,140,197,108,165,3249,0.0188,27984,20198
+171,360,480,0,141,209,201,269,4624,0.0268,28143,20198
+172,360,480,0,158,276,82,200,13924,0.0806,28461,20198
+173,360,480,0,122,240,70,188,13924,0.0806,28779,20198
+174,360,480,0,161,243,57,138,6642,0.0384,28938,20198
+175,360,480,0,241,288,110,158,2256,0.0131,29256,20198
+176,360,480,0,251,298,110,158,2256,0.0131,29415,20198
+177,360,480,0,279,327,110,158,2304,0.0133,29574,20198
+178,360,480,0,131,178,129,177,2256,0.0131,29892,20198
+179,360,480,1,265,304,109,149,1560,0.009,29892,20198
+180,360,480,0,300,368,138,207,4692,0.0272,30051,20198
+181,360,480,1,189,257,69,138,4692,0.0272,30051,20198
+182,360,480,0,293,375,106,188,6724,0.0389,30528,20198
+183,360,480,1,120,188,56,124,4624,0.0268,30528,20198
+184,360,480,0,54,101,245,292,2209,0.0128,31005,20198
+185,360,480,0,73,120,168,215,2209,0.0128,31164,20198
+186,360,480,1,308,356,144,191,2256,0.0131,31164,20198
+187,360,480,0,53,110,194,251,3249,0.0188,31323,20198
+188,360,480,0,238,295,119,176,3249,0.0188,31482,20198
+189,360,480,1,422,479,137,194,3249,0.0188,31482,20198
+190,360,480,0,49,96,163,210,2209,0.0128,31641,20198
+191,360,480,1,334,402,194,262,4624,0.0268,31641,20198
+192,360,480,0,100,156,125,182,3192,0.0185,31959,20198
+193,360,480,1,272,329,73,130,3249,0.0188,31959,20198
+194,360,480,0,179,320,160,301,19881,0.1151,32436,20198
+195,360,480,0,215,272,85,142,3249,0.0188,32595,20198
+196,360,480,0,107,154,101,148,2209,0.0128,32754,20198
+197,360,480,0,225,264,97,137,1560,0.009,32913,20198
+198,360,480,1,105,144,85,125,1560,0.009,32913,20198
+199,360,480,0,241,288,96,143,2209,0.0128,33549,20198
+200,360,480,1,159,207,96,143,2256,0.0131,33549,20198
+201,360,480,0,227,309,81,163,6724,0.0389,34503,20198
+202,360,480,0,227,309,90,172,6724,0.0389,34821,20198
+203,360,480,0,219,301,90,172,6724,0.0389,34980,20198
+204,360,480,0,196,264,90,158,4624,0.0268,35139,20198
+205,360,480,0,230,299,104,172,4692,0.0272,35298,20198
+206,360,480,0,203,271,76,145,4692,0.0272,35457,20198
+207,360,480,0,232,289,108,165,3249,0.0188,35616,20198
+208,360,480,1,174,231,137,194,3249,0.0188,35616,20198
+209,360,480,0,150,292,131,273,20164,0.1167,35775,20198
+210,360,480,0,217,285,97,165,4624,0.0268,35934,20198
+211,360,480,0,301,358,137,194,3249,0.0188,36252,20198
+212,360,480,1,212,260,125,172,2256,0.0131,36252,20198
+213,360,480,0,122,240,142,260,13924,0.0806,36570,20198
+214,360,480,0,165,306,102,244,20022,0.1159,36888,20198
+215,360,480,0,238,295,68,125,3249,0.0188,37047,20198
+216,360,480,0,401,440,133,173,1560,0.009,37365,20198
+217,360,480,1,257,296,133,173,1560,0.009,37365,20198
+218,360,480,0,172,270,125,224,9702,0.0561,37524,20198
+219,360,480,0,182,280,125,224,9702,0.0561,37683,20198
+220,360,480,0,172,270,125,224,9702,0.0561,38319,20198
+221,360,480,0,337,376,137,177,1560,0.009,38955,20198
+222,360,480,0,334,402,90,158,4624,0.0268,39114,20198
+223,360,480,0,284,341,68,125,3249,0.0188,39432,20198
+224,360,480,1,168,236,42,110,4624,0.0268,39432,20198
+225,360,480,0,337,376,141,181,1560,0.009,39591,20198
+226,360,480,0,212,310,105,204,9702,0.0561,39750,20198
+227,360,480,0,277,359,123,205,6724,0.0389,39909,20198
+228,360,480,1,73,171,105,204,9702,0.0561,39909,20198
+229,360,480,0,285,367,123,205,6724,0.0389,40068,20198
+230,360,480,1,53,135,140,221,6642,0.0384,40068,20198
+231,360,480,0,61,143,131,213,6724,0.0389,40227,20198
+232,360,480,1,302,384,131,213,6724,0.0389,40227,20198
+233,360,480,0,310,392,123,205,6724,0.0389,40386,20198
+234,360,480,1,86,168,123,205,6724,0.0389,40386,20198
+235,360,480,0,70,151,115,197,6642,0.0384,40545,20198
+236,360,480,1,335,417,123,205,6724,0.0389,40545,20198
+237,360,480,0,318,400,123,205,6724,0.0389,40704,20198
+238,360,480,1,73,171,115,214,9702,0.0561,40704,20198
+239,360,480,0,149,188,93,133,1560,0.009,41658,20198
+240,360,480,0,295,352,79,136,3249,0.0188,41817,20198
+241,360,480,0,313,382,173,241,4692,0.0272,41976,20198
+242,360,480,1,189,257,118,186,4624,0.0268,41976,20198
+243,360,480,0,105,162,114,171,3249,0.0188,42135,20198
+244,360,480,1,330,387,166,222,3192,0.0185,42135,20198
+245,360,480,0,120,188,111,179,4624,0.0268,42294,20198
+246,360,480,1,279,347,83,151,4624,0.0268,42294,20198
+247,360,480,0,255,312,96,153,3249,0.0188,42612,20198
+248,360,480,1,94,151,125,182,3249,0.0188,42612,20198
+249,360,480,0,255,312,56,113,3249,0.0188,42771,20198
+250,360,480,1,131,178,77,124,2209,0.0128,42771,20198
+251,360,480,0,169,216,77,124,2209,0.0128,42930,20198
+252,360,480,0,192,249,73,130,3249,0.0188,43566,20198
+253,360,480,1,111,159,77,124,2256,0.0131,43566,20198
+254,360,480,0,179,320,102,244,20022,0.1159,44679,20198
+255,360,480,0,145,192,62,110,2256,0.0131,44838,20198
+256,360,480,1,401,440,113,153,1560,0.009,44838,20198
+257,360,480,2,44,92,62,110,2304,0.0133,44838,20198
+258,360,480,0,245,284,73,113,1560,0.009,44997,20198
+259,360,480,1,361,400,121,161,1560,0.009,44997,20198
+260,360,480,2,87,135,77,124,2256,0.0131,44997,20198
+261,360,480,0,161,230,69,138,4761,0.0276,45156,20198
+262,360,480,1,290,346,125,182,3192,0.0185,45156,20198
+263,360,480,0,79,220,102,244,20022,0.1159,45315,20198
+264,360,480,0,182,280,135,234,9702,0.0561,45633,20198
+265,360,480,0,170,288,118,236,13924,0.0806,45792,20198
+266,360,480,0,161,243,90,172,6724,0.0389,46110,20198
+267,360,480,0,249,306,102,159,3249,0.0188,46269,20198
+268,360,480,0,141,209,56,124,4624,0.0268,46587,20198
+269,360,480,0,181,220,105,145,1560,0.009,47064,20198
+270,360,480,0,217,264,5,52,2209,0.0128,47223,20198
+271,360,480,0,305,344,37,77,1560,0.009,47382,20198
+272,360,480,0,182,280,66,164,9604,0.0556,47859,20198
+273,360,480,0,275,322,24,71,2209,0.0128,48336,20198
+274,360,480,0,182,300,106,224,13924,0.0806,48495,20198
+275,360,480,0,224,292,69,138,4692,0.0272,49131,20198
+276,360,480,0,174,231,96,153,3249,0.0188,49926,20198
+277,360,480,1,289,336,115,162,2209,0.0128,49926,20198
+278,360,480,0,299,346,101,148,2209,0.0128,50085,20198
+279,360,480,1,197,254,91,148,3249,0.0188,50085,20198
+280,360,480,0,308,356,129,177,2304,0.0133,50244,20198
+281,360,480,1,192,249,114,171,3249,0.0188,50244,20198
+282,360,480,2,117,156,145,185,1560,0.009,50244,20198
+283,360,480,3,251,298,134,182,2256,0.0131,50244,20198
+284,360,480,0,285,324,97,137,1560,0.009,50721,20198
+285,360,480,1,209,248,93,133,1560,0.009,50721,20198
+286,360,480,0,232,289,62,119,3249,0.0188,52470,20198
+287,360,480,0,251,319,49,117,4624,0.0268,52629,20198
+288,360,480,0,203,260,73,130,3249,0.0188,52947,20198
+289,360,480,0,373,412,85,125,1560,0.009,53742,20198
+290,360,480,0,389,428,81,121,1560,0.009,53901,20198
+291,360,480,0,302,400,125,224,9702,0.0561,55014,20198
+292,360,480,0,113,181,90,158,4624,0.0268,56286,20198
+293,360,480,1,272,340,111,179,4624,0.0268,56286,20198
+294,360,480,0,127,195,83,151,4624,0.0268,56604,20198
+295,360,480,1,272,329,125,182,3249,0.0188,56604,20198
+296,360,480,0,192,290,125,224,9702,0.0561,57876,20198
+297,360,480,0,144,226,148,230,6724,0.0389,58830,20198
+298,360,480,0,165,306,131,273,20022,0.1159,58989,20198
+299,360,480,0,289,336,134,182,2256,0.0131,59148,20198
+300,360,480,0,136,218,81,163,6724,0.0389,59307,20198
+301,360,480,0,170,340,123,293,28900,0.1672,59625,20198
+302,360,480,0,295,352,160,217,3249,0.0188,59784,20198
+303,360,480,1,168,236,83,151,4624,0.0268,59784,20198
+304,360,480,0,103,185,81,163,6724,0.0389,59943,20198
+305,360,480,1,232,330,115,214,9702,0.0561,59943,20198
+306,360,480,2,0,69,140,221,5589,0.0323,59943,20198
+307,360,480,3,318,375,125,182,3249,0.0188,59943,20198
+308,360,480,0,119,201,73,155,6724,0.0389,60102,20198
+309,360,480,0,284,341,148,205,3249,0.0188,60420,20198
+310,360,480,0,169,251,98,180,6724,0.0389,62169,20198
+311,360,480,0,168,236,83,151,4624,0.0268,62646,20198
+312,360,480,1,343,425,57,138,6642,0.0384,62646,20198
+313,360,480,0,189,257,97,165,4624,0.0268,62805,20198
+314,360,480,0,277,395,154,272,13924,0.0806,63282,20198
+315,360,480,0,395,442,105,153,2256,0.0131,63441,20198
+316,360,480,1,217,285,125,193,4624,0.0268,63441,20198
+317,360,480,0,174,221,235,282,2209,0.0128,64236,20198
+318,360,480,0,229,268,133,173,1560,0.009,64554,20198
+319,360,480,0,336,393,79,136,3249,0.0188,66462,20198
+320,360,480,0,135,183,67,114,2256,0.0131,66939,20198
+321,360,480,1,270,317,91,138,2209,0.0128,66939,20198
+322,360,480,0,116,164,86,134,2304,0.0133,67098,20198
+323,360,480,1,246,293,72,119,2209,0.0128,67098,20198
+324,360,480,0,105,162,91,148,3249,0.0188,67416,20198
+325,360,480,1,231,279,77,124,2256,0.0131,67416,20198
+326,360,480,0,121,168,91,138,2209,0.0128,67734,20198
+327,360,480,1,385,432,81,129,2256,0.0131,67734,20198
+328,360,480,0,225,264,125,165,1560,0.009,68052,20198
+329,360,480,0,177,259,65,147,6724,0.0389,68370,20198
+330,360,480,0,161,243,73,155,6724,0.0389,68847,20198
+331,360,480,0,193,232,65,105,1560,0.009,69960,20198
+332,360,480,1,260,308,206,254,2304,0.0133,69960,20198
+333,360,480,0,249,288,97,137,1560,0.009,70119,20198
+334,360,480,0,145,192,149,196,2209,0.0128,70278,20198
+335,360,480,0,136,218,115,197,6724,0.0389,70437,20198
+336,360,480,0,170,288,70,188,13924,0.0806,72663,20198
+337,360,480,0,146,264,70,188,13924,0.0806,73458,20198
+338,360,480,0,136,305,72,241,28561,0.1653,73617,20198
+339,360,480,0,86,204,106,224,13924,0.0806,73935,20198
+340,360,480,0,158,276,118,236,13924,0.0806,74253,20198
+341,360,480,0,289,407,58,176,13924,0.0806,74412,20198
+342,360,480,0,192,290,66,164,9604,0.0556,74571,20198
+343,360,480,0,152,251,115,214,9801,0.0567,74889,20198
+344,360,480,0,251,392,102,244,20022,0.1159,75048,20198
+345,360,480,0,236,378,31,172,20022,0.1159,75207,20198
+346,360,480,0,179,320,160,301,19881,0.1151,75525,20198
+347,360,480,0,165,306,160,301,19881,0.1151,75843,20198
+348,360,480,0,158,276,82,200,13924,0.0806,76002,20198
+349,360,480,0,172,270,96,194,9604,0.0556,76161,20198
+350,360,480,0,327,375,192,239,2256,0.0131,76320,20198
+351,360,480,0,170,340,106,276,28900,0.1672,76797,20198
+352,360,480,0,134,252,82,200,13924,0.0806,76956,20198
+353,360,480,0,206,323,142,260,13806,0.0799,77274,20198
+354,360,480,0,97,144,168,215,2209,0.0128,77433,20198
+355,360,480,1,341,398,45,101,3192,0.0185,77433,20198
+356,360,480,0,162,261,86,184,9702,0.0561,77751,20198
+357,360,480,0,179,320,59,201,20022,0.1159,77910,20198
+358,360,480,0,170,340,37,207,28900,0.1672,78228,20198
+359,360,480,0,251,392,31,172,19881,0.1151,78387,20198
+360,360,480,0,208,349,31,172,19881,0.1151,78546,20198
+361,360,480,0,236,378,174,316,20164,0.1167,78705,20198
+362,360,480,0,301,358,154,211,3249,0.0188,78864,20198
+363,360,480,0,165,306,131,273,20022,0.1159,79977,20198
+364,360,480,0,165,306,131,273,20022,0.1159,80136,20198
+365,360,480,0,165,306,131,273,20022,0.1159,80454,20198
+366,360,480,0,170,340,89,259,28900,0.1672,80772,20198
+367,360,480,0,172,270,96,194,9604,0.0556,80931,20198
+368,360,480,0,136,277,117,258,19881,0.1151,81090,20198
+369,360,480,0,152,251,76,174,9702,0.0561,81249,20198
+370,360,480,0,227,309,48,130,6724,0.0389,81408,20198
+371,360,480,0,172,270,96,194,9604,0.0556,81726,20198
+372,360,480,0,117,156,49,89,1560,0.009,82521,20198
+373,360,480,0,210,278,118,186,4624,0.0268,82680,20198
+374,360,480,0,270,317,192,239,2209,0.0128,84429,20198
+375,360,480,0,136,277,102,244,20022,0.1159,84906,20198
+376,360,480,0,192,290,195,293,9604,0.0556,86019,20198
+377,360,480,0,182,280,175,273,9604,0.0556,86814,20198
+378,360,480,0,222,269,110,158,2256,0.0131,88722,20198
+379,360,480,0,207,255,101,148,2256,0.0131,89040,20198
+380,360,480,0,100,156,73,130,3192,0.0185,89517,20198
+381,360,480,0,78,160,81,163,6724,0.0389,89676,20198
+382,360,480,1,175,243,104,172,4624,0.0268,89676,20198
+383,360,480,0,111,193,73,155,6724,0.0389,90153,20198
+384,360,480,1,224,292,104,172,4624,0.0268,90153,20198
+385,360,480,0,267,323,148,205,3192,0.0185,90789,20198
+386,360,480,1,186,268,156,238,6724,0.0389,90789,20198
+387,360,480,2,388,444,119,176,3192,0.0185,90789,20198
+388,360,480,3,83,181,175,273,9604,0.0556,90789,20198
+389,360,480,0,165,306,131,273,20022,0.1159,91266,20198
+390,360,480,1,0,108,154,272,12744,0.0737,91266,20198
+391,360,480,0,150,292,117,258,20022,0.1159,91425,20198
+392,360,480,1,0,108,154,272,12744,0.0737,91425,20198
+393,360,480,0,161,230,97,165,4692,0.0272,92220,20198
+394,360,480,0,132,231,125,224,9801,0.0567,92697,20198
+395,360,480,0,196,264,90,158,4624,0.0268,92856,20198
+396,360,480,1,68,116,48,95,2256,0.0131,92856,20198
+397,360,480,2,11,93,272,354,6724,0.0389,92856,20198
+398,360,480,0,179,320,74,215,19881,0.1151,93015,20198
+399,360,480,0,44,112,97,165,4624,0.0268,93492,20198
+400,360,480,1,272,340,111,179,4624,0.0268,93492,20198
+401,360,480,2,33,131,265,360,9310,0.0539,93492,20198
+402,360,480,0,175,243,111,179,4624,0.0268,93651,20198
+403,360,480,0,342,389,105,153,2256,0.0131,94446,20198
+404,360,480,1,59,116,125,182,3249,0.0188,94446,20198
+405,360,480,0,284,341,114,171,3249,0.0188,95082,20198
+406,360,480,0,209,266,102,159,3249,0.0188,95718,20198
+407,360,480,0,255,303,86,134,2304,0.0133,97149,20198
+408,360,480,0,269,308,197,237,1560,0.009,99852,20198
+409,360,480,0,257,296,181,221,1560,0.009,100011,20198
+410,360,480,0,169,216,144,191,2209,0.0128,101124,20198
+411,360,480,1,83,130,177,225,2256,0.0131,101124,20198
+412,360,480,0,368,450,81,163,6724,0.0389,101283,20198
+413,360,480,0,145,192,115,162,2209,0.0128,101442,20198
+414,360,480,1,201,240,101,141,1560,0.009,101442,20198
+415,360,480,0,272,340,152,221,4692,0.0272,101601,20198
+416,360,480,1,78,160,115,197,6724,0.0389,101601,20198
+417,360,480,0,289,336,173,220,2209,0.0128,103350,20198
+418,360,480,0,246,293,187,234,2209,0.0128,103668,20198
+419,360,480,0,85,124,109,149,1560,0.009,104304,20198
+420,360,480,0,230,299,180,248,4692,0.0272,105258,20198
+421,360,480,0,237,306,235,303,4692,0.0272,105417,20198
+422,360,480,0,186,268,48,130,6724,0.0389,105735,20198
+423,360,480,0,209,266,96,153,3249,0.0188,105894,20198
+424,360,480,0,147,216,76,145,4761,0.0276,106689,20198
+425,360,480,0,203,260,68,125,3249,0.0188,109074,20198
+426,360,480,0,105,162,85,142,3249,0.0188,109233,20198
+427,360,480,0,284,341,235,292,3249,0.0188,110187,20198
+428,360,480,0,364,421,200,257,3249,0.0188,111300,20198
+429,360,480,0,272,370,26,124,9604,0.0556,112254,20198
+430,360,480,0,203,271,35,103,4624,0.0268,112890,20198
+431,360,480,0,252,334,98,180,6724,0.0389,113685,20198
+432,360,480,0,142,241,135,234,9801,0.0567,114798,20198
+433,360,480,0,252,334,131,213,6724,0.0389,115911,20198
+434,360,480,1,119,201,123,205,6724,0.0389,115911,20198
+435,360,480,0,293,375,148,230,6724,0.0389,116229,20198
+436,360,480,1,152,234,131,213,6724,0.0389,116229,20198
+437,360,480,0,152,251,86,184,9702,0.0561,116706,20198
+438,360,480,1,306,375,90,158,4692,0.0272,116706,20198
+439,360,480,0,57,96,161,201,1560,0.009,117342,20198
+440,360,480,1,137,176,129,169,1560,0.009,117342,20198
+441,360,480,0,232,330,195,293,9604,0.0556,117501,20198
+442,360,480,1,83,181,165,264,9702,0.0561,117501,20198
+443,360,480,0,93,191,165,264,9702,0.0561,117660,20198
+444,360,480,1,242,340,155,254,9702,0.0561,117660,20198
+445,360,480,0,202,284,140,221,6642,0.0384,122271,20198
+446,360,480,1,83,181,125,224,9702,0.0561,122271,20198
+447,360,480,0,192,290,135,234,9702,0.0561,122748,20198
+448,360,480,1,63,161,145,244,9702,0.0561,122748,20198
+449,360,480,0,177,259,123,205,6724,0.0389,124020,20198
+450,360,480,1,277,359,106,188,6724,0.0389,124020,20198
+451,360,480,0,272,340,90,158,4624,0.0268,125451,20198
+452,360,480,0,58,126,104,172,4624,0.0268,128949,20198
+453,360,480,1,293,375,90,172,6724,0.0389,128949,20198
+454,360,480,0,293,361,104,172,4624,0.0268,129267,20198
+455,360,480,1,352,433,106,188,6642,0.0384,129267,20198
+456,360,480,0,433,472,141,181,1560,0.009,129426,20198
+457,360,480,0,241,359,94,212,13924,0.0806,130062,20198
+458,360,480,0,253,371,94,212,13924,0.0806,130221,20198
+459,360,480,0,23,91,111,179,4624,0.0268,130539,20198
+460,360,480,0,7,64,73,130,3249,0.0188,131334,20198
+461,360,480,1,251,319,69,138,4692,0.0272,131334,20198
+462,360,480,2,111,168,108,165,3249,0.0188,131334,20198
+463,360,480,0,134,202,83,151,4624,0.0268,131811,20198
+464,360,480,1,251,319,76,145,4692,0.0272,131811,20198
+465,360,480,0,227,274,77,124,2209,0.0128,132288,20198
+466,360,480,1,128,185,96,153,3249,0.0188,132288,20198
+467,360,480,0,332,380,120,167,2256,0.0131,138489,20198
+468,360,480,0,182,300,94,212,13924,0.0806,138648,20198
+469,360,480,0,206,323,82,200,13806,0.0799,138807,20198
+470,360,480,0,162,261,105,204,9801,0.0567,139284,20198
+471,360,480,0,172,270,105,204,9702,0.0561,139443,20198
+472,360,480,0,86,204,130,248,13924,0.0806,139602,20198
+473,360,480,0,78,160,73,155,6724,0.0389,140079,20198
+474,360,480,1,293,361,125,193,4624,0.0268,140079,20198
+475,360,480,0,86,204,106,224,13924,0.0806,140238,20198
+476,360,480,0,112,211,125,224,9801,0.0567,140556,20198
+477,360,480,0,170,288,130,248,13924,0.0806,149301,20198
+478,360,480,0,118,288,72,241,28730,0.1663,149619,20198
+479,360,480,0,301,340,105,145,1560,0.009,150573,20198
+480,360,480,0,189,257,97,165,4624,0.0268,150891,20198
+481,360,480,0,120,188,69,138,4692,0.0272,151686,20198
+482,360,480,0,272,370,195,293,9604,0.0556,152481,20198
+483,360,480,1,50,168,106,224,13924,0.0806,152481,20198
+484,360,480,0,63,161,105,204,9702,0.0561,152799,20198
+485,360,480,1,272,370,155,254,9702,0.0561,152799,20198
+486,360,480,0,100,156,45,101,3136,0.0181,156297,20198
+487,360,480,0,215,272,68,125,3249,0.0188,157092,20198
+488,360,480,0,177,259,73,155,6724,0.0389,160908,20198
+489,360,480,0,395,442,158,206,2256,0.0131,163293,20198
+490,360,480,1,324,381,258,315,3249,0.0188,163293,20198
+491,360,480,2,249,306,50,107,3249,0.0188,163293,20198
+492,360,480,3,174,221,101,148,2209,0.0128,163293,20198
+493,360,480,4,111,168,108,165,3249,0.0188,163293,20198
+494,360,480,0,224,292,235,303,4624,0.0268,164406,20198
+495,360,480,1,140,197,96,153,3249,0.0188,164406,20198
+496,360,480,2,244,300,73,130,3192,0.0185,164406,20198
+497,360,480,3,364,421,27,84,3249,0.0188,164406,20198
+498,360,480,0,119,201,123,205,6724,0.0389,164883,20198
+499,360,480,1,285,367,98,180,6724,0.0389,164883,20198
+500,360,480,2,2,58,119,176,3192,0.0185,164883,20198
+501,360,480,0,93,191,26,124,9604,0.0556,165042,20198
+502,360,480,0,212,310,56,154,9604,0.0556,165360,20198
+503,360,480,1,179,320,160,301,19881,0.1151,165360,20198
+504,360,480,0,236,378,16,158,20164,0.1167,165519,20198
+505,360,480,1,208,349,217,359,20022,0.1159,165519,20198
+506,360,480,2,73,171,0,74,7252,0.042,165519,20198
+507,360,480,0,196,264,83,151,4624,0.0268,165837,20198
+508,360,480,0,93,132,209,249,1560,0.009,166632,20198
+509,360,480,1,245,284,189,229,1560,0.009,166632,20198
+510,360,480,0,249,306,131,188,3249,0.0188,166950,20198
