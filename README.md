@@ -1,1 +1,1 @@
-# ShotScaleSample
+# FaceScaleSample
